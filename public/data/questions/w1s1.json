@@ -1,0 +1,2248 @@
+{
+  "categoryId": "w1s1",
+  "categoryName": "Session 1",
+  "questions": [
+    {
+      "id": "mk01-001",
+      "stem": "A 31-year-old man with recent Staphylococcus aureus bacteremia presents with fever, right flank and groin pain, and low back pain. He lies with the right hip held in slight flexion, and passive extension of the right hip markedly worsens the pain. Hematogenous seeding of a muscle on the posterior abdominal wall that runs from the lumbar vertebrae to the lesser trochanter is suspected. Which muscle is most likely involved?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erector spinae"
+        },
+        {
+          "label": "B",
+          "text": "Latissimus dorsi"
+        },
+        {
+          "label": "C",
+          "text": "Multifidus"
+        },
+        {
+          "label": "D",
+          "text": "Psoas major"
+        },
+        {
+          "label": "E",
+          "text": "Quadratus lumborum"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A psoas abscess presents with fever, back/flank/groin pain, and a flexed hip because hip extension stretches the inflamed muscle.",
+        "whyCorrect": "Psoas major arises from the lumbar vertebrae and joins the iliacus to insert on the lesser trochanter as the primary hip flexor. An inflamed psoas is stretched by hip extension, so patients hold the hip slightly flexed; hematogenous spread is one route to a psoas abscess.",
+        "whyWrongByChoice": {
+          "A": "The erector spinae are intrinsic back muscles extending from sacrum to skull; they do not cross the hip or attach to the lesser trochanter.",
+          "B": "Latissimus dorsi is an extrinsic back muscle acting on the arm; it does not attach to the femur.",
+          "C": "Multifidus lies in the vertebral groove and stabilizes lumbar vertebrae; it does not act on the hip.",
+          "E": "Quadratus lumborum runs from the iliac crest to the 12th rib and lumbar transverse processes; it does not reach the femur, so hip extension would not stretch it."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "posterior abdominal wall",
+        "psoas abscess"
+      ],
+      "topicId": "regional-anatomy-of-the-posterior-abdominal-wall-back-and-posterior-neck",
+      "topicName": "Regional Anatomy of the Posterior Abdominal Wall, Back, and Posterior Neck",
+      "tier": "core"
+    },
+    {
+      "id": "mk01-002",
+      "stem": "During a midline open approach to the lumbar spine, a surgeon identifies the deep paravertebral muscles that extend and laterally flex the vertebral column and help maintain upright posture. These muscles are supplied by which nerves?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anterior rami of spinal nerves"
+        },
+        {
+          "label": "B",
+          "text": "Branches of the dorsal scapular nerve"
+        },
+        {
+          "label": "C",
+          "text": "Branches of the thoracodorsal nerve"
+        },
+        {
+          "label": "D",
+          "text": "Posterior rami of spinal nerves"
+        },
+        {
+          "label": "E",
+          "text": "Spinal accessory nerve (CN XI)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Intrinsic back muscles, which move and stabilize the vertebral column, are innervated by posterior (dorsal) rami.",
+        "whyCorrect": "The intrinsic back muscles (splenius, erector spinae, transversospinalis, segmental) are innervated by the posterior (dorsal) rami of spinal nerves. This distinguishes them from the extrinsic back and posterior abdominal wall muscles, which are supplied mainly by anterior rami.",
+        "whyWrongByChoice": {
+          "A": "Anterior rami supply the extrinsic back muscles and the posterior abdominal wall muscles, not the intrinsic muscles that extend the vertebral column.",
+          "B": "The dorsal scapular nerve supplies levator scapulae and the rhomboids, which act on the scapula.",
+          "C": "The thoracodorsal nerve supplies latissimus dorsi, which acts on the arm.",
+          "E": "CN XI provides motor innervation to the trapezius and sternocleidomastoid only."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "intrinsic back muscles",
+        "innervation"
+      ],
+      "topicId": "regional-anatomy-of-the-posterior-abdominal-wall-back-and-posterior-neck",
+      "topicName": "Regional Anatomy of the Posterior Abdominal Wall, Back, and Posterior Neck",
+      "tier": "core"
+    },
+    {
+      "id": "mk01-003",
+      "stem": "A 45-year-old woman undergoes excisional biopsy of an enlarged lymph node in the posterior triangle of the neck. Afterward she has weakness when shrugging the right shoulder and when raising the arm overhead, reflecting impaired elevation and upward rotation of the scapula. Cutaneous sensation is normal. Injury to which nerve best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dorsal scapular nerve (to rhomboids)"
+        },
+        {
+          "label": "B",
+          "text": "Intercostal nerves T2-T5"
+        },
+        {
+          "label": "C",
+          "text": "Spinal accessory nerve (to trapezius)"
+        },
+        {
+          "label": "D",
+          "text": "Suboccipital nerve (posterior ramus C1)"
+        },
+        {
+          "label": "E",
+          "text": "Thoracodorsal nerve (to latissimus)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "CN XI runs in the posterior triangle and supplies motor fibers to the trapezius, which elevates and upwardly rotates the scapula.",
+        "whyCorrect": "The trapezius elevates, retracts, depresses, and upwardly rotates the scapula and receives its motor innervation from CN XI, which passes through the posterior triangle. Biopsy in this region places the nerve at risk.",
+        "whyWrongByChoice": {
+          "A": "The dorsal scapular nerve supplies levator scapulae and rhomboids; it does not supply the upward rotation provided by the trapezius.",
+          "B": "T2-T5 intercostal nerves supply serratus posterior superior, a mainly proprioceptive muscle with no role in shrugging.",
+          "D": "The suboccipital nerve (posterior ramus of C1) supplies the suboccipital muscles, which move the head.",
+          "E": "The thoracodorsal nerve supplies latissimus dorsi, which extends, adducts, and medially rotates the arm."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "extrinsic back muscles",
+        "trapezius",
+        "nerve injury"
+      ],
+      "topicId": "regional-anatomy-of-the-posterior-abdominal-wall-back-and-posterior-neck",
+      "topicName": "Regional Anatomy of the Posterior Abdominal Wall, Back, and Posterior Neck",
+      "tier": "core"
+    },
+    {
+      "id": "mk01-004",
+      "stem": "A 52-year-old rock climber has difficulty pulling his body upward after axillary surgery. Examination shows weakness of arm extension, adduction, and medial rotation against resistance. Shrugging the shoulders and retracting the scapulae are normal. Which nerve was most likely injured?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dorsal scapular nerve"
+        },
+        {
+          "label": "B",
+          "text": "Femoral nerve"
+        },
+        {
+          "label": "C",
+          "text": "Spinal accessory nerve (CN XI)"
+        },
+        {
+          "label": "D",
+          "text": "Suboccipital nerve"
+        },
+        {
+          "label": "E",
+          "text": "Thoracodorsal nerve"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Thoracodorsal nerve injury weakens latissimus dorsi: arm extension, adduction, and medial rotation.",
+        "whyCorrect": "Latissimus dorsi extends, adducts, and medially rotates the arm and is innervated by the thoracodorsal nerve (with blood supply from the thoracodorsal artery). Preserved scapular elevation and retraction show that the trapezius, levator scapulae, and rhomboids are intact.",
+        "whyWrongByChoice": {
+          "A": "Dorsal scapular nerve injury would weaken scapular elevation and retraction (levator scapulae, rhomboids), which are normal.",
+          "B": "The femoral nerve supplies the iliacus and acts at the hip, not the upper limb.",
+          "C": "CN XI injury would weaken the trapezius and impair shrugging, which is normal here.",
+          "D": "The suboccipital nerve supplies the deep suboccipital muscles of the neck, not muscles moving the arm."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "extrinsic back muscles",
+        "latissimus dorsi",
+        "nerve injury"
+      ],
+      "topicId": "regional-anatomy-of-the-posterior-abdominal-wall-back-and-posterior-neck",
+      "topicName": "Regional Anatomy of the Posterior Abdominal Wall, Back, and Posterior Neck",
+      "tier": "core"
+    },
+    {
+      "id": "mk01-005",
+      "stem": "A 74-year-old woman with extensive cervical osteophytes reports dizziness, vertigo, unsteady gait, and blurred vision whenever she tilts her head back and turns it to reach a high shelf. Her symptoms are attributed to compression of an artery supplying the brainstem, cerebellum, and occipital lobes. At which site along its course is this artery most vulnerable to osteophyte compression?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Costal facets of thoracic vertebrae"
+        },
+        {
+          "label": "B",
+          "text": "Intervertebral foramina of cervical vertebrae"
+        },
+        {
+          "label": "C",
+          "text": "Posterior triangle of the neck"
+        },
+        {
+          "label": "D",
+          "text": "Transverse foramina of cervical vertebrae"
+        },
+        {
+          "label": "E",
+          "text": "Vertebral canal of the cervical spine"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The vertebral artery ascends through the cervical transverse foramina, where osteophytes or neck rotation/extension can compress it.",
+        "whyCorrect": "The vertebral arteries ascend through the transverse foramina of the cervical vertebrae, usually from C6 to the atlas, before entering the skull through the foramen magnum. Osteophytes and neck rotation with extension can compress the artery, causing vertigo, ataxia, visual disturbance, or syncope.",
+        "whyWrongByChoice": {
+          "A": "Thoracic costal facets articulate with ribs and are unrelated to the vertebral artery.",
+          "B": "Intervertebral foramina transmit the exiting spinal nerves, not the vertebral artery.",
+          "C": "The posterior triangle contains CN XI, brachial plexus roots, and the external jugular vein, not the vertebral artery.",
+          "E": "The vertebral canal contains the spinal cord; the vertebral artery travels laterally in the transverse foramina."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vertebral column",
+        "vertebral artery",
+        "cervical vertebrae"
+      ],
+      "topicId": "regional-anatomy-of-the-posterior-abdominal-wall-back-and-posterior-neck",
+      "topicName": "Regional Anatomy of the Posterior Abdominal Wall, Back, and Posterior Neck",
+      "tier": "core"
+    },
+    {
+      "id": "mk01-006",
+      "stem": "A 39-year-old software engineer with chronic mechanical low back pain begins a rehabilitation program. The therapist targets a deep muscle lying in the groove between the spinous and transverse processes that is especially important for stabilizing the lumbar vertebrae during movement. Which muscle is being targeted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Iliocostalis"
+        },
+        {
+          "label": "B",
+          "text": "Latissimus dorsi"
+        },
+        {
+          "label": "C",
+          "text": "Multifidus"
+        },
+        {
+          "label": "D",
+          "text": "Serratus posterior inferior"
+        },
+        {
+          "label": "E",
+          "text": "Splenius cervicis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Multifidus (transversospinalis group) is the key stabilizer of the lumbar vertebrae.",
+        "whyCorrect": "Multifidus belongs to the transversospinalis group, which lies deep to the erector spinae in the vertebral groove. It is particularly important for stabilizing the lumbar spine, and its weakness or fatigue reduces spinal stability.",
+        "whyWrongByChoice": {
+          "A": "Iliocostalis is part of the erector spinae, which is superficial to the vertebral groove and acts mainly to extend and laterally flex the column.",
+          "B": "Latissimus dorsi is a superficial extrinsic back muscle that moves the arm.",
+          "D": "Serratus posterior inferior is a thin extrinsic muscle on the lower ribs that is mainly proprioceptive.",
+          "E": "Splenius cervicis is in the posterior neck and moves the head and neck."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "intrinsic back muscles",
+        "transversospinalis",
+        "low back pain"
+      ],
+      "topicId": "regional-anatomy-of-the-posterior-abdominal-wall-back-and-posterior-neck",
+      "topicName": "Regional Anatomy of the Posterior Abdominal Wall, Back, and Posterior Neck",
+      "tier": "core"
+    },
+    {
+      "id": "mk01-007",
+      "stem": "A 6-week-old infant is brought in because his head is persistently tilted toward the right shoulder with the chin turned toward the left. A firm, fibrotic band is palpable in the neck. Stretching exercises are recommended. Which muscle is most likely affected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Left splenius capitis"
+        },
+        {
+          "label": "B",
+          "text": "Left sternocleidomastoid"
+        },
+        {
+          "label": "C",
+          "text": "Right levator scapulae"
+        },
+        {
+          "label": "D",
+          "text": "Right sternocleidomastoid"
+        },
+        {
+          "label": "E",
+          "text": "Right trapezius (upper fibers)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Torticollis: head tilts toward and rotates away from the shortened sternocleidomastoid.",
+        "whyCorrect": "In torticollis, a shortened or fibrotic sternocleidomastoid tilts the head toward the affected side and rotates the face away from it. A right-sided lesion tilts the head right and turns the chin left; congenital muscular torticollis is treated with stretching in infancy.",
+        "whyWrongByChoice": {
+          "A": "Splenius capitis rotates the head to the same side, so the left muscle would tilt and turn the head to the left.",
+          "B": "A shortened left sternocleidomastoid would tilt the head to the left and turn the chin to the right.",
+          "C": "Levator scapulae elevates the scapula; it does not rotate the chin to the opposite side.",
+          "E": "The trapezius moves the scapula and does not produce the tilt-and-opposite-rotation pattern of torticollis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "posterior neck",
+        "sternocleidomastoid",
+        "torticollis"
+      ],
+      "topicId": "regional-anatomy-of-the-posterior-abdominal-wall-back-and-posterior-neck",
+      "topicName": "Regional Anatomy of the Posterior Abdominal Wall, Back, and Posterior Neck",
+      "tier": "core"
+    },
+    {
+      "id": "mk01-008",
+      "stem": "A 28-year-old man shakes his head side to side to indicate \"no.\" Rotation of the head and C1 occurs around which bony structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Body of C1"
+        },
+        {
+          "label": "B",
+          "text": "Dens of C2"
+        },
+        {
+          "label": "C",
+          "text": "Occipital condyles"
+        },
+        {
+          "label": "D",
+          "text": "Spinous process of C7"
+        },
+        {
+          "label": "E",
+          "text": "Transverse process of C1"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The dens of the axis is the pivot for head rotation at the atlantoaxial joint.",
+        "whyCorrect": "The axis (C2) has the dens, which projects superiorly and acts as the pivot around which the atlas and head rotate at the atlantoaxial joint.",
+        "whyWrongByChoice": {
+          "A": "The atlas lacks a body.",
+          "C": "The occipital condyles articulate with the atlas at the atlanto-occipital joints, not the rotational pivot.",
+          "D": "The C7 spinous process (vertebra prominens) is a palpable landmark, not a pivot.",
+          "E": "The transverse processes of the atlas are muscle attachment sites, not the pivot."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "vertebral column",
+        "atlas and axis"
+      ],
+      "topicId": "regional-anatomy-of-the-posterior-abdominal-wall-back-and-posterior-neck",
+      "topicName": "Regional Anatomy of the Posterior Abdominal Wall, Back, and Posterior Neck",
+      "tier": "core"
+    },
+    {
+      "id": "mk01-009",
+      "stem": "A 35-year-old woman has right-sided low back pain after a lifting injury. The strained muscle spans from the iliac crest and iliolumbar ligament to the twelfth rib and upper lumbar transverse processes. Isolated contraction of the right muscle would produce which movement?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Extension of the right hip and thigh"
+        },
+        {
+          "label": "B",
+          "text": "Flexion of the right hip and thigh"
+        },
+        {
+          "label": "C",
+          "text": "Lateral flexion of the trunk to the left"
+        },
+        {
+          "label": "D",
+          "text": "Lateral flexion of the trunk to the right"
+        },
+        {
+          "label": "E",
+          "text": "Rotation of the trunk toward the left side"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Quadratus lumborum produces ipsilateral lateral flexion of the vertebral column.",
+        "whyCorrect": "Quadratus lumborum stabilizes the twelfth rib during respiration and produces ipsilateral lateral flexion of the vertebral column. The right muscle therefore bends the trunk to the right.",
+        "whyWrongByChoice": {
+          "A": "Quadratus lumborum does not attach to the femur and does not move the hip.",
+          "B": "Hip flexion is performed by the iliopsoas, which attaches to the lesser trochanter.",
+          "C": "Quadratus lumborum flexes the column laterally toward its own side, not the opposite side.",
+          "E": "Contralateral rotation is assisted by the transversospinalis muscles, not quadratus lumborum."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "posterior abdominal wall",
+        "quadratus lumborum"
+      ],
+      "topicId": "regional-anatomy-of-the-posterior-abdominal-wall-back-and-posterior-neck",
+      "topicName": "Regional Anatomy of the Posterior Abdominal Wall, Back, and Posterior Neck",
+      "tier": "core"
+    },
+    {
+      "id": "mk01-010",
+      "stem": "A 67-year-old man taking warfarin for atrial fibrillation develops acute left flank and groin pain. He keeps the left hip slightly flexed, and passive extension worsens the pain. Over the next day he develops weakness of the left iliacus. He is afebrile, and there is no history of spinal infection. Which of the following is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adaptive shortening of the iliopsoas from prolonged sitting"
+        },
+        {
+          "label": "B",
+          "text": "Bleeding into the psoas compartment compressing the femoral nerve"
+        },
+        {
+          "label": "C",
+          "text": "Compression of the vertebral artery by cervical osteophytes"
+        },
+        {
+          "label": "D",
+          "text": "Strain of the quadratus lumborum during lifting activities"
+        },
+        {
+          "label": "E",
+          "text": "Tuberculous spondylitis spreading into the psoas compartment"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Anticoagulation can cause a psoas hematoma that compresses the femoral nerve.",
+        "whyCorrect": "Psoas hematoma can follow anticoagulation, trauma, or bleeding disorders and mimics a psoas abscess with flank/groin pain and a flexed hip. The collection can compress nearby structures, occasionally producing femoral nerve deficits; the iliacus is innervated by the femoral nerve.",
+        "whyWrongByChoice": {
+          "A": "Iliopsoas shortening limits hip extension and causes low back pain but not acute pain with a nerve deficit in an anticoagulated patient.",
+          "C": "Vertebral artery compression causes vertigo, ataxia, and visual symptoms, not groin pain.",
+          "D": "Quadratus lumborum strain causes flank pain but does not cross the hip or compress the femoral nerve.",
+          "E": "Pott disease produces a psoas abscess, usually with fever and vertebral infection, both absent here."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "posterior abdominal wall",
+        "psoas hematoma",
+        "femoral nerve"
+      ],
+      "topicId": "regional-anatomy-of-the-posterior-abdominal-wall-back-and-posterior-neck",
+      "topicName": "Regional Anatomy of the Posterior Abdominal Wall, Back, and Posterior Neck",
+      "tier": "core"
+    },
+    {
+      "id": "mk01-011",
+      "stem": "During a posterior approach to the craniovertebral junction, a neurosurgeon reflects the semispinalis capitis and exposes a triangular space bounded by the rectus capitis posterior major, obliquus capitis superior, and obliquus capitis inferior. Which artery lies within this space and is at risk?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dorsal scapular artery"
+        },
+        {
+          "label": "B",
+          "text": "Superior thyroid artery"
+        },
+        {
+          "label": "C",
+          "text": "Thoracodorsal artery"
+        },
+        {
+          "label": "D",
+          "text": "Transverse cervical artery"
+        },
+        {
+          "label": "E",
+          "text": "Vertebral artery"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The suboccipital triangle contains the vertebral artery and suboccipital nerve.",
+        "whyCorrect": "The suboccipital triangle is bounded by rectus capitis posterior major and obliquus capitis superior and inferior and contains the vertebral artery and the suboccipital nerve. These muscles lie deep to semispinalis capitis.",
+        "whyWrongByChoice": {
+          "A": "The dorsal scapular artery supplies levator scapulae and the rhomboids.",
+          "B": "The superior thyroid artery contributes to sternocleidomastoid supply in the anterior neck.",
+          "C": "The thoracodorsal artery supplies latissimus dorsi.",
+          "D": "The transverse cervical artery supplies the trapezius; it is not a content of the suboccipital triangle."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "posterior neck",
+        "suboccipital triangle",
+        "vertebral artery"
+      ],
+      "topicId": "regional-anatomy-of-the-posterior-abdominal-wall-back-and-posterior-neck",
+      "topicName": "Regional Anatomy of the Posterior Abdominal Wall, Back, and Posterior Neck",
+      "tier": "core"
+    },
+    {
+      "id": "mk01-012",
+      "stem": "A 30-year-old weightlifter has an injury to the dorsal scapular nerve. Weakness of which movement is most expected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Extension of the lumbar spine"
+        },
+        {
+          "label": "B",
+          "text": "Medial rotation of the arm"
+        },
+        {
+          "label": "C",
+          "text": "Retraction of the scapula"
+        },
+        {
+          "label": "D",
+          "text": "Rotation of the head to the opposite side"
+        },
+        {
+          "label": "E",
+          "text": "Upward rotation of the scapula"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The dorsal scapular nerve supplies the rhomboids (scapular retraction) and levator scapulae (scapular elevation).",
+        "whyCorrect": "The dorsal scapular nerve supplies levator scapulae and the rhomboid major and minor. The rhomboids retract and stabilize the scapula, so retraction is weakened.",
+        "whyWrongByChoice": {
+          "A": "Extension of the vertebral column is by intrinsic back muscles supplied by posterior rami.",
+          "B": "Medial rotation of the arm is a latissimus dorsi action, supplied by the thoracodorsal nerve.",
+          "D": "Rotation of the head to the opposite side is a sternocleidomastoid action (CN XI).",
+          "E": "Upward rotation of the scapula is produced by the trapezius, supplied by CN XI."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "extrinsic back muscles",
+        "rhomboids",
+        "nerve injury"
+      ],
+      "topicId": "regional-anatomy-of-the-posterior-abdominal-wall-back-and-posterior-neck",
+      "topicName": "Regional Anatomy of the Posterior Abdominal Wall, Back, and Posterior Neck",
+      "tier": "core"
+    },
+    {
+      "id": "mk02-001",
+      "stem": "A 46-year-old man has low back pain radiating down the back of his leg after lifting a heavy box. He reports numbness along the lateral border of the foot, and he cannot rise onto his toes on that side because of weak plantar flexion. Compression of which spinal nerve root best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "S1"
+        },
+        {
+          "label": "B",
+          "text": "L2"
+        },
+        {
+          "label": "C",
+          "text": "L3"
+        },
+        {
+          "label": "D",
+          "text": "L4"
+        },
+        {
+          "label": "E",
+          "text": "L5"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Lateral foot numbness plus weak plantar flexion localizes to S1.",
+        "whyCorrect": "The lateral foot is the S1 dermatome and plantar flexion is the representative S1 myotome movement. Combining the sensory and motor findings localizes the lesion to the S1 root.",
+        "whyWrongByChoice": {
+          "B": "L2 is tested by hip flexion and does not supply the lateral foot.",
+          "C": "L3 contributes to knee extension, not plantar flexion or lateral foot sensation.",
+          "D": "L4 supplies the medial leg and contributes to knee extension and ankle dorsiflexion.",
+          "E": "L5 supplies the dorsum of the foot and great toe and is tested by great toe extension."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "dermatomes",
+        "myotomes",
+        "radiculopathy"
+      ],
+      "topicId": "anatomy-of-the-spinal-cord",
+      "topicName": "Anatomy of the Spinal Cord",
+      "tier": "core"
+    },
+    {
+      "id": "mk02-002",
+      "stem": "A 24-year-old woman with fever, headache, and neck stiffness needs CSF sampling. To avoid injuring the spinal cord in an adult, the needle is most commonly inserted between which vertebrae?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "L1 and L2"
+        },
+        {
+          "label": "B",
+          "text": "L4 and L5"
+        },
+        {
+          "label": "C",
+          "text": "C7 and T1"
+        },
+        {
+          "label": "D",
+          "text": "T10 and T11"
+        },
+        {
+          "label": "E",
+          "text": "T12 and L1"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Lumbar puncture is performed at L3-L4 or L4-L5, below the adult conus at L1-L2.",
+        "whyCorrect": "In adults the spinal cord ends at about the L1-L2 vertebral level, so lumbar puncture is performed below it, commonly at L3-L4 or L4-L5, where the needle enters the lumbar cistern among floating cauda equina roots.",
+        "whyWrongByChoice": {
+          "A": "L1-L2 is where the adult cord typically ends, so it is not a safe level.",
+          "C": "The cervicothoracic junction contains the spinal cord and is not used for CSF sampling.",
+          "D": "The spinal cord itself lies at T10-T11, so a needle there would risk cord injury.",
+          "E": "The cord still occupies the canal at T12-L1."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "conus medullaris",
+        "lumbar puncture"
+      ],
+      "topicId": "anatomy-of-the-spinal-cord",
+      "topicName": "Anatomy of the Spinal Cord",
+      "tier": "core"
+    },
+    {
+      "id": "mk02-003",
+      "stem": "An anesthesiologist places a catheter for regional analgesia so that medication bathes the spinal nerve roots while the patient remains awake. If the procedure is performed correctly, where is the medication deposited?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Between arachnoid and pia mater"
+        },
+        {
+          "label": "B",
+          "text": "Deep to the pia mater"
+        },
+        {
+          "label": "C",
+          "text": "Inside the ventral horn"
+        },
+        {
+          "label": "D",
+          "text": "Outside the dura mater"
+        },
+        {
+          "label": "E",
+          "text": "Within the central canal"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Epidural anesthetic is placed in the epidural space, external to the dura.",
+        "whyCorrect": "In epidural anesthesia the medication is injected into the epidural space of the vertebral canal, external to the dura mater, where it surrounds spinal nerve roots and provides regional pain relief while preserving consciousness.",
+        "whyWrongByChoice": {
+          "A": "The space between arachnoid and pia is the subarachnoid space containing CSF; entering it requires puncturing the dura.",
+          "B": "Deep to the pia mater is the spinal cord tissue itself.",
+          "C": "The ventral horn is gray matter of the cord containing motor neurons.",
+          "E": "The central canal is a narrow ependyma-lined channel in the center of the cord."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "meninges",
+        "epidural anesthesia"
+      ],
+      "topicId": "anatomy-of-the-spinal-cord",
+      "topicName": "Anatomy of the Spinal Cord",
+      "tier": "core"
+    },
+    {
+      "id": "mk02-004",
+      "stem": "A 60-year-old woman has lost the ability to feel a vibrating tuning fork at her toes and cannot tell whether her great toe is moved up or down with her eyes closed. Pinprick and temperature sensation are normal. Damage to which pathway best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Corticospinal tract"
+        },
+        {
+          "label": "B",
+          "text": "Lateral horn"
+        },
+        {
+          "label": "C",
+          "text": "Posterior columns"
+        },
+        {
+          "label": "D",
+          "text": "Spinothalamic tract"
+        },
+        {
+          "label": "E",
+          "text": "Ventral roots"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Dorsal columns carry fine touch, vibration, and conscious proprioception.",
+        "whyCorrect": "The dorsal (posterior) columns carry fine touch, vibration, and conscious proprioception (position sense) toward the brain. Preserved pain and temperature sensation indicate the spinothalamic tract is intact.",
+        "whyWrongByChoice": {
+          "A": "The corticospinal tract carries descending motor signals for voluntary movement.",
+          "B": "The lateral horn contains preganglionic autonomic neurons.",
+          "D": "The spinothalamic tract carries pain and temperature, which are normal.",
+          "E": "Ventral roots carry motor fibers out of the cord."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ascending tracts",
+        "dorsal columns"
+      ],
+      "topicId": "anatomy-of-the-spinal-cord",
+      "topicName": "Anatomy of the Spinal Cord",
+      "tier": "core"
+    },
+    {
+      "id": "mk02-005",
+      "stem": "A 38-year-old man with a spinal cord lesion repeatedly burns his leg on a heater without noticing. Vibration and position sense in the leg are normal, and strength is full. Damage to which pathway in the lateral columns is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anterior roots"
+        },
+        {
+          "label": "B",
+          "text": "Central canal"
+        },
+        {
+          "label": "C",
+          "text": "Corticospinal tract"
+        },
+        {
+          "label": "D",
+          "text": "Posterior columns"
+        },
+        {
+          "label": "E",
+          "text": "Spinothalamic tract"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The spinothalamic tract in the lateral columns carries pain and temperature.",
+        "whyCorrect": "The lateral columns contain the spinothalamic tract, which carries pain and temperature toward the thalamus. Normal vibration/position sense spares the dorsal columns, and full strength spares the corticospinal tract.",
+        "whyWrongByChoice": {
+          "A": "Anterior roots carry motor fibers; damage would cause weakness.",
+          "B": "The central canal is a CSF-filled channel, not a sensory pathway.",
+          "C": "Corticospinal damage would weaken voluntary movement, but strength is full.",
+          "D": "Dorsal column damage would impair vibration and position sense, which are normal."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ascending tracts",
+        "spinothalamic tract"
+      ],
+      "topicId": "anatomy-of-the-spinal-cord",
+      "topicName": "Anatomy of the Spinal Cord",
+      "tier": "core"
+    },
+    {
+      "id": "mk02-006",
+      "stem": "A lesion selectively destroys the lateral horn neurons from segments T1 through L2 while sparing all other gray and white matter. Loss of which function is expected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fine touch from the trunk and limbs"
+        },
+        {
+          "label": "B",
+          "text": "Pain and temperature from the trunk"
+        },
+        {
+          "label": "C",
+          "text": "Preganglionic parasympathetic output"
+        },
+        {
+          "label": "D",
+          "text": "Preganglionic sympathetic output"
+        },
+        {
+          "label": "E",
+          "text": "Somatic motor output to limb muscle"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Lateral horns at T1-L2 contain preganglionic sympathetic neurons.",
+        "whyCorrect": "Lateral horns contain preganglionic autonomic motor neurons and are present only at specific levels. At T1-L2 they contain preganglionic sympathetic neurons, whose axons leave through the ventral roots toward autonomic ganglia.",
+        "whyWrongByChoice": {
+          "A": "Fine touch travels in the dorsal columns, which are spared.",
+          "B": "Pain and temperature travel in the spinothalamic tract, which is spared.",
+          "C": "Preganglionic parasympathetic neurons are located in the sacral cord (S2-S4).",
+          "E": "Somatic motor neurons are in the ventral horns, which are spared."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "gray matter",
+        "lateral horn",
+        "sympathetic"
+      ],
+      "topicId": "anatomy-of-the-spinal-cord",
+      "topicName": "Anatomy of the Spinal Cord",
+      "tier": "core"
+    },
+    {
+      "id": "mk02-007",
+      "stem": "A 41-year-old man with a cervical disc herniation has weakness when abducting his arm at the shoulder. Biceps and triceps strength are normal. Which spinal nerve root is most likely affected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "T1"
+        },
+        {
+          "label": "B",
+          "text": "C5"
+        },
+        {
+          "label": "C",
+          "text": "C6"
+        },
+        {
+          "label": "D",
+          "text": "C7"
+        },
+        {
+          "label": "E",
+          "text": "C8"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Shoulder abduction tests the C5 myotome.",
+        "whyCorrect": "Shoulder abduction is the representative C5 myotome movement. Normal elbow flexion (C6) and elbow extension (C7) help exclude adjacent roots.",
+        "whyWrongByChoice": {
+          "A": "T1 is not the root tested by shoulder abduction.",
+          "C": "C6 is tested by elbow flexion, which is normal.",
+          "D": "C7 is tested by elbow extension, which is normal.",
+          "E": "C8 is tested by finger flexion."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "myotomes",
+        "C5"
+      ],
+      "topicId": "anatomy-of-the-spinal-cord",
+      "topicName": "Anatomy of the Spinal Cord",
+      "tier": "core"
+    },
+    {
+      "id": "mk02-008",
+      "stem": "A 57-year-old woman has an osteophyte narrowing the intervertebral foramen between the C7 and T1 vertebrae. Which spinal nerve is most likely compressed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "T1"
+        },
+        {
+          "label": "B",
+          "text": "T2"
+        },
+        {
+          "label": "C",
+          "text": "C6"
+        },
+        {
+          "label": "D",
+          "text": "C7"
+        },
+        {
+          "label": "E",
+          "text": "C8"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "C8 exits between C7 and T1 because there is no C8 vertebra.",
+        "whyCorrect": "Nerves C1-C7 exit above their corresponding vertebrae. There is no C8 vertebra, so the C8 nerve exits above T1, between C7 and T1; nerves below this exit beneath their corresponding vertebrae.",
+        "whyWrongByChoice": {
+          "A": "T1 exits below the T1 vertebra, between T1 and T2.",
+          "B": "T2 exits below the T2 vertebra, between T2 and T3.",
+          "C": "C6 exits above the C6 vertebra, between C5 and C6.",
+          "D": "C7 exits above the C7 vertebra, between C6 and C7."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "segmental organization",
+        "spinal nerve exit"
+      ],
+      "topicId": "anatomy-of-the-spinal-cord",
+      "topicName": "Anatomy of the Spinal Cord",
+      "tier": "core"
+    },
+    {
+      "id": "mk02-009",
+      "stem": "MRI of a healthy adult shows the lumbar and sacral nerve roots descending a long distance within the vertebral canal before reaching their intervertebral foramina. What developmental process accounts for this arrangement?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coccygeal vertebrae fuse together"
+        },
+        {
+          "label": "B",
+          "text": "Lower cord segments are absent"
+        },
+        {
+          "label": "C",
+          "text": "Lumbar roots exit above vertebrae"
+        },
+        {
+          "label": "D",
+          "text": "Spinal cord outgrows the column"
+        },
+        {
+          "label": "E",
+          "text": "Vertebral column outgrows the cord"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Faster growth of the vertebral column than the cord produces the cauda equina.",
+        "whyCorrect": "Because the vertebral column grows more rapidly than the spinal cord during development, lower cord segments lie superior to their vertebrae. Their roots therefore descend within the canal, collectively forming the cauda equina.",
+        "whyWrongByChoice": {
+          "A": "Fusion of the four coccygeal vertebrae explains the single coccygeal nerve pair, not the cauda equina.",
+          "B": "The lumbar, sacral, and coccygeal segments are present but lie higher than their vertebrae.",
+          "C": "Lumbar nerves exit below their corresponding vertebrae.",
+          "D": "The opposite is true: the column grows faster, leaving the cord shorter."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cauda equina",
+        "development"
+      ],
+      "topicId": "anatomy-of-the-spinal-cord",
+      "topicName": "Anatomy of the Spinal Cord",
+      "tier": "core"
+    },
+    {
+      "id": "mk02-010",
+      "stem": "Neurons of the posterior horn receive and process input from primary sensory neurons. Where are the cell bodies of those primary sensory neurons located?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anterior white commissure"
+        },
+        {
+          "label": "B",
+          "text": "Central canal lining"
+        },
+        {
+          "label": "C",
+          "text": "Dorsal root ganglia"
+        },
+        {
+          "label": "D",
+          "text": "Lateral horns"
+        },
+        {
+          "label": "E",
+          "text": "Ventral horns"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Primary sensory neuron cell bodies lie in the dorsal root ganglia.",
+        "whyCorrect": "Dorsal horn neurons receive and process sensory information from primary sensory neurons whose cell bodies lie in the dorsal root ganglia. They relay it into ascending pathways or into local reflex circuits.",
+        "whyWrongByChoice": {
+          "A": "The anterior white commissure contains crossing axons, not cell bodies.",
+          "B": "The central canal is lined by ependymal cells.",
+          "D": "Lateral horns contain preganglionic autonomic neurons.",
+          "E": "Ventral horns contain somatic motor neuron cell bodies."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "dorsal horn",
+        "dorsal root ganglion"
+      ],
+      "topicId": "anatomy-of-the-spinal-cord",
+      "topicName": "Anatomy of the Spinal Cord",
+      "tier": "core"
+    },
+    {
+      "id": "mk02-011",
+      "stem": "A 52-year-old man has numbness over the medial leg. Examination shows mild weakness of both knee extension and ankle dorsiflexion, with normal hip flexion, great toe extension, and plantar flexion. Which single spinal nerve root best accounts for all of these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "S1"
+        },
+        {
+          "label": "B",
+          "text": "L2"
+        },
+        {
+          "label": "C",
+          "text": "L3"
+        },
+        {
+          "label": "D",
+          "text": "L4"
+        },
+        {
+          "label": "E",
+          "text": "L5"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Medial leg numbness with weak knee extension and dorsiflexion localizes to L4.",
+        "whyCorrect": "The medial leg is the L4 dermatome. Knee extension is L3-L4 and ankle dorsiflexion is L4-L5, so L4 is the one root shared by both weak movements. Normal hip flexion (L2), great toe extension (L5), and plantar flexion (S1) argue against adjacent roots.",
+        "whyWrongByChoice": {
+          "A": "S1 would weaken plantar flexion and affect the lateral foot.",
+          "B": "L2 is tested by hip flexion, which is normal.",
+          "C": "L3 contributes to knee extension but not to ankle dorsiflexion or the medial leg landmark.",
+          "E": "L5 would weaken great toe extension and affect the dorsum of the foot, which are normal."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dermatomes",
+        "myotomes",
+        "L4"
+      ],
+      "topicId": "anatomy-of-the-spinal-cord",
+      "topicName": "Anatomy of the Spinal Cord",
+      "tier": "core"
+    },
+    {
+      "id": "mk02-012",
+      "stem": "During a lumbar puncture in a 33-year-old man, the needle is advanced in the midline through successive layers. Which structure does it pass through immediately before entering the vertebral canal?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Arachnoid mater"
+        },
+        {
+          "label": "B",
+          "text": "Dura mater"
+        },
+        {
+          "label": "C",
+          "text": "Interspinous ligament"
+        },
+        {
+          "label": "D",
+          "text": "Ligamentum flavum"
+        },
+        {
+          "label": "E",
+          "text": "Supraspinous ligament"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "LP needle path: supraspinous ligament, interspinous ligament, ligamentum flavum, then vertebral canal.",
+        "whyCorrect": "During lumbar puncture the needle passes through the supraspinous ligament, the interspinous ligament, and then the ligamentum flavum before entering the vertebral canal and reaching the lumbar cistern.",
+        "whyWrongByChoice": {
+          "A": "The arachnoid is pierced within the canal, just before the subarachnoid space.",
+          "B": "The dura is pierced after the needle has already entered the vertebral canal.",
+          "C": "The interspinous ligament lies superficial to the ligamentum flavum.",
+          "E": "The supraspinous ligament is the first ligament pierced, not the last."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "lumbar puncture",
+        "ligaments"
+      ],
+      "topicId": "anatomy-of-the-spinal-cord",
+      "topicName": "Anatomy of the Spinal Cord",
+      "tier": "core"
+    },
+    {
+      "id": "mk03-001",
+      "stem": "A 72-year-old woman develops sudden mid-back pain after sitting down hard on a bench. Radiographs show a vertebral compression fracture, and further evaluation shows decreased bone mineral density and bone mass. She asks what cellular process weakened her bones. Which of the following best explains her condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Defective type II collagen synthesis by chondrocytes"
+        },
+        {
+          "label": "B",
+          "text": "Excess calcitonin secretion suppressing osteoclast function"
+        },
+        {
+          "label": "C",
+          "text": "Failed endochondral ossification at the growth plate"
+        },
+        {
+          "label": "D",
+          "text": "Ischemic necrosis after disruption of nutrient arteries"
+        },
+        {
+          "label": "E",
+          "text": "Osteoclast activity outpacing osteoblast bone formation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Osteoporosis results from osteoclast resorption exceeding osteoblast formation.",
+        "whyCorrect": "Osteoporosis arises when bone resorption by osteoclasts outpaces bone formation by osteoblasts, lowering bone mineral density and bone mass so that minor forces cause fracture. Hormones and cytokines such as parathyroid hormone and estrogen influence this balance, and the estrogen role is thought to explain why it is common in postmenopausal women.",
+        "whyWrongByChoice": {
+          "A": "Type II collagen is the cartilage collagen; bone matrix is built mainly of type I collagen by osteoblasts.",
+          "B": "Calcitonin represses osteoclasts, which would reduce resorption rather than weaken bone.",
+          "C": "Abnormal endochondral ossification is the developmental defect of achondroplasia, not adult bone loss.",
+          "D": "That describes a bone infarct, which is ischemic death of marrow and bone, not a global loss of bone mass."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "osteoporosis",
+        "bone remodeling",
+        "osteoclast"
+      ],
+      "topicId": "histology-of-bone-and-cartilage",
+      "topicName": "Histology of Bone and Cartilage",
+      "tier": "core"
+    },
+    {
+      "id": "mk03-002",
+      "stem": "A 50-year-old woman develops a low serum calcium concentration. Her parathyroid glands increase hormone secretion, and bone resorption rises, releasing calcium into the blood. Which cell type is the direct target that binds this hormone and then signals the resorbing cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chondrocyte"
+        },
+        {
+          "label": "B",
+          "text": "Mesenchymal stem cell"
+        },
+        {
+          "label": "C",
+          "text": "Osteoblast"
+        },
+        {
+          "label": "D",
+          "text": "Osteoclast"
+        },
+        {
+          "label": "E",
+          "text": "Osteocyte"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "PTH stimulates resorption indirectly, by binding osteoblasts that release RANK ligand to activate osteoclasts.",
+        "whyCorrect": "Parathyroid hormone is the main stimulator of bone resorption but acts indirectly: it binds osteoblasts, which then release RANK ligand to stimulate osteoclast activity. The osteoclasts resorb bone and return serum calcium to normal.",
+        "whyWrongByChoice": {
+          "A": "Chondrocytes reside in cartilage lacunae and do not mediate PTH-driven bone resorption.",
+          "B": "Mesenchymal stem cells are multipotent precursors; they are not the PTH-responsive cells that signal osteoclasts.",
+          "D": "Osteoclasts carry out resorption, but they are stimulated indirectly through osteoblast signaling rather than being the primary PTH target.",
+          "E": "Osteocytes are entrapped mechanosensors that coordinate remodeling; they are not the cells PTH acts through to trigger resorption."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "parathyroid hormone",
+        "RANK ligand",
+        "osteoblast"
+      ],
+      "topicId": "histology-of-bone-and-cartilage",
+      "topicName": "Histology of Bone and Cartilage",
+      "tier": "core"
+    },
+    {
+      "id": "mk03-003",
+      "stem": "A 24-year-old soccer player tears the crescent-shaped cushion between the femur and tibia in his knee. Histology of the excised tissue shows thick bundles of type I collagen with chondrocytes in lacunae lined up in distinct rows between them. Which tissue type is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cortical bone"
+        },
+        {
+          "label": "B",
+          "text": "Elastic cartilage"
+        },
+        {
+          "label": "C",
+          "text": "Fibrocartilage"
+        },
+        {
+          "label": "D",
+          "text": "Hyaline cartilage"
+        },
+        {
+          "label": "E",
+          "text": "Trabecular bone"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Type I collagen-rich cartilage with chondrocytes in rows is fibrocartilage, as in the knee meniscus.",
+        "whyCorrect": "Fibrocartilage has abundant type I collagen, giving it a fibrous look, with chondrocytes lined up in rows among the collagen. It handles tensile and compressive forces and is found in the knee meniscus, the annulus fibrosus of intervertebral discs, and the pubic symphysis.",
+        "whyWrongByChoice": {
+          "A": "Cortical bone is organized into osteons with osteocytes in lacunae, not chondrocytes in rows.",
+          "B": "Elastic cartilage contains elastic fibers within a type II collagen matrix and is found in the pinna and epiglottis.",
+          "D": "Hyaline cartilage has a glassy matrix of type II collagen and chondroitin sulfate without abundant type I collagen.",
+          "E": "Trabecular bone is a porous network of mineralized bone matrix with marrow between its spicules."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "fibrocartilage",
+        "cartilage types",
+        "meniscus"
+      ],
+      "topicId": "histology-of-bone-and-cartilage",
+      "topicName": "Histology of Bone and Cartilage",
+      "tier": "core"
+    },
+    {
+      "id": "mk03-004",
+      "stem": "A 3-year-old girl has short arms and legs, and her father has the same autosomal dominant condition. Her head circumference is normal for age. Which process accounts for the normal size of her skull?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Endochondral ossification"
+        },
+        {
+          "label": "B",
+          "text": "Epiphyseal plate proliferation"
+        },
+        {
+          "label": "C",
+          "text": "Fibrocartilage procallus formation"
+        },
+        {
+          "label": "D",
+          "text": "Intramembranous ossification"
+        },
+        {
+          "label": "E",
+          "text": "Osteoclast-mediated remodeling"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In achondroplasia, endochondral ossification fails but intramembranous ossification of the skull is spared.",
+        "whyCorrect": "Achondroplasia is an autosomal dominant cause of dwarfism in which abnormal endochondral ossification keeps the long bones from reaching normal size. Intramembranous ossification, which forms most cranial bones directly from mesenchyme, is unaffected, so the head is normal in size.",
+        "whyWrongByChoice": {
+          "A": "Endochondral ossification is the defective process in achondroplasia; it forms the long bones, not most cranial bones.",
+          "B": "Growth plate activity belongs to endochondral growth of long bones, which is the abnormal process here.",
+          "C": "Procallus formation is a step in fracture repair, not normal skull development.",
+          "E": "Remodeling reshapes existing bone; it does not explain why skull bones formed normally."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "achondroplasia",
+        "intramembranous ossification",
+        "endochondral ossification"
+      ],
+      "topicId": "histology-of-bone-and-cartilage",
+      "topicName": "Histology of Bone and Cartilage",
+      "tier": "core"
+    },
+    {
+      "id": "mk03-005",
+      "stem": "A section of a child's growth plate is examined. In one band, chondrocytes that are about to undergo apoptosis release matrix vesicles and osteocalcin, and hydroxyapatite crystals begin to form in the surrounding matrix. Which zone is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Zone of calcified cartilage"
+        },
+        {
+          "label": "B",
+          "text": "Zone of hypertrophy"
+        },
+        {
+          "label": "C",
+          "text": "Zone of ossification"
+        },
+        {
+          "label": "D",
+          "text": "Zone of proliferation"
+        },
+        {
+          "label": "E",
+          "text": "Zone of reserve"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Matrix vesicles, osteocalcin and the first hydroxyapatite crystals define the zone of calcified cartilage.",
+        "whyCorrect": "In the zone of calcified cartilage, chondrocytes about to undergo apoptosis release matrix vesicles and osteocalcin, which begin matrix calcification by forming hydroxyapatite crystals. This precedes the zone of ossification, where bone first appears.",
+        "whyWrongByChoice": {
+          "B": "The hypertrophy zone has swollen, terminally differentiated chondrocytes that compress the matrix into aligned spicules.",
+          "C": "In the ossification zone, capillaries and osteoprogenitor cells invade vacant lacunae and osteoblasts secrete osteoid.",
+          "D": "In the proliferation zone, chondrocytes divide into columns and secrete type II collagen and proteoglycans.",
+          "E": "The reserve zone is typical hyaline cartilage without mineral deposition."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "epiphyseal plate",
+        "growth plate zones",
+        "endochondral ossification"
+      ],
+      "topicId": "histology-of-bone-and-cartilage",
+      "topicName": "Histology of Bone and Cartilage",
+      "tier": "core"
+    },
+    {
+      "id": "mk03-006",
+      "stem": "A bone biopsy shows a very large cell containing many nuclei, sitting in a shallow indentation on the surface of a bony trabecula. The adjacent matrix appears eroded. Which cell is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chondrocyte"
+        },
+        {
+          "label": "B",
+          "text": "Osteoblast"
+        },
+        {
+          "label": "C",
+          "text": "Osteoclast"
+        },
+        {
+          "label": "D",
+          "text": "Osteocyte"
+        },
+        {
+          "label": "E",
+          "text": "Osteoprogenitor cell"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A huge multinucleated cell in a Howship lacuna is an osteoclast.",
+        "whyCorrect": "Osteoclasts are huge, multinucleated cells related to the monocyte-macrophage line. They sit on bone surfaces in indentations called Howship lacunae, seal off an area of bone, secrete enzymes that dissolve it, and ingest the remnants.",
+        "whyWrongByChoice": {
+          "A": "Chondrocytes sit in lacunae within cartilage matrix.",
+          "B": "Osteoblasts are small cells lining trabecular surfaces that synthesize and mineralize bone.",
+          "D": "Osteocytes are entrapped osteoblasts within lacunae inside the matrix, not large multinucleated surface cells.",
+          "E": "Osteoprogenitor cells in the periosteum and endosteum give rise to osteoblasts; they are not multinucleated."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "osteoclast",
+        "bone cells",
+        "Howship lacunae"
+      ],
+      "topicId": "histology-of-bone-and-cartilage",
+      "topicName": "Histology of Bone and Cartilage",
+      "tier": "core"
+    },
+    {
+      "id": "mk03-007",
+      "stem": "A cross-section of compact bone shows channels linking the central canals of neighboring osteons with blood vessels of the periosteum. What are these channels?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Canaliculi"
+        },
+        {
+          "label": "B",
+          "text": "Haversian canals"
+        },
+        {
+          "label": "C",
+          "text": "Howship lacunae"
+        },
+        {
+          "label": "D",
+          "text": "Medullary cavities"
+        },
+        {
+          "label": "E",
+          "text": "Volkmann canals"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Volkmann canals connect Haversian canals to periosteal vessels.",
+        "whyCorrect": "The osteon is the functional unit of cortical bone, with lamellae wrapped around a central Haversian canal that holds one or two capillaries. Haversian canals are interconnected and communicate with periosteal vessels through perforating channels called Volkmann canals.",
+        "whyWrongByChoice": {
+          "A": "Canaliculi are fine channels holding osteocyte cytoplasmic extensions, used for cell-to-cell signaling.",
+          "B": "Haversian canals are the central canals of osteons themselves, not the channels linking them to the periosteum.",
+          "C": "Howship lacunae are surface indentations occupied by osteoclasts.",
+          "D": "The medullary cavity is the hollow center of the diaphysis containing yellow marrow."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "osteon",
+        "bone microanatomy",
+        "Volkmann canal"
+      ],
+      "topicId": "histology-of-bone-and-cartilage",
+      "topicName": "Histology of Bone and Cartilage",
+      "tier": "core"
+    },
+    {
+      "id": "mk03-008",
+      "stem": "In a laboratory experiment, the organic component of a bone segment is selectively digested, while its calcium hydroxyapatite is left intact. Which property of the bone is most reduced?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Compressive strength"
+        },
+        {
+          "label": "B",
+          "text": "Cortical thickness"
+        },
+        {
+          "label": "C",
+          "text": "Marrow cellularity"
+        },
+        {
+          "label": "D",
+          "text": "Mineral content"
+        },
+        {
+          "label": "E",
+          "text": "Tensile strength"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Type I collagen provides tensile strength; hydroxyapatite provides compressive strength.",
+        "whyCorrect": "Bone matrix is composed of organic material, primarily type I collagen, and inorganic material such as calcium hydroxyapatite. Collagen gives bone its tensile strength (resistance to being pulled apart), whereas the inorganic mineral gives compressive strength.",
+        "whyWrongByChoice": {
+          "A": "Compressive strength comes from the inorganic hydroxyapatite, which was left intact.",
+          "B": "Removing the organic component does not change how thick the cortex is.",
+          "C": "Marrow cells are not part of the bone matrix whose properties are being tested.",
+          "D": "The mineral (hydroxyapatite) was preserved, so mineral content is not what falls."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "bone composition",
+        "type I collagen",
+        "hydroxyapatite"
+      ],
+      "topicId": "histology-of-bone-and-cartilage",
+      "topicName": "Histology of Bone and Cartilage",
+      "tier": "core"
+    },
+    {
+      "id": "mk03-009",
+      "stem": "A 35-year-old man needs a bone marrow sample to evaluate production of his blood cells. Which site is most likely to contain active red marrow?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ilium of the pelvis"
+        },
+        {
+          "label": "B",
+          "text": "Midshaft of the femur"
+        },
+        {
+          "label": "C",
+          "text": "Midshaft of the humerus"
+        },
+        {
+          "label": "D",
+          "text": "Midshaft of the radius"
+        },
+        {
+          "label": "E",
+          "text": "Midshaft of the tibia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Adult red marrow lies mainly in the axial skeleton, such as the pelvis.",
+        "whyCorrect": "At birth the whole skeleton holds red marrow, and with age much of it converts to yellow marrow. By about age 25 the adult pattern is reached, with red marrow mostly in the axial skeleton (ribs, pelvis, vertebrae, skull) and yellow, fat-storing marrow in the shafts of long bones.",
+        "whyWrongByChoice": {
+          "B": "The femoral diaphysis holds yellow marrow in the adult.",
+          "C": "Long-bone diaphyses such as the humeral shaft contain yellow marrow in adults.",
+          "D": "The radial shaft is a long-bone diaphysis, which holds yellow marrow in adults.",
+          "E": "The tibial shaft is a long-bone diaphysis filled with yellow marrow by adulthood."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "bone marrow",
+        "red marrow",
+        "axial skeleton"
+      ],
+      "topicId": "histology-of-bone-and-cartilage",
+      "topicName": "Histology of Bone and Cartilage",
+      "tier": "core"
+    },
+    {
+      "id": "mk03-010",
+      "stem": "A 30-year-old man falls and injures both the articular surface of his knee and the adjacent bone. The bone fracture heals well, but months later the joint surface shows little repair. Which property of the joint surface tissue best explains its poor repair?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Absence of chondrocytes from its lacunae"
+        },
+        {
+          "label": "B",
+          "text": "Abundant type I collagen in its matrix"
+        },
+        {
+          "label": "C",
+          "text": "Avascular matrix nourished by diffusion"
+        },
+        {
+          "label": "D",
+          "text": "High metabolic rate of its cells"
+        },
+        {
+          "label": "E",
+          "text": "Matrix rich in elastic fibers"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Cartilage heals poorly because it is avascular and fed by diffusion.",
+        "whyCorrect": "Cartilage is avascular and receives most of its nutrients by diffusion, so it has a low metabolic rate and diminished healing ability. Bone, in contrast, is well vascularized and contains osteoprogenitor cells in the periosteum, endosteum and marrow, giving it an excellent capacity for repair.",
+        "whyWrongByChoice": {
+          "A": "Cartilage lacunae normally house chondrocytes; their absence is not the explanation.",
+          "B": "Articular cartilage is hyaline, with type II collagen; abundant type I collagen characterizes fibrocartilage.",
+          "D": "Cartilage has a low metabolic rate; bone is the tissue with a high metabolic rate.",
+          "E": "Elastic fibers characterize elastic cartilage of the pinna and epiglottis, not articular cartilage."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cartilage healing",
+        "avascular",
+        "hyaline cartilage"
+      ],
+      "topicId": "histology-of-bone-and-cartilage",
+      "topicName": "Histology of Bone and Cartilage",
+      "tier": "core"
+    },
+    {
+      "id": "mk03-011",
+      "stem": "During healing of a tibial fracture, the clot at the fracture site has been removed and a soft callus has formed in its place. Regenerating vessels and proliferating osteoblasts are now invading this callus. What happens next in the repair process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clot removal by macrophages"
+        },
+        {
+          "label": "B",
+          "text": "Creation of ossification centers"
+        },
+        {
+          "label": "C",
+          "text": "Deposition of woven bone"
+        },
+        {
+          "label": "D",
+          "text": "Formation of a fracture hematoma"
+        },
+        {
+          "label": "E",
+          "text": "Laying down of a hyaline template"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "After vessels and osteoblasts invade the procallus, its fibrocartilage is replaced by woven bone.",
+        "whyCorrect": "In fracture repair, torn vessels form a fracture hematoma, macrophages remove it and it is replaced by soft procallus. Regenerating vessels and osteoblasts invade the procallus and its fibrocartilage is replaced by woven bone, which is later remodeled into compact and cancellous bone continuous with uninjured areas.",
+        "whyWrongByChoice": {
+          "A": "Hematoma removal by macrophages preceded procallus formation.",
+          "B": "Ossification centers forming from mesenchymal clusters describe intramembranous bone development, not fracture repair.",
+          "D": "Hematoma formation is the first step and has already occurred.",
+          "E": "A hyaline template is the starting point of endochondral development, not a step after procallus invasion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "fracture repair",
+        "procallus",
+        "woven bone"
+      ],
+      "topicId": "histology-of-bone-and-cartilage",
+      "topicName": "Histology of Bone and Cartilage",
+      "tier": "core"
+    },
+    {
+      "id": "mk03-012",
+      "stem": "A cartilage graft is harvested from the external ear of a 19-year-old. Histology shows a matrix of type II collagen and chondroitin sulfate, plus an additional fiber type that lets the tissue spring back to its shape after bending. Which cartilage type is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Compact bone"
+        },
+        {
+          "label": "B",
+          "text": "Elastic cartilage"
+        },
+        {
+          "label": "C",
+          "text": "Fibrocartilage"
+        },
+        {
+          "label": "D",
+          "text": "Hyaline cartilage"
+        },
+        {
+          "label": "E",
+          "text": "Perichondrium"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The pinna and epiglottis are elastic cartilage: type II collagen plus elastic fibers.",
+        "whyCorrect": "Elastic cartilage looks similar to hyaline cartilage with a matrix of type II collagen and chondroitin sulfate, but it also contains elastic fibers that let it maintain its shape after deformation. It is found in the pinna of the ear and the epiglottis.",
+        "whyWrongByChoice": {
+          "A": "Compact bone is mineralized tissue organized into osteons, not cartilage.",
+          "C": "Fibrocartilage is rich in type I collagen and found in the meniscus, annulus fibrosus and pubic symphysis.",
+          "D": "Hyaline cartilage lacks the elastic fibers; it lines articular surfaces, trachea, bronchi and ribs.",
+          "E": "Perichondrium is the dense outer collagen layer surrounding cartilage, not a cartilage type."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "elastic cartilage",
+        "cartilage types",
+        "pinna"
+      ],
+      "topicId": "histology-of-bone-and-cartilage",
+      "topicName": "Histology of Bone and Cartilage",
+      "tier": "core"
+    },
+    {
+      "id": "mk04-001",
+      "stem": "A 44-year-old warehouse worker develops shooting pain from his buttock down the back of his leg after lifting a heavy crate. MRI shows a posterolateral herniation of the L4-L5 intervertebral disc. Which nerve root is most likely compressed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "S1 nerve root"
+        },
+        {
+          "label": "B",
+          "text": "S2 nerve root"
+        },
+        {
+          "label": "C",
+          "text": "L3 nerve root"
+        },
+        {
+          "label": "D",
+          "text": "L4 nerve root"
+        },
+        {
+          "label": "E",
+          "text": "L5 nerve root"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A posterolateral herniation compresses the lower root named by the disc (L4-L5 disc, L5 root).",
+        "whyCorrect": "A posterolateral disc herniation typically compresses the lower nerve root named by the disc level. The upper root has already exited through its intervertebral foramen above the disc, while the lower root is still descending past it, so an L4-L5 herniation affects L5.",
+        "whyWrongByChoice": {
+          "A": "S1 is typically affected by an L5-S1 herniation.",
+          "B": "S2 descends well below the L4-L5 disc and is not the root typically compressed here.",
+          "C": "L3 exits above the L3-L4 disc and is not related to an L4-L5 herniation.",
+          "D": "L4 has already exited through the foramen above the L4-L5 disc; an L3-L4 herniation would affect L4."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "disc herniation",
+        "radiculopathy",
+        "nerve root level"
+      ],
+      "topicId": "spine-disorders",
+      "topicName": "Spine Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk04-002",
+      "stem": "A 71-year-old man has had 2 years of aching, heavy legs that come on when he stands or walks. He finds he can walk farther in the grocery store if he leans forward over the shopping cart, and sitting down brings quick relief. Standing still upright does not help. Which condition is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bilateral L5 spondylolysis"
+        },
+        {
+          "label": "B",
+          "text": "Cauda equina syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Cervical spinal myelopathy"
+        },
+        {
+          "label": "D",
+          "text": "Lumbar spinal stenosis"
+        },
+        {
+          "label": "E",
+          "text": "Peripheral vascular claudication"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Leg pain relieved by flexion (shopping-cart sign) points to lumbar spinal stenosis with neurogenic claudication.",
+        "whyCorrect": "Lumbar spinal stenosis commonly causes neurogenic claudication: leg pain with standing or walking from nerve root compression. Symptoms worsen with lumbar extension and improve with flexion, as when leaning over a shopping cart, which increases space for neural structures. Vascular claudication improves with rest rather than spinal flexion.",
+        "whyWrongByChoice": {
+          "A": "Spondylolysis is a pars defect, typically in young athletes with pain on lumbar extension.",
+          "B": "Cauda equina syndrome is acute, with saddle anesthesia and bladder or bowel dysfunction, not chronic positional leg pain.",
+          "C": "Cervical myelopathy causes hand clumsiness, hyperreflexia and gait instability, not flexion-relieved leg pain.",
+          "E": "Vascular claudication improves with rest itself; here standing still upright does not help, while flexion does."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "spinal stenosis",
+        "neurogenic claudication",
+        "shopping-cart sign"
+      ],
+      "topicId": "spine-disorders",
+      "topicName": "Spine Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk04-003",
+      "stem": "A 52-year-old woman has sudden severe low back pain after lifting furniture. Over the next few hours she develops numbness of her perineum, buttocks and inner thighs, weakness of both legs, and she is unable to urinate. Which is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Analgesics with outpatient physical therapy"
+        },
+        {
+          "label": "B",
+          "text": "Bracing with observation for several months"
+        },
+        {
+          "label": "C",
+          "text": "Elective spinal fusion in a few months"
+        },
+        {
+          "label": "D",
+          "text": "Emergency imaging then surgical decompression"
+        },
+        {
+          "label": "E",
+          "text": "Muscle relaxant with a week of bed rest"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Cauda equina syndrome is a surgical emergency: image (CT/MRI) and decompress urgently.",
+        "whyCorrect": "This is cauda equina syndrome, acute compression of the lower lumbosacral nerve roots, most commonly from disc herniation. Because nerve damage may become permanent, it is a surgical emergency: CT or MRI is used to find the source of compression and urgent surgical decompression follows.",
+        "whyWrongByChoice": {
+          "A": "Conservative care suits uncomplicated radiculopathy, not saddle anesthesia with urinary retention.",
+          "B": "Bracing is used for moderate pediatric scoliosis, not acute root compression.",
+          "C": "Delayed elective surgery is inappropriate; decompression must be urgent.",
+          "E": "Delaying treatment risks permanent nerve damage in cauda equina syndrome."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cauda equina syndrome",
+        "surgical emergency",
+        "saddle anesthesia"
+      ],
+      "topicId": "spine-disorders",
+      "topicName": "Spine Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk04-004",
+      "stem": "A 63-year-old man has 6 months of difficulty buttoning his shirt and an unsteady, broad gait. Examination shows weakness and brisk reflexes in all four limbs below the neck. He has no radiating arm pain in a single dermatome. Which is the most likely cause of his findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bilateral pars defects at the L5 level"
+        },
+        {
+          "label": "B",
+          "text": "Compression of a single cervical root"
+        },
+        {
+          "label": "C",
+          "text": "Compression of lower lumbosacral roots"
+        },
+        {
+          "label": "D",
+          "text": "Compression of the cervical spinal cord"
+        },
+        {
+          "label": "E",
+          "text": "Lumbar canal narrowing with claudication"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Hand clumsiness, gait instability and hyperreflexia indicate cervical myelopathy (cord compression).",
+        "whyCorrect": "Myelopathy is compression of the spinal cord itself, often from degenerative narrowing of the cervical canal. It produces upper motor neuron findings below the level of compression, such as hand clumsiness, gait instability, weakness and hyperreflexia. Radiculopathy, by contrast, affects one nerve root with dermatomal pain and decreased reflexes.",
+        "whyWrongByChoice": {
+          "A": "L5 spondylolysis causes low back pain in young athletes, not four-limb upper motor neuron signs.",
+          "B": "A single root lesion causes dermatomal pain, myotomal weakness and decreased reflexes, not diffuse hyperreflexia.",
+          "C": "Cauda equina compression causes saddle anesthesia and bladder dysfunction without upper-limb findings.",
+          "E": "Lumbar stenosis causes flexion-relieved leg pain and would not affect the hands."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "myelopathy",
+        "cervical spine",
+        "upper motor neuron"
+      ],
+      "topicId": "spine-disorders",
+      "topicName": "Spine Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk04-005",
+      "stem": "A 15-year-old competitive gymnast has several months of low back pain that worsens when she arches backward. An oblique lumbar radiograph shows the outline of a dog with a dark band across its neck at L5. A lateral view shows no forward slippage of any vertebra. Which diagnosis is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Disc herniation"
+        },
+        {
+          "label": "B",
+          "text": "Levoscoliosis"
+        },
+        {
+          "label": "C",
+          "text": "Spondylolisthesis"
+        },
+        {
+          "label": "D",
+          "text": "Spondylolysis"
+        },
+        {
+          "label": "E",
+          "text": "Spondylosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A collar on the Scotty dog's neck at L5 in a young athlete is spondylolysis.",
+        "whyCorrect": "Spondylolysis is a defect or stress fracture of the pars interarticularis, most commonly at L5, often from repetitive lumbar extension in young athletes. On an oblique radiograph the posterior elements resemble a Scotty dog with the pars as its neck; a defect looks like a collar. Without slippage, spondylolisthesis is not present.",
+        "whyWrongByChoice": {
+          "A": "A herniated nucleus pulposus causes radicular pain and is not seen as a pars defect on radiographs.",
+          "B": "Levoscoliosis is a leftward lateral curvature, not a defect in the vertebral arch.",
+          "C": "Spondylolisthesis requires displacement of one vertebra on the one below; none is seen.",
+          "E": "Spondylosis is age-related degeneration, usually osteoarthritis with osteophytes, not a pars defect in a teenager."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "spondylolysis",
+        "pars interarticularis",
+        "Scotty dog sign"
+      ],
+      "topicId": "spine-disorders",
+      "topicName": "Spine Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk04-006",
+      "stem": "A 34-year-old driver is rear-ended at speed, and his forehead strikes the steering wheel, forcing his neck sharply backward. Which ligament, which normally limits this motion, is most likely injured?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anterior longitudinal ligament"
+        },
+        {
+          "label": "B",
+          "text": "Interspinous ligament"
+        },
+        {
+          "label": "C",
+          "text": "Intertransverse ligament"
+        },
+        {
+          "label": "D",
+          "text": "Ligamentum flavum"
+        },
+        {
+          "label": "E",
+          "text": "Posterior longitudinal ligament"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The ALL limits hyperextension and is injured when the neck is forced backward.",
+        "whyCorrect": "The anterior longitudinal ligament runs along the anterior vertebral bodies and primarily limits hyperextension. Hyperextension injuries occur when the forehead or face strikes an object or with acceleration-deceleration, and the ALL and other anterior structures may be injured.",
+        "whyWrongByChoice": {
+          "B": "Interspinous ligaments connect spinous processes and are not the ligament that limits hyperextension.",
+          "C": "Intertransverse ligaments connect transverse processes.",
+          "D": "The ligamenta flava connect adjacent laminae and are not the ligament described as limiting hyperextension.",
+          "E": "The PLL limits hyperflexion, not hyperextension."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "spinal ligaments",
+        "hyperextension injury"
+      ],
+      "topicId": "spine-disorders",
+      "topicName": "Spine Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk04-007",
+      "stem": "A 13-year-old girl is found to have an uneven waistline on a school examination. Standing radiographs show a thoracic curve with a Cobb angle of 38 degrees. She is otherwise asymptomatic. Which management is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bracing"
+        },
+        {
+          "label": "B",
+          "text": "Discectomy and fusion"
+        },
+        {
+          "label": "C",
+          "text": "Observation and physical therapy"
+        },
+        {
+          "label": "D",
+          "text": "Spinal rod placement"
+        },
+        {
+          "label": "E",
+          "text": "Urgent decompression"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Moderate scoliosis (30-50 degrees) is usually managed with bracing.",
+        "whyCorrect": "Treatment of scoliosis varies with the degree of curvature: mild scoliosis (<30 degrees) can be observed and treated with physical therapy, moderate scoliosis (30-50 degrees) can often be managed with bracing, and severe scoliosis (>50 degrees) typically requires surgery with spinal rod placement.",
+        "whyWrongByChoice": {
+          "B": "Discectomy with fusion is used for severe radiculopathy, not adolescent scoliosis.",
+          "C": "Observation with physical therapy is for mild curves under 30 degrees.",
+          "D": "Surgery with rods is typically reserved for severe curves over 50 degrees.",
+          "E": "Urgent decompression is for cauda equina syndrome or major myelopathy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "scoliosis",
+        "Cobb angle",
+        "bracing"
+      ],
+      "topicId": "spine-disorders",
+      "topicName": "Spine Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk04-008",
+      "stem": "A 79-year-old woman with osteoporosis has lost 5 cm of height and now has a stooped posture with chronic back pain. Radiographs show several wedge-shaped thoracic vertebrae from collapse of their anterior portions. Which abnormal curvature has most likely developed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Degenerative spondylolisthesis"
+        },
+        {
+          "label": "B",
+          "text": "Increased lumbar lordosis"
+        },
+        {
+          "label": "C",
+          "text": "Increased thoracic kyphosis"
+        },
+        {
+          "label": "D",
+          "text": "Lumbar levoscoliosis"
+        },
+        {
+          "label": "E",
+          "text": "Thoracic dextroscoliosis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Anterior wedge compression fractures from osteoporosis exaggerate thoracic kyphosis.",
+        "whyCorrect": "Osteoporosis weakens vertebral bodies, making them prone to compression fractures in the thoracic and thoracolumbar spine. Preferential collapse of the anterior body produces wedge-shaped vertebrae, and multiple fractures progressively increase thoracic kyphosis, causing loss of height, stooped posture, back pain and, when severe, impaired pulmonary function.",
+        "whyWrongByChoice": {
+          "A": "Spondylolisthesis is slippage of one vertebra on another, not wedge collapse.",
+          "B": "Lordosis is the concave curve of the cervical and lumbar spine; anterior thoracic wedging increases the convex thoracic curve.",
+          "D": "Levoscoliosis is a lateral leftward curve, more common in the lumbar spine.",
+          "E": "Dextroscoliosis is a lateral rightward curve, not a sagittal change from anterior wedging."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "kyphosis",
+        "osteoporosis",
+        "compression fracture"
+      ],
+      "topicId": "spine-disorders",
+      "topicName": "Spine Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk04-009",
+      "stem": "A nucleus pulposus most often herniates in a posterolateral direction. Which feature of the disc and its surroundings best explains this direction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Facet joints that sit directly on the disc"
+        },
+        {
+          "label": "B",
+          "text": "Ligamenta flava that cross the disc's back"
+        },
+        {
+          "label": "C",
+          "text": "Nucleus that lies against the vertebral body"
+        },
+        {
+          "label": "D",
+          "text": "Thick annulus with dense anterior ligament"
+        },
+        {
+          "label": "E",
+          "text": "Thin annulus with little ligament support there"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Posterolateral herniation occurs where the annulus is thin and ligament support is weakest.",
+        "whyCorrect": "The nucleus pulposus most commonly herniates posterolaterally, where the annulus fibrosus is relatively thin and has less ligamentous support. This places it near the exiting and descending nerve roots, explaining radicular symptoms.",
+        "whyWrongByChoice": {
+          "A": "Facet joints articulate adjacent vertebrae posteriorly and are not the reason for the herniation direction.",
+          "B": "The ligamenta flava connect adjacent laminae and do not account for the herniation direction.",
+          "C": "The nucleus sits within the disc surrounded by the annulus; this does not explain posterolateral protrusion.",
+          "D": "A thick annulus and strong ligament would resist herniation; this describes the anterior side, not the posterolateral one."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "disc herniation",
+        "annulus fibrosus",
+        "posterolateral"
+      ],
+      "topicId": "spine-disorders",
+      "topicName": "Spine Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk04-010",
+      "stem": "A 72-year-old woman has chronic low back pain and stiffness. Lateral lumbar radiographs show the L4 vertebral body displaced anteriorly on L5. Oblique views show intact posterior elements with no pars defect. Which is the most likely underlying cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bilateral pars interarticularis fractures"
+        },
+        {
+          "label": "B",
+          "text": "Disc and facet joint degeneration"
+        },
+        {
+          "label": "C",
+          "text": "Hyperextension with axial loading of C2"
+        },
+        {
+          "label": "D",
+          "text": "Idiopathic lateral curvature of youth"
+        },
+        {
+          "label": "E",
+          "text": "Osteoporotic anterior wedge collapse"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Slippage at L4-L5 in an older adult without a pars defect is degenerative spondylolisthesis.",
+        "whyCorrect": "Spondylolisthesis is displacement of one vertebra relative to the one below, usually anteriorly. Degenerative spondylolisthesis comes from age-related degeneration of the disc and facet joints, producing instability and slippage without a pars defect; it is more common in older adults, particularly at L4-L5. Isthmic spondylolisthesis instead follows bilateral pars defects, often in younger patients.",
+        "whyWrongByChoice": {
+          "A": "Bilateral pars defects cause isthmic spondylolisthesis, but the oblique views show no defect.",
+          "C": "Severe hyperextension with axial loading fractures the C2 pars, a cervical injury.",
+          "D": "Adolescent idiopathic scoliosis is a lateral curve, not anterior slippage.",
+          "E": "Wedge collapse produces kyphosis, not forward displacement of one vertebra on another."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "spondylolisthesis",
+        "degenerative",
+        "L4-L5"
+      ],
+      "topicId": "spine-disorders",
+      "topicName": "Spine Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk04-011",
+      "stem": "A 41-year-old man has low back pain radiating down the back of his thigh. While he lies supine, the examiner lifts his straightened leg, and at 45 degrees a shooting pain runs down his leg. Why does this maneuver reproduce his pain?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Extension narrows the lateral recess"
+        },
+        {
+          "label": "B",
+          "text": "Flexion widens the lumbar central canal"
+        },
+        {
+          "label": "C",
+          "text": "Hip flexion compresses the femoral artery"
+        },
+        {
+          "label": "D",
+          "text": "Leg lift compresses the spinal cord itself"
+        },
+        {
+          "label": "E",
+          "text": "Traction pulls the roots through their foramina"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The straight leg raise tensions the sciatic nerve, pulling inflamed roots through the foramina.",
+        "whyCorrect": "The straight leg raise is a test for sciatica, lumbar radiculopathy involving roots of the sciatic nerve (L4-S3). Raising the leg of the supine patient creates tension along the nerve pathway, pulling the spinal nerve roots through the intervertebral foramina; shooting pain at 30-60 degrees indicates sciatica.",
+        "whyWrongByChoice": {
+          "A": "The maneuver does not extend the lumbar spine.",
+          "B": "Canal widening with flexion relieves neurogenic claudication; it does not provoke radicular pain.",
+          "C": "Arterial compression is not the mechanism of the test; vascular claudication relates to exertion.",
+          "D": "The cord ends above the lumbar roots; the test stretches nerve roots, not the cord."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "sciatica",
+        "straight leg raise",
+        "radiculopathy"
+      ],
+      "topicId": "spine-disorders",
+      "topicName": "Spine Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk04-012",
+      "stem": "A 14-year-old boy has an uneven stature noted at a sports physical. A standing radiograph shows a lateral curvature of the spine. What is the smallest Cobb angle required for a diagnosis of scoliosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Greater than 10 degrees"
+        },
+        {
+          "label": "B",
+          "text": "Greater than 20 degrees"
+        },
+        {
+          "label": "C",
+          "text": "Greater than 30 degrees"
+        },
+        {
+          "label": "D",
+          "text": "Greater than 5 degrees"
+        },
+        {
+          "label": "E",
+          "text": "Greater than 50 degrees"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Scoliosis requires a Cobb angle greater than 10 degrees.",
+        "whyCorrect": "To diagnose scoliosis, the curvature measured by the Cobb angle must be greater than 10 degrees; curves of 10 degrees or less are considered normal. X-rays are commonly used to visualize the curvature.",
+        "whyWrongByChoice": {
+          "B": "The threshold is lower: any curve over 10 degrees qualifies.",
+          "C": "30 degrees separates mild from moderate scoliosis for treatment, not the diagnostic threshold.",
+          "D": "Curves up to 10 degrees are considered normal.",
+          "E": "Over 50 degrees defines severe scoliosis, which typically requires surgery."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "scoliosis",
+        "Cobb angle",
+        "diagnosis"
+      ],
+      "topicId": "spine-disorders",
+      "topicName": "Spine Disorders",
+      "tier": "core"
+    }
+  ]
+}

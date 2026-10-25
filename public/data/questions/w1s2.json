@@ -1,0 +1,2255 @@
+{
+  "categoryId": "w1s2",
+  "categoryName": "Session 2",
+  "questions": [
+    {
+      "id": "mk05-001",
+      "stem": "In a 4-week embryo, cells from one region of each segmented block of paraxial mesoderm migrate into the body wall and form the trunk musculature of that segment. From which region of the block do these cells arise?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dermatome"
+        },
+        {
+          "label": "B",
+          "text": "Myotome"
+        },
+        {
+          "label": "C",
+          "text": "Neural crest"
+        },
+        {
+          "label": "D",
+          "text": "Notochord"
+        },
+        {
+          "label": "E",
+          "text": "Sclerotome"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The myotome region of each somite is the source of the skeletal muscle of that body segment.",
+        "whyCorrect": "Paraxial mesoderm segments into somites, and each somite differentiates into a dermatome, a myotome and a sclerotome. Myotome cells migrate through the embryo to form the skeletal muscles of the trunk and limbs.",
+        "whyWrongByChoice": {
+          "A": "The dermatome forms the dermis of the skin, not skeletal muscle.",
+          "C": "Neural crest is not a somite region; in this system it forms most of the facial skeleton and part of the neurocranium.",
+          "D": "The notochord is not a somite region; it contributes the nucleus pulposus of the intervertebral disc.",
+          "E": "The sclerotome forms the bone and cartilage of the axial skeleton (vertebrae and ribs)."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "somites",
+        "myotome",
+        "myogenesis"
+      ],
+      "topicId": "development-of-the-musculoskeletal-system",
+      "topicName": "Development of the Musculoskeletal System",
+      "tier": "core"
+    },
+    {
+      "id": "mk05-002",
+      "stem": "A 7-year-old boy fractures a bone in a fall. During embryonic development, this bone formed when mesenchymal cells differentiated straight into bone-forming cells, with no preceding cartilage model. Which bone did he most likely fracture?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clavicle"
+        },
+        {
+          "label": "B",
+          "text": "Femur"
+        },
+        {
+          "label": "C",
+          "text": "Humerus"
+        },
+        {
+          "label": "D",
+          "text": "Radius"
+        },
+        {
+          "label": "E",
+          "text": "Seventh rib"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The clavicle forms by intramembranous ossification, unlike the ribs and limb long bones.",
+        "whyCorrect": "In intramembranous ossification, mesenchymal cells differentiate directly into osteoblasts that secrete bone matrix. This process forms the clavicle and most flat bones of the calvaria and facial skeleton.",
+        "whyWrongByChoice": {
+          "B": "The femur is a limb bone, formed by endochondral ossification.",
+          "C": "The humerus is a limb bone, formed by endochondral ossification from a hyaline cartilage model.",
+          "D": "The radius is a limb bone, formed by endochondral ossification.",
+          "E": "Ribs develop from sclerotome and ossify through endochondral ossification."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "intramembranous ossification",
+        "clavicle"
+      ],
+      "topicId": "development-of-the-musculoskeletal-system",
+      "topicName": "Development of the Musculoskeletal System",
+      "tier": "core"
+    },
+    {
+      "id": "mk05-003",
+      "stem": "A 42-year-old man has acute low back pain radiating down his left leg. MRI shows that gelatinous material from the center of the L4-L5 disc has herniated through its outer fibrous ring. The herniated central material is derived from which embryonic structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Myotome"
+        },
+        {
+          "label": "B",
+          "text": "Neural crest"
+        },
+        {
+          "label": "C",
+          "text": "Notochord"
+        },
+        {
+          "label": "D",
+          "text": "Sclerotome"
+        },
+        {
+          "label": "E",
+          "text": "Somatic lateral plate mesoderm"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The nucleus pulposus at the center of the intervertebral disc is derived from the notochord.",
+        "whyCorrect": "The intervertebral disc has two embryonic sources. Its central nucleus pulposus comes from the notochord, while its peripheral annulus fibrosus (fibrocartilage) forms from migrating sclerotome cells.",
+        "whyWrongByChoice": {
+          "A": "The myotome forms skeletal muscle.",
+          "B": "Neural crest contributes to the skull, not to the intervertebral disc.",
+          "D": "Sclerotome forms the outer annulus fibrosus, the ring the material herniated through, not the central nucleus.",
+          "E": "Somatic lateral plate mesoderm forms the bones, cartilage and connective tissue of the limbs."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "intervertebral disc",
+        "nucleus pulposus",
+        "notochord"
+      ],
+      "topicId": "development-of-the-musculoskeletal-system",
+      "topicName": "Development of the Musculoskeletal System",
+      "tier": "core"
+    },
+    {
+      "id": "mk05-004",
+      "stem": "A researcher labels a population of cells in an early embryo. Weeks later, the labeled cells have formed the cartilage models of the humerus and radius, but the biceps and triceps contain no labeled cells. Which tissue was most likely labeled?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cranial neural crest cells"
+        },
+        {
+          "label": "B",
+          "text": "Myotome of cervical somites"
+        },
+        {
+          "label": "C",
+          "text": "Notochordal cells"
+        },
+        {
+          "label": "D",
+          "text": "Sclerotome of cervical somites"
+        },
+        {
+          "label": "E",
+          "text": "Somatic lateral plate mesoderm"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Limb bones arise from the somatic layer of lateral plate mesoderm; limb muscle comes separately from the myotomes.",
+        "whyCorrect": "Each limb bud has a core of somatic lateral plate mesoderm, covered by ectoderm, that forms the bones, cartilage and connective tissue of the limb. These limb bones then develop by endochondral ossification. Muscle precursors migrate into the bud from the somites, so they would not carry this label.",
+        "whyWrongByChoice": {
+          "A": "Neural crest forms most of the facial skeleton, not limb cartilage.",
+          "B": "Myotome cells would have labeled the biceps and triceps, which contain no labeled cells.",
+          "C": "The notochord forms the nucleus pulposus of the intervertebral discs.",
+          "D": "Sclerotome forms the axial skeleton (vertebrae and ribs), not the limb bones."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "limb development",
+        "lateral plate mesoderm"
+      ],
+      "topicId": "development-of-the-musculoskeletal-system",
+      "topicName": "Development of the Musculoskeletal System",
+      "tier": "core"
+    },
+    {
+      "id": "mk05-005",
+      "stem": "A 28-year-old woman has pain and paresthesias in her right upper limb and a weakened radial pulse when she holds her arm overhead. Imaging shows an extra rib compressing the brachial plexus and subclavian artery. This accessory rib most likely arises from which vertebra?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "L1"
+        },
+        {
+          "label": "B",
+          "text": "T1"
+        },
+        {
+          "label": "C",
+          "text": "C5"
+        },
+        {
+          "label": "D",
+          "text": "C7"
+        },
+        {
+          "label": "E",
+          "text": "T12"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "An accessory cervical rib develops from C7 and can compress the brachial plexus or subclavian artery (thoracic outlet syndrome).",
+        "whyCorrect": "Accessory ribs result from abnormal development of the costal elements of vertebrae. A cervical rib develops from the C7 vertebra and, although often asymptomatic, may compress the brachial plexus or subclavian artery and contribute to thoracic outlet syndrome.",
+        "whyWrongByChoice": {
+          "A": "L1 gives rise to an accessory lumbar rib, the most common type overall, but it does not reach the brachial plexus.",
+          "B": "T1 normally bears a true rib; it is not the source of an accessory cervical rib.",
+          "C": "C5 is not the vertebra the lecture names as the source of a cervical rib.",
+          "E": "T12 normally bears a rib; an extra rib here would not compress the brachial plexus."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "accessory rib",
+        "cervical rib",
+        "thoracic outlet syndrome"
+      ],
+      "topicId": "development-of-the-musculoskeletal-system",
+      "topicName": "Development of the Musculoskeletal System",
+      "tier": "core"
+    },
+    {
+      "id": "mk05-006",
+      "stem": "A developmental biologist predicts the spinal nerve contributions to a newly formed upper limb. Because a limb keeps the innervation of the segments opposite which its bud arose, which spinal levels should supply the upper limb?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "C1-C4"
+        },
+        {
+          "label": "B",
+          "text": "L2-S2"
+        },
+        {
+          "label": "C",
+          "text": "T2-T6"
+        },
+        {
+          "label": "D",
+          "text": "C3-C7"
+        },
+        {
+          "label": "E",
+          "text": "C5-T1"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The upper limb develops opposite somites C5-T1 and retains innervation from those spinal levels.",
+        "whyCorrect": "The upper limbs develop opposite somites C5-T1, whereas the lower limbs develop opposite somites L2-S2. As the limbs grow and rotate, they retain innervation from these spinal nerve levels.",
+        "whyWrongByChoice": {
+          "A": "C1-C4 lie cranial to the upper limb bud.",
+          "B": "L2-S2 are the levels opposite which the lower limb develops.",
+          "C": "T2-T6 lie caudal to the upper limb bud and supply trunk segments.",
+          "D": "C3-C7 is shifted too far cranially and omits C8 and T1."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "limb bud",
+        "segmental innervation"
+      ],
+      "topicId": "development-of-the-musculoskeletal-system",
+      "topicName": "Development of the Musculoskeletal System",
+      "tier": "core"
+    },
+    {
+      "id": "mk05-007",
+      "stem": "During week 7 of development, the limbs change orientation so that their muscle compartments reach their adult positions. Which of the following correctly describes this change in the upper limb?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Turns 90 degrees laterally, so extensors come to lie anteriorly"
+        },
+        {
+          "label": "B",
+          "text": "Turns 90 degrees laterally, so flexors come to lie anteriorly"
+        },
+        {
+          "label": "C",
+          "text": "Turns 90 degrees medially, so extensors come to lie anteriorly"
+        },
+        {
+          "label": "D",
+          "text": "Turns 90 degrees medially, so flexors come to lie anteriorly"
+        },
+        {
+          "label": "E",
+          "text": "Turns 180 degrees laterally, so flexors come to lie posteriorly"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In week 7 the upper limb rotates 90 degrees laterally, placing its flexor compartment anteriorly and extensors posteriorly.",
+        "whyCorrect": "The limbs rotate in opposite directions in week 7. The upper limb rotates 90 degrees laterally, so its extensor muscles face posteriorly and the thumb points laterally, which leaves the flexor compartment anterior. The lower limb rotates 90 degrees medially, placing its extensors anteriorly and flexors posteriorly.",
+        "whyWrongByChoice": {
+          "A": "Lateral rotation of the upper limb brings the extensors posteriorly, not anteriorly.",
+          "C": "Medial rotation with anterior extensors describes the lower limb, not the upper limb.",
+          "D": "The upper limb rotates laterally, not medially; medial rotation describes the lower limb.",
+          "E": "The rotation is 90 degrees, and the upper limb flexor compartment ends up anterior, not posterior."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "limb rotation",
+        "flexor compartment",
+        "extensor compartment"
+      ],
+      "topicId": "development-of-the-musculoskeletal-system",
+      "topicName": "Development of the Musculoskeletal System",
+      "tier": "core"
+    },
+    {
+      "id": "mk05-008",
+      "stem": "A researcher studies the thickened ectoderm at the distal tip of a chick limb bud, which drives outgrowth of the limb along its proximodistal axis. Which molecules does this ectodermal structure secrete?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bone morphogenetic proteins"
+        },
+        {
+          "label": "B",
+          "text": "Fibroblast growth factors"
+        },
+        {
+          "label": "C",
+          "text": "Retinoic acid"
+        },
+        {
+          "label": "D",
+          "text": "Sonic hedgehog"
+        },
+        {
+          "label": "E",
+          "text": "Type I collagen"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The apical ectodermal ridge (AER) at the limb-bud tip produces fibroblast growth factors that promote proximodistal growth.",
+        "whyCorrect": "The apical ectodermal ridge is the inductive ectodermal layer at the distal tip of each limb bud. It produces fibroblast growth factors (including Fgf8), which keep the underlying mesoderm proliferating so the limb grows proximal to distal.",
+        "whyWrongByChoice": {
+          "A": "Bone morphogenetic proteins are not the signal this brick assigns to the AER.",
+          "C": "Retinoic acid is not secreted by the AER; excess retinoic acid actually downregulates Fgf8 in the AER.",
+          "D": "Sonic hedgehog is not the product of the distal-tip ectoderm; this brick attributes limb outgrowth to FGFs from the AER.",
+          "E": "Type I collagen is a structural matrix protein, not a limb-patterning signal from the AER."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "apical ectodermal ridge",
+        "FGF",
+        "limb patterning"
+      ],
+      "topicId": "development-of-the-musculoskeletal-system",
+      "topicName": "Development of the Musculoskeletal System",
+      "tier": "core"
+    },
+    {
+      "id": "mk05-009",
+      "stem": "A 19-year-old woman taking isotretinoin for severe acne becomes pregnant. Fetal ultrasound later shows markedly shortened upper and lower limbs with missing distal segments. Which mechanism most directly explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Downregulation of Fgf8 in the apical ectodermal ridge"
+        },
+        {
+          "label": "B",
+          "text": "Excess apoptosis of interdigital tissue in the hand plates"
+        },
+        {
+          "label": "C",
+          "text": "Failure of limb rotation in the seventh week of development"
+        },
+        {
+          "label": "D",
+          "text": "Failure of sclerotome cells to migrate around the notochord"
+        },
+        {
+          "label": "E",
+          "text": "Premature fusion of epiphyseal plates in the long bones"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Retinoic acid derivatives such as isotretinoin downregulate Fgf8 in the AER, causing missing or shortened limbs.",
+        "whyCorrect": "Elevated retinoic acid levels downregulate Fgf8 expression in the apical ectodermal ridge. This suppresses cell proliferation in the underlying progress zone and forces premature mesodermal differentiation, so parts of the limbs stop growing and are missing or shortened.",
+        "whyWrongByChoice": {
+          "B": "Interdigital apoptosis separates the digits in weeks 7-8; it does not shorten whole limbs.",
+          "C": "A failure of rotation would misorient limb compartments, not truncate distal segments.",
+          "D": "Sclerotome migration around the notochord forms the vertebral bodies, not the limbs.",
+          "E": "Epiphyseal plate fusion ends growth after childhood and adolescence; it is not the teratogenic mechanism of retinoic acid."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "retinoic acid",
+        "isotretinoin",
+        "teratogen",
+        "apical ectodermal ridge"
+      ],
+      "topicId": "development-of-the-musculoskeletal-system",
+      "topicName": "Development of the Musculoskeletal System",
+      "tier": "core"
+    },
+    {
+      "id": "mk05-010",
+      "stem": "A newborn has skin webbing that joins the third and fourth fingers of the left hand. Failure of which normal developmental process during weeks 7-8 most likely accounts for this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Apoptosis of interdigital tissue"
+        },
+        {
+          "label": "B",
+          "text": "Appearance of primary ossification centers"
+        },
+        {
+          "label": "C",
+          "text": "Formation of chondrification centers"
+        },
+        {
+          "label": "D",
+          "text": "Lateral rotation of the upper limb"
+        },
+        {
+          "label": "E",
+          "text": "Proliferation within the progress zone"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Digits separate in weeks 7-8 when the interdigital tissue undergoes programmed cell death (apoptosis).",
+        "whyCorrect": "During weeks 7-8, the tissue between the developing digits undergoes apoptosis, separating the webbed digits into individual fingers and toes. Failure of this process leaves the digits joined.",
+        "whyWrongByChoice": {
+          "B": "Primary ossification centers appear in long bones at the end of week 8 and do not separate digits.",
+          "C": "Chondrification centers (weeks 5-6) form the hyaline cartilage models of the bones.",
+          "D": "Lateral rotation of the upper limb sets compartment positions; it does not separate digits.",
+          "E": "Progress-zone proliferation drives limb outgrowth under AER signals rather than digit separation."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "digit separation",
+        "apoptosis",
+        "limb development"
+      ],
+      "topicId": "development-of-the-musculoskeletal-system",
+      "topicName": "Development of the Musculoskeletal System",
+      "tier": "core"
+    },
+    {
+      "id": "mk05-011",
+      "stem": "A 4-month-old girl undergoes skull CT, which shows that her sagittal suture has fused prematurely while all other sutures remain open. As her brain continues to grow, which head shape is most likely to develop?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Asymmetric, with one side of the forehead flattened"
+        },
+        {
+          "label": "B",
+          "text": "Long front-to-back and narrowed side-to-side"
+        },
+        {
+          "label": "C",
+          "text": "Normal shape, because the fontanelles compensate"
+        },
+        {
+          "label": "D",
+          "text": "Short front-to-back and widened side-to-side"
+        },
+        {
+          "label": "E",
+          "text": "Uniformly small, with growth restricted in all planes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Craniosynostosis restricts skull growth perpendicular to the fused suture; sagittal fusion produces an elongated skull (scaphocephaly).",
+        "whyCorrect": "Premature fusion of a cranial suture restricts skull growth perpendicular to that suture. With the sagittal suture fused, transverse growth is restricted, so the expanding brain lengthens the skull anteroposteriorly, producing scaphocephaly.",
+        "whyWrongByChoice": {
+          "A": "The sagittal suture is midline, so its fusion causes a symmetric elongation rather than one-sided flattening.",
+          "C": "Fontanelles do not prevent the restricted growth perpendicular to a prematurely fused suture.",
+          "D": "Widening with anteroposterior shortening is the opposite of what sagittal fusion produces.",
+          "E": "Fusion of a single suture restricts growth in one direction, not in every plane."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "craniosynostosis",
+        "sagittal suture",
+        "scaphocephaly"
+      ],
+      "topicId": "development-of-the-musculoskeletal-system",
+      "topicName": "Development of the Musculoskeletal System",
+      "tier": "core"
+    },
+    {
+      "id": "mk05-012",
+      "stem": "A compound given to a pregnant animal selectively blocks formation of hyaline cartilage models but leaves direct differentiation of mesenchyme into osteoblasts intact. Which skull component would be most severely affected in the offspring?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bones of the cranial base"
+        },
+        {
+          "label": "B",
+          "text": "Facial bones of the viscerocranium"
+        },
+        {
+          "label": "C",
+          "text": "Fibrous sutures of the cranial vault"
+        },
+        {
+          "label": "D",
+          "text": "Frontal bone of the calvaria"
+        },
+        {
+          "label": "E",
+          "text": "Parietal bones of the calvaria"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The skull base develops primarily by endochondral ossification, whereas the calvaria and facial skeleton are mainly intramembranous.",
+        "whyCorrect": "Endochondral ossification requires a hyaline cartilage model, while intramembranous ossification does not. Bones of the skull base arise from both neural crest and paraxial mesoderm and develop primarily through endochondral ossification, so they depend on the blocked step. The calvaria and viscerocranium form mainly by intramembranous ossification.",
+        "whyWrongByChoice": {
+          "B": "Most facial bones form from neural crest by intramembranous ossification.",
+          "C": "Sutures are fibrous joints of dense connective tissue and do not depend on a cartilage model.",
+          "D": "The frontal bone is part of the calvaria, which forms primarily by intramembranous ossification.",
+          "E": "The parietal bones belong to the calvaria and form mainly by intramembranous ossification."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "skull development",
+        "endochondral ossification",
+        "cranial base"
+      ],
+      "topicId": "development-of-the-musculoskeletal-system",
+      "topicName": "Development of the Musculoskeletal System",
+      "tier": "core"
+    },
+    {
+      "id": "mk06-001",
+      "stem": "A newborn has an extra, incompletely formed toe on the lateral side of the left foot. Upregulated or ectopic expression of which signal, in which region of the limb bud, most likely contributed to this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "FGF signaling in the apical ectodermal ridge"
+        },
+        {
+          "label": "B",
+          "text": "FGFR3 signaling in the epiphyseal growth plate"
+        },
+        {
+          "label": "C",
+          "text": "Retinoic acid signaling in the progress zone"
+        },
+        {
+          "label": "D",
+          "text": "Sonic hedgehog in the zone of polarizing activity"
+        },
+        {
+          "label": "E",
+          "text": "Type I collagen synthesis in limb mesenchyme"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Polydactyly is often caused by upregulated or ectopic Sonic hedgehog (SHH) expression in the zone of polarizing activity (ZPA).",
+        "whyCorrect": "The ZPA patterns the anterior-posterior axis of the limb, and upregulation or ectopic expression of SHH there commonly produces supernumerary digits. The extra digit is often incompletely formed and lacks normal musculature, and in the foot it is usually lateral.",
+        "whyWrongByChoice": {
+          "A": "The AER directs the proximal-distal axis; its disruption causes limb reduction rather than extra digits.",
+          "B": "Activating FGFR3 mutations cause achondroplasia, not extra digits.",
+          "C": "Excess retinoic acid suppresses AER Fgf8 and progress-zone proliferation, shortening limbs rather than adding digits.",
+          "E": "Type I collagen defects cause osteogenesis imperfecta, not altered digit number."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "polydactyly",
+        "sonic hedgehog",
+        "zone of polarizing activity"
+      ],
+      "topicId": "congenital-disorders-of-the-musculoskeletal-system",
+      "topicName": "Congenital Disorders of the Musculoskeletal System",
+      "tier": "core"
+    },
+    {
+      "id": "mk06-002",
+      "stem": "An infant is born with complete absence of both upper limbs; there are no stumps or residual skeletal elements. A disruption at which point in development most likely caused this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amniotic strands constricting the limbs late in gestation"
+        },
+        {
+          "label": "B",
+          "text": "Arrest of limb growth and differentiation in week 5"
+        },
+        {
+          "label": "C",
+          "text": "Failed apoptosis of interdigital tissue in weeks 7-8"
+        },
+        {
+          "label": "D",
+          "text": "Failure of the limbs to rotate during week 7"
+        },
+        {
+          "label": "E",
+          "text": "Suppression of limb bud formation early in week 4"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Suppression of limb bud development early in week 4 produces amelia (complete absence); arrest in week 5 produces meromelia (partial absence).",
+        "whyCorrect": "Limb development depends on signaling between limb-bud mesenchyme and ectoderm during weeks 4-8. Suppression of limb bud development during the early part of the fourth week results in absence of the limb (amelia), whereas arrest or disturbance of growth during the fifth week results in partial absence (meromelia).",
+        "whyWrongByChoice": {
+          "A": "Amniotic bands typically constrict or amputate limbs that initially developed normally, not cause symmetric absence with no remnant.",
+          "B": "Arrest during week 5 produces meromelia, a partial rather than complete absence.",
+          "C": "Failed interdigital apoptosis leaves digits fused (syndactyly) but does not remove whole limbs.",
+          "D": "Rotation in week 7 affects compartment orientation, not whether the limb forms."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "amelia",
+        "meromelia",
+        "limb reduction defects"
+      ],
+      "topicId": "congenital-disorders-of-the-musculoskeletal-system",
+      "topicName": "Congenital Disorders of the Musculoskeletal System",
+      "tier": "core"
+    },
+    {
+      "id": "mk06-003",
+      "stem": "A newborn has a deep constriction ring around the left forearm, partial amputation of two fingers on the right hand, and fused toes on the right foot. The rest of the skeleton and both legs are normally formed. Which mechanism most likely explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ectopic SHH expression in the polarizing zone"
+        },
+        {
+          "label": "B",
+          "text": "Failure of one or more central digital rays"
+        },
+        {
+          "label": "C",
+          "text": "Fibrous amnion strands wrapping the fetal limbs"
+        },
+        {
+          "label": "D",
+          "text": "Gain-of-function mutation in FGFR3"
+        },
+        {
+          "label": "E",
+          "text": "Limb bud suppression early in week 4"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Amniotic band syndrome disrupts limbs that initially developed normally, causing constrictions, syndactyly and congenital amputations.",
+        "whyCorrect": "In amniotic band syndrome, the inner lining of the amniotic sac tears and releases thin fibrous strands that float in the amniotic fluid and wrap around the fetus. Around the limbs they can cause shortened digits, fused fingers or toes, and partial-to-complete congenital amputation, which fits this asymmetric, scattered pattern.",
+        "whyWrongByChoice": {
+          "A": "Ectopic SHH causes extra digits (polydactyly), not constriction rings or amputations.",
+          "B": "Failed central digital rays cause split-hand/foot malformation, with absent central digits.",
+          "D": "FGFR3 activation causes achondroplasia, with symmetric rhizomelic shortening.",
+          "E": "Early week-4 suppression causes complete absence of a limb (amelia), not scattered constrictions."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "amniotic band syndrome",
+        "congenital amputation"
+      ],
+      "topicId": "congenital-disorders-of-the-musculoskeletal-system",
+      "topicName": "Congenital Disorders of the Musculoskeletal System",
+      "tier": "core"
+    },
+    {
+      "id": "mk06-004",
+      "stem": "During a newborn examination, the examiner holds the infant's flexed hip and moves the leg outward, feeling a distinct clunk as the femoral head slips back into the acetabulum. Which examination finding has been elicited?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Asymmetric thigh folds"
+        },
+        {
+          "label": "B",
+          "text": "Pavlik reduction sign"
+        },
+        {
+          "label": "C",
+          "text": "Positive Barlow maneuver"
+        },
+        {
+          "label": "D",
+          "text": "Positive Ortolani maneuver"
+        },
+        {
+          "label": "E",
+          "text": "Positive Ponseti test"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A positive Ortolani maneuver is a clunk as a dislocated femoral head is moved outward and slips back into the socket.",
+        "whyCorrect": "In developmental dysplasia of the hip, the Ortolani maneuver moves the leg outward; a clunk as the dislocated bone slips back into place is positive. The Barlow maneuver is the reverse, pushing the hip back so the bone pops out of the socket.",
+        "whyWrongByChoice": {
+          "A": "Asymmetric thigh folds are an inspection finding, not a felt clunk, and occur in some normal babies.",
+          "B": "The Pavlik harness is a treatment device, not an examination sign.",
+          "C": "The Barlow maneuver pushes the hip back and feels it pop out, showing a dislocatable hip.",
+          "E": "Ponseti is a clubfoot treatment method, not a hip examination."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "developmental dysplasia of the hip",
+        "Ortolani maneuver"
+      ],
+      "topicId": "congenital-disorders-of-the-musculoskeletal-system",
+      "topicName": "Congenital Disorders of the Musculoskeletal System",
+      "tier": "core"
+    },
+    {
+      "id": "mk06-005",
+      "stem": "A 2-month-old firstborn girl delivered in the breech position is found on examination and ultrasound to have developmental dysplasia of the left hip. Which is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bisphosphonates and physical therapy"
+        },
+        {
+          "label": "B",
+          "text": "Closed reduction and a spica cast"
+        },
+        {
+          "label": "C",
+          "text": "Open reduction with pelvic osteotomy"
+        },
+        {
+          "label": "D",
+          "text": "Pavlik harness worn full-time"
+        },
+        {
+          "label": "E",
+          "text": "Weekly serial casting and tenotomy"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "From birth to 6 months, DDH is treated non-surgically with a Pavlik harness worn full-time, typically for 6-12 weeks.",
+        "whyCorrect": "Management of DDH is age-based. From newborn to 6 months, a Pavlik harness is worn full-time for about 6-12 weeks, positioning the hips in flexion and abduction to center the femoral head in the acetabulum. Closed reduction is used at 6-18 months and open reduction at 18 months to 6 years.",
+        "whyWrongByChoice": {
+          "A": "Bisphosphonates are used in osteogenesis imperfecta, not DDH.",
+          "B": "Closed reduction with a spica cast is used from 6 to 18 months of age.",
+          "C": "Open reduction with osteotomy is reserved for children 18 months to 6 years old.",
+          "E": "Serial casting with Achilles tenotomy is the Ponseti treatment for clubfoot."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "developmental dysplasia of the hip",
+        "Pavlik harness"
+      ],
+      "topicId": "congenital-disorders-of-the-musculoskeletal-system",
+      "topicName": "Congenital Disorders of the Musculoskeletal System",
+      "tier": "core"
+    },
+    {
+      "id": "mk06-006",
+      "stem": "A newborn boy has both feet held with the soles turned toward the midline and the feet inverted, preventing normal weight bearing. Imaging shows that all bones of the feet are present. Which is the most appropriate initial management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Early surgical osteotomy of the tarsals"
+        },
+        {
+          "label": "B",
+          "text": "Observation until walking begins"
+        },
+        {
+          "label": "C",
+          "text": "Pavlik harness worn full-time"
+        },
+        {
+          "label": "D",
+          "text": "Spica cast after closed reduction"
+        },
+        {
+          "label": "E",
+          "text": "Weekly serial manipulation and casting"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Clubfoot (talipes equinovarus) is treated first with the Ponseti method of weekly serial manipulation and casting.",
+        "whyCorrect": "In clubfoot, all anatomical structures are present, so most cases can be corrected without major surgery. The Ponseti method, the gold standard, uses weekly serial manipulation and casting for several months, often followed by a minor Achilles tenotomy and then a foot abduction brace to prevent relapse.",
+        "whyWrongByChoice": {
+          "A": "Because the structures are present, positioning methods rather than bone surgery are first line.",
+          "B": "Active non-surgical correction, not observation, is the standard approach.",
+          "C": "The Pavlik harness treats developmental dysplasia of the hip in infants under 6 months.",
+          "D": "Closed reduction with a spica cast is a DDH treatment for infants 6-18 months old."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "clubfoot",
+        "talipes equinovarus",
+        "Ponseti method"
+      ],
+      "topicId": "congenital-disorders-of-the-musculoskeletal-system",
+      "topicName": "Congenital Disorders of the Musculoskeletal System",
+      "tier": "core"
+    },
+    {
+      "id": "mk06-007",
+      "stem": "A 6-year-old girl has had multiple fractures from minor falls since she began walking. She has blue sclerae and conductive hearing loss, and her mother had a similar childhood history. Analysis of the relevant matrix protein produced by her cells would most likely show which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complete absence of type I collagen production"
+        },
+        {
+          "label": "B",
+          "text": "Normal type I collagen with excess type III collagen"
+        },
+        {
+          "label": "C",
+          "text": "Overproduction of structurally normal type I collagen"
+        },
+        {
+          "label": "D",
+          "text": "Structurally abnormal chains from glycine substitution"
+        },
+        {
+          "label": "E",
+          "text": "Structurally normal type I collagen at half the amount"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In type I osteogenesis imperfecta, type I collagen is normal in structure but reduced to half the usual quantity (haploinsufficiency).",
+        "whyCorrect": "Type I OI presents with a normal appearance at birth and fractures during infancy and when the child learns to walk, with blue sclerae and hearing loss from fractures and fusion of middle ear bones. In this type, the type I collagen is normal but its quantity is reduced by half, a haploinsufficiency.",
+        "whyWrongByChoice": {
+          "A": "Collagen is reduced, not absent, in type I OI.",
+          "B": "The lecture describes a defect in type I collagen quantity, not excess type III collagen.",
+          "C": "Collagen is decreased, not overproduced, in osteogenesis imperfecta.",
+          "D": "Glycine substitution producing abnormal collagen characterizes the usually lethal type II OI."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "osteogenesis imperfecta",
+        "type I collagen",
+        "haploinsufficiency"
+      ],
+      "topicId": "congenital-disorders-of-the-musculoskeletal-system",
+      "topicName": "Congenital Disorders of the Musculoskeletal System",
+      "tier": "core"
+    },
+    {
+      "id": "mk06-008",
+      "stem": "A 3-year-old boy has had four fractures after minimal trauma and has bluish sclerae. His father had many fractures as a child. A mutation in which gene is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CA2"
+        },
+        {
+          "label": "B",
+          "text": "COL1A1"
+        },
+        {
+          "label": "C",
+          "text": "EVC"
+        },
+        {
+          "label": "D",
+          "text": "FGFR3"
+        },
+        {
+          "label": "E",
+          "text": "GH1"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Osteogenesis imperfecta is primarily caused by autosomal dominant mutations in COL1A1 or COL1A2, affecting type I collagen synthesis.",
+        "whyCorrect": "Osteogenesis imperfecta (brittle bone disease) is primarily caused by autosomal dominant mutations in COL1A1 or COL1A2 that affect type I collagen synthesis. Type I collagen predominates in bone, sclerae, dentin, tendons and skin, explaining fragile bones and blue sclerae.",
+        "whyWrongByChoice": {
+          "A": "CA2 (carbonic anhydrase II) mutations cause some forms of osteopetrosis.",
+          "C": "EVC mutations cause Ellis-van Creveld syndrome, with polydactyly and short limbs.",
+          "D": "FGFR3 gain-of-function mutations cause achondroplasia.",
+          "E": "GH1 mutations cause congenital growth hormone deficiency with proportionate short stature."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "osteogenesis imperfecta",
+        "COL1A1"
+      ],
+      "topicId": "congenital-disorders-of-the-musculoskeletal-system",
+      "topicName": "Congenital Disorders of the Musculoskeletal System",
+      "tier": "core"
+    },
+    {
+      "id": "mk06-009",
+      "stem": "A 5-year-old boy has diffusely sclerotic, dense bones that nonetheless fracture easily. Genetic testing reveals a mutation that prevents osteoclasts from acidifying their resorption pits, so calcium hydroxyapatite cannot be dissolved. Which enzyme is most likely affected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alkaline phosphatase"
+        },
+        {
+          "label": "B",
+          "text": "Carbonic anhydrase II"
+        },
+        {
+          "label": "C",
+          "text": "Collagen alpha-1(I) chain"
+        },
+        {
+          "label": "D",
+          "text": "Fibroblast growth factor receptor 3"
+        },
+        {
+          "label": "E",
+          "text": "Lysyl hydroxylase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Many osteopetrosis mutations, such as those in carbonic anhydrase II, impair acidification of the osteoclast resorption pit.",
+        "whyCorrect": "Osteopetrosis results from impaired formation or function of osteoclasts, with reduced bone resorption and diffuse skeletal sclerosis. Most mutations interfere with acidification of the resorption pit; carbonic anhydrase 2 is required for dissolving calcium hydroxyapatite within the matrix.",
+        "whyWrongByChoice": {
+          "A": "Alkaline phosphatase is not the enzyme the lecture links to resorption-pit acidification.",
+          "C": "COL1A1 encodes a type I collagen chain; its mutations cause osteogenesis imperfecta.",
+          "D": "FGFR3 is a receptor whose activation causes achondroplasia.",
+          "E": "Lysyl hydroxylase is a collagen-processing enzyme, not an osteoclast acidification enzyme."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "osteopetrosis",
+        "carbonic anhydrase II",
+        "osteoclast"
+      ],
+      "topicId": "congenital-disorders-of-the-musculoskeletal-system",
+      "topicName": "Congenital Disorders of the Musculoskeletal System",
+      "tier": "core"
+    },
+    {
+      "id": "mk06-010",
+      "stem": "A 7-month-old boy with severe osteopetrosis is scheduled for a bone marrow transplant from a healthy matched donor. Which best explains how this treatment is expected to help his skeletal disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Donor lymphocytes will suppress excess bone formation"
+        },
+        {
+          "label": "B",
+          "text": "Donor marrow will supply normal FGFR3 to chondrocytes"
+        },
+        {
+          "label": "C",
+          "text": "Donor monocytes will differentiate into working osteoclasts"
+        },
+        {
+          "label": "D",
+          "text": "Donor osteoblasts will deposit normally mineralized bone"
+        },
+        {
+          "label": "E",
+          "text": "Donor stem cells will restore normal type I collagen"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Bone marrow transplant treats osteopetrosis because osteoclasts derive from monocytes, so donor monocytes can form functioning osteoclasts.",
+        "whyCorrect": "Osteopetrosis results from impaired osteoclast formation or function. Because osteoclasts are formed from monocytes, a type of white blood cell, healthy donor monocytes can differentiate into functioning osteoclasts and help restore the balance between osteoclasts and osteoblasts.",
+        "whyWrongByChoice": {
+          "A": "The goal is restoring resorption by osteoclasts, not suppressing bone formation with lymphocytes.",
+          "B": "FGFR3 is the receptor involved in achondroplasia, not osteopetrosis.",
+          "D": "The defect is in osteoclast resorption, not in osteoblast bone deposition.",
+          "E": "Type I collagen defects underlie osteogenesis imperfecta, not osteopetrosis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "osteopetrosis",
+        "bone marrow transplant",
+        "osteoclast"
+      ],
+      "topicId": "congenital-disorders-of-the-musculoskeletal-system",
+      "topicName": "Congenital Disorders of the Musculoskeletal System",
+      "tier": "core"
+    },
+    {
+      "id": "mk06-011",
+      "stem": "A 2-year-old boy has disproportionate short stature with shortened arms and thighs, a normal-sized head, and normal development. Both parents are of average height. Which genetic defect most likely underlies his condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gain-of-function mutation in COL1A2"
+        },
+        {
+          "label": "B",
+          "text": "Gain-of-function mutation in FGFR3"
+        },
+        {
+          "label": "C",
+          "text": "Loss-of-function mutation in carbonic anhydrase II"
+        },
+        {
+          "label": "D",
+          "text": "Loss-of-function mutation in COL1A1"
+        },
+        {
+          "label": "E",
+          "text": "Loss-of-function mutation in growth hormone"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Achondroplasia is caused by an autosomal dominant gain-of-function mutation in FGFR3, most often arising sporadically.",
+        "whyCorrect": "Achondroplasia results from an activating mutation in fibroblast growth factor receptor 3. Although it is heritable and autosomal dominant, most FGFR3 mutations are sporadic, so affected children often have parents of average height. Affected individuals have normal mentation and average life spans.",
+        "whyWrongByChoice": {
+          "A": "COL1A2 mutations affect type I collagen and cause osteogenesis imperfecta, not achondroplasia.",
+          "C": "Carbonic anhydrase II mutations cause osteopetrosis.",
+          "D": "COL1A1 mutations cause osteogenesis imperfecta, with fragile bones rather than rhizomelic dwarfism.",
+          "E": "Congenital GH deficiency causes proportionate, not disproportionate, short stature."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "achondroplasia",
+        "FGFR3"
+      ],
+      "topicId": "congenital-disorders-of-the-musculoskeletal-system",
+      "topicName": "Congenital Disorders of the Musculoskeletal System",
+      "tier": "core"
+    },
+    {
+      "id": "mk06-012",
+      "stem": "A newborn with trisomy 21 is noted to have two adjacent fingers of the right hand joined by skin along their entire length. Which term describes this limb anomaly?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amelia"
+        },
+        {
+          "label": "B",
+          "text": "Phocomelia"
+        },
+        {
+          "label": "C",
+          "text": "Polydactyly"
+        },
+        {
+          "label": "D",
+          "text": "Split-hand malformation"
+        },
+        {
+          "label": "E",
+          "text": "Syndactyly"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Syndactyly is fusion of adjacent fingers or toes and is most commonly seen in genetic syndromes such as trisomy 21.",
+        "whyCorrect": "Syndactyly is fusion of adjacent digits, either cutaneous (webbed) or osseous (bony). It is most commonly seen in genetic syndromes such as trisomy 21 (Down syndrome).",
+        "whyWrongByChoice": {
+          "A": "Amelia is complete absence of a limb.",
+          "B": "Phocomelia is severe shortening or absence of proximal long bones, with hands or feet attached to the trunk.",
+          "C": "Polydactyly is the presence of extra digits.",
+          "D": "Split-hand malformation is absence of central digits, not fusion."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "syndactyly",
+        "trisomy 21"
+      ],
+      "topicId": "congenital-disorders-of-the-musculoskeletal-system",
+      "topicName": "Congenital Disorders of the Musculoskeletal System",
+      "tier": "core"
+    },
+    {
+      "id": "mk07-001",
+      "stem": "A 27-year-old man is brought to the emergency department with sudden severe abdominal pain and hypotension. CT shows a ruptured visceral artery aneurysm. He has thin, translucent skin and has bruised easily since childhood. His mother died at age 35 of a spontaneous arterial rupture. A defect in which of the following proteins is the most likely underlying cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fibrillin 1 protein"
+        },
+        {
+          "label": "B",
+          "text": "Tropoelastin chains"
+        },
+        {
+          "label": "C",
+          "text": "Type I collagen"
+        },
+        {
+          "label": "D",
+          "text": "Type III collagen"
+        },
+        {
+          "label": "E",
+          "text": "Type V collagen"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Vascular EDS is an autosomal dominant defect of type III collagen that weakens arterial walls.",
+        "whyCorrect": "Arterial aneurysm and rupture with fragile skin and an affected parent point to vascular EDS. Vascular EDS is caused by autosomal dominant abnormal type III collagen (COL3A1), and type III collagen in arteries is the tissue most often clinically affected, leading to aneurysm, dissection and fatal bleeding.",
+        "whyWrongByChoice": {
+          "A": "Fibrillin 1 (FBN1) is mutated in Marfan syndrome, which causes aortic root disease, lens dislocation and tall stature rather than fragile translucent skin with visceral artery rupture.",
+          "B": "Tropoelastin is the elastin precursor whose multimerization depends on fibrillin; its assembly is disrupted secondarily in Marfan syndrome, not EDS.",
+          "C": "COL1A1 is only a rare cause of vascular EDS; the usual defect is in type III collagen.",
+          "E": "Type V collagen mutations cause classical EDS, which presents mainly with skin and joint findings rather than arterial rupture."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "EDS",
+        "vascular EDS",
+        "collagen III"
+      ],
+      "topicId": "ehlers-danlos-syndrome-and-marfan-syndrome",
+      "topicName": "Ehlers-Danlos Syndrome and Marfan Syndrome",
+      "tier": "core"
+    },
+    {
+      "id": "mk07-002",
+      "stem": "A 15-year-old girl is evaluated for skin that stretches easily and joints in her hands and knees that bend far beyond normal range. She bruises easily and has a sideways curvature of the spine. Echocardiography shows mitral valve prolapse. She has had no arterial or bowel complications. Mutation of which of the following genes is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "FBN1"
+        },
+        {
+          "label": "B",
+          "text": "COL2A1"
+        },
+        {
+          "label": "C",
+          "text": "COL3A1"
+        },
+        {
+          "label": "D",
+          "text": "COL4A5"
+        },
+        {
+          "label": "E",
+          "text": "COL5A1"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Classical EDS is usually caused by COL5A1/COL5A2 (type V collagen) mutations.",
+        "whyCorrect": "Stretchy skin, joint hypermobility, scoliosis, mitral valve prolapse and easy bruising without vascular catastrophes is classical EDS. The genes affected in classical EDS are COL5A1 and COL5A2 (with COL1A1 a rare cause), encoding type V collagen.",
+        "whyWrongByChoice": {
+          "A": "FBN1 mutations cause Marfan syndrome, which features tall stature, long digits and lens dislocation rather than stretchy, fragile skin.",
+          "B": "COL2A1 is not among the genes listed for either EDS subtype; classical EDS involves COL5A1, COL5A2 and rarely COL1A1.",
+          "C": "COL3A1 causes vascular EDS, which is dominated by arterial, intestinal and uterine rupture.",
+          "D": "COL4A5 is not among the genes listed for EDS; classical EDS involves type V collagen genes."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "EDS",
+        "classical EDS",
+        "genetics"
+      ],
+      "topicId": "ehlers-danlos-syndrome-and-marfan-syndrome",
+      "topicName": "Ehlers-Danlos Syndrome and Marfan Syndrome",
+      "tier": "core"
+    },
+    {
+      "id": "mk07-003",
+      "stem": "A 19-year-old man who is much taller and thinner than his relatives has long fingers, hyperflexible joints and an upwardly displaced lens in each eye. Genetic analysis identifies a mutation in a gene on chromosome 15. The normal protein product of this gene primarily functions to do which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cleave the terminal regions of procollagen"
+        },
+        {
+          "label": "B",
+          "text": "Cross-link adjacent procollagen molecules"
+        },
+        {
+          "label": "C",
+          "text": "Form interstitial fibrils with type I collagen"
+        },
+        {
+          "label": "D",
+          "text": "Scaffold the multimerization of tropoelastin"
+        },
+        {
+          "label": "E",
+          "text": "Stabilize the mRNA of type III collagen"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Fibrillin 1 is a glycoprotein scaffold that directs tropoelastin multimerization into elastin.",
+        "whyCorrect": "This is Marfan syndrome, caused by FBN1 mutation on chromosome 15. Fibrillin is a glycoprotein that forms a scaffold for elastin in connective tissue and is responsible for proper multimerization of tropoelastin, so FBN1 mutation results in defective elastin.",
+        "whyWrongByChoice": {
+          "A": "Cleavage of procollagen terminal regions is a collagen-processing step affected in EDS.",
+          "B": "Cross-linkage of adjacent molecules is a late step of collagen synthesis that can be disrupted in EDS, not the role of fibrillin.",
+          "C": "Forming fibrils with type I collagen describes type V collagen, the protein defective in classical EDS.",
+          "E": "Unstable collagen mRNA is one molecular mechanism of EDS that lowers collagen III or V output."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Marfan",
+        "FBN1",
+        "fibrillin",
+        "elastin"
+      ],
+      "topicId": "ehlers-danlos-syndrome-and-marfan-syndrome",
+      "topicName": "Ehlers-Danlos Syndrome and Marfan Syndrome",
+      "tier": "core"
+    },
+    {
+      "id": "mk07-004",
+      "stem": "A 12-year-old boy with tall stature and long, slender fingers reports that distant objects have become blurry over the past year. Slit-lamp examination shows that both lenses are displaced from their normal position. In which direction is the displacement most characteristic of his likely disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Downward and inward"
+        },
+        {
+          "label": "B",
+          "text": "Downward and outward"
+        },
+        {
+          "label": "C",
+          "text": "Straight backward"
+        },
+        {
+          "label": "D",
+          "text": "Upward and inward"
+        },
+        {
+          "label": "E",
+          "text": "Upward and outward"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Lens subluxation in Marfan syndrome characteristically moves up and out, causing myopia.",
+        "whyCorrect": "Tall stature with arachnodactyly and lens displacement indicates Marfan syndrome. Patients may have subluxation of the lens leading to myopia (nearsightedness), and characteristically the lens moves up and out.",
+        "whyWrongByChoice": {
+          "A": "Downward-and-inward displacement is not the pattern described for Marfan syndrome, whose lenses move up and out.",
+          "B": "The outward component is right, but the Marfan lens characteristically moves upward, not downward.",
+          "C": "Posterior displacement is not the characteristic Marfan pattern; the lens moves up and out.",
+          "D": "The upward component is right, but the Marfan lens characteristically moves outward, not inward."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Marfan",
+        "eye",
+        "lens subluxation"
+      ],
+      "topicId": "ehlers-danlos-syndrome-and-marfan-syndrome",
+      "topicName": "Ehlers-Danlos Syndrome and Marfan Syndrome",
+      "tier": "core"
+    },
+    {
+      "id": "mk07-005",
+      "stem": "A 22-year-old woman with Marfan syndrome has an aortic root diameter of 4.2 cm on routine echocardiography. She is asymptomatic and her valves are competent. Which of the following medications is recommended to reduce stress on her aorta?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Desmopressin"
+        },
+        {
+          "label": "B",
+          "text": "Hydralazine"
+        },
+        {
+          "label": "C",
+          "text": "Losartan"
+        },
+        {
+          "label": "D",
+          "text": "Prednisone"
+        },
+        {
+          "label": "E",
+          "text": "Warfarin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Marfan aortic disease is treated medically with beta-blockers, angiotensin receptor blockers, or both to lower aortic stress.",
+        "whyCorrect": "For Marfan aortic disease, medical treatment with beta-blockers, angiotensin receptor blockers (such as losartan), or both is recommended to reduce aortic stress, alongside routine echocardiograms and avoidance of contact sports and strenuous exercise.",
+        "whyWrongByChoice": {
+          "A": "Desmopressin may help the bleeding tendency of EDS; it is not used to reduce aortic stress.",
+          "B": "Hydralazine is not among the agents recommended; aortic stress in Marfan is reduced with beta-blockers and/or ARBs.",
+          "D": "Prednisone has no role in Marfan aortic disease; the recommended agents are beta-blockers and/or ARBs.",
+          "E": "Warfarin is an anticoagulant; it does not reduce aortic stress, and EDS patients are specifically told to avoid it because it increases bleeding."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Marfan",
+        "aortic disease",
+        "management"
+      ],
+      "topicId": "ehlers-danlos-syndrome-and-marfan-syndrome",
+      "topicName": "Ehlers-Danlos Syndrome and Marfan Syndrome",
+      "tier": "core"
+    },
+    {
+      "id": "mk07-006",
+      "stem": "A 30-year-old man with Marfan syndrome has taken a beta-blocker for 6 years. Serial echocardiograms show steady enlargement of an aortic root aneurysm, which now measures 5.1 cm. He has no chest pain and no signs of dissection. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Add an ARB and repeat echo in one year"
+        },
+        {
+          "label": "B",
+          "text": "Elective prophylactic surgical repair"
+        },
+        {
+          "label": "C",
+          "text": "Observe and reimage only if symptoms arise"
+        },
+        {
+          "label": "D",
+          "text": "Replace the beta-blocker with warfarin"
+        },
+        {
+          "label": "E",
+          "text": "Start desmopressin and avoid all trauma"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Prophylactic aortic repair is recommended in Marfan syndrome once the aneurysm is 5 cm or larger.",
+        "whyCorrect": "Medical therapy and routine echocardiography are used to monitor and slow aortic disease, but prophylactic aortic repair is recommended when the aneurysm reaches 5 cm or more. At 5.1 cm this patient meets that threshold even though he is asymptomatic.",
+        "whyWrongByChoice": {
+          "A": "Adding an ARB is reasonable medical therapy, but at 5 cm or larger prophylactic repair is recommended rather than another year of observation.",
+          "C": "Aortic disease may progress silently, so waiting for symptoms is unsafe; an aneurysm of 5 cm or more warrants prophylactic repair.",
+          "D": "Warfarin does not reduce aortic stress and would not address an aneurysm that has reached the repair threshold.",
+          "E": "Desmopressin and trauma avoidance are supportive measures for the EDS bleeding tendency, not management of a Marfan aneurysm."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Marfan",
+        "aortic aneurysm",
+        "surgery threshold"
+      ],
+      "topicId": "ehlers-danlos-syndrome-and-marfan-syndrome",
+      "topicName": "Ehlers-Danlos Syndrome and Marfan Syndrome",
+      "tier": "core"
+    },
+    {
+      "id": "mk07-007",
+      "stem": "Two patients are evaluated in a connective-tissue clinic. Patient 1 has stretchy skin and hypermobile joints suggestive of classical EDS. Patient 2 is tall with long digits, lens subluxation and a family history suggestive of Marfan syndrome. Which of the following statements about establishing each diagnosis is most accurate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Both are confirmed by echocardiographic findings"
+        },
+        {
+          "label": "B",
+          "text": "Both require a positive gene test for confirmation"
+        },
+        {
+          "label": "C",
+          "text": "Both require an affected parent for confirmation"
+        },
+        {
+          "label": "D",
+          "text": "EDS requires a gene test; Marfan rests on clinical criteria"
+        },
+        {
+          "label": "E",
+          "text": "Marfan requires an FBN1 test; EDS rests on clinical findings"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "EDS suspicion must be confirmed by genetic testing, whereas Marfan syndrome is diagnosed clinically and an FBN1 mutation only supports it.",
+        "whyCorrect": "EDS is suspected from history and examination, but clinical suspicion must then be confirmed by genetic testing. In contrast, Marfan syndrome diagnosis is based on family history, clinical history and examination; an FBN1 finding supports the diagnosis but is not required to confirm it.",
+        "whyWrongByChoice": {
+          "A": "Echocardiography monitors aortic and valvular disease but does not confirm either diagnosis.",
+          "B": "An FBN1 mutation supports Marfan syndrome but is not required, so a positive gene test is not mandatory for both.",
+          "C": "Both disorders frequently arise de novo (about 50% of classical EDS and 25% of Marfan), so an affected parent is not required.",
+          "E": "This reverses the two: EDS is the disorder that requires genetic confirmation, while Marfan does not require an FBN1 result."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "EDS",
+        "Marfan",
+        "diagnosis"
+      ],
+      "topicId": "ehlers-danlos-syndrome-and-marfan-syndrome",
+      "topicName": "Ehlers-Danlos Syndrome and Marfan Syndrome",
+      "tier": "core"
+    },
+    {
+      "id": "mk07-008",
+      "stem": "A 31-year-old woman with vascular EDS confirmed by a COL3A1 mutation is now 34 weeks pregnant and asks which delivery-related complication poses the greatest danger to her because of her collagen defect. Which of the following is the most appropriate answer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gestational diabetes"
+        },
+        {
+          "label": "B",
+          "text": "Placenta previa"
+        },
+        {
+          "label": "C",
+          "text": "Postpartum thyroiditis"
+        },
+        {
+          "label": "D",
+          "text": "Preeclampsia"
+        },
+        {
+          "label": "E",
+          "text": "Uterine rupture"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Type III collagen in the uterus makes uterine rupture a major obstetric risk in vascular EDS.",
+        "whyCorrect": "Type III collagen is found in arteries, skin, intestine and the uterus, so vascular EDS can cause uterine rupture as well as rupture of major vessels. Obstetric complications of EDS include uterine rupture and premature delivery, and childbirth can be catastrophic for these patients.",
+        "whyWrongByChoice": {
+          "A": "Gestational diabetes is not related to defective collagen and is not listed among EDS obstetric complications.",
+          "B": "Placenta previa is not a complication tied to the type III collagen defect.",
+          "C": "Postpartum thyroiditis is unrelated to collagen structure.",
+          "D": "Preeclampsia is not described as a consequence of the collagen defect in EDS."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "EDS",
+        "vascular EDS",
+        "pregnancy"
+      ],
+      "topicId": "ehlers-danlos-syndrome-and-marfan-syndrome",
+      "topicName": "Ehlers-Danlos Syndrome and Marfan Syndrome",
+      "tier": "core"
+    },
+    {
+      "id": "mk07-009",
+      "stem": "Fibroblasts cultured from a patient with EDS translate procollagen chains normally, modify them normally inside the cell and secrete them normally. However, the secreted procollagen accumulates in the extracellular space and is not converted to collagen. Which step of collagen synthesis is most likely defective?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cleavage of procollagen terminal regions"
+        },
+        {
+          "label": "B",
+          "text": "Intracellular modification of procollagen"
+        },
+        {
+          "label": "C",
+          "text": "Packaging of procollagen for exocytosis"
+        },
+        {
+          "label": "D",
+          "text": "Transcription of collagen DNA into mRNA"
+        },
+        {
+          "label": "E",
+          "text": "Translation of the procollagen backbone"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "EDS can disrupt the extracellular cleavage of the disulfide-rich terminal regions of procollagen (step 5) and the later cross-linking step (step 6).",
+        "whyCorrect": "Collagen is translated as a procollagen backbone, modified inside the cell, exocytosed and then processed outside the cell. EDS can affect step 5, the cleavage of the disulfide-rich terminal regions of procollagen into collagen, and step 6, cross-linkage into fibers. Failure to convert secreted procollagen to collagen points to step 5.",
+        "whyWrongByChoice": {
+          "B": "Intracellular post-translational modification (steps 2-3) is stated to be normal.",
+          "C": "Secretion is normal; the problem arises after exocytosis, in the extracellular conversion of procollagen.",
+          "D": "Transcription is intact because procollagen is translated and secreted in normal amounts.",
+          "E": "Translation (step 1) is normal here, since procollagen chains are produced."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "EDS",
+        "collagen synthesis",
+        "molecular"
+      ],
+      "topicId": "ehlers-danlos-syndrome-and-marfan-syndrome",
+      "topicName": "Ehlers-Danlos Syndrome and Marfan Syndrome",
+      "tier": "core"
+    },
+    {
+      "id": "mk07-010",
+      "stem": "A 24-year-old man with Marfan syndrome has progressive aortic root dilation. Besides the structural defect in elastin, his FBN1 mutation secondarily raises the level of a signaling molecule that drives aortic and pulmonary vascular pathology. Which of the following molecules is it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Insulin-like growth factor 1"
+        },
+        {
+          "label": "B",
+          "text": "Platelet-derived growth factor"
+        },
+        {
+          "label": "C",
+          "text": "Transforming growth factor beta"
+        },
+        {
+          "label": "D",
+          "text": "Tumor necrosis factor alpha"
+        },
+        {
+          "label": "E",
+          "text": "Vascular endothelial growth factor"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "FBN1 mutation secondarily increases TGF-beta, contributing to aortic and pulmonary vascular disease.",
+        "whyCorrect": "Fibrillin 1 forms the scaffold for elastin, so FBN1 mutation produces defective elastin. In addition, the mutation secondarily increases levels of transforming growth factor beta (TGF-beta), leading to aortic and pulmonary vascular pathology.",
+        "whyWrongByChoice": {
+          "A": "IGF-1 is not described in Marfan pathogenesis; TGF-beta is the secondarily elevated molecule.",
+          "B": "PDGF is not implicated; the secondary increase is in TGF-beta.",
+          "D": "TNF-alpha is not the molecule the lecture links to FBN1 mutation; TGF-beta is.",
+          "E": "VEGF is not described as rising in Marfan syndrome; TGF-beta drives the vascular pathology."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Marfan",
+        "TGF-beta",
+        "pathogenesis"
+      ],
+      "topicId": "ehlers-danlos-syndrome-and-marfan-syndrome",
+      "topicName": "Ehlers-Danlos Syndrome and Marfan Syndrome",
+      "tier": "core"
+    },
+    {
+      "id": "mk07-011",
+      "stem": "A 24-year-old woman with classical EDS has prolonged bleeding after a dental extraction and bruises with minor bumps. Coagulation studies are unremarkable. Which of the following medications may help her bleeding tendency?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Desmopressin"
+        },
+        {
+          "label": "B",
+          "text": "Heparin"
+        },
+        {
+          "label": "C",
+          "text": "Losartan"
+        },
+        {
+          "label": "D",
+          "text": "Metoprolol"
+        },
+        {
+          "label": "E",
+          "text": "Warfarin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Desmopressin may help the bleeding tendency of EDS; heparin and warfarin should be avoided.",
+        "whyCorrect": "EDS management is supportive. For the bleeding tendency, desmopressin may help, and patients should be advised to avoid trauma and medications that further increase bleeding, such as heparin and warfarin.",
+        "whyWrongByChoice": {
+          "B": "Heparin increases bleeding and is specifically listed as a medication EDS patients should avoid.",
+          "C": "Losartan, an ARB, is used to reduce aortic stress in Marfan syndrome, not to treat bleeding.",
+          "D": "Metoprolol, a beta-blocker, is used to reduce aortic stress in Marfan syndrome, not to treat bleeding.",
+          "E": "Warfarin increases bleeding and is specifically listed as a medication EDS patients should avoid."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "EDS",
+        "bleeding",
+        "management"
+      ],
+      "topicId": "ehlers-danlos-syndrome-and-marfan-syndrome",
+      "topicName": "Ehlers-Danlos Syndrome and Marfan Syndrome",
+      "tier": "core"
+    },
+    {
+      "id": "mk07-012",
+      "stem": "A 52-year-old man and his 25-year-old son carry the identical FBN1 mutation. The father has only tall stature and mild nearsightedness, whereas the son has had an aortic dissection, lens subluxation and pectus carinatum. Which genetic principle best explains the difference in severity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autosomal recessive inheritance"
+        },
+        {
+          "label": "B",
+          "text": "De novo mutation"
+        },
+        {
+          "label": "C",
+          "text": "Incomplete penetrance"
+        },
+        {
+          "label": "D",
+          "text": "Variable expressivity"
+        },
+        {
+          "label": "E",
+          "text": "X-linked inheritance"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Marfan syndrome is autosomal dominant with variable expressivity: the same mutation causes differing severity.",
+        "whyCorrect": "Marfan syndrome is inherited in autosomal dominant fashion with variable expressivity, meaning that two people with the same defective gene can differ in how severe their disease is. Both father and son are affected, but to different degrees.",
+        "whyWrongByChoice": {
+          "A": "Marfan syndrome is autosomal dominant, and a single inherited copy explains disease in both.",
+          "B": "The son inherited the mutation from his affected father, so it is not de novo.",
+          "C": "The father shows features of the disorder, so the gene is penetrant; only its severity differs.",
+          "E": "Marfan syndrome is autosomal dominant (FBN1 on chromosome 15), not X-linked, and father-to-son transmission argues against X-linkage."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Marfan",
+        "genetics",
+        "variable expressivity"
+      ],
+      "topicId": "ehlers-danlos-syndrome-and-marfan-syndrome",
+      "topicName": "Ehlers-Danlos Syndrome and Marfan Syndrome",
+      "tier": "core"
+    },
+    {
+      "id": "mk08-001",
+      "stem": "A 70-year-old woman breaks her distal radius after falling from standing height. She has no bone pain otherwise and takes no medications. Serum calcium, phosphate, alkaline phosphatase, PTH and 25-hydroxyvitamin D are all within normal limits. Which of the following is the most likely underlying diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Osteomalacia"
+        },
+        {
+          "label": "B",
+          "text": "Osteoporosis"
+        },
+        {
+          "label": "C",
+          "text": "Paget disease"
+        },
+        {
+          "label": "D",
+          "text": "Primary hyperparathyroidism"
+        },
+        {
+          "label": "E",
+          "text": "Secondary hyperparathyroidism"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Osteoporosis causes fragility fractures with normal serum calcium, phosphate and alkaline phosphatase.",
+        "whyCorrect": "Osteoporosis is often asymptomatic until a fragility fracture occurs at sites such as the vertebrae, hip or distal radius (Colles fracture). Serum calcium, phosphate and alkaline phosphatase are typically normal; labs serve mainly to look for secondary causes.",
+        "whyWrongByChoice": {
+          "A": "Osteomalacia typically shows low 25-hydroxyvitamin D, calcium and phosphate.",
+          "C": "Paget disease characteristically raises bone alkaline phosphatase.",
+          "D": "Primary hyperparathyroidism shows high PTH, high calcium and elevated bone alkaline phosphatase.",
+          "E": "Secondary hyperparathyroidism shows elevated PTH, bone alkaline phosphatase and phosphate with low calcium."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "osteoporosis",
+        "labs",
+        "fragility fracture"
+      ],
+      "topicId": "acquired-bone-disorders",
+      "topicName": "Acquired Bone Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk08-002",
+      "stem": "A 60-year-old postmenopausal woman with no prior fractures undergoes dual-energy x-ray absorptiometry. Her T-score at the lumbar spine is -2.7. Which of the following best describes her bone status?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Normal bone density"
+        },
+        {
+          "label": "B",
+          "text": "Osteomalacia"
+        },
+        {
+          "label": "C",
+          "text": "Osteopenia"
+        },
+        {
+          "label": "D",
+          "text": "Osteoporosis"
+        },
+        {
+          "label": "E",
+          "text": "Paget disease"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A DEXA T-score of -2.5 or lower is sufficient to diagnose osteoporosis.",
+        "whyCorrect": "The T-score compares a patient's BMD with the mean for healthy young adults of the same sex and ethnicity. A T-score of -2.5 or lower means BMD is at least 2.5 standard deviations below that mean and is sufficient to diagnose osteoporosis.",
+        "whyWrongByChoice": {
+          "A": "A T-score of -2.7 is far below the normal range.",
+          "B": "Osteomalacia is a mineralization defect diagnosed by low vitamin D, calcium and phosphate with pseudofractures, not by T-score alone.",
+          "C": "Osteopenia corresponds to T-scores between -1.0 and -2.5; -2.7 is below that band.",
+          "E": "Paget disease causes thick, sclerotic bone with high bone alkaline phosphatase, not low BMD."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "osteoporosis",
+        "DEXA",
+        "T-score"
+      ],
+      "topicId": "acquired-bone-disorders",
+      "topicName": "Acquired Bone Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk08-003",
+      "stem": "An 82-year-old nursing-home resident has diffuse bone pain and proximal muscle weakness. Femoral radiographs show osteopenia and transverse bands of decreased density with sclerotic margins that resemble fractures. Which set of serum findings is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "High 25-OH vitamin D, low calcium, high phosphate"
+        },
+        {
+          "label": "B",
+          "text": "Low 25-OH vitamin D, high calcium, high phosphate"
+        },
+        {
+          "label": "C",
+          "text": "Low 25-OH vitamin D, low calcium, low phosphate"
+        },
+        {
+          "label": "D",
+          "text": "Normal 25-OH vitamin D, calcium and phosphate"
+        },
+        {
+          "label": "E",
+          "text": "Normal 25-OH vitamin D, high calcium, low phosphate"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Osteomalacia shows low 25-hydroxyvitamin D, calcium and phosphate with pseudofractures (looser zones).",
+        "whyCorrect": "Bone pain, muscle weakness and pseudofractures (looser zones: areas of decreased density with sclerotic margins) indicate osteomalacia. Without vitamin D, gut absorption of calcium and phosphate falls, so serum studies often show low 25-hydroxyvitamin D, calcium and phosphate. Nursing-home residents are among those at highest risk.",
+        "whyWrongByChoice": {
+          "A": "Vitamin D is deficient in osteomalacia, not elevated.",
+          "B": "Vitamin D deficiency lowers calcium and phosphate absorption, so both would be low, not high.",
+          "D": "Normal labs fit osteoporosis, which lacks pseudofractures and a mineralization defect.",
+          "E": "High calcium with low phosphate and normal vitamin D suggests primary hyperparathyroidism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "osteomalacia",
+        "labs",
+        "pseudofractures"
+      ],
+      "topicId": "acquired-bone-disorders",
+      "topicName": "Acquired Bone Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk08-004",
+      "stem": "A 2-year-old boy has short stature and bead-like swellings along the front of his rib cage at the costochondral junctions. His condition is due to vitamin D deficiency. Which feature specifically distinguishes his disorder from the vitamin D-related bone disease of adults?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chaotic woven and lamellar bone remodeling"
+        },
+        {
+          "label": "B",
+          "text": "Deficient mineralization at the epiphyseal plate"
+        },
+        {
+          "label": "C",
+          "text": "Deficient mineralization of the osteoid matrix"
+        },
+        {
+          "label": "D",
+          "text": "Increased osteoclast resorption of cortical bone"
+        },
+        {
+          "label": "E",
+          "text": "Lower bone mass with a normal mineral ratio"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Rickets is deficient mineralization at the growth plate; osteomalacia is deficient mineralization of the bone matrix.",
+        "whyCorrect": "Bead-like costochondral expansion is the rachitic rosary of rickets. Whereas osteomalacia involves deficient mineralization of the bone matrix (osteoid), rickets refers to deficient mineralization at the epiphyseal growth plate, which widens the plate and reduces growth in height.",
+        "whyWrongByChoice": {
+          "A": "A mosaic of woven and lamellar bone is the histology of Paget disease.",
+          "C": "Deficient matrix mineralization defines osteomalacia; it can coexist with rickets but does not distinguish it.",
+          "D": "Increased osteoclast resorption is the mechanism of hyperparathyroid bone disease.",
+          "E": "Reduced mass with a normal mineral-to-collagen ratio describes osteoporosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "rickets",
+        "osteomalacia",
+        "pathophysiology"
+      ],
+      "topicId": "acquired-bone-disorders",
+      "topicName": "Acquired Bone Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk08-005",
+      "stem": "A 55-year-old woman has bone pain, two recent low-trauma fractures and depressed mood. Serum calcium is high, phosphate is low-normal, PTH is elevated and bone alkaline phosphatase is elevated. Radiographs show cystic bone spaces. Kidney function is normal. Which of the following is the definitive treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cinacalcet therapy"
+        },
+        {
+          "label": "B",
+          "text": "Oral alendronate"
+        },
+        {
+          "label": "C",
+          "text": "Oral calcitriol"
+        },
+        {
+          "label": "D",
+          "text": "Parathyroidectomy"
+        },
+        {
+          "label": "E",
+          "text": "Phosphate binders"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Definitive treatment of primary hyperparathyroidism is surgical removal of the overactive parathyroid glands.",
+        "whyCorrect": "High calcium, low-normal phosphate, high PTH and high bone alkaline phosphatase with cystic bone lesions (osteitis fibrosa cystica) indicate primary hyperparathyroidism. Definitive treatment is parathyroidectomy.",
+        "whyWrongByChoice": {
+          "A": "Cinacalcet is used for PTH lowering in dialysis patients with secondary hyperparathyroidism.",
+          "B": "Bisphosphonates are first-line for osteoporosis and Paget disease, not definitive therapy for parathyroid overactivity.",
+          "C": "Calcitriol is reserved for selected patients with advanced CKD and severe secondary hyperparathyroidism.",
+          "E": "Phosphate binders treat the elevated phosphate of secondary hyperparathyroidism; phosphate is low-normal here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hyperparathyroidism",
+        "primary",
+        "treatment"
+      ],
+      "topicId": "acquired-bone-disorders",
+      "topicName": "Acquired Bone Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk08-006",
+      "stem": "A 62-year-old man with long-standing chronic kidney disease (eGFR 22 mL/min) has aching bones and joints, muscle cramps and perioral numbness. Which pattern of serum PTH, calcium and phosphate is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "High PTH, high calcium, high phosphate"
+        },
+        {
+          "label": "B",
+          "text": "High PTH, high calcium, low phosphate"
+        },
+        {
+          "label": "C",
+          "text": "High PTH, low calcium, high phosphate"
+        },
+        {
+          "label": "D",
+          "text": "High PTH, low calcium, low phosphate"
+        },
+        {
+          "label": "E",
+          "text": "Low PTH, low calcium, high phosphate"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Secondary hyperparathyroidism from CKD shows high PTH and phosphate with low calcium and vitamin D.",
+        "whyCorrect": "CKD lowers calcitriol, so calcium falls and its negative feedback on the parathyroids is reduced; the glands make more PTH. Labs show elevated PTH, bone alkaline phosphatase and phosphate, with decreased calcium and vitamin D, plus elevated creatinine and reduced eGFR.",
+        "whyWrongByChoice": {
+          "A": "Calcium is decreased in secondary hyperparathyroidism; his perioral numbness and cramps reflect hypocalcemia.",
+          "B": "High calcium with low phosphate is the pattern of primary hyperparathyroidism.",
+          "D": "Phosphate is elevated, not low, in CKD-related secondary hyperparathyroidism.",
+          "E": "PTH rises, not falls, when calcium is low in secondary hyperparathyroidism."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "hyperparathyroidism",
+        "secondary",
+        "CKD",
+        "labs"
+      ],
+      "topicId": "acquired-bone-disorders",
+      "topicName": "Acquired Bone Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk08-007",
+      "stem": "A 66-year-old man reports aching in his right shin, gradually worsening hearing in one ear and that his hats no longer fit. Serum bone alkaline phosphatase is three times the upper limit of normal; calcium and phosphate are normal. Radiographs show thickened, sclerotic bone of the skull and tibia. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypertrophic osteoarthropathy"
+        },
+        {
+          "label": "B",
+          "text": "Osteomalacia"
+        },
+        {
+          "label": "C",
+          "text": "Osteoporosis"
+        },
+        {
+          "label": "D",
+          "text": "Paget disease"
+        },
+        {
+          "label": "E",
+          "text": "Primary hyperparathyroidism"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Paget disease: bone pain, enlarging skull, hearing loss, isolated high bone alkaline phosphatase and thick sclerotic bone.",
+        "whyCorrect": "Paget disease (osteitis deformans) is overactive remodeling producing thick, unstable bone, often of the lower extremity and skull. Skull thickening increases hat size and can narrow the auditory foramen and compress CN VIII, causing hearing loss. Bone alkaline phosphatase is increased with normal calcium and phosphate, and this plus thick sclerotic bone on x-ray is usually adequate for diagnosis.",
+        "whyWrongByChoice": {
+          "A": "Hypertrophic osteoarthropathy causes digital clubbing and periostitis of long bones, not skull enlargement.",
+          "B": "Osteomalacia causes low calcium and phosphate with pseudofractures, not thick sclerotic bone.",
+          "C": "Osteoporosis shows normal alkaline phosphatase and reduced, not thickened, bone.",
+          "E": "Primary hyperparathyroidism causes high calcium and cystic bone spaces."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Paget disease",
+        "diagnosis"
+      ],
+      "topicId": "acquired-bone-disorders",
+      "topicName": "Acquired Bone Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk08-008",
+      "stem": "A 70-year-old woman with Paget disease of the pelvis, confirmed by elevated bone alkaline phosphatase and characteristic sclerotic radiographic changes, has persistent hip-region bone pain. Which of the following is the first-line drug treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alendronate"
+        },
+        {
+          "label": "B",
+          "text": "Calcitriol"
+        },
+        {
+          "label": "C",
+          "text": "Raloxifene"
+        },
+        {
+          "label": "D",
+          "text": "Romosozumab"
+        },
+        {
+          "label": "E",
+          "text": "Teriparatide"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Bisphosphonates are first-line therapy for Paget disease.",
+        "whyCorrect": "First-line treatment for Paget disease is a bisphosphonate (such as alendronate, or IV zoledronic acid), which inhibits osteoclast-mediated bone resorption.",
+        "whyWrongByChoice": {
+          "B": "Calcitriol is reserved for selected patients with advanced CKD and severe secondary hyperparathyroidism.",
+          "C": "Raloxifene is a SERM used in selected postmenopausal women with osteoporosis.",
+          "D": "Romosozumab is a sclerostin inhibitor reserved for very high-risk postmenopausal osteoporosis.",
+          "E": "Teriparatide is a bone-forming PTH analog reserved for very high-risk osteoporosis, not Paget disease."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Paget disease",
+        "bisphosphonates",
+        "treatment"
+      ],
+      "topicId": "acquired-bone-disorders",
+      "topicName": "Acquired Bone Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk08-009",
+      "stem": "A 67-year-old woman with osteoporosis is starting once-weekly oral alendronate. Which administration instruction is most appropriate to reduce its common adverse effects?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "After the evening meal, then recline an hour"
+        },
+        {
+          "label": "B",
+          "text": "Empty stomach with water, upright 30 minutes"
+        },
+        {
+          "label": "C",
+          "text": "With a calcium tablet and orange juice"
+        },
+        {
+          "label": "D",
+          "text": "With breakfast and coffee to limit nausea"
+        },
+        {
+          "label": "E",
+          "text": "With milk at bedtime, then lie flat to rest"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Oral bisphosphonates are taken with water on an empty stomach while staying upright for at least 30 minutes.",
+        "whyCorrect": "Common adverse effects of oral bisphosphonates include abdominal pain, dyspepsia, nausea and esophageal irritation. They should therefore be taken with water on an empty stomach while remaining upright for at least 30 minutes.",
+        "whyWrongByChoice": {
+          "A": "Reclining after the dose promotes esophageal irritation, and it should not follow a meal.",
+          "C": "The dose should be taken with water alone on an empty stomach.",
+          "D": "The dose should be taken on an empty stomach with water, not with breakfast.",
+          "E": "Lying flat after the dose promotes esophageal irritation; patients must remain upright."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "osteoporosis",
+        "bisphosphonates",
+        "adverse effects"
+      ],
+      "topicId": "acquired-bone-disorders",
+      "topicName": "Acquired Bone Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk08-010",
+      "stem": "A 72-year-old woman has received denosumab for 4 years for osteoporosis. She feels well and asks to stop the injections, having heard that friends on alendronate took a break from therapy. Which counseling is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Follow it with another antiresorptive on stopping"
+        },
+        {
+          "label": "B",
+          "text": "Stop now and restart only if a fracture occurs"
+        },
+        {
+          "label": "C",
+          "text": "Stop now and simply repeat a DEXA in five years"
+        },
+        {
+          "label": "D",
+          "text": "Stop now, as a holiday is safe after three years"
+        },
+        {
+          "label": "E",
+          "text": "Stop now, since its effect persists for years"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Denosumab should not have a drug holiday; abrupt discontinuation causes rebound bone loss and vertebral fractures unless another antiresorptive follows.",
+        "whyCorrect": "Denosumab blocks RANKL to reduce osteoclast activity. Its effects reverse rapidly, so abrupt discontinuation can cause rebound bone loss and vertebral fractures; subsequent antiresorptive therapy is required. Unlike bisphosphonates, which remain in bone, denosumab should not have a drug holiday.",
+        "whyWrongByChoice": {
+          "B": "Waiting for a fracture ignores the predictable rebound vertebral fractures after abrupt discontinuation.",
+          "C": "Stopping without a follow-on antiresorptive risks rebound bone loss and vertebral fractures.",
+          "D": "The 3-year holiday guideline applies to IV zoledronic acid, not denosumab.",
+          "E": "Persistence in bone after stopping is a property of bisphosphonates; denosumab's effect reverses rapidly."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "osteoporosis",
+        "denosumab",
+        "discontinuation"
+      ],
+      "topicId": "acquired-bone-disorders",
+      "topicName": "Acquired Bone Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk08-011",
+      "stem": "A 61-year-old man with a 40-pack-year smoking history has painful, bulbous swelling of his fingertips with elevated nails, aching shins with radiographic periostitis of the tibiae and bilateral knee effusions. He has no cough or weight loss. Evaluation for which underlying condition is most important?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic kidney disease"
+        },
+        {
+          "label": "B",
+          "text": "Lung carcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Paget disease of bone"
+        },
+        {
+          "label": "D",
+          "text": "Primary hyperparathyroidism"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin D deficiency"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hypertrophic osteoarthropathy (clubbing, periostitis, joint effusions) is a paraneoplastic syndrome most often from lung cancer, and may precede cancer symptoms by months.",
+        "whyCorrect": "Digital clubbing, periostitis of the long bones and joint pain with effusions define hypertrophic osteoarthropathy. It is usually associated with systemic cancer, particularly lung cancer (about 5% of patients), and its symptoms may arise several months before any pulmonary or systemic cancer symptoms. NSAIDs relieve symptoms, but definitive treatment addresses the underlying cancer.",
+        "whyWrongByChoice": {
+          "A": "CKD causes secondary hyperparathyroidism and renal osteodystrophy, not clubbing with periostitis.",
+          "C": "Paget disease causes thick sclerotic bone with high alkaline phosphatase, not clubbing with periostitis.",
+          "D": "Primary hyperparathyroidism causes hypercalcemia and cystic bone lesions, not clubbing.",
+          "E": "Vitamin D deficiency causes osteomalacia with bone pain and pseudofractures, not clubbing."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hypertrophic osteoarthropathy",
+        "paraneoplastic",
+        "lung cancer"
+      ],
+      "topicId": "acquired-bone-disorders",
+      "topicName": "Acquired Bone Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk08-012",
+      "stem": "Iliac crest biopsies are compared from two adults with low bone density. Patient X has osteoporosis; Patient Y has osteomalacia from vitamin D deficiency. How does the ratio of bone mineral to collagen compare between them?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased in both X and Y"
+        },
+        {
+          "label": "B",
+          "text": "Decreased in X; normal in Y"
+        },
+        {
+          "label": "C",
+          "text": "Increased in X; decreased in Y"
+        },
+        {
+          "label": "D",
+          "text": "Normal in both X and Y"
+        },
+        {
+          "label": "E",
+          "text": "Normal in X; decreased in Y"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Osteoporosis lowers bone mass but keeps a normal mineral-to-collagen ratio; osteomalacia lowers that ratio.",
+        "whyCorrect": "In osteopenia and osteoporosis, bone mass and density decrease but mineralization is maintained, so the ratio of bone mineral (calcium, phosphate, magnesium) to collagen remains normal. In osteomalacia from vitamin D deficiency the ratio is decreased, reflecting a mineralization disorder.",
+        "whyWrongByChoice": {
+          "A": "Osteoporosis preserves mineralization, so its ratio is normal.",
+          "B": "This reverses the two disorders.",
+          "C": "The ratio is normal, not increased, in osteoporosis.",
+          "D": "Osteomalacia is a mineralization disorder, so its ratio is decreased."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "osteoporosis",
+        "osteomalacia",
+        "mineralization"
+      ],
+      "topicId": "acquired-bone-disorders",
+      "topicName": "Acquired Bone Disorders",
+      "tier": "core"
+    }
+  ]
+}

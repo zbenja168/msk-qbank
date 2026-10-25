@@ -1,0 +1,1134 @@
+{
+  "categoryId": "w2s1",
+  "categoryName": "Session 1",
+  "questions": [
+    {
+      "id": "mk13-001",
+      "stem": "A 74-year-old woman falls directly onto her right shoulder. Radiographs show a fracture of the humerus just distal to the greater and lesser tubercles. She can begin to raise the arm from her side but cannot continue lifting it laterally, and she has numbness over the lateral shoulder. Which nerve is most likely injured?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Axillary nerve"
+        },
+        {
+          "label": "B",
+          "text": "Long thoracic nerve"
+        },
+        {
+          "label": "C",
+          "text": "Musculocutaneous nerve"
+        },
+        {
+          "label": "D",
+          "text": "Radial nerve"
+        },
+        {
+          "label": "E",
+          "text": "Suprascapular nerve"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Surgical neck fractures endanger the axillary nerve, weakening the deltoid and numbing the lateral shoulder.",
+        "whyCorrect": "The surgical neck lies distal to the tubercles and is closely related to the axillary nerve, which winds around it. Axillary injury weakens the deltoid, the primary abductor after supraspinatus initiates the movement, and causes sensory loss over the lateral shoulder via the superior lateral cutaneous nerve of the arm.",
+        "whyWrongByChoice": {
+          "B": "Long thoracic injury causes a winged scapula; it is not related to the humeral neck.",
+          "C": "Musculocutaneous injury weakens elbow flexion and supination with lateral forearm sensory loss.",
+          "D": "The radial nerve is at risk in midshaft fractures within the radial groove, causing wrist drop.",
+          "E": "The suprascapular nerve passes through the suprascapular notch, not around the surgical neck, and is not described as supplying the lateral shoulder skin."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "functional-anatomy-of-the-shoulder-arm",
+        "axillary nerve",
+        "surgical neck fracture"
+      ],
+      "topicId": "functional-anatomy-of-the-shoulder-arm",
+      "topicName": "Functional Anatomy of the Shoulder & Arm",
+      "tier": "core"
+    },
+    {
+      "id": "mk13-002",
+      "stem": "A 31-year-old man has a stab wound to the lateral chest wall. When he pushes against a wall, the medial border of his right scapula protrudes posteriorly away from the ribs, and he has difficulty raising the arm above the horizontal plane. Which nerve is most likely injured?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dorsal scapular nerve"
+        },
+        {
+          "label": "B",
+          "text": "Long thoracic nerve"
+        },
+        {
+          "label": "C",
+          "text": "Medial pectoral nerve"
+        },
+        {
+          "label": "D",
+          "text": "Suprascapular nerve"
+        },
+        {
+          "label": "E",
+          "text": "Thoracodorsal nerve"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Long thoracic nerve injury paralyzes serratus anterior, producing a winged scapula.",
+        "whyCorrect": "The long thoracic nerve innervates serratus anterior, which holds the scapula against the thoracic wall and produces protraction and upward rotation. Injury produces a winged scapula when pushing against resistance and disrupts scapulohumeral rhythm, so elevation above the horizontal is difficult.",
+        "whyWrongByChoice": {
+          "A": "The dorsal scapular nerve supplies levator scapulae and rhomboids, which elevate, retract, and downwardly rotate the scapula.",
+          "C": "The medial pectoral nerve supplies pectoralis minor, which depresses and stabilizes the scapula anteriorly.",
+          "D": "The suprascapular nerve supplies supraspinatus and infraspinatus; injury weakens abduction and lateral rotation.",
+          "E": "The thoracodorsal nerve supplies latissimus dorsi (extension, adduction, medial rotation of the arm)."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "functional-anatomy-of-the-shoulder-arm",
+        "long thoracic nerve",
+        "winged scapula"
+      ],
+      "topicId": "functional-anatomy-of-the-shoulder-arm",
+      "topicName": "Functional Anatomy of the Shoulder & Arm",
+      "tier": "core"
+    },
+    {
+      "id": "mk13-003",
+      "stem": "A 52-year-old house painter has months of right shoulder pain that worsens with overhead work. On examination, he struggles to start lifting the arm away from his side through the first 15 degrees, but once the arm is passively raised further he can continue the movement. Which muscle's tendon is most likely torn?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deltoid"
+        },
+        {
+          "label": "B",
+          "text": "Infraspinatus"
+        },
+        {
+          "label": "C",
+          "text": "Subscapularis"
+        },
+        {
+          "label": "D",
+          "text": "Supraspinatus"
+        },
+        {
+          "label": "E",
+          "text": "Teres minor"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Rotator cuff tears most often involve supraspinatus, impairing initiation of abduction (~first 15 degrees).",
+        "whyCorrect": "The supraspinatus tendon passes beneath the acromion through the subacromial space, making it vulnerable during repetitive overhead activity. Tears most commonly involve this tendon and cause pain with overhead activity and difficulty initiating abduction, which the supraspinatus normally starts before the deltoid takes over.",
+        "whyWrongByChoice": {
+          "A": "The deltoid takes over abduction after initiation; this patient can continue once the arm is raised.",
+          "B": "Infraspinatus is a lateral rotator; its tear would not selectively impair the start of abduction.",
+          "C": "Subscapularis is the medial rotator of the rotator cuff.",
+          "E": "Teres minor laterally rotates the humerus and is supplied by the axillary nerve."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "functional-anatomy-of-the-shoulder-arm",
+        "rotator cuff",
+        "supraspinatus"
+      ],
+      "topicId": "functional-anatomy-of-the-shoulder-arm",
+      "topicName": "Functional Anatomy of the Shoulder & Arm",
+      "tier": "core"
+    },
+    {
+      "id": "mk13-004",
+      "stem": "A 27-year-old motorcyclist sustains a fracture through the middle of the humeral shaft. On examination he cannot actively extend his wrist or fingers, and his hand hangs flexed. Which nerve is most likely injured?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Axillary nerve"
+        },
+        {
+          "label": "B",
+          "text": "Median nerve"
+        },
+        {
+          "label": "C",
+          "text": "Musculocutaneous nerve"
+        },
+        {
+          "label": "D",
+          "text": "Radial nerve"
+        },
+        {
+          "label": "E",
+          "text": "Ulnar nerve"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Midshaft humerus fractures endanger the radial nerve in the radial groove, causing wrist drop.",
+        "whyCorrect": "The radial nerve courses in the radial groove on the posterior humerus with the deep brachial artery, making it vulnerable in midshaft fractures. It supplies the posterior compartments of the arm and forearm, so injury causes weak wrist and finger extension (wrist drop) and weak elbow extension if proximal.",
+        "whyWrongByChoice": {
+          "A": "The axillary nerve is at risk with surgical neck fractures and dislocations; it supplies deltoid and teres minor.",
+          "B": "The median nerve supplies most anterior forearm muscles, not the wrist extensors.",
+          "C": "Musculocutaneous injury weakens elbow flexion and supination, not wrist extension.",
+          "E": "The ulnar nerve supplies selected forearm muscles and many intrinsic hand muscles, not the wrist extensors."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "functional-anatomy-of-the-shoulder-arm",
+        "radial nerve",
+        "humeral shaft fracture",
+        "wrist drop"
+      ],
+      "topicId": "functional-anatomy-of-the-shoulder-arm",
+      "topicName": "Functional Anatomy of the Shoulder & Arm",
+      "tier": "core"
+    },
+    {
+      "id": "mk13-005",
+      "stem": "After a fall from a horse, a 22-year-old woman has weakness of shoulder abduction, lateral rotation of the arm, and elbow flexion. Strength in her wrist and hand is normal. Injury to which component of the brachial plexus best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inferior trunk"
+        },
+        {
+          "label": "B",
+          "text": "Medial cord"
+        },
+        {
+          "label": "C",
+          "text": "Middle trunk"
+        },
+        {
+          "label": "D",
+          "text": "Posterior cord"
+        },
+        {
+          "label": "E",
+          "text": "Superior trunk"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Superior trunk (C5-C6) injury weakens abduction, lateral rotation, and elbow flexion: Erb-Duchenne palsy.",
+        "whyCorrect": "The superior trunk is formed by C5 and C6. These fibers supply muscles for shoulder abduction, lateral rotation, and elbow flexion, including deltoid, supraspinatus, infraspinatus, biceps brachii, and brachialis. Injury produces the Erb-Duchenne pattern of weakness.",
+        "whyWrongByChoice": {
+          "A": "The inferior trunk (C8-T1) would be expected to affect the hand, which is normal here.",
+          "B": "The medial cord does not supply the shoulder abductors and lateral rotators.",
+          "C": "The middle trunk carries only C7; it does not account for the combined C5-C6 deficits.",
+          "D": "The posterior cord gives the axillary and radial nerves; it would not weaken elbow flexion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "functional-anatomy-of-the-shoulder-arm",
+        "brachial plexus",
+        "Erb-Duchenne palsy"
+      ],
+      "topicId": "functional-anatomy-of-the-shoulder-arm",
+      "topicName": "Functional Anatomy of the Shoulder & Arm",
+      "tier": "core"
+    },
+    {
+      "id": "mk13-006",
+      "stem": "A 33-year-old man has a penetrating injury to the upper arm. He has weakness of elbow flexion and of turning the palm upward, and decreased sensation along the lateral forearm. Elbow extension and wrist extension are normal. Which nerve is most likely injured?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Axillary nerve"
+        },
+        {
+          "label": "B",
+          "text": "Median nerve"
+        },
+        {
+          "label": "C",
+          "text": "Musculocutaneous nerve"
+        },
+        {
+          "label": "D",
+          "text": "Radial nerve"
+        },
+        {
+          "label": "E",
+          "text": "Ulnar nerve"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Musculocutaneous injury weakens elbow flexion and supination with lateral forearm sensory loss.",
+        "whyCorrect": "The musculocutaneous nerve, from the lateral cord, supplies all anterior arm muscles (biceps brachii, brachialis, coracobrachialis). It continues as the lateral cutaneous nerve of the forearm, so injury produces weak elbow flexion and supination and lateral forearm sensory loss.",
+        "whyWrongByChoice": {
+          "A": "Axillary injury weakens deltoid and teres minor with lateral shoulder numbness.",
+          "B": "The median nerve supplies most anterior forearm muscles, not the anterior arm compartment.",
+          "D": "Radial injury weakens elbow and wrist extension, which are normal here.",
+          "E": "The ulnar nerve supplies selected forearm muscles and many intrinsic hand muscles."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "functional-anatomy-of-the-shoulder-arm",
+        "musculocutaneous nerve"
+      ],
+      "topicId": "functional-anatomy-of-the-shoulder-arm",
+      "topicName": "Functional Anatomy of the Shoulder & Arm",
+      "tier": "core"
+    },
+    {
+      "id": "mk13-007",
+      "stem": "A 21-year-old volleyball player blocks a spike with her arm extended, abducted, and laterally rotated, and feels her shoulder give way. Radiographs show the humeral head displaced out of the glenoid cavity. In which direction has the humeral head most likely dislocated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anterior"
+        },
+        {
+          "label": "B",
+          "text": "Lateral"
+        },
+        {
+          "label": "C",
+          "text": "Medial"
+        },
+        {
+          "label": "D",
+          "text": "Posterior"
+        },
+        {
+          "label": "E",
+          "text": "Superior"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Most glenohumeral dislocations are anterior, occurring with the arm extended, abducted, and laterally rotated.",
+        "whyCorrect": "The glenohumeral joint is the most frequently dislocated major joint because its ball-and-socket arrangement trades stability for mobility. Most dislocations occur anteriorly when the arm is extended, abducted, and laterally rotated, and they can injure the nearby axillary nerve.",
+        "whyWrongByChoice": {
+          "B": "Lateral displacement is not the described dislocation pattern of the glenohumeral joint.",
+          "C": "Medial displacement is not the described pattern; most dislocations occur anteriorly.",
+          "D": "Posterior dislocation is not the common pattern described for this position.",
+          "E": "The coracoacromial ligament and acromion form a protective arch over the joint superiorly."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "functional-anatomy-of-the-shoulder-arm",
+        "glenohumeral joint",
+        "shoulder dislocation"
+      ],
+      "topicId": "functional-anatomy-of-the-shoulder-arm",
+      "topicName": "Functional Anatomy of the Shoulder & Arm",
+      "tier": "core"
+    },
+    {
+      "id": "mk13-008",
+      "stem": "A 23-year-old rugby player falls directly onto the point of his shoulder. Radiographs show the distal end of the collarbone riding high above the acromion, with marked vertical displacement between the two bones. Disruption of which ligaments is required to allow this degree of vertical displacement?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acromioclavicular ligament alone"
+        },
+        {
+          "label": "B",
+          "text": "Coracoacromial ligament"
+        },
+        {
+          "label": "C",
+          "text": "Coracoclavicular ligaments"
+        },
+        {
+          "label": "D",
+          "text": "Glenohumeral ligaments"
+        },
+        {
+          "label": "E",
+          "text": "Superior transverse scapular ligament"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In shoulder separation, coracoclavicular ligaments provide vertical stability; their disruption allows greater clavicular displacement.",
+        "whyCorrect": "A shoulder separation is an injury to the acromioclavicular joint, not a glenohumeral dislocation. The AC ligament primarily provides horizontal stability, whereas the coracoclavicular ligaments provide vertical stability; more severe injuries involving the coracoclavicular ligaments allow greater displacement of the clavicle relative to the scapula.",
+        "whyWrongByChoice": {
+          "A": "The acromioclavicular ligament primarily provides horizontal stability; vertical displacement requires more.",
+          "B": "The coracoacromial ligament forms a protective arch over the glenohumeral joint; it does not link clavicle and scapula.",
+          "D": "These are passive stabilizers of the glenohumeral joint, which is not injured in a separation.",
+          "E": "This ligament bridges the suprascapular notch over the suprascapular nerve."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "functional-anatomy-of-the-shoulder-arm",
+        "shoulder separation",
+        "acromioclavicular joint"
+      ],
+      "topicId": "functional-anatomy-of-the-shoulder-arm",
+      "topicName": "Functional Anatomy of the Shoulder & Arm",
+      "tier": "core"
+    },
+    {
+      "id": "mk13-009",
+      "stem": "A 3-year-old girl refuses to use her left arm after her father pulled her up by the hand to keep her from falling. She holds the forearm slightly pronated and cries when the elbow is moved. The radial head has slipped out of which structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Annular ligament"
+        },
+        {
+          "label": "B",
+          "text": "Olecranon fossa of the humerus"
+        },
+        {
+          "label": "C",
+          "text": "Radial collateral ligament"
+        },
+        {
+          "label": "D",
+          "text": "Trochlear notch of the ulna"
+        },
+        {
+          "label": "E",
+          "text": "Ulnar collateral ligament"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Nursemaid's elbow is subluxation of the radial head from the annular ligament after sudden traction.",
+        "whyCorrect": "The annular ligament encircles the radial head and keeps it in the proximal radioulnar joint during pronation and supination. In young children, sudden traction on the limb can sublux the radial head from this ligament (nursemaid's elbow), with pain, limited use, and a slightly pronated forearm.",
+        "whyWrongByChoice": {
+          "B": "The olecranon is the triceps insertion site; it does not hold the radial head.",
+          "C": "The radial collateral ligament resists varus stress and blends with, but is not, the ring around the radial head.",
+          "D": "The trochlear notch articulates with the trochlea at the humeroulnar joint.",
+          "E": "The ulnar collateral ligament resists valgus stress on the medial elbow; it does not encircle the radial head."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "functional-anatomy-of-the-shoulder-arm",
+        "nursemaid's elbow",
+        "elbow ligaments"
+      ],
+      "topicId": "functional-anatomy-of-the-shoulder-arm",
+      "topicName": "Functional Anatomy of the Shoulder & Arm",
+      "tier": "core"
+    },
+    {
+      "id": "mk13-010",
+      "stem": "A 45-year-old weightlifter feels a pop in front of his elbow while lowering a heavy bar. Imaging shows the distal biceps tendon torn from the radial tuberosity. Forearm supination is markedly weak, but he can still flex the elbow with moderate strength. Which muscle chiefly accounts for his preserved elbow flexion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anconeus"
+        },
+        {
+          "label": "B",
+          "text": "Brachialis"
+        },
+        {
+          "label": "C",
+          "text": "Coracobrachialis"
+        },
+        {
+          "label": "D",
+          "text": "Deltoid"
+        },
+        {
+          "label": "E",
+          "text": "Triceps brachii"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Brachialis inserts on the ulnar tuberosity and is the primary, pure flexor of the elbow.",
+        "whyCorrect": "The brachialis lies deep to the biceps and inserts on the ulnar tuberosity. Because it acts on the ulna rather than the radius, it is a pure elbow flexor and the primary muscle of elbow flexion. The biceps, inserting on the radius, is a flexor and powerful supinator, which explains the lost supination.",
+        "whyWrongByChoice": {
+          "A": "Anconeus assists elbow extension and stabilizes the elbow.",
+          "C": "Coracobrachialis runs from coracoid to humerus and acts at the shoulder (flexion and adduction), not the elbow.",
+          "D": "The deltoid acts at the shoulder, chiefly abduction.",
+          "E": "Triceps brachii is the primary elbow extensor."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "functional-anatomy-of-the-shoulder-arm",
+        "brachialis",
+        "biceps brachii",
+        "elbow flexion"
+      ],
+      "topicId": "functional-anatomy-of-the-shoulder-arm",
+      "topicName": "Functional Anatomy of the Shoulder & Arm",
+      "tier": "core"
+    },
+    {
+      "id": "mk13-011",
+      "stem": "A 29-year-old overhead athlete has gradually progressive shoulder weakness. MRI shows compression of the nerve passing through the notch on the superior border of the scapula, beneath the superior transverse scapular ligament. Which pair of muscles is most likely weakened?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deltoid and teres minor"
+        },
+        {
+          "label": "B",
+          "text": "Infraspinatus and teres minor"
+        },
+        {
+          "label": "C",
+          "text": "Subscapularis and teres major"
+        },
+        {
+          "label": "D",
+          "text": "Supraspinatus and infraspinatus"
+        },
+        {
+          "label": "E",
+          "text": "Supraspinatus and teres minor"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Suprascapular nerve compression at the notch weakens supraspinatus and infraspinatus (abduction and lateral rotation).",
+        "whyCorrect": "The suprascapular notch transmits the suprascapular nerve beneath the superior transverse scapular ligament, while the suprascapular artery passes above it (artery over, nerve under). The nerve supplies supraspinatus (initiates abduction) and infraspinatus (lateral rotation), so compression weakens shoulder abduction and lateral rotation.",
+        "whyWrongByChoice": {
+          "A": "Both are axillary nerve muscles reached via the quadrangular space.",
+          "B": "Infraspinatus is affected, but teres minor is supplied by the axillary nerve.",
+          "C": "These are supplied by the subscapular nerves.",
+          "E": "Teres minor is supplied by the axillary nerve, not the nerve in the notch."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "functional-anatomy-of-the-shoulder-arm",
+        "suprascapular nerve",
+        "rotator cuff"
+      ],
+      "topicId": "functional-anatomy-of-the-shoulder-arm",
+      "topicName": "Functional Anatomy of the Shoulder & Arm",
+      "tier": "core"
+    },
+    {
+      "id": "mk13-012",
+      "stem": "A 50-year-old woman has weakness in rowing and climbing movements after an injury. She has weak extension, adduction, and medial rotation of the arm, but teres major strength is preserved. Which nerve is most likely injured?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Axillary nerve"
+        },
+        {
+          "label": "B",
+          "text": "Long thoracic nerve"
+        },
+        {
+          "label": "C",
+          "text": "Lower subscapular nerve"
+        },
+        {
+          "label": "D",
+          "text": "Medial pectoral nerve"
+        },
+        {
+          "label": "E",
+          "text": "Thoracodorsal nerve"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The thoracodorsal nerve supplies latissimus dorsi (extension, adduction, medial rotation) used in climbing and rowing.",
+        "whyCorrect": "Latissimus dorsi and teres major both extend, adduct, and medially rotate the arm and act together in climbing, rowing, and pulling. Latissimus dorsi is supplied by the thoracodorsal nerve, whereas teres major is supplied by the lower subscapular nerve, so preserved teres major points to thoracodorsal injury.",
+        "whyWrongByChoice": {
+          "A": "The axillary nerve supplies deltoid and teres minor, producing abduction and lateral rotation.",
+          "B": "The long thoracic nerve supplies serratus anterior; injury causes a winged scapula.",
+          "C": "The lower subscapular nerve supplies teres major, which is preserved here.",
+          "D": "The medial pectoral nerve supplies pectoralis minor and part of the pectoralis major, used in pushing."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "functional-anatomy-of-the-shoulder-arm",
+        "latissimus dorsi",
+        "thoracodorsal nerve"
+      ],
+      "topicId": "functional-anatomy-of-the-shoulder-arm",
+      "topicName": "Functional Anatomy of the Shoulder & Arm",
+      "tier": "core"
+    },
+    {
+      "id": "mk14-001",
+      "stem": "A 67-year-old man has angiographically confirmed narrowing of the proximal left subclavian artery. His left radial pulse is present though weaker than the right, and his left hand is warm and well perfused. Blood from subclavian branches reaches the axillary artery distal to the narrowing chiefly by flowing retrograde through which vessel?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anterior circumflex humeral artery"
+        },
+        {
+          "label": "B",
+          "text": "Circumflex scapular artery"
+        },
+        {
+          "label": "C",
+          "text": "Lateral thoracic artery"
+        },
+        {
+          "label": "D",
+          "text": "Superior thoracic artery"
+        },
+        {
+          "label": "E",
+          "text": "Thoracoacromial artery"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Proximal subclavian occlusion can be bypassed through the scapular anastomosis, which delivers blood into the axillary artery via the circumflex scapular artery.",
+        "whyCorrect": "The scapular anastomosis links subclavian branches (suprascapular and dorsal scapular arteries) with the circumflex scapular artery, a branch of the subscapular artery from the axillary artery. When the proximal subclavian narrows, blood is routed through this network into the circumflex scapular branch, perfusing the limb distal to the obstruction.",
+        "whyWrongByChoice": {
+          "A": "The anterior circumflex humeral artery encircles the surgical neck of the humerus; it is not the collateral link with the subclavian branches.",
+          "C": "The lateral thoracic artery is a second-part axillary branch to the chest wall, not part of the collateral route described for subclavian occlusion.",
+          "D": "The superior thoracic artery is the sole branch of the first part of the axillary artery and is not a scapular anastomosis contributor.",
+          "E": "The thoracoacromial artery arises from the second part of the axillary artery and is not a named contributor to the network around the shoulder blade."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "scapular anastomosis",
+        "collateral circulation",
+        "subclavian artery"
+      ],
+      "topicId": "vasculature-and-lymphatics-of-the-upper-extremities",
+      "topicName": "Vasculature and Lymphatics of the Upper Extremities",
+      "tier": "core"
+    },
+    {
+      "id": "mk14-002",
+      "stem": "A phlebotomist draws blood from a superficial vein in the front of the elbow that runs obliquely between the large lateral and medial superficial veins of the limb. This vein is chosen because it is superficial, relatively stable, and easy to access. Which vein is it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Basilic vein"
+        },
+        {
+          "label": "B",
+          "text": "Brachial vein"
+        },
+        {
+          "label": "C",
+          "text": "Cephalic vein"
+        },
+        {
+          "label": "D",
+          "text": "Median cubital vein"
+        },
+        {
+          "label": "E",
+          "text": "Radial vein"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The median cubital vein connects the cephalic and basilic veins in the antecubital fossa and is a common venipuncture site.",
+        "whyCorrect": "Near the elbow, the cephalic (lateral) and basilic (medial) veins are commonly connected by the median cubital vein within the antecubital fossa. Because it is superficial, relatively stable and easily accessible, it is frequently used for blood collection and venous access.",
+        "whyWrongByChoice": {
+          "A": "The basilic vein is the medial superficial vein that this vessel connects to, not the connecting vein itself.",
+          "B": "The brachial veins are deep veins accompanying the brachial artery and are not the superficial venipuncture site.",
+          "C": "The cephalic vein is the lateral superficial vein that this vessel connects to, not the connecting vein itself.",
+          "E": "The radial veins are deep forearm veins that accompany the radial artery."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "superficial veins",
+        "venipuncture",
+        "median cubital vein"
+      ],
+      "topicId": "vasculature-and-lymphatics-of-the-upper-extremities",
+      "topicName": "Vasculature and Lymphatics of the Upper Extremities",
+      "tier": "core"
+    },
+    {
+      "id": "mk14-003",
+      "stem": "A 24-year-old man dislocates his shoulder during a rugby match. Before reduction, the emergency physician palpates the pulse at the wrist as part of the neurovascular examination. This check primarily screens for injury to which vessel?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Axillary artery"
+        },
+        {
+          "label": "B",
+          "text": "Cephalic vein"
+        },
+        {
+          "label": "C",
+          "text": "Deep brachial artery"
+        },
+        {
+          "label": "D",
+          "text": "Subclavian artery"
+        },
+        {
+          "label": "E",
+          "text": "Ulnar artery"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Shoulder dislocation can injure the axillary artery and its branches, so the radial pulse is checked after shoulder trauma.",
+        "whyCorrect": "The axillary artery and its branches may be injured during shoulder dislocations. Assessment of the radial pulse is therefore an important part of the neurovascular examination after shoulder trauma, and a diminished or absent pulse may indicate arterial injury needing urgent evaluation.",
+        "whyWrongByChoice": {
+          "B": "A pulse check assesses arterial flow; the cephalic vein is a superficial vein and produces no pulse.",
+          "C": "The deep brachial artery runs with the radial nerve in the posterior arm, away from the dislocated joint.",
+          "D": "The subclavian artery lies proximal to the first rib and is not the vessel classically injured by shoulder dislocation.",
+          "E": "The ulnar artery is a forearm vessel distal to the elbow and is not at risk from a shoulder dislocation."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "shoulder dislocation",
+        "axillary artery",
+        "radial pulse"
+      ],
+      "topicId": "vasculature-and-lymphatics-of-the-upper-extremities",
+      "topicName": "Vasculature and Lymphatics of the Upper Extremities",
+      "tier": "core"
+    },
+    {
+      "id": "mk14-004",
+      "stem": "A 30-year-old woman has an anterior shoulder dislocation. After reduction her radial pulse is palpable and nearly symmetric with the other side, yet the team remains concerned about injury to the main artery of the armpit. Which statement best explains why a palpable radial pulse does not exclude that injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Scapular collateral channels can maintain distal flow"
+        },
+        {
+          "label": "B",
+          "text": "The deep brachial artery bypasses the armpit to the forearm"
+        },
+        {
+          "label": "C",
+          "text": "The radial artery arises proximal to the armpit vessel"
+        },
+        {
+          "label": "D",
+          "text": "The radial artery is fed directly by the subclavian artery"
+        },
+        {
+          "label": "E",
+          "text": "The radial pulse is generated by the deep palmar arch"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A normal radial pulse does not rule out axillary arterial injury because collateral circulation may partially maintain distal perfusion.",
+        "whyCorrect": "After shoulder trauma, a diminished or absent radial pulse suggests arterial injury, but a normal pulse does not completely exclude it. Collateral circulation, such as the scapular anastomosis linking subclavian and axillary branches, may partially maintain distal perfusion past an injured segment.",
+        "whyWrongByChoice": {
+          "B": "The deep brachial artery is a branch of the brachial artery and supplies the posterior arm; it does not bypass the axilla.",
+          "C": "The radial artery is a terminal branch of the brachial artery in the cubital fossa, far distal to the axillary artery.",
+          "D": "The radial artery receives its flow through the axillary and brachial arteries, not directly from the subclavian artery.",
+          "E": "The radial pulse reflects flow in the radial artery itself; the palmar arches are downstream of it."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "shoulder dislocation",
+        "collateral circulation",
+        "pulse examination"
+      ],
+      "topicId": "vasculature-and-lymphatics-of-the-upper-extremities",
+      "topicName": "Vasculature and Lymphatics of the Upper Extremities",
+      "tier": "core"
+    },
+    {
+      "id": "mk14-005",
+      "stem": "A 51-year-old woman notices that her rings no longer fit and her right sleeve feels tight. Ten months earlier she had breast cancer surgery that included removal of the nodes in her right armpit for staging. The swelling is confined to the right upper limb, and her pulses are normal. Which mechanism best explains her swelling?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Arterial insufficiency from axillary artery injury"
+        },
+        {
+          "label": "B",
+          "text": "Compression of the cephalic vein in its groove"
+        },
+        {
+          "label": "C",
+          "text": "Impaired lymph drainage from the arm"
+        },
+        {
+          "label": "D",
+          "text": "Obstruction of the superior vena cava"
+        },
+        {
+          "label": "E",
+          "text": "Thrombosis of the deep brachial veins"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Removal of the axillary lymph nodes disrupts lymphatic drainage of the upper limb and can cause lymphedema.",
+        "whyCorrect": "Lymph from the upper extremity passes through the axillary lymph nodes, the major lymphatic drainage center of the limb. Removal of or damage to these nodes during breast cancer treatment can disrupt lymphatic drainage, producing lymphedema, a chronic accumulation of lymphatic fluid that swells the affected extremity.",
+        "whyWrongByChoice": {
+          "A": "Arterial injury reduces perfusion and pulses; her pulses are normal and the problem is fluid accumulation.",
+          "B": "Isolated cephalic vein compression would not explain chronic whole-limb swelling after node removal.",
+          "D": "SVC obstruction would affect both upper limbs and the head, not a single arm after nodal surgery.",
+          "E": "Deep venous thrombosis is not suggested here; the history points to loss of the nodes that drain the limb."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "lymphedema",
+        "axillary lymph nodes",
+        "breast cancer"
+      ],
+      "topicId": "vasculature-and-lymphatics-of-the-upper-extremities",
+      "topicName": "Vasculature and Lymphatics of the Upper Extremities",
+      "tier": "core"
+    },
+    {
+      "id": "mk14-006",
+      "stem": "A 35-year-old man sustains a stab wound to the back of the arm that injures the radial nerve. On exploration, the surgeon finds a lacerated artery traveling with the nerve. This artery is the main supply of the posterior compartment of the arm. Which artery is it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Circumflex scapular artery"
+        },
+        {
+          "label": "B",
+          "text": "Deep brachial artery"
+        },
+        {
+          "label": "C",
+          "text": "Posterior circumflex humeral artery"
+        },
+        {
+          "label": "D",
+          "text": "Radial artery"
+        },
+        {
+          "label": "E",
+          "text": "Superior ulnar collateral artery"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The deep brachial artery (profunda brachii) accompanies the radial nerve and supplies the posterior compartment of the arm.",
+        "whyCorrect": "The largest branch of the brachial artery is the deep brachial artery (profunda brachii). It accompanies the radial nerve and supplies the posterior compartment of the arm, so an injury to the nerve in the posterior arm can involve this artery too.",
+        "whyWrongByChoice": {
+          "A": "The circumflex scapular artery is a subscapular branch in the scapular anastomosis, not an arm vessel.",
+          "C": "The posterior circumflex humeral artery encircles the surgical neck of the humerus near the shoulder, not alongside the nerve in the arm.",
+          "D": "The radial artery begins in the cubital fossa and runs in the lateral forearm; it does not supply the posterior arm.",
+          "E": "The superior ulnar collateral artery arises from the brachial artery and contributes to the elbow network; it does not accompany the radial nerve."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "profunda brachii",
+        "radial nerve",
+        "posterior compartment"
+      ],
+      "topicId": "vasculature-and-lymphatics-of-the-upper-extremities",
+      "topicName": "Vasculature and Lymphatics of the Upper Extremities",
+      "tier": "core"
+    },
+    {
+      "id": "mk14-007",
+      "stem": "During dissection of the posterior arm, a surgeon traces two vessels that descend from the largest branch of the brachial artery to join the arterial network around the elbow. One is the radial collateral artery. Which artery is the other?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inferior ulnar collateral artery"
+        },
+        {
+          "label": "B",
+          "text": "Middle collateral artery"
+        },
+        {
+          "label": "C",
+          "text": "Posterior ulnar recurrent artery"
+        },
+        {
+          "label": "D",
+          "text": "Radial recurrent artery"
+        },
+        {
+          "label": "E",
+          "text": "Superior ulnar collateral artery"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The profunda brachii gives rise to the radial collateral and middle collateral arteries, which join the elbow anastomosis.",
+        "whyCorrect": "The radial collateral and middle collateral arteries arise from the profunda brachii, whereas the superior and inferior ulnar collateral arteries arise from the brachial artery itself. These descending vessels anastomose with recurrent branches of the radial, ulnar and interosseous arteries to form the elbow network.",
+        "whyWrongByChoice": {
+          "A": "The inferior ulnar collateral artery arises directly from the brachial artery, not from its deep branch.",
+          "C": "The posterior ulnar recurrent artery ascends from the ulnar artery in the forearm.",
+          "D": "The radial recurrent artery ascends from the radial artery in the forearm to join the network from below.",
+          "E": "The superior ulnar collateral artery arises directly from the brachial artery, not from its deep branch."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "elbow anastomosis",
+        "profunda brachii",
+        "collateral circulation"
+      ],
+      "topicId": "vasculature-and-lymphatics-of-the-upper-extremities",
+      "topicName": "Vasculature and Lymphatics of the Upper Extremities",
+      "tier": "core"
+    },
+    {
+      "id": "mk14-008",
+      "stem": "A 50-year-old man undergoes angiography for forearm claudication. Contrast fills the brachial artery and its bifurcation normally, but a thrombus sits in one forearm artery just beyond its origin. Neither the anterior nor the posterior interosseous artery fills. Which artery contains the thrombus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Brachial artery"
+        },
+        {
+          "label": "B",
+          "text": "Deep brachial artery"
+        },
+        {
+          "label": "C",
+          "text": "Radial artery"
+        },
+        {
+          "label": "D",
+          "text": "Radial recurrent artery"
+        },
+        {
+          "label": "E",
+          "text": "Ulnar artery"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The common interosseous artery arises from the ulnar artery shortly after its origin and divides into anterior and posterior interosseous arteries.",
+        "whyCorrect": "Shortly after its origin, the ulnar artery gives rise to the common interosseous artery, which divides into the anterior and posterior interosseous arteries. A thrombus in the proximal ulnar artery would therefore prevent filling of both interosseous branches.",
+        "whyWrongByChoice": {
+          "A": "The brachial artery and its bifurcation fill normally, so the block lies distal to it.",
+          "B": "The deep brachial artery supplies the posterior arm and is proximal to the forearm vessels in question.",
+          "C": "The radial artery does not give rise to the common interosseous trunk.",
+          "D": "The radial recurrent artery is a small radial branch to the elbow network and does not give rise to the interosseous arteries."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "common interosseous artery",
+        "ulnar artery",
+        "forearm arteries"
+      ],
+      "topicId": "vasculature-and-lymphatics-of-the-upper-extremities",
+      "topicName": "Vasculature and Lymphatics of the Upper Extremities",
+      "tier": "core"
+    },
+    {
+      "id": "mk14-009",
+      "stem": "A 22-year-old man lacerates the medial side of his wrist on broken glass, severing the artery that runs along the medial forearm. Which arterial structure in the hand loses its primary source of inflow?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anterior interosseous artery"
+        },
+        {
+          "label": "B",
+          "text": "Deep palmar arch"
+        },
+        {
+          "label": "C",
+          "text": "Posterior interosseous artery"
+        },
+        {
+          "label": "D",
+          "text": "Radial recurrent artery"
+        },
+        {
+          "label": "E",
+          "text": "Superficial palmar arch"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The ulnar artery is the primary contributor to the superficial palmar arch.",
+        "whyCorrect": "As they enter the hand, the radial and ulnar arteries form two interconnected arches. The ulnar artery is the primary contributor to the superficial palmar arch, so severing it at the wrist removes that arch's main inflow, although connections between the arches provide collateral flow.",
+        "whyWrongByChoice": {
+          "A": "The anterior interosseous artery arises near the elbow from the common interosseous artery and is proximal to a wrist injury.",
+          "B": "The deep palmar arch is supplied primarily by the radial artery, which is intact.",
+          "C": "The posterior interosseous artery supplies the extensor compartment and arises proximal to the wrist.",
+          "D": "The radial recurrent artery is a radial branch to the elbow network, unaffected by this injury."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "palmar arches",
+        "ulnar artery",
+        "hand vasculature"
+      ],
+      "topicId": "vasculature-and-lymphatics-of-the-upper-extremities",
+      "topicName": "Vasculature and Lymphatics of the Upper Extremities",
+      "tier": "core"
+    },
+    {
+      "id": "mk14-010",
+      "stem": "A 19-year-old woman has an infected cut on her left index finger. Lymph from the site passes through the regional node groups of the limb before returning to the bloodstream. Which channel carries this lymph into the venous system?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Basilic vein"
+        },
+        {
+          "label": "B",
+          "text": "Left axillary vein"
+        },
+        {
+          "label": "C",
+          "text": "Right lymphatic duct"
+        },
+        {
+          "label": "D",
+          "text": "Superior vena cava"
+        },
+        {
+          "label": "E",
+          "text": "Thoracic duct"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Lymph from the left upper extremity reaches the venous system through the thoracic duct.",
+        "whyCorrect": "After passing through the axillary lymph nodes, lymph from the left upper extremity enters the thoracic duct, which empties into the venous system near the junction of the left internal jugular and left subclavian veins.",
+        "whyWrongByChoice": {
+          "A": "The basilic vein is a superficial vein of the medial arm and does not receive lymph from the limb nodes.",
+          "B": "Lymph passes through the axillary nodes but does not empty into the axillary vein.",
+          "C": "The right lymphatic duct drains lymph from the right upper extremity, not the left.",
+          "D": "Lymph enters the veins at the jugular-subclavian junction, upstream of the superior vena cava."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "lymphatic drainage",
+        "thoracic duct"
+      ],
+      "topicId": "vasculature-and-lymphatics-of-the-upper-extremities",
+      "topicName": "Vasculature and Lymphatics of the Upper Extremities",
+      "tier": "core"
+    },
+    {
+      "id": "mk14-011",
+      "stem": "A 44-year-old woman had an intravenous catheter in her lateral forearm. Three days later she has a tender, cordlike vein running up the lateral arm and then between the deltoid and pectoralis major muscles toward the shoulder. Which vein is involved?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Axillary vein"
+        },
+        {
+          "label": "B",
+          "text": "Basilic vein"
+        },
+        {
+          "label": "C",
+          "text": "Brachial vein"
+        },
+        {
+          "label": "D",
+          "text": "Cephalic vein"
+        },
+        {
+          "label": "E",
+          "text": "Median cubital vein"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The cephalic vein runs along the lateral forearm and arm, through the deltopectoral groove, to the axillary vein.",
+        "whyCorrect": "The cephalic vein courses along the lateral side of the forearm and arm and ascends independently through the deltopectoral groove, between deltoid and pectoralis major, before emptying into the axillary vein near the shoulder.",
+        "whyWrongByChoice": {
+          "A": "The axillary vein is the deep vessel the involved vein empties into, not the lateral superficial vein itself.",
+          "B": "The basilic vein courses along the medial side of the forearm and arm, not the lateral side.",
+          "C": "The brachial veins are deep veins accompanying the brachial artery and do not travel between deltoid and pectoralis major.",
+          "E": "The median cubital vein is confined to the antecubital fossa, linking the two main superficial veins."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "superficial veins",
+        "cephalic vein",
+        "deltopectoral groove"
+      ],
+      "topicId": "vasculature-and-lymphatics-of-the-upper-extremities",
+      "topicName": "Vasculature and Lymphatics of the Upper Extremities",
+      "tier": "core"
+    },
+    {
+      "id": "mk14-012",
+      "stem": "A 72-year-old woman has a high-grade stenosis at the origin of the brachiocephalic trunk, with no other arterial disease. Arterial inflow to which upper limb or limbs is most directly reduced?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Both upper limbs equally"
+        },
+        {
+          "label": "B",
+          "text": "Neither limb, as both subclavians arise from the arch"
+        },
+        {
+          "label": "C",
+          "text": "The left limb more than the right"
+        },
+        {
+          "label": "D",
+          "text": "The left upper limb only"
+        },
+        {
+          "label": "E",
+          "text": "The right upper limb only"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The right subclavian artery arises from the brachiocephalic trunk, whereas the left subclavian arises directly from the aortic arch.",
+        "whyCorrect": "Blood reaches the upper extremities through the subclavian arteries. The right subclavian artery arises from the brachiocephalic trunk, while the left arises directly from the aortic arch, so stenosis of the brachiocephalic trunk reduces inflow to the right limb.",
+        "whyWrongByChoice": {
+          "A": "Only one subclavian artery arises from the brachiocephalic trunk.",
+          "B": "Only the left subclavian arises directly from the arch; the right arises from the brachiocephalic trunk.",
+          "C": "This reverses the anatomy; the right subclavian depends on the brachiocephalic trunk.",
+          "D": "The left subclavian artery arises directly from the aortic arch, so it is unaffected by a lesion of the brachiocephalic trunk."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "subclavian artery",
+        "aortic arch",
+        "brachiocephalic trunk"
+      ],
+      "topicId": "vasculature-and-lymphatics-of-the-upper-extremities",
+      "topicName": "Vasculature and Lymphatics of the Upper Extremities",
+      "tier": "core"
+    }
+  ]
+}

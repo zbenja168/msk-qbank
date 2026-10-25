@@ -1,0 +1,2251 @@
+{
+  "categoryId": "w1s3",
+  "categoryName": "Session 3",
+  "questions": [
+    {
+      "id": "mk09-001",
+      "stem": "In an isolated skeletal muscle fiber preparation, the sarcomeres are set well beyond the plateau of the active length-tension curve before the fiber is stimulated. The active tension developed is far lower than at the plateau. Which of the following best explains the low active tension?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calcium release from the sarcoplasmic reticulum being reduced"
+        },
+        {
+          "label": "B",
+          "text": "Fewer myosin heads lying within reach of the thin filaments"
+        },
+        {
+          "label": "C",
+          "text": "Passive tension from connective tissue dropping to near zero"
+        },
+        {
+          "label": "D",
+          "text": "Thin filaments from opposite ends covering myosin binding sites"
+        },
+        {
+          "label": "E",
+          "text": "Titin recoil preventing thick filaments from sliding past actin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Overstretching a sarcomere reduces actin-myosin overlap, so fewer cross bridges form and less active tension develops.",
+        "whyCorrect": "Active tension is proportional to the number of cross bridges formed between actin and myosin. When a sarcomere is stretched beyond its optimal length, actin and myosin overlap less, fewer cross bridges can form, and less tension develops.",
+        "whyWrongByChoice": {
+          "A": "The lecture attributes the fall in active tension at long lengths to filament geometry, not to a change in calcium release.",
+          "C": "Passive tension rises, not falls, with greater stretch; the deficit here is in active tension.",
+          "D": "Thin filaments overlapping one another and blocking myosin binding sites is the explanation for low tension at excessively SHORT sarcomere lengths, not overstretch.",
+          "E": "Titin is a non-contractile protein that contributes passive (elastic) tension during stretch; it does not block filament sliding."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "length-tension",
+        "sarcomere"
+      ],
+      "topicId": "mechanics-of-muscle-force-production",
+      "topicName": "Mechanics of Muscle Force Production",
+      "tier": "core"
+    },
+    {
+      "id": "mk09-002",
+      "stem": "A physiologist stimulates an isolated muscle fiber after shortening it so that its sarcomeres sit far below optimal length (points A and B on the length-tension curve). Active tension is markedly reduced. What is the primary reason?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Excess passive tension resisting any further sarcomere shortening"
+        },
+        {
+          "label": "B",
+          "text": "Loss of titin elasticity removing the passive force contribution"
+        },
+        {
+          "label": "C",
+          "text": "Minimal thin-thick interdigitation leaving myosin heads unattached"
+        },
+        {
+          "label": "D",
+          "text": "Thick filaments pulled out of register with the Z disks at each end"
+        },
+        {
+          "label": "E",
+          "text": "Thin filaments crossing over each other and masking myosin sites"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "At very short sarcomere lengths, actin filaments overlap one another and block myosin binding sites, reducing cross-bridge formation.",
+        "whyCorrect": "When the sarcomere is too short, actin filaments from each half of the sarcomere overlap one another and block available myosin binding sites. This prevents cross-bridge formation and reduces the active tension that develops.",
+        "whyWrongByChoice": {
+          "A": "Passive tension grows with stretch and is minimal at short lengths, so it cannot explain reduced force here.",
+          "B": "Passive tension is negligible at short lengths; the reduction described is in active, cross-bridge tension.",
+          "C": "Too little actin-myosin overlap is the explanation for an overstretched sarcomere, not a shortened one.",
+          "D": "Misregistration of thick filaments with the Z disks is not the mechanism the length-tension relationship invokes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "length-tension",
+        "sarcomere"
+      ],
+      "topicId": "mechanics-of-muscle-force-production",
+      "topicName": "Mechanics of Muscle Force Production",
+      "tier": "core"
+    },
+    {
+      "id": "mk09-003",
+      "stem": "A muscle strip is pulled to progressively longer lengths without any nerve or electrical stimulation. A force transducer records a resting tension that rises with each increment of stretch. Which of the following generates this resting tension?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calcium leaking from the sarcoplasmic reticulum as fibers lengthen"
+        },
+        {
+          "label": "B",
+          "text": "Cross bridges cycling at a low baseline rate in resting fibers"
+        },
+        {
+          "label": "C",
+          "text": "Intrafusal fibers contracting under ongoing gamma motor drive"
+        },
+        {
+          "label": "D",
+          "text": "Titin and the connective tissue surrounding the muscle fibers"
+        },
+        {
+          "label": "E",
+          "text": "Tropomyosin shifting to expose actin binding sites with stretch"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Passive tension comes from non-contractile elements, namely the connective tissue around the fibers and proteins such as titin.",
+        "whyCorrect": "Skeletal muscle contains non-contractile components that produce passive tension when stretched: the connective tissue surrounding the fibers and non-contractile proteins such as titin. Together they give muscle its elasticity, and greater stretch produces greater passive tension.",
+        "whyWrongByChoice": {
+          "A": "Calcium-driven contraction would be active tension; the recorded force is passive and stretch-dependent.",
+          "B": "Cross-bridge formation produces active tension, which requires stimulation; the strip is unstimulated.",
+          "C": "Intrafusal fibers are sparse spindle fibers that maintain spindle sensitivity; they do not account for whole-muscle resting tension.",
+          "E": "Exposure of actin binding sites relates to active contraction, not to elastic resting tension."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "passive tension",
+        "titin"
+      ],
+      "topicId": "mechanics-of-muscle-force-production",
+      "topicName": "Mechanics of Muscle Force Production",
+      "tier": "core"
+    },
+    {
+      "id": "mk09-004",
+      "stem": "A 30-year-old woman performs single elbow flexions, first lifting a light grocery bag and then a much heavier bag that she can still raise. Compared with the light bag, how does the time course of the biceps contraction change with the heavier bag?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A longer isometric phase and a shorter isotonic phase"
+        },
+        {
+          "label": "B",
+          "text": "A purely isometric contraction without a shortening phase"
+        },
+        {
+          "label": "C",
+          "text": "A purely isotonic contraction without an isometric phase"
+        },
+        {
+          "label": "D",
+          "text": "A shorter isometric phase and a longer isotonic phase"
+        },
+        {
+          "label": "E",
+          "text": "Unchanged phase durations but faster shortening velocity"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "As afterload increases, more time is spent in the isometric phase and less in the isotonic phase of the contraction.",
+        "whyCorrect": "An isotonic contraction begins with an isometric phase in which force builds until it matches the load. A heavier afterload takes longer to match, so the isometric portion lengthens while the isotonic (shortening) portion shrinks.",
+        "whyWrongByChoice": {
+          "B": "She can still raise the heavier bag, so shortening occurs; a purely isometric contraction happens only when the load exceeds maximal force.",
+          "C": "Every isotonic contraction includes an initial isometric phase while force builds to match the load.",
+          "D": "This is the opposite of the effect of a heavier afterload; light loads have short isometric phases.",
+          "E": "Shortening velocity decreases, not increases, as afterload increases."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "isotonic contraction",
+        "afterload"
+      ],
+      "topicId": "mechanics-of-muscle-force-production",
+      "topicName": "Mechanics of Muscle Force Production",
+      "tier": "core"
+    },
+    {
+      "id": "mk09-005",
+      "stem": "A powerlifter attempts biceps curls with progressively heavier dumbbells. On the final attempt, despite maximal voluntary effort, his elbow angle does not change and the dumbbell stays on the rack. Which of the following best describes the biceps contraction during this final attempt?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A brief isometric phase followed by very slow shortening"
+        },
+        {
+          "label": "B",
+          "text": "Entirely isometric, with a shortening velocity of zero"
+        },
+        {
+          "label": "C",
+          "text": "Isotonic at constant load, with a maximal shortening extent"
+        },
+        {
+          "label": "D",
+          "text": "Isotonic lengthening as the load re-extends the muscle"
+        },
+        {
+          "label": "E",
+          "text": "Isotonic shortening at a reduced but nonzero velocity"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "When the afterload exceeds the maximal force the muscle can generate, no shortening occurs and the contraction is completely isometric.",
+        "whyCorrect": "The extent and velocity of shortening are inversely related to afterload. If the afterload requires more force than the muscle can exert, the muscle never reaches the isotonic phase: velocity is zero, no shortening occurs, and the contraction is entirely isometric.",
+        "whyWrongByChoice": {
+          "A": "An isotonic phase follows the isometric phase only when muscle force can match the load, which it cannot here.",
+          "C": "Maximal shortening extent occurs with the lightest loads, not with a load that cannot be moved.",
+          "D": "Isotonic lengthening occurs during relaxation while a lifted load re-extends the muscle; the weight was never lifted.",
+          "E": "Any shortening requires that maximal force exceed the load; here the elbow does not move."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "force-velocity",
+        "afterload",
+        "isometric contraction"
+      ],
+      "topicId": "mechanics-of-muscle-force-production",
+      "topicName": "Mechanics of Muscle Force Production",
+      "tier": "core"
+    },
+    {
+      "id": "mk09-006",
+      "stem": "During a routine neurologic examination of a 45-year-old man, the physician taps the patellar tendon and the leg kicks forward. Which afferent fibers carry the signal that synapses directly onto the alpha motor neurons for this response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha efferents to the extrafusal muscle fibers"
+        },
+        {
+          "label": "B",
+          "text": "Gamma efferents to intrafusal contractile regions"
+        },
+        {
+          "label": "C",
+          "text": "Group Ia fibers from spindle primary endings"
+        },
+        {
+          "label": "D",
+          "text": "Group Ib fibers from Golgi tendon organs"
+        },
+        {
+          "label": "E",
+          "text": "Group II fibers from spindle secondary endings"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The knee-jerk (myotatic) reflex is initiated by spindle primary endings whose group Ia afferents synapse directly onto alpha motor neurons.",
+        "whyCorrect": "Tapping the patellar tendon stretches the quadriceps and excites the spindle primary endings. Their group Ia afferent impulses synapse directly onto alpha motor neurons in the spinal cord, driving quadriceps contraction and the reflexive kick.",
+        "whyWrongByChoice": {
+          "A": "Alpha motor neurons are the efferent limb that produces the kick, not the afferent fibers that synapse onto them.",
+          "B": "Gamma motor neurons are efferent fibers that keep the spindle taut; they are not the afferent limb of the reflex.",
+          "D": "Golgi tendon organ Ib afferents sense tension and inhibit the agonist via interneurons; they do not drive the stretch reflex.",
+          "E": "Secondary endings (group II) also sense length, but the lecture identifies the primary endings as the ones driving the knee-jerk reflex."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "stretch reflex",
+        "muscle spindle"
+      ],
+      "topicId": "mechanics-of-muscle-force-production",
+      "topicName": "Mechanics of Muscle Force Production",
+      "tier": "core"
+    },
+    {
+      "id": "mk09-007",
+      "stem": "During a sustained, heavy isometric contraction, receptors located within the tendon and arranged in series with the extrafusal fibers increase their firing. Through spinal circuits, this afferent input produces which effect on the contracting muscle itself?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Excitation of its alpha motor neurons via interneurons"
+        },
+        {
+          "label": "B",
+          "text": "Increased gamma drive to its intrafusal muscle fibers"
+        },
+        {
+          "label": "C",
+          "text": "Inhibition of antagonist motor neurons via interneurons"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of its alpha motor neurons via interneurons"
+        },
+        {
+          "label": "E",
+          "text": "Monosynaptic excitation of its alpha motor neurons"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Golgi tendon organs signal tension through Ib afferents that recruit interneurons inhibiting the agonist's alpha motor neurons (autogenic inhibition).",
+        "whyCorrect": "The Golgi tendon organ lies in the tendon, in series with the extrafusal fibers, and monitors tension. Its group Ib afferents recruit spinal interneurons that inhibit the alpha motor neurons supplying the muscle, causing it to relax; this tension feedback adjusts contraction strength during sustained activity.",
+        "whyWrongByChoice": {
+          "A": "The tendon organ inhibits, rather than excites, the agonist's alpha motor neurons.",
+          "B": "Gamma drive to intrafusal fibers maintains spindle sensitivity; it is not the Golgi tendon organ's effect.",
+          "C": "Ib collaterals EXCITE antagonist motor neurons; inhibition of antagonists is the spindle reflex pattern.",
+          "E": "Monosynaptic excitation of the agonist is the muscle spindle Ia stretch reflex, not the tendon organ response."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Golgi tendon organ",
+        "autogenic inhibition"
+      ],
+      "topicId": "mechanics-of-muscle-force-production",
+      "topicName": "Mechanics of Muscle Force Production",
+      "tier": "core"
+    },
+    {
+      "id": "mk09-008",
+      "stem": "In an experimental preparation, gamma motor neuron activity to a muscle is selectively blocked while its alpha motor neurons drive a voluntary contraction that shortens the muscle. Which of the following is the most likely consequence?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Extrafusal fibers fail to contract, abolishing shortening"
+        },
+        {
+          "label": "B",
+          "text": "Golgi tendon organ firing ceases throughout the contraction"
+        },
+        {
+          "label": "C",
+          "text": "Ia firing rises because the shortening stretches the spindle"
+        },
+        {
+          "label": "D",
+          "text": "Ib afferent input switches to exciting the agonist muscle"
+        },
+        {
+          "label": "E",
+          "text": "Spindles lose tension and sensitivity as the muscle shortens"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Gamma motor neurons contract intrafusal fibers during contraction, maintaining spindle tension and sensitivity as the muscle shortens.",
+        "whyCorrect": "During contraction, alpha motor neurons contract the extrafusal fibers while gamma motor neurons contract the intrafusal fibers. Without gamma drive, the spindle is not kept taut as the muscle shortens, so it loses tension and sensitivity to length change.",
+        "whyWrongByChoice": {
+          "A": "Extrafusal fibers are innervated by alpha motor neurons, which are intact; the muscle still shortens.",
+          "B": "Tendon organs sense tension through Ib afferents and do not depend on gamma drive.",
+          "C": "Muscle shortening unloads, rather than stretches, the spindle.",
+          "D": "Ib afferents inhibit the agonist; blocking gamma neurons does not reverse that effect."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "gamma motor neuron",
+        "muscle spindle"
+      ],
+      "topicId": "mechanics-of-muscle-force-production",
+      "topicName": "Mechanics of Muscle Force Production",
+      "tier": "core"
+    },
+    {
+      "id": "mk09-009",
+      "stem": "An isolated nerve-muscle preparation is bathed in a solution lacking extracellular calcium. Stimulating the motor nerve produces normal action potentials along the axon, but the muscle does not contract. Which step of neuromuscular transmission fails first?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fusion of transmitter vesicles with the terminal membrane"
+        },
+        {
+          "label": "B",
+          "text": "Hydrolysis of acetylcholine by acetylcholinesterase"
+        },
+        {
+          "label": "C",
+          "text": "Opening of nicotinic channels by bound acetylcholine"
+        },
+        {
+          "label": "D",
+          "text": "Opening of voltage-gated Na+ channels in the sarcolemma"
+        },
+        {
+          "label": "E",
+          "text": "Propagation of the action potential along the motor axon"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Calcium influx from the interstitium through voltage-gated channels is required for ACh vesicles to fuse with the terminal membrane and release ACh.",
+        "whyCorrect": "When the action potential reaches the terminal, voltage-gated Ca2+ channels open and Ca2+ enters from the interstitium. Ca2+ causes the vesicles to migrate to the membrane, fuse and release ACh. Without extracellular Ca2+, this is the first step to fail, so no ACh reaches the receptors.",
+        "whyWrongByChoice": {
+          "B": "Hydrolysis by AChE terminates the signal after release; it is not required for contraction.",
+          "C": "Nicotinic channels never open because no ACh is released; this is a downstream consequence, not the first failure.",
+          "D": "Sarcolemmal Na+ channels fail to open only because no end-plate potential forms; this is downstream.",
+          "E": "The stem states axonal action potentials are normal."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "neuromuscular junction",
+        "calcium",
+        "ACh release"
+      ],
+      "topicId": "mechanics-of-muscle-force-production",
+      "topicName": "Mechanics of Muscle Force Production",
+      "tier": "core"
+    },
+    {
+      "id": "mk09-010",
+      "stem": "A 34-year-old woman has autoantibodies that reduce the number of functional postsynaptic acetylcholine receptors. A single brief effort produces near-normal strength, but strength falls progressively with repeated effort and returns after rest. Which mechanism best explains why weakness emerges only with repetition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetylcholinesterase activity rises with each successive impulse"
+        },
+        {
+          "label": "B",
+          "text": "Antibodies progressively block more presynaptic Ca2+ channels"
+        },
+        {
+          "label": "C",
+          "text": "Choline reuptake fails, so the terminal stops making new ACh"
+        },
+        {
+          "label": "D",
+          "text": "Declining ACh release per impulse drops a smaller EPP below threshold"
+        },
+        {
+          "label": "E",
+          "text": "Sarcolemmal Na+ channels inactivate after the first action potential"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Fewer receptors shrink the safety factor, so the normal decline in ACh release with repeated activity drops the EPP below threshold.",
+        "whyCorrect": "EPP amplitude depends on ACh released and the number of functional nicotinic receptors. With fewer receptors, the margin by which the EPP exceeds threshold (the safety factor) is reduced. During repeated activity ACh release per impulse normally declines as the readily releasable pool is used, so EPPs increasingly fall below threshold and muscle excitation fails.",
+        "whyWrongByChoice": {
+          "A": "The lecture describes no activity-dependent rise in acetylcholinesterase.",
+          "B": "The antibodies here target postsynaptic receptors, not presynaptic calcium channels.",
+          "C": "Choline uptake is intact; the decline in ACh release is the normal depletion of the readily releasable pool.",
+          "E": "Single and repeated efforts both depend on the same EPP-to-threshold margin; Na+ channel inactivation is not the mechanism described."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "safety factor",
+        "myasthenia gravis",
+        "end-plate potential"
+      ],
+      "topicId": "mechanics-of-muscle-force-production",
+      "topicName": "Mechanics of Muscle Force Production",
+      "tier": "core"
+    },
+    {
+      "id": "mk09-011",
+      "stem": "A drug that blocks the enzyme acetylcholinesterase is applied to a nerve-muscle preparation. Which effect on the muscle would be seen initially?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Absent transmitter release from blocked Ca2+ entry"
+        },
+        {
+          "label": "B",
+          "text": "Depleted transmitter stores from blocked choline uptake"
+        },
+        {
+          "label": "C",
+          "text": "Immediate flaccid paralysis from blocked ACh binding"
+        },
+        {
+          "label": "D",
+          "text": "Prolonged nicotinic activation with muscle fasciculations"
+        },
+        {
+          "label": "E",
+          "text": "Reduced vesicular release from cleaved SNARE proteins"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "AChE inhibitors cause ACh to accumulate at the NMJ, initially producing prolonged nicotinic receptor activation and fasciculations.",
+        "whyCorrect": "Acetylcholinesterase normally hydrolyzes ACh to terminate the signal. Inhibiting it lets ACh accumulate, leading initially to prolonged nicotinic receptor activation and muscle fasciculations. In controlled therapeutic doses, reversible AChE inhibitors increase ACh availability and can improve transmission in myasthenia gravis.",
+        "whyWrongByChoice": {
+          "A": "Preventing Ca2+ entry into the terminal causes presynaptic blockade, not AChE inhibition.",
+          "B": "Blocking choline uptake is the action of hemicholinium.",
+          "C": "Blocking ACh binding sites is the action of curare derivatives.",
+          "E": "Interference with SNARE-mediated vesicle release is the action of botulinum toxin."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "acetylcholinesterase inhibitors",
+        "pharmacology"
+      ],
+      "topicId": "mechanics-of-muscle-force-production",
+      "topicName": "Mechanics of Muscle Force Production",
+      "tier": "core"
+    },
+    {
+      "id": "mk09-012",
+      "stem": "An experimental compound is applied to a nerve-muscle preparation. The first few stimuli produce normal contractions, but with sustained stimulation the responses progressively fail. Adding ACh directly to the bath restores contraction. Nicotinic receptors, vesicle fusion machinery and Ca2+ entry into the nerve ending are all intact. Which mechanism best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Block of voltage-gated Na+ channels in the sarcolemma"
+        },
+        {
+          "label": "B",
+          "text": "Cleavage of SNARE proteins needed for vesicle fusion"
+        },
+        {
+          "label": "C",
+          "text": "Competitive occupation of nicotinic ACh binding sites"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of acetylcholinesterase in the synaptic cleft"
+        },
+        {
+          "label": "E",
+          "text": "Inhibition of choline uptake by the axon terminal"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Blocking choline uptake into the presynaptic terminal (as hemicholinium does) depletes ACh, causing presynaptic transmission failure.",
+        "whyCorrect": "After ACh is hydrolyzed, choline is transported back into the terminal and combined with acetyl-CoA to re-form ACh. Inhibiting this uptake (the action of hemicholinium) depletes the neuron's available ACh, so transmission fails as stores run down, while the postsynaptic membrane still responds to exogenous ACh.",
+        "whyWrongByChoice": {
+          "A": "A sarcolemmal Na+ channel block would also prevent exogenous ACh from producing contraction.",
+          "B": "The stem states vesicle fusion machinery is intact; SNARE interference is botulinum toxin's mechanism.",
+          "C": "Postsynaptic receptor blockade would prevent exogenous ACh from restoring contraction.",
+          "D": "AChE inhibition causes ACh accumulation and fasciculations, not progressive depletion."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "presynaptic blockade",
+        "hemicholinium",
+        "pharmacology"
+      ],
+      "topicId": "mechanics-of-muscle-force-production",
+      "topicName": "Mechanics of Muscle Force Production",
+      "tier": "core"
+    },
+    {
+      "id": "mk10-001",
+      "stem": "A 29-year-old woman reports drooping eyelids and double vision that are mild in the morning but worsen by evening, along with jaw fatigue while chewing. Sensation, pupils and deep tendon reflexes are normal. Which of the following is the underlying mechanism of her disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibody inhibition of acetylcholinesterase in the cleft"
+        },
+        {
+          "label": "B",
+          "text": "Autoantibodies to postsynaptic nicotinic ACh receptors"
+        },
+        {
+          "label": "C",
+          "text": "Autoantibodies to presynaptic voltage-gated Ca2+ channels"
+        },
+        {
+          "label": "D",
+          "text": "Immune attack on Schwann cells and peripheral myelin"
+        },
+        {
+          "label": "E",
+          "text": "Toxin cleavage of SNARE proteins in motor terminals"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Myasthenia gravis is caused by autoantibodies against postsynaptic nicotinic acetylcholine receptors at the NMJ.",
+        "whyCorrect": "Fluctuating, fatigable ptosis and diplopia that worsen later in the day with normal sensation, pupils and reflexes indicate myasthenia gravis. Autoantibodies bind Nm acetylcholine receptors, block ACh binding and trigger complement-mediated destruction of the postsynaptic membrane, leaving fewer receptors.",
+        "whyWrongByChoice": {
+          "A": "Acetylcholinesterase inhibition would increase ACh availability; it is the treatment strategy, not the disease mechanism.",
+          "C": "Antibodies to presynaptic calcium channels cause Lambert-Eaton syndrome, with proximal leg weakness, autonomic symptoms and reduced reflexes.",
+          "D": "Immune attack on myelin is Guillain-Barre syndrome, which causes ascending weakness with sensory symptoms and areflexia.",
+          "E": "SNARE cleavage by botulinum toxin causes rapidly progressive descending flaccid paralysis with dilated pupils, not day-to-day fluctuation."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "myasthenia gravis",
+        "pathophysiology"
+      ],
+      "topicId": "neuromuscular-junction-disorders",
+      "topicName": "Neuromuscular Junction Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk10-002",
+      "stem": "A 41-year-old man has 3 months of fatigable diplopia, ptosis and arm weakness that worsens with sustained use. Examination confirms bilateral ptosis and fatigable proximal weakness. Which test is the preferred initial study to confirm the suspected diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Edrophonium (Tensilon) test with monitoring"
+        },
+        {
+          "label": "B",
+          "text": "Repetitive nerve stimulation of a limb nerve"
+        },
+        {
+          "label": "C",
+          "text": "Serum acetylcholine receptor antibody assay"
+        },
+        {
+          "label": "D",
+          "text": "Serum muscle-specific kinase antibody assay"
+        },
+        {
+          "label": "E",
+          "text": "Serum voltage-gated calcium channel antibodies"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "AChR antibody testing is the preferred initial test for myasthenia gravis and is positive in most patients with generalized disease.",
+        "whyCorrect": "Fatigable ptosis, diplopia and limb weakness indicate myasthenia gravis. AChR antibody testing is the preferred initial confirmatory test and is positive in most patients with generalized disease.",
+        "whyWrongByChoice": {
+          "A": "The edrophonium test is a classic test but has largely been replaced by antibody and electrodiagnostic testing.",
+          "B": "Repetitive nerve stimulation shows a decremental response and supports the diagnosis, but antibody testing is the preferred initial test.",
+          "D": "MuSK antibodies are assessed when AChR antibodies are absent and suspicion remains high, not first.",
+          "E": "VGCC antibodies are used to diagnose Lambert-Eaton syndrome."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "myasthenia gravis",
+        "diagnosis"
+      ],
+      "topicId": "neuromuscular-junction-disorders",
+      "topicName": "Neuromuscular Junction Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk10-003",
+      "stem": "A 52-year-old woman with fatigable ptosis and dysphagia has a positive acetylcholine receptor antibody test. Which associated condition should now be sought, and with which study?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Campylobacter infection, by stool culture"
+        },
+        {
+          "label": "B",
+          "text": "Hepatic neoplasm, by abdominal ultrasound"
+        },
+        {
+          "label": "C",
+          "text": "Pituitary adenoma, by MRI of the brain"
+        },
+        {
+          "label": "D",
+          "text": "Small-cell lung carcinoma, by CT of the chest"
+        },
+        {
+          "label": "E",
+          "text": "Thymoma, by CT of the chest"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "After myasthenia gravis is diagnosed, chest CT is obtained to evaluate for thymoma, which may change management.",
+        "whyCorrect": "Thymoma is an important condition associated with myasthenia gravis. Chest CT should be obtained after diagnosis because identifying a thymoma significantly affects management, including the need for thymectomy.",
+        "whyWrongByChoice": {
+          "A": "Campylobacter jejuni gastroenteritis classically precedes Guillain-Barre syndrome.",
+          "B": "Abdominal imaging is not part of the myasthenia gravis evaluation.",
+          "C": "Pituitary adenoma is not an associated condition of myasthenia gravis.",
+          "D": "Small-cell lung carcinoma is associated with Lambert-Eaton syndrome, not myasthenia gravis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "myasthenia gravis",
+        "thymoma",
+        "imaging"
+      ],
+      "topicId": "neuromuscular-junction-disorders",
+      "topicName": "Neuromuscular Junction Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk10-004",
+      "stem": "A 66-year-old man has 5 months of slowly progressive difficulty rising from chairs and climbing stairs, with dry mouth and constipation. Knee and ankle reflexes are absent at rest but become elicitable after he contracts his leg muscles strongly for several seconds. Which of the following is the primary target of his disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Muscle-specific kinase on the end plate"
+        },
+        {
+          "label": "B",
+          "text": "Postsynaptic nicotinic acetylcholine receptors"
+        },
+        {
+          "label": "C",
+          "text": "Presynaptic voltage-gated calcium channels"
+        },
+        {
+          "label": "D",
+          "text": "Schwann cells and peripheral nerve myelin"
+        },
+        {
+          "label": "E",
+          "text": "SNARE proteins of the presynaptic terminal"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Lambert-Eaton syndrome is caused by autoantibodies to presynaptic voltage-gated calcium channels, impairing ACh release.",
+        "whyCorrect": "Proximal lower-extremity weakness, dry mouth and constipation, and reduced reflexes that transiently improve after brief activation are characteristic of Lambert-Eaton syndrome. Autoantibodies target presynaptic voltage-gated calcium channels, impairing ACh release at neuromuscular and autonomic synapses.",
+        "whyWrongByChoice": {
+          "A": "MuSK antibodies are tested in seronegative myasthenia gravis, not in this presynaptic pattern.",
+          "B": "Postsynaptic receptor antibodies cause myasthenia gravis, with normal reflexes and weakness that worsens with use.",
+          "D": "Myelin and Schwann cell injury is Guillain-Barre syndrome, with ascending weakness and sensory symptoms.",
+          "E": "SNARE cleavage by botulinum toxin causes rapid descending paralysis, not slowly progressive weakness that improves with activation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Lambert-Eaton syndrome",
+        "pathophysiology"
+      ],
+      "topicId": "neuromuscular-junction-disorders",
+      "topicName": "Neuromuscular Junction Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk10-005",
+      "stem": "A 63-year-old woman with small-cell lung carcinoma and positive VGCC antibodies has persistent proximal leg weakness despite starting cancer treatment. The preferred symptomatic drug for her neuromuscular disorder is added. By which mechanism does this drug improve strength?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blocking presynaptic K+ channels to prolong depolarization"
+        },
+        {
+          "label": "B",
+          "text": "Directly opening postsynaptic nicotinic cation channels"
+        },
+        {
+          "label": "C",
+          "text": "Neutralizing circulating toxin before it reaches the terminal"
+        },
+        {
+          "label": "D",
+          "text": "Removing circulating autoantibodies from the patient's plasma"
+        },
+        {
+          "label": "E",
+          "text": "Slowing ACh hydrolysis by inhibiting cleft acetylcholinesterase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Amifampridine blocks presynaptic potassium channels, prolonging depolarization and increasing Ca2+ influx and ACh release.",
+        "whyCorrect": "Amifampridine (3,4-diaminopyridine) is the preferred symptomatic treatment for Lambert-Eaton syndrome. By blocking presynaptic potassium channels it prolongs depolarization, increasing calcium influx and enhancing ACh release, which targets the primary presynaptic defect.",
+        "whyWrongByChoice": {
+          "B": "No therapy in the lecture works by directly opening nicotinic channels.",
+          "C": "Neutralizing circulating toxin is the mechanism of botulism antitoxins.",
+          "D": "Plasma exchange is used for severe myasthenic exacerbations, not as the preferred symptomatic Lambert-Eaton therapy.",
+          "E": "This is pyridostigmine's mechanism; it may add benefit but is generally less effective than amifampridine in Lambert-Eaton syndrome."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Lambert-Eaton syndrome",
+        "amifampridine",
+        "pharmacology"
+      ],
+      "topicId": "neuromuscular-junction-disorders",
+      "topicName": "Neuromuscular Junction Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk10-006",
+      "stem": "A 44-year-old man develops diplopia, slurred speech and difficulty swallowing, followed over 2 days by weakness of his neck and then his arms. His pupils are dilated and poorly reactive, and sensation is intact. Two relatives who ate the same home-preserved vegetables are similarly affected. Which mechanism explains his weakness?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoantibodies blocking postsynaptic ACh receptors"
+        },
+        {
+          "label": "B",
+          "text": "Autoantibodies to presynaptic Ca2+ channels"
+        },
+        {
+          "label": "C",
+          "text": "Cleavage of SNARE proteins, preventing ACh release"
+        },
+        {
+          "label": "D",
+          "text": "Excess ACh persistently activating nicotinic receptors"
+        },
+        {
+          "label": "E",
+          "text": "Immune-mediated demyelination of peripheral nerves"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Botulinum toxin cleaves SNARE proteins, blocking acetylcholine release and causing descending flaccid paralysis.",
+        "whyCorrect": "Rapidly progressive, descending, symmetric flaccid paralysis beginning with cranial nerves, plus dilated poorly reactive pupils, intact sensation and a shared food source, indicates foodborne botulism. SNARE proteins mediate vesicle fusion; botulinum toxin cleaves them, blocking ACh release at neuromuscular and autonomic synapses.",
+        "whyWrongByChoice": {
+          "A": "Postsynaptic receptor antibodies cause myasthenia gravis, which spares the pupils and does not cluster after a shared meal.",
+          "B": "Antibodies to presynaptic calcium channels cause the slowly progressive Lambert-Eaton syndrome.",
+          "D": "Excess ACh at nicotinic receptors describes cholinergic crisis from AChE inhibitor excess.",
+          "E": "Demyelination is Guillain-Barre syndrome, which causes ascending paralysis with sensory symptoms."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "botulism",
+        "pathophysiology"
+      ],
+      "topicId": "neuromuscular-junction-disorders",
+      "topicName": "Neuromuscular Junction Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk10-007",
+      "stem": "A 4-month-old girl is brought in with 3 days of constipation, poor feeding, a weak cry and a floppy head. Examination shows bilateral ptosis and generalized hypotonia. Her caregiver has been sweetening her pacifier with honey. Which therapy should be given?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Heptavalent equine-derived antitoxin fragments (BAT)"
+        },
+        {
+          "label": "B",
+          "text": "Human-derived hyperimmune IgG product (BabyBIG)"
+        },
+        {
+          "label": "C",
+          "text": "Intravenous penicillin G for anaerobic eradication"
+        },
+        {
+          "label": "D",
+          "text": "Oral pyridostigmine titrated to clinical response"
+        },
+        {
+          "label": "E",
+          "text": "Plasma exchange to remove circulating antibodies"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Infant botulism (under 1 year) is treated with BabyBIG, a human-derived hyperimmune immunoglobulin, plus supportive care.",
+        "whyCorrect": "Honey exposure with constipation, hypotonia and ptosis in an infant indicates infant botulism. Patients younger than 1 year receive BabyBIG, a human hyperimmune IgG covering serotypes A and B; its human origin avoids equine hypersensitivity and lifelong sensitization risk.",
+        "whyWrongByChoice": {
+          "A": "BAT is the equine antitoxin given to older children and adults.",
+          "C": "Antibiotics are required for wound botulism, not infant botulism.",
+          "D": "Pyridostigmine is a myasthenia gravis therapy and does not neutralize toxin.",
+          "E": "Plasma exchange is used for severe myasthenic exacerbations; botulism is caused by a toxin, not autoantibodies."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "botulism",
+        "infant botulism",
+        "treatment"
+      ],
+      "topicId": "neuromuscular-junction-disorders",
+      "topicName": "Neuromuscular Junction Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk10-008",
+      "stem": "A 25-year-old man is evaluated for rapidly progressive symmetric weakness over 3 days, with diminished reflexes. The team is deciding between botulism and Guillain-Barre syndrome. Which additional finding would most strongly favor Guillain-Barre syndrome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Absent deep tendon reflexes in all four limbs"
+        },
+        {
+          "label": "B",
+          "text": "Constipation and a persistently dry mouth"
+        },
+        {
+          "label": "C",
+          "text": "Dilated, poorly reactive pupils bilaterally"
+        },
+        {
+          "label": "D",
+          "text": "Weakness rising from the legs with sensory loss"
+        },
+        {
+          "label": "E",
+          "text": "Weakness that began with ptosis and diplopia"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "GBS causes ascending paralysis with sensory symptoms; NMJ disorders such as botulism cause descending paralysis and preserve sensation.",
+        "whyCorrect": "Guillain-Barre syndrome classically causes an ascending paralysis that begins in the lower extremities, and sensory symptoms are common. Botulism causes descending paralysis from impaired ACh release, and sensation is preserved because the sensory system does not use acetylcholine.",
+        "whyWrongByChoice": {
+          "A": "Reflexes are reduced or absent in both botulism and GBS, so this does not discriminate.",
+          "B": "Constipation and dry mouth are autonomic features of botulism.",
+          "C": "Dilated, poorly reactive pupils reflect impaired autonomic ACh release in botulism.",
+          "E": "Early cranial nerve weakness with descending spread is characteristic of botulism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Guillain-Barre syndrome",
+        "botulism",
+        "differential diagnosis"
+      ],
+      "topicId": "neuromuscular-junction-disorders",
+      "topicName": "Neuromuscular Junction Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk10-009",
+      "stem": "A 58-year-old woman with known myasthenia gravis has 2 days of worsening slurred speech, choking on liquids, shortness of breath and inability to lift her head from the pillow. She is admitted for close monitoring of respiratory function. Which treatment is typically given for this complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amifampridine to increase presynaptic Ca2+ entry"
+        },
+        {
+          "label": "B",
+          "text": "Equine botulinum antitoxin for passive immunity"
+        },
+        {
+          "label": "C",
+          "text": "IV immunoglobulin or plasma exchange"
+        },
+        {
+          "label": "D",
+          "text": "Penicillin G directed against anaerobic bacteria"
+        },
+        {
+          "label": "E",
+          "text": "Urgent thymectomy within the first 24 hours"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Myasthenic crisis is treated with hospitalization, respiratory monitoring, and IVIG or plasma exchange.",
+        "whyCorrect": "Worsening dysarthria, dysphagia, dyspnea and neck flexor weakness in a patient with myasthenia gravis indicate myasthenic crisis, a life-threatening exacerbation with respiratory muscle weakness. Hospitalization and close respiratory monitoring are required, and treatment typically includes IVIG or plasma exchange. About 15% of patients experience a myasthenic crisis during their lifetime.",
+        "whyWrongByChoice": {
+          "A": "Amifampridine is the preferred symptomatic treatment for Lambert-Eaton syndrome.",
+          "B": "Antitoxin neutralizes botulinum toxin and has no role in myasthenia gravis.",
+          "D": "Antibiotics against anaerobes are used for wound botulism.",
+          "E": "Thymectomy is a long-term treatment for selected patients, not therapy for an acute crisis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "myasthenic crisis",
+        "treatment"
+      ],
+      "topicId": "neuromuscular-junction-disorders",
+      "topicName": "Neuromuscular Junction Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk10-010",
+      "stem": "A 47-year-old man with myasthenia gravis took several extra doses of his pyridostigmine over 2 days to overcome fatigue. He now has worsening generalized weakness, profuse salivation and diarrhea. What is the mechanism of his worsening weakness?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibody blockade of presynaptic voltage-gated Ca2+ channels"
+        },
+        {
+          "label": "B",
+          "text": "Autoantibodies destroying additional postsynaptic receptors"
+        },
+        {
+          "label": "C",
+          "text": "Depletion of ACh stores from blocked presynaptic choline uptake"
+        },
+        {
+          "label": "D",
+          "text": "Excess ACh keeping the end plate from repolarizing normally"
+        },
+        {
+          "label": "E",
+          "text": "Immune-mediated demyelination of peripheral motor nerves"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In cholinergic crisis, excess ACh persistently activates nicotinic receptors so the end plate cannot repolarize, causing weakness.",
+        "whyCorrect": "Cholinergic crisis is a rare complication of excessive acetylcholinesterase inhibition. Excess ACh causes persistent nicotinic receptor activation at the NMJ; the motor end plate cannot repolarize normally, impairing contraction and worsening weakness that may progress to respiratory insufficiency. Excess ACh at muscarinic receptors produces salivation and diarrhea.",
+        "whyWrongByChoice": {
+          "A": "Antibodies to presynaptic calcium channels cause Lambert-Eaton syndrome.",
+          "B": "Antibody-mediated receptor loss is the underlying MG process, but salivation and diarrhea after extra doses point to drug excess.",
+          "C": "Pyridostigmine inhibits acetylcholinesterase; it does not block choline uptake.",
+          "E": "Demyelination is the mechanism of Guillain-Barre syndrome."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cholinergic crisis",
+        "pyridostigmine"
+      ],
+      "topicId": "neuromuscular-junction-disorders",
+      "topicName": "Neuromuscular Junction Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk10-011",
+      "stem": "A 36-year-old woman is newly diagnosed with myasthenia gravis after a positive AChR antibody test, and chest CT shows no thymoma. Which drug is first-line symptomatic therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amifampridine"
+        },
+        {
+          "label": "B",
+          "text": "Azathioprine"
+        },
+        {
+          "label": "C",
+          "text": "Edrophonium"
+        },
+        {
+          "label": "D",
+          "text": "Mycophenolate"
+        },
+        {
+          "label": "E",
+          "text": "Pyridostigmine"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Pyridostigmine, an acetylcholinesterase inhibitor that does not cross the blood-brain barrier, is first-line symptomatic therapy for MG.",
+        "whyCorrect": "Pyridostigmine is a key, first-line symptomatic treatment for myasthenia gravis. It reduces ACh hydrolysis in the synaptic cleft, increasing the active concentration of ACh and helping muscle activation.",
+        "whyWrongByChoice": {
+          "A": "Amifampridine is the preferred symptomatic treatment for Lambert-Eaton syndrome.",
+          "B": "Azathioprine is an immunosuppressant used if AChE inhibitors do not adequately control symptoms.",
+          "C": "Edrophonium is a short-acting AChE inhibitor used diagnostically, not for maintenance therapy.",
+          "D": "Mycophenolate is an immunosuppressant used if AChE inhibitors do not adequately control symptoms."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "myasthenia gravis",
+        "treatment"
+      ],
+      "topicId": "neuromuscular-junction-disorders",
+      "topicName": "Neuromuscular Junction Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk10-012",
+      "stem": "A 27-year-old woman has generalized myasthenia gravis with positive AChR antibodies. Chest CT shows no thymoma. Thymectomy is nonetheless considered to improve her long-term symptom control. What is the rationale for this operation in her case?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hyperplastic thymic tissue with germinal centers may drive antibody output"
+        },
+        {
+          "label": "B",
+          "text": "Thymic resection prevents local invasion by a potentially malignant tumor"
+        },
+        {
+          "label": "C",
+          "text": "Thymic resection removes an occult small-cell carcinoma producing antigens"
+        },
+        {
+          "label": "D",
+          "text": "Thymic T cells directly attack presynaptic Ca2+ channels at motor terminals"
+        },
+        {
+          "label": "E",
+          "text": "Thymic tissue supplies the acetylcholinesterase that degrades synaptic ACh"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Thymic follicular hyperplasia with B-cell germinal centers may contribute to anti-AChR antibody production, so thymectomy can help selected patients without thymoma.",
+        "whyCorrect": "Thymectomy may improve long-term outcomes in selected patients with generalized MG even without a thymoma. Thymic follicular hyperplasia with B-cell germinal centers may contribute to the autoimmune response producing anti-AChR antibodies; removing the thymus can reduce disease activity.",
+        "whyWrongByChoice": {
+          "B": "Preventing invasion is the rationale when a thymoma is present; her CT shows no thymoma.",
+          "C": "Small-cell lung carcinoma is associated with Lambert-Eaton syndrome and arises in the lung, not the thymus.",
+          "D": "Presynaptic Ca2+ channel antibodies are the mechanism of Lambert-Eaton syndrome, not MG.",
+          "E": "Acetylcholinesterase is not described as a thymic product."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "myasthenia gravis",
+        "thymectomy",
+        "thymic hyperplasia"
+      ],
+      "topicId": "neuromuscular-junction-disorders",
+      "topicName": "Neuromuscular Junction Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk11-001",
+      "stem": "A 20-year-old volleyball player performs a single maximal vertical jump. Within the first few seconds, her stored ATP falls and ADP rises. Which reaction provides the most immediate resupply of ATP in her leg muscle fibers?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anaerobic glycolysis of liberated glucose units"
+        },
+        {
+          "label": "B",
+          "text": "Conversion of lactate back into pyruvate"
+        },
+        {
+          "label": "C",
+          "text": "Oxidation of intramuscular lipid stores"
+        },
+        {
+          "label": "D",
+          "text": "Oxidative phosphorylation driven by ATP synthase"
+        },
+        {
+          "label": "E",
+          "text": "Phosphate transfer from phosphocreatine to ADP"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The phosphagen system (creatine kinase transferring phosphate from PCr to ADP) is the most immediate source of ATP regeneration.",
+        "whyCorrect": "At the onset of contraction, stored ATP is rapidly used, leaving ADP. Creatine kinase catalyzes PCr + ADP to Cr + ATP in a single anaerobic step, acting as a temporal energy buffer. This system dominates for only about the first 10 seconds before PCr is depleted.",
+        "whyWrongByChoice": {
+          "A": "Glycolysis becomes dominant only after roughly 10 seconds, as PCr stores diminish.",
+          "B": "Lactate is a product of excess pyruvate under limited O2; reconverting it is not an immediate ATP source.",
+          "C": "Lipid supports oxidative (aerobic) metabolism, which is far too slow for the first seconds of a jump.",
+          "D": "Oxidative phosphorylation is high-yield but slow to engage because of the lag in cardiopulmonary O2 delivery."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "phosphagen system",
+        "creatine kinase",
+        "LO1"
+      ],
+      "topicId": "muscle-metabolism",
+      "topicName": "Muscle Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "mk11-002",
+      "stem": "A 19-year-old sprinter runs a 400-m race that takes about 55 seconds. Her initial high-energy phosphate reserve is largely spent by the 10-second mark. Which pathway supplies most of her ATP for the remainder of the race?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anaerobic breakdown of intramuscular glycogen"
+        },
+        {
+          "label": "B",
+          "text": "Creatine kinase reaction using remaining stores"
+        },
+        {
+          "label": "C",
+          "text": "Hydrolysis of the preformed resting ATP pool"
+        },
+        {
+          "label": "D",
+          "text": "Oxidation of intramuscular lipid droplets"
+        },
+        {
+          "label": "E",
+          "text": "Oxidative phosphorylation in the mitochondria"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Glycolysis of muscle glycogen dominates ATP supply from about 10 seconds to about 2 minutes of activity.",
+        "whyCorrect": "As PCr stores diminish around 10 seconds into activity, glycolysis becomes the dominant ATP supplier. In skeletal muscle this is rapid anaerobic breakdown of glycogen yielding 2 ATP per glucose, and it dominates for roughly 2 minutes before aerobic metabolism takes over.",
+        "whyWrongByChoice": {
+          "B": "The phosphagen system dominates only for the first ~10 seconds; its stores are already largely spent.",
+          "C": "The resting ATP pool sustains contraction for only 1-2 seconds.",
+          "D": "Lipid fuels aerobic metabolism in oxidative fibers, which is not dominant in a sub-minute maximal effort.",
+          "E": "Oxidative phosphorylation dominates sustained activity beyond about 2 minutes, after the O2-delivery lag."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "glycolysis",
+        "time course",
+        "LO1"
+      ],
+      "topicId": "muscle-metabolism",
+      "topicName": "Muscle Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "mk11-003",
+      "stem": "During repeated 30-second all-out cycling intervals, a cyclist's force output declines sharply. Muscle sampling shows a marked fall in intramuscular pH alongside rising lactate. Which mechanism most directly explains the impaired contraction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Depletion of acetyl CoA entering the TCA cycle"
+        },
+        {
+          "label": "B",
+          "text": "Excess oxidative phosphorylation exhausting O2"
+        },
+        {
+          "label": "C",
+          "text": "Lactate anions directly inhibiting myosin heads"
+        },
+        {
+          "label": "D",
+          "text": "Proton displacement of Ca2+ from troponin sites"
+        },
+        {
+          "label": "E",
+          "text": "SERCA failure from complete ATP exhaustion"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Fatigue in intense exercise is driven by H+ accumulation (acidosis), which displaces Ca2+ from troponin, not by lactate itself.",
+        "whyCorrect": "Alongside lactate production, H+ accumulates from glycolytic intermediates and ATP degradation during anaerobic or intense exercise, lowering intramuscular pH. The acidic environment impairs contraction by displacing Ca2+ from troponin and also slows glycolysis. Fatigue tracks lactate accumulation, but H+ is the culprit.",
+        "whyWrongByChoice": {
+          "A": "Acetyl CoA supply to the TCA cycle is not the cause of acidosis-related force loss.",
+          "B": "OXPHOS is not excessive here; anaerobic conditions allow H+ to accumulate because the ETC is not buffering it.",
+          "C": "Lactate is associated with fatigue, but the lecture attributes the impairment to H+ accumulation, not lactate itself.",
+          "E": "The resting ATP pool is small but continuously regenerated; complete ATP exhaustion is not the explanation offered for acidotic fatigue."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "fatigue",
+        "H+ accumulation",
+        "troponin",
+        "LO1"
+      ],
+      "topicId": "muscle-metabolism",
+      "topicName": "Muscle Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "mk11-004",
+      "stem": "A research muscle biopsy shows a population of small-diameter fibers that appear red and are packed with mitochondria. These fibers belong to motor units that are recruited first during light voluntary effort. Which additional feature would most likely characterize these fibers?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "About 1000-2000 fibers in each motor unit"
+        },
+        {
+          "label": "B",
+          "text": "Abundant glycogen and low capillary density"
+        },
+        {
+          "label": "C",
+          "text": "Dense capillary network and high lipid content"
+        },
+        {
+          "label": "D",
+          "text": "High actomyosin ATPase and a large axon size"
+        },
+        {
+          "label": "E",
+          "text": "Rapid fatigue during sustained low-force work"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Type I fibers are small, red, mitochondria-rich, high in capillaries and lipid, and fatigue resistant.",
+        "whyCorrect": "These are Type I slow-twitch oxidative fibers. They have high capillary density, which with their small diameter facilitates O2 diffusion, and high lipid content as a ready energy source. Together these features support oxidative metabolism and fatigue resistance.",
+        "whyWrongByChoice": {
+          "A": "1000-2000 fibers per unit describes Type IIX motor units; Type I units contain ~100-500 fibers.",
+          "B": "Abundant glycogen and low capillary density describe Type IIX glycolytic fibers.",
+          "D": "Type I fibers have low actomyosin ATPase activity and are innervated by smaller-diameter axons.",
+          "E": "Type I fibers are fatigue resistant; rapid fatigue is characteristic of Type IIX fibers."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "fiber types",
+        "Type I",
+        "LO2"
+      ],
+      "topicId": "muscle-metabolism",
+      "topicName": "Muscle Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "mk11-005",
+      "stem": "A 45-year-old man is extricated after his legs were pinned beneath a collapsed wall for 6 hours. His urine is dark brown. Dipstick is strongly positive for blood, but microscopy shows no red blood cells. Which substance most likely accounts for the dipstick result?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Albumin leaking across the glomeruli"
+        },
+        {
+          "label": "B",
+          "text": "Bilirubin conjugated by the liver"
+        },
+        {
+          "label": "C",
+          "text": "Creatine kinase filtered from serum"
+        },
+        {
+          "label": "D",
+          "text": "Intact red cells from bladder injury"
+        },
+        {
+          "label": "E",
+          "text": "Myoglobin filtered from damaged muscle"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Myoglobinuria gives a heme-positive dipstick without RBCs on microscopy and is a key clue to rhabdomyolysis.",
+        "whyCorrect": "Crush injury severely damages muscle fibers, releasing myoglobin into the circulation. Because it is a small protein, it is freely filtered by the glomerulus and appears in the urine as dark brown or tea-colored discoloration. Its heme reacts on the dipstick even though no RBCs are present.",
+        "whyWrongByChoice": {
+          "A": "Albumin produces proteinuria, not a positive blood reading.",
+          "B": "Bilirubin does not produce a positive blood (heme) reaction on dipstick in this setting.",
+          "C": "CK is the serum marker of muscle injury, but it is not what produces a positive heme dipstick.",
+          "D": "Intact red cells would be seen on microscopy, which showed none."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "rhabdomyolysis",
+        "myoglobinuria",
+        "LO3"
+      ],
+      "topicId": "muscle-metabolism",
+      "topicName": "Muscle Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "mk11-006",
+      "stem": "A physiology student slowly increases the force of an elbow flexion from very light to maximal while EMG records individual motor units. The first units activated innervate slow, fatigue-resistant fibers; units innervating fast fibers join only as force rises. Which explanation best accounts for this order?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fast fibers need phosphocreatine before firing"
+        },
+        {
+          "label": "B",
+          "text": "Larger motor neurons conduct and fire first"
+        },
+        {
+          "label": "C",
+          "text": "Recruitment is random but averaged by the EMG"
+        },
+        {
+          "label": "D",
+          "text": "Small motor neurons reach threshold more easily"
+        },
+        {
+          "label": "E",
+          "text": "Type I fibers have higher actomyosin ATPase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The size principle: small motor neurons (Type I units) are recruited before large ones because they reach threshold more easily.",
+        "whyCorrect": "A motor unit is one motor neuron plus all the fibers it activates, and fibers within a unit are mostly of one type. Motor unit recruitment follows the size principle: a smaller neuronal cell body reaches threshold more easily for a given excitatory input, so small Type I units are recruited first and larger Type IIX units later.",
+        "whyWrongByChoice": {
+          "A": "Recruitment order depends on motor neuron size, not on a phosphocreatine requirement.",
+          "B": "Larger motor neurons take longer to reach threshold and are recruited later.",
+          "C": "Recruitment is orderly, following the size principle, not random.",
+          "E": "Type I fibers have low actomyosin ATPase activity; ATPase does not set recruitment order."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "motor unit",
+        "size principle",
+        "LO2"
+      ],
+      "topicId": "muscle-metabolism",
+      "topicName": "Muscle Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "mk11-007",
+      "stem": "In the capillaries of a working soleus muscle, O2 moves from red cell hemoglobin into the muscle fibers even though intracellular PO2 is very low. Which property of the intracellular O2-binding protein best sustains this transfer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Binding of CO2 that forces O2 release in blood"
+        },
+        {
+          "label": "B",
+          "text": "Circulation in plasma alongside the red cells"
+        },
+        {
+          "label": "C",
+          "text": "Four cooperative sites with a sigmoidal curve"
+        },
+        {
+          "label": "D",
+          "text": "Higher O2 affinity with a hyperbolic curve"
+        },
+        {
+          "label": "E",
+          "text": "Lower O2 affinity than hemoglobin at every PO2"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Myoglobin's high O2 affinity (hyperbolic curve) keeps it saturated at low tissue PO2, sustaining the gradient that pulls O2 from hemoglobin.",
+        "whyCorrect": "Myoglobin binds O2 with much higher affinity than hemoglobin, shown by its hyperbolic dissociation curve. This keeps it saturated at the low PO2 of muscle tissue, sustaining a partial-pressure gradient that draws O2 from capillary hemoglobin into the fiber, where myoglobin stores it and facilitates its diffusion to mitochondria. It can also release O2 at the very low PO2 of working muscle.",
+        "whyWrongByChoice": {
+          "A": "Myoglobin does not act by binding CO2; its role is O2 binding, storage and facilitated diffusion.",
+          "B": "Myoglobin resides in skeletal muscle and does not exist in the bloodstream.",
+          "C": "Four cooperative sites and a sigmoidal curve describe hemoglobin; myoglobin has a single O2 site.",
+          "E": "Myoglobin has a much higher, not lower, O2 affinity than hemoglobin."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "myoglobin",
+        "O2 dissociation curve",
+        "LO3"
+      ],
+      "topicId": "muscle-metabolism",
+      "topicName": "Muscle Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "mk11-008",
+      "stem": "A biopsy from a muscle used for brief explosive efforts shows many large-diameter fibers that stain pale, contain few mitochondria and sparse capillaries, and hold abundant glycogen. Which additional property best fits these fibers?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "About 100-500 fibers in each motor unit"
+        },
+        {
+          "label": "B",
+          "text": "High actomyosin ATPase and rapid fatigue"
+        },
+        {
+          "label": "C",
+          "text": "High myoglobin content and a red appearance"
+        },
+        {
+          "label": "D",
+          "text": "Low activation threshold and early recruitment"
+        },
+        {
+          "label": "E",
+          "text": "Reliance on lipid oxidation for most ATP"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Type IIX fibers are fast, glycolytic, white, high-ATPase and fatigue rapidly.",
+        "whyCorrect": "These are Type IIX fast-twitch glycolytic fibers. They have high actomyosin ATPase activity for fast, high-force contraction, but because glycolysis yields only 2 ATP per glucose and glycogen depletes quickly, they fatigue rapidly and suit only short bursts.",
+        "whyWrongByChoice": {
+          "A": "100-500 fibers per unit describes Type I units; Type IIX units contain ~1000-2000.",
+          "C": "Type IIX fibers have little myoglobin and appear white.",
+          "D": "Type IIX units are innervated by large neurons that reach threshold later, so they are recruited late.",
+          "E": "Type IIX fibers rely primarily on glycolysis and are low in lipid content."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "fiber types",
+        "Type IIX",
+        "LO2"
+      ],
+      "topicId": "muscle-metabolism",
+      "topicName": "Muscle Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "mk11-009",
+      "stem": "A 30-year-old woman completes a steady 2-hour hike at moderate intensity. Which ATP-generating process supplies most of the energy for her leg muscles during the second hour?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anaerobic glycolysis ending in lactate"
+        },
+        {
+          "label": "B",
+          "text": "Creatine kinase acting on phosphocreatine"
+        },
+        {
+          "label": "C",
+          "text": "Hydrolysis of the resting ATP pool"
+        },
+        {
+          "label": "D",
+          "text": "O2 release from stored myoglobin reserves"
+        },
+        {
+          "label": "E",
+          "text": "Oxidative phosphorylation in mitochondria"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Oxidative phosphorylation (~32 ATP per glucose) supplies most energy for sustained, long-term contraction.",
+        "whyCorrect": "When O2 supply meets demand, aerobic metabolism dominates: acetyl CoA enters the TCA cycle, NADH and FADH2 feed the electron transport chain, and ADP is re-phosphorylated by oxidative phosphorylation. It yields about 32 ATP per glucose and supplies most energy for prolonged contraction.",
+        "whyWrongByChoice": {
+          "A": "Anaerobic glycolysis dominates only for about 2 minutes and yields just 2 ATP per glucose.",
+          "B": "The phosphagen system dominates only the first ~10 seconds of activity.",
+          "C": "The resting ATP pool lasts only 1-2 seconds.",
+          "D": "Myoglobin stores O2 and bridges the onset lag, but it does not itself generate ATP."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "oxidative phosphorylation",
+        "endurance",
+        "LO1"
+      ],
+      "topicId": "muscle-metabolism",
+      "topicName": "Muscle Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "mk11-010",
+      "stem": "A 16-year-old boy reports painful muscle cramps that begin after brief bouts of intense exercise, such as sprinting up stairs. After one episode his urine turned dark. Between episodes he notes mild weakness of the trunk and limbs. Which underlying problem most likely explains his presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Defective O2 transfer from hemoglobin to myoglobin"
+        },
+        {
+          "label": "B",
+          "text": "Deficient creatine kinase release from the cytosol"
+        },
+        {
+          "label": "C",
+          "text": "Excess H+ buffering by the electron transport chain"
+        },
+        {
+          "label": "D",
+          "text": "Lactate overproduction from overactive glycolysis"
+        },
+        {
+          "label": "E",
+          "text": "Pathogenic variant impairing glycogen degradation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Muscle glycogen storage disorders (e.g., McArdle, Pompe) cause exercise intolerance after short intense exercise, with cramps, myoglobinuria and progressive weakness.",
+        "whyCorrect": "Glycogen storage disorders arise from pathogenic variants in genes for glycogen synthesis, degradation or regulation. In muscle, glycolytic defects present after short periods of moderate to intense exercise with cramps, pain, rhabdomyolysis and myoglobinuria, plus progressive weakness of trunk and extremity muscles.",
+        "whyWrongByChoice": {
+          "A": "Myoglobin O2 handling is not the defect in a disorder triggered by brief glycolysis-dependent exercise.",
+          "B": "CK release into serum is a consequence of muscle damage, not a cause of exercise intolerance.",
+          "C": "ETC buffering of H+ protects against acidosis and would not produce this syndrome.",
+          "D": "These disorders impair, rather than enhance, glycogen use for glycolysis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "glycogen storage disorder",
+        "McArdle",
+        "Pompe",
+        "LO1"
+      ],
+      "topicId": "muscle-metabolism",
+      "topicName": "Muscle Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "mk11-011",
+      "stem": "A 34-year-old man is found down after a drug overdose, having lain on his left side for many hours. Serum CK is markedly elevated and his urine is tea-colored. Over the next two days his serum creatinine rises steadily. Which mechanism most directly explains the renal injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Creatine kinase precipitating in the ducts"
+        },
+        {
+          "label": "B",
+          "text": "Hemoglobin released by intravascular hemolysis"
+        },
+        {
+          "label": "C",
+          "text": "Immune complex deposition in the glomeruli"
+        },
+        {
+          "label": "D",
+          "text": "Lactic acid constricting the afferent arterioles"
+        },
+        {
+          "label": "E",
+          "text": "Tubular blockage and oxidant damage by myoglobin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Filtered myoglobin is directly nephrotoxic, causing tubular obstruction and oxidative injury that can lead to AKI.",
+        "whyCorrect": "Prolonged compression and toxins can cause rhabdomyolysis, releasing myoglobin and CK from damaged fibers. Myoglobin is freely filtered and directly nephrotoxic, causing tubular obstruction and oxidative injury that can progress to acute kidney injury, reflected in the rising creatinine.",
+        "whyWrongByChoice": {
+          "A": "CK is a serum marker of muscle damage; it is not the nephrotoxic agent.",
+          "B": "The setting is muscle breakdown, so the pigment is myoglobin rather than hemoglobin from hemolysis.",
+          "C": "Immune complex deposition is not the mechanism of pigment-related kidney injury in rhabdomyolysis.",
+          "D": "Lactic acid vasoconstriction is not the lecture's mechanism of AKI in rhabdomyolysis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "rhabdomyolysis",
+        "acute kidney injury",
+        "LO3"
+      ],
+      "topicId": "muscle-metabolism",
+      "topicName": "Muscle Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "mk11-012",
+      "stem": "A 28-year-old woman has years of exercise intolerance: she tires prematurely during ordinary walking, has myalgia, and has weakness of the hip and shoulder girdle muscles. Serum CK is mildly elevated. Episodes of dark urine are rare. Which process is most likely defective?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ca2+ reuptake into the SR by SERCA pumps"
+        },
+        {
+          "label": "B",
+          "text": "Electron flow through respiratory chain complexes"
+        },
+        {
+          "label": "C",
+          "text": "O2 storage and diffusion by intracellular myoglobin"
+        },
+        {
+          "label": "D",
+          "text": "Phosphate transfer by cytosolic creatine kinase"
+        },
+        {
+          "label": "E",
+          "text": "Release of glucose units from stored muscle glycogen"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Mitochondrial myopathies impair OXPHOS (complexes I-IV and ATP synthase), causing premature fatigue, proximal weakness, myalgia and elevated CK.",
+        "whyCorrect": "Oxidative phosphorylation is the main source of ATP in muscle and depends on respiratory chain complexes I-IV and ATP synthase (complex V). Mitochondrial myopathies cause exercise intolerance from premature fatigue, proximal muscle weakness, elevated serum CK, myalgia and, less often, rhabdomyolysis. Fatigue during ordinary sustained activity points to the aerobic pathway.",
+        "whyWrongByChoice": {
+          "A": "SERCA reuptake failure is not the lecture's explanation for this metabolic myopathy picture.",
+          "C": "Myoglobin O2 storage is not the process implicated by proximal weakness with premature fatigue.",
+          "D": "A creatine kinase defect would affect the first seconds of effort, not sustained low-intensity walking.",
+          "E": "Glycogen degradation defects typically present after short bouts of moderate to intense exercise, often with myoglobinuria."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "mitochondrial myopathy",
+        "oxidative phosphorylation",
+        "LO1"
+      ],
+      "topicId": "muscle-metabolism",
+      "topicName": "Muscle Metabolism",
+      "tier": "core"
+    },
+    {
+      "id": "mk12-001",
+      "stem": "A 22-year-old soccer player sustains a severe quadriceps contusion. A research biopsy taken several weeks into recovery shows newly formed multinucleated fibers among the damaged ones. Which cell population is chiefly responsible for generating these new fibers?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Endothelial cells"
+        },
+        {
+          "label": "B",
+          "text": "Fibroblasts"
+        },
+        {
+          "label": "C",
+          "text": "Macrophages"
+        },
+        {
+          "label": "D",
+          "text": "Neutrophils"
+        },
+        {
+          "label": "E",
+          "text": "Satellite cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Satellite cells are the resident muscle stem cells that mediate skeletal muscle regeneration.",
+        "whyCorrect": "Satellite cells are quiescent cells that activate in response to injury. They migrate to the injured site and either fuse with damaged myofibers or proliferate into myoblasts, which differentiate and fuse into multinucleated myotubes that mature into new myofibers.",
+        "whyWrongByChoice": {
+          "A": "Endothelial cells restore the vasculature through angiogenesis during remodeling; they do not generate contractile fibers.",
+          "B": "Fibrous tissue deposition is what replaces fibers when regeneration fails (as in DMD); it is not the source of new myofibers.",
+          "C": "Macrophages clear damaged tissue and release signals that influence repair, but they do not become muscle fibers.",
+          "D": "Neutrophils take part in the early inflammatory clearance of damaged tissue; they do not form myofibers."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "skeletal-muscle-adaptations",
+        "regeneration",
+        "satellite cells"
+      ],
+      "topicId": "skeletal-muscle-adaptations",
+      "topicName": "Skeletal Muscle Adaptations",
+      "tier": "core"
+    },
+    {
+      "id": "mk12-002",
+      "stem": "A 7-year-old boy has progressive difficulty climbing stairs and rising from the floor. His calves are conspicuously large yet weak. Genetic testing confirms Duchenne muscular dystrophy. Which process best explains the enlarged calves?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Addition of new sarcomeres in parallel within fibers"
+        },
+        {
+          "label": "B",
+          "text": "Fiber hyperplasia driven by satellite-cell division"
+        },
+        {
+          "label": "C",
+          "text": "Fiber hypertrophy from mTOR-driven protein synthesis"
+        },
+        {
+          "label": "D",
+          "text": "Fibrous and fatty tissue replacing lost fibers"
+        },
+        {
+          "label": "E",
+          "text": "Interstitial edema from macrophage inflammation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In DMD, fibrofatty tissue replaces myofibers, causing weakness with pseudohypertrophy.",
+        "whyCorrect": "Without dystrophin the sarcolemma is fragile, so each contraction damages fibers. Damage outpaces satellite-cell regeneration, satellite cells become exhausted, and excess fibrous and fatty tissue is deposited in place of new myofibers. This deposition underlies both the weakness and the pseudohypertrophy.",
+        "whyWrongByChoice": {
+          "A": "Parallel sarcomere addition is the mechanism of training-induced hypertrophy and would increase force.",
+          "B": "In DMD satellite cells become exhausted; hyperplasia is not the mechanism of the calf enlargement.",
+          "C": "True hypertrophy would increase strength; these calves are weak, and the enlargement is not contractile tissue.",
+          "E": "Inflammation is part of each damage cycle, but the lasting enlargement reflects tissue deposition, not edema."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "skeletal-muscle-adaptations",
+        "Duchenne muscular dystrophy",
+        "pseudohypertrophy"
+      ],
+      "topicId": "skeletal-muscle-adaptations",
+      "topicName": "Skeletal Muscle Adaptations",
+      "tier": "core"
+    },
+    {
+      "id": "mk12-003",
+      "stem": "A 35-year-old construction worker is extricated after his thigh was pinned beneath a beam for several hours. His serum creatine kinase is markedly elevated. Which event allows this enzyme to reach the plasma?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Active secretion of the enzyme by satellite cells"
+        },
+        {
+          "label": "B",
+          "text": "Exocytosis from motor nerve terminals at the endplate"
+        },
+        {
+          "label": "C",
+          "text": "Hepatic synthesis stimulated by circulating IL-6"
+        },
+        {
+          "label": "D",
+          "text": "Loss of sarcolemmal integrity in damaged fibers"
+        },
+        {
+          "label": "E",
+          "text": "Release from macrophages clearing tissue debris"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Creatine kinase leaks from the sarcoplasm into the blood when the sarcolemma is disrupted.",
+        "whyCorrect": "Muscle degeneration begins with dissolution of the sarcolemma, which increases myofiber permeability and lets cytosolic proteins such as CK leak into plasma. That makes CK a sensitive (but non-specific) marker of muscle damage, used in rhabdomyolysis, dystrophies, injuries, and myositis.",
+        "whyWrongByChoice": {
+          "A": "Satellite cells regenerate fibers; they do not secrete the enzyme into the blood.",
+          "B": "The enzyme is not released from nerve terminals; it leaks from the muscle cell's own cytosol.",
+          "C": "The enzyme measured here is a muscle sarcoplasmic enzyme leaking from injured fibers, not a liver product.",
+          "E": "The enzyme resides in the sarcoplasm of muscle cells, not in the inflammatory cells that clear debris."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "skeletal-muscle-adaptations",
+        "creatine kinase",
+        "degeneration"
+      ],
+      "topicId": "skeletal-muscle-adaptations",
+      "topicName": "Skeletal Muscle Adaptations",
+      "tier": "core"
+    },
+    {
+      "id": "mk12-004",
+      "stem": "A 28-year-old woman trains for a marathon over 6 months. A biopsy of her vastus lateralis shows a marked increase in the organelles responsible for oxidative phosphorylation. Which transcriptional regulator most directly drives this change?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Akt"
+        },
+        {
+          "label": "B",
+          "text": "FoxO"
+        },
+        {
+          "label": "C",
+          "text": "IGF-1"
+        },
+        {
+          "label": "D",
+          "text": "mTOR"
+        },
+        {
+          "label": "E",
+          "text": "Pgc1α1"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "AMPK increases transcription of Pgc1α1, the master regulator of mitochondrial biogenesis, in endurance training.",
+        "whyCorrect": "Sustained endurance contraction consumes ATP and raises AMP, which activates AMPK. AMPK increases transcription of Pgc1α1, the master regulator of mitochondrial biogenesis, producing the increased mitochondrial content that improves aerobic capacity and fatigue resistance.",
+        "whyWrongByChoice": {
+          "A": "Akt is an upstream kinase that activates mTOR and keeps FoxO out of the nucleus; it is not the mitochondrial master regulator.",
+          "B": "FoxO is a catabolic transcription factor that turns on E3 ligase transcription and autophagy, promoting atrophy.",
+          "C": "IGF-1 initiates the hypertrophy cascade (IGF-1/Akt/mTOR); it is a growth factor, not a transcriptional regulator of mitochondria.",
+          "D": "mTOR is the key regulator of protein synthesis underlying hypertrophy, not the master regulator of mitochondrial biogenesis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "skeletal-muscle-adaptations",
+        "endurance training",
+        "mitochondrial biogenesis"
+      ],
+      "topicId": "skeletal-muscle-adaptations",
+      "topicName": "Skeletal Muscle Adaptations",
+      "tier": "core"
+    },
+    {
+      "id": "mk12-005",
+      "stem": "A 20-year-old competitive powerlifter increases the cross-sectional area and maximal force of his quadriceps over a year of heavy training. At the level of the individual fiber, which change chiefly accounts for the greater force?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Capillary density increasing"
+        },
+        {
+          "label": "B",
+          "text": "Mitochondrial density increasing"
+        },
+        {
+          "label": "C",
+          "text": "Myofiber number increasing"
+        },
+        {
+          "label": "D",
+          "text": "Sarcomeres added in parallel"
+        },
+        {
+          "label": "E",
+          "text": "Sarcomeres added in series"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Resistance-training hypertrophy adds sarcomeres in parallel, increasing contractile units and force.",
+        "whyCorrect": "Hypertrophy, an increase in fiber size, provides strength gains by adding sarcomeres in parallel with existing ones, which increases the quantity of contractile units. Neural adaptations in recruitment may also contribute.",
+        "whyWrongByChoice": {
+          "A": "Capillarization is an endurance adaptation that improves oxygen and nutrient delivery, not force output.",
+          "B": "Mitochondrial biogenesis is the hallmark endurance adaptation and improves fatigue resistance, not maximal force.",
+          "C": "Hyperplasia remains disputed and has shown minimal involvement in adaptation to resistance training.",
+          "E": "Adding contractile units side by side (in parallel) is what the lecture describes for hypertrophy; series addition does not raise force output this way."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "skeletal-muscle-adaptations",
+        "resistance training",
+        "hypertrophy"
+      ],
+      "topicId": "skeletal-muscle-adaptations",
+      "topicName": "Skeletal Muscle Adaptations",
+      "tier": "core"
+    },
+    {
+      "id": "mk12-006",
+      "stem": "Muscle contraction during a resistance-training session initiates a growth-factor signaling cascade that culminates in increased contractile protein synthesis. Which sequence best represents this cascade?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Akt → FoxO → ubiquitin"
+        },
+        {
+          "label": "B",
+          "text": "AMP → AMPK → Pgc1α1"
+        },
+        {
+          "label": "C",
+          "text": "FoxO → E3 ligase → proteasome"
+        },
+        {
+          "label": "D",
+          "text": "IGF-1 → Akt → mTOR"
+        },
+        {
+          "label": "E",
+          "text": "IL-6 → TNF-α → autophagy"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Hypertrophy is driven by IGF-1 signaling through Akt phosphorylation to mTOR activation.",
+        "whyCorrect": "Muscle hypertrophy involves the IGF-1 signaling cascade: upstream phosphorylation of Akt activates mTOR, an important regulator of protein synthesis. Mechanically induced pathways may also activate mTOR independently of IGF-1.",
+        "whyWrongByChoice": {
+          "A": "Akt actually prevents FoxO nuclear translocation; this sequence does not describe an anabolic cascade.",
+          "B": "This energy-stress cascade drives mitochondrial biogenesis and mainly underlies endurance adaptations.",
+          "C": "This is the catabolic ubiquitin-proteasome cascade that degrades muscle protein during atrophy.",
+          "E": "Pro-inflammatory cytokines are implicated in cachexia-related breakdown, not in training-induced synthesis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "skeletal-muscle-adaptations",
+        "mTOR",
+        "IGF-1",
+        "hypertrophy"
+      ],
+      "topicId": "skeletal-muscle-adaptations",
+      "topicName": "Skeletal Muscle Adaptations",
+      "tier": "core"
+    },
+    {
+      "id": "mk12-007",
+      "stem": "In muscle from a patient with progressive atrophy under catabolic conditions, a transcription factor normally resident in the cytosol moves into the nucleus. Which gene products does it chiefly induce to drive loss of muscle protein?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Creatine kinase that regenerates cellular ATP"
+        },
+        {
+          "label": "B",
+          "text": "Dystrophin that anchors and steadies the sarcolemma"
+        },
+        {
+          "label": "C",
+          "text": "E3 ligases that attach ubiquitin tags"
+        },
+        {
+          "label": "D",
+          "text": "Kinases that phosphorylate and activate mTOR"
+        },
+        {
+          "label": "E",
+          "text": "Pgc1α1 that drives new mitochondria formation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Under catabolic signals, FoxO enters the nucleus and turns on E3 ligases of the ubiquitin-proteasome system.",
+        "whyCorrect": "FoxO resides in the cytosol; with catabolic signals it translocates to the nucleus and essentially turns on transcription of E3 ligases. E3 ligases tag proteins destined for degradation with ubiquitin, which delivers them to the cytosolic proteasome for breakdown.",
+        "whyWrongByChoice": {
+          "A": "Creatine kinase converts phosphocreatine to creatine for ATP generation; it is a damage marker, not an atrophy effector.",
+          "B": "Dystrophin stabilizes the sarcolemma during contraction; its loss causes DMD, it is not induced to drive atrophy.",
+          "D": "mTOR activation promotes protein synthesis and hypertrophy, the opposite of the catabolic program described.",
+          "E": "Pgc1α1 is induced by AMPK during endurance training to drive mitochondrial biogenesis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "skeletal-muscle-adaptations",
+        "atrophy",
+        "FoxO",
+        "ubiquitin-proteasome"
+      ],
+      "topicId": "skeletal-muscle-adaptations",
+      "topicName": "Skeletal Muscle Adaptations",
+      "tier": "core"
+    },
+    {
+      "id": "mk12-008",
+      "stem": "In well-fed muscle receiving anabolic signals, the catabolic transcription factor FoxO is held in the cytosol and cannot initiate E3 ligase synthesis. Which molecule is responsible for preventing its nuclear entry?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Akt"
+        },
+        {
+          "label": "B",
+          "text": "AMPK"
+        },
+        {
+          "label": "C",
+          "text": "mTOR"
+        },
+        {
+          "label": "D",
+          "text": "Pgc1α1"
+        },
+        {
+          "label": "E",
+          "text": "Ubiquitin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Akt prevents FoxO nuclear translocation, linking anabolic signaling to suppression of atrophy.",
+        "whyCorrect": "When anabolic signals are present, Akt prevents FoxO from translocating into the nucleus, so FoxO cannot initiate synthesis of E3 ligases. This is why reduced IGF-1/Akt/mTOR signaling favors atrophy.",
+        "whyWrongByChoice": {
+          "B": "AMPK is activated by rising AMP and falling glycogen and increases Pgc1α1 transcription; it is not described as retaining FoxO.",
+          "C": "mTOR is downstream of Akt and regulates protein synthesis; the lecture assigns FoxO exclusion to Akt.",
+          "D": "Pgc1α1 is the master regulator of mitochondrial biogenesis, not a regulator of FoxO localization.",
+          "E": "Ubiquitin tags proteins for proteasomal degradation; it is part of the catabolic output, not its brake."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "skeletal-muscle-adaptations",
+        "Akt",
+        "FoxO",
+        "atrophy"
+      ],
+      "topicId": "skeletal-muscle-adaptations",
+      "topicName": "Skeletal Muscle Adaptations",
+      "tier": "core"
+    },
+    {
+      "id": "mk12-009",
+      "stem": "A 58-year-old man with metastatic lung cancer has lost substantial lean body mass over 4 months despite eating adequately. Which circulating signaling molecules are implicated in driving his anorexia, lipolysis, and muscle breakdown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "AMP, AMPK, and Pgc1α1"
+        },
+        {
+          "label": "B",
+          "text": "Dystrophin and creatine kinase"
+        },
+        {
+          "label": "C",
+          "text": "IGF-1, Akt, and mTOR"
+        },
+        {
+          "label": "D",
+          "text": "IL-1, IL-6, and TNF-α"
+        },
+        {
+          "label": "E",
+          "text": "Phosphocreatine and ATP"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Cachexia involves pro-inflammatory cytokines (IL-1, IL-6, TNF-α) plus upregulated proteasome and autophagy pathways.",
+        "whyCorrect": "Cachexia is a hypercatabolic state with chronic inflammation. Pro-inflammatory cytokines, particularly IL-1, IL-6, and TNF-α, contribute to anorexia, lipolysis, and muscle breakdown, alongside upregulation of the ubiquitin-proteasome pathway and autophagy.",
+        "whyWrongByChoice": {
+          "A": "This energy-stress axis drives mitochondrial biogenesis during endurance exercise.",
+          "B": "Dystrophin is a sarcolemmal structural protein and CK is a leaked damage marker; neither drives cachexia.",
+          "C": "These are components of the anabolic hypertrophy pathway; reduced, not increased, signaling here favors atrophy.",
+          "E": "These are muscle energy substrates, not circulating signals that drive hypercatabolism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "skeletal-muscle-adaptations",
+        "cachexia",
+        "cytokines"
+      ],
+      "topicId": "skeletal-muscle-adaptations",
+      "topicName": "Skeletal Muscle Adaptations",
+      "tier": "core"
+    },
+    {
+      "id": "mk12-010",
+      "stem": "An 82-year-old man and his 24-year-old grandson follow the same supervised resistance program with identical protein-rich meals. After 12 weeks, the grandfather has gained far less muscle. Within the grandfather's muscle fibers, which mechanism best explains the difference?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Absent dystrophin at the sarcolemma"
+        },
+        {
+          "label": "B",
+          "text": "Excess Pgc1α1-driven mitochondrial growth"
+        },
+        {
+          "label": "C",
+          "text": "Loss of motor nerve supply to fibers"
+        },
+        {
+          "label": "D",
+          "text": "Tumor-derived IL-6 driving catabolism"
+        },
+        {
+          "label": "E",
+          "text": "Weaker mTOR activation after stimuli"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Sarcopenia involves anabolic resistance: less amino acid delivery after meals and weaker mTOR activation in the fiber.",
+        "whyCorrect": "Older muscle shows anabolic resistance, a diminished protein-synthesis response to exercise or increased protein intake. This happens because fewer amino acids reach the fiber after a meal and because mTOR activation within the fiber is weaker.",
+        "whyWrongByChoice": {
+          "A": "Dystrophin loss defines DMD, a childhood dystrophy, not age-related changes.",
+          "B": "Pgc1α1 drives mitochondrial biogenesis; it is not the explanation for blunted growth in older muscle.",
+          "C": "Denervation atrophy occurs in motor neuropathies and motor neuron diseases, not as the basis of this blunted response.",
+          "D": "Cytokine-driven hypercatabolism describes cachexia; nothing suggests malignancy here."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "skeletal-muscle-adaptations",
+        "sarcopenia",
+        "anabolic resistance"
+      ],
+      "topicId": "skeletal-muscle-adaptations",
+      "topicName": "Skeletal Muscle Adaptations",
+      "tier": "core"
+    },
+    {
+      "id": "mk12-011",
+      "stem": "A 30-year-old woman has her lower leg immobilized in a cast for 6 weeks after an ankle fracture. On removal, her calf is visibly smaller. What is the main driver of this uncomplicated muscle loss?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytokine-driven hypercatabolism"
+        },
+        {
+          "label": "B",
+          "text": "Dystrophin loss destabilizing fibers"
+        },
+        {
+          "label": "C",
+          "text": "Loss of motor nerve supply"
+        },
+        {
+          "label": "D",
+          "text": "Satellite-cell exhaustion from injury"
+        },
+        {
+          "label": "E",
+          "text": "Suppressed protein synthesis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Non-complicated disuse atrophy is mainly driven by suppression of muscle protein synthesis.",
+        "whyCorrect": "Muscles require the mechanical stimulus of load bearing to grow; without it, muscle atrophies. Non-complicated disuse atrophy is mainly driven by suppression of muscle protein synthesis and can generally be reversed with remobilization and resistance exercise.",
+        "whyWrongByChoice": {
+          "A": "Cytokine-driven hypercatabolism characterizes cachexia, not simple immobilization.",
+          "B": "Dystrophin loss is the genetic defect of DMD, not a consequence of immobilization.",
+          "C": "The nerve supply is intact here; that pattern is denervation atrophy.",
+          "D": "Satellite-cell exhaustion from repeated damage is a feature of DMD."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "skeletal-muscle-adaptations",
+        "disuse atrophy"
+      ],
+      "topicId": "skeletal-muscle-adaptations",
+      "topicName": "Skeletal Muscle Adaptations",
+      "tier": "core"
+    },
+    {
+      "id": "mk12-012",
+      "stem": "A 56-year-old man with a progressive motor neuron disease has marked wasting of his forearm muscles. His physical therapist prescribes daily stretching and night splints that hold the wrist and fingers extended. What is the main goal of this therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Limit gradual shortening of the tissue"
+        },
+        {
+          "label": "B",
+          "text": "Promote hypertrophy of the affected fibers"
+        },
+        {
+          "label": "C",
+          "text": "Raise mitochondrial biogenesis in fibers"
+        },
+        {
+          "label": "D",
+          "text": "Restore satellite-cell activation in fibers"
+        },
+        {
+          "label": "E",
+          "text": "Reverse fibrofatty replacement of fibers"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Denervated fibers are replaced by fibrofatty tissue that shortens over months (contracture), which stretching and splints aim to prevent.",
+        "whyCorrect": "In denervation atrophy, loss of nerve supply eliminates the contractile signals that maintain muscle. Denervated fibers are progressively replaced by fibrous fatty tissue that continues to shorten over months, a process called contracture. Preventing contracture with daily stretching or splints that maintain muscle length is a key goal of physical therapy.",
+        "whyWrongByChoice": {
+          "B": "Denervated fibers lack the contractile signals required for growth; splints maintain length, not size.",
+          "C": "Mitochondrial biogenesis is an endurance-training adaptation, not the aim of splinting.",
+          "D": "Without contractile stimuli satellite-cell activation diminishes; stretching does not restore the lost nerve signal.",
+          "E": "Fibrofatty replacement is progressive in denervation; therapy targets the resulting shortening."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "skeletal-muscle-adaptations",
+        "denervation atrophy",
+        "contracture"
+      ],
+      "topicId": "skeletal-muscle-adaptations",
+      "topicName": "Skeletal Muscle Adaptations",
+      "tier": "core"
+    }
+  ]
+}

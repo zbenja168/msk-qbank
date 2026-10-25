@@ -1,0 +1,2265 @@
+{
+  "categoryId": "w2s3",
+  "categoryName": "Session 3",
+  "questions": [
+    {
+      "id": "mk19-001",
+      "stem": "After a forearm injury, a 40-year-old cashier cannot turn her palm up to receive coins or turn it down to type, although she bends and straightens her elbow normally. Motion at which pair of articulations is most directly impaired?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glenohumeral and humeroulnar joints"
+        },
+        {
+          "label": "B",
+          "text": "Humeroradial and midcarpal joints"
+        },
+        {
+          "label": "C",
+          "text": "Humeroulnar and radiocarpal joints"
+        },
+        {
+          "label": "D",
+          "text": "Proximal and distal radioulnar joints"
+        },
+        {
+          "label": "E",
+          "text": "Radiocarpal and first carpometacarpal joints"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Pronation and supination occur at the proximal and distal radioulnar joints.",
+        "whyCorrect": "Pronation and supination occur as the radius rotates around the relatively stationary ulna at two separate but functionally linked joints: the radial head rotates within the annular ligament at the proximal radioulnar joint, and the ulnar notch of the radius rotates around the ulnar head at the distal radioulnar joint. Elbow flexion and extension are hinge movements at a different articulation.",
+        "whyWrongByChoice": {
+          "A": "Forearm rotation repositions the hand without shoulder or elbow hinge motion.",
+          "B": "These do not produce rotation of the radius around the ulna.",
+          "C": "The humeroulnar joint is the elbow hinge, which works normally, and the radiocarpal joint moves the wrist, not forearm rotation.",
+          "E": "These move the wrist and thumb, not the forearm."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "forearm",
+        "pronation",
+        "supination",
+        "radioulnar joints"
+      ],
+      "topicId": "functional-anatomy-of-the-forearm-hand",
+      "topicName": "Functional Anatomy of the Forearm & Hand",
+      "tier": "core"
+    },
+    {
+      "id": "mk19-002",
+      "stem": "A 35-year-old carpenter drives a screw with his elbow bent to 90 degrees, forcefully turning his palm from facing down to facing up. Besides the supinator, which muscle contributes most effectively to this movement in this elbow position?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Biceps brachii"
+        },
+        {
+          "label": "B",
+          "text": "Brachioradialis"
+        },
+        {
+          "label": "C",
+          "text": "Extensor carpi ulnaris"
+        },
+        {
+          "label": "D",
+          "text": "Pronator quadratus"
+        },
+        {
+          "label": "E",
+          "text": "Pronator teres"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The biceps brachii is a powerful supinator when the elbow is flexed.",
+        "whyCorrect": "Supination is produced by the supinator and biceps brachii. The biceps is particularly effective when the elbow is flexed because of its insertion on the radial tuberosity.",
+        "whyWrongByChoice": {
+          "B": "Brachioradialis is an elbow flexor, maximal in the neutral position, not the key supinator listed.",
+          "C": "Extensor carpi ulnaris extends and ulnarly deviates the wrist.",
+          "D": "Pronator quadratus pronates the forearm.",
+          "E": "Pronator teres turns the palm down, the opposite movement."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "forearm",
+        "supination",
+        "biceps brachii"
+      ],
+      "topicId": "functional-anatomy-of-the-forearm-hand",
+      "topicName": "Functional Anatomy of the Forearm & Hand",
+      "tier": "core"
+    },
+    {
+      "id": "mk19-003",
+      "stem": "A 26-year-old man has a deep laceration in the cubital fossa that completely severs the median nerve. Which of the following movements remains intact?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Flexion at the PIP joints of digits 2 to 5"
+        },
+        {
+          "label": "B",
+          "text": "Flexion of the distal joints of digits 4 and 5"
+        },
+        {
+          "label": "C",
+          "text": "Flexion of the distal phalanx of the thumb"
+        },
+        {
+          "label": "D",
+          "text": "Opposition of the thumb to the fingertips"
+        },
+        {
+          "label": "E",
+          "text": "Pronation of the forearm against resistance"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "After a median nerve injury, FCU and the medial half of FDP still work via the ulnar nerve.",
+        "whyCorrect": "The median nerve supplies most of the anterior forearm compartment, so its injury weakens pronation and many wrist and finger flexors. The flexor carpi ulnaris and the medial half of the flexor digitorum profundus (DIP flexion of the ring and little fingers) are spared because they are supplied by the ulnar nerve.",
+        "whyWrongByChoice": {
+          "A": "Flexor digitorum superficialis is median-innervated.",
+          "C": "Flexor pollicis longus is supplied by the AIN branch of the median nerve.",
+          "D": "Opposition depends on thenar muscles supplied by the median nerve's recurrent branch.",
+          "E": "Pronator teres and pronator quadratus are median-innervated and would be weak."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "forearm",
+        "median nerve",
+        "anterior compartment"
+      ],
+      "topicId": "functional-anatomy-of-the-forearm-hand",
+      "topicName": "Functional Anatomy of the Forearm & Hand",
+      "tier": "core"
+    },
+    {
+      "id": "mk19-004",
+      "stem": "A 44-year-old woman has forearm pain followed by weakness. When asked to touch her thumb tip to her index fingertip to form a circle, she instead brings the flat pads together. Sensation of the hand is entirely normal. Which additional muscle is most likely weak?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Extensor pollicis longus"
+        },
+        {
+          "label": "B",
+          "text": "Flexor carpi ulnaris"
+        },
+        {
+          "label": "C",
+          "text": "Flexor digitorum superficialis"
+        },
+        {
+          "label": "D",
+          "text": "Opponens pollicis"
+        },
+        {
+          "label": "E",
+          "text": "Pronator quadratus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "AIN syndrome weakens FPL, lateral FDP and pronator quadratus without sensory loss.",
+        "whyCorrect": "Anterior interosseous nerve syndrome is a motor neuropathy of the median nerve branch that supplies the flexor pollicis longus, the lateral flexor digitorum profundus and the pronator quadratus. Patients cannot fully flex the distal phalanx of the thumb and index finger, so they cannot form an OK sign, while sensation is spared.",
+        "whyWrongByChoice": {
+          "A": "EPL is a posterior compartment muscle supplied by the posterior interosseous nerve.",
+          "B": "FCU is supplied by the ulnar nerve, not the AIN.",
+          "C": "FDS is supplied by the median nerve proper rather than the AIN.",
+          "D": "Opponens pollicis is supplied by the recurrent branch of the median nerve in the hand."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "forearm",
+        "anterior interosseous nerve",
+        "OK sign"
+      ],
+      "topicId": "functional-anatomy-of-the-forearm-hand",
+      "topicName": "Functional Anatomy of the Forearm & Hand",
+      "tier": "core"
+    },
+    {
+      "id": "mk19-005",
+      "stem": "Weeks after surgery near the radial head, a 37-year-old man cannot straighten his fingers at the knuckles or lift his thumb away from the palm into extension. He can still extend his wrist, and skin sensation over the back of the hand, including between the thumb and index finger, is normal. Which nerve is most likely injured?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anterior interosseous nerve"
+        },
+        {
+          "label": "B",
+          "text": "Median nerve at the elbow"
+        },
+        {
+          "label": "C",
+          "text": "Posterior interosseous nerve"
+        },
+        {
+          "label": "D",
+          "text": "Superficial branch of the radial nerve"
+        },
+        {
+          "label": "E",
+          "text": "Ulnar nerve at the elbow"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "PIN injury weakens finger and thumb extension but spares sensation.",
+        "whyCorrect": "The deep branch of the radial nerve continues as the posterior interosseous nerve, which supplies most deep posterior compartment muscles and the superficial finger extensors. Injury weakens extension of the fingers and thumb while largely preserving sensation, because the PIN is primarily a motor nerve.",
+        "whyWrongByChoice": {
+          "A": "The AIN supplies deep anterior compartment flexors, not extensors.",
+          "B": "Median injury weakens pronation, finger flexion and opposition.",
+          "D": "This would cause sensory loss over the dorsolateral hand without extensor weakness.",
+          "E": "Ulnar injury weakens finger abduction and adduction and causes medial 1.5-digit sensory loss."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "forearm",
+        "posterior interosseous nerve",
+        "radial nerve"
+      ],
+      "topicId": "functional-anatomy-of-the-forearm-hand",
+      "topicName": "Functional Anatomy of the Forearm & Hand",
+      "tier": "core"
+    },
+    {
+      "id": "mk19-006",
+      "stem": "A 52-year-old man who leans on his elbows at work has numbness of the little finger and the adjacent half of the ring finger. He also has difficulty spreading his fingers apart and squeezing them together. Which nerve is most likely affected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Axillary nerve"
+        },
+        {
+          "label": "B",
+          "text": "Median nerve"
+        },
+        {
+          "label": "C",
+          "text": "Musculocutaneous nerve"
+        },
+        {
+          "label": "D",
+          "text": "Radial nerve"
+        },
+        {
+          "label": "E",
+          "text": "Ulnar nerve"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Ulnar nerve injury: weak finger abduction/adduction and medial 1.5-digit sensory loss.",
+        "whyCorrect": "The ulnar nerve supplies sensation to the medial hand and medial 1.5 digits and innervates most intrinsic hand muscles, including the interossei. Ulnar nerve injury therefore weakens finger abduction and adduction with medial 1.5-digit sensory loss.",
+        "whyWrongByChoice": {
+          "A": "The axillary nerve supplies the skin of the lateral shoulder.",
+          "B": "Median injury causes weak opposition and lateral 3.5-digit sensory loss.",
+          "C": "This nerve supplies the lateral forearm skin via the lateral cutaneous nerve of the forearm.",
+          "D": "Radial injury causes weak wrist and finger extension with dorsolateral hand sensory loss."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "hand",
+        "ulnar nerve",
+        "sensory distribution"
+      ],
+      "topicId": "functional-anatomy-of-the-forearm-hand",
+      "topicName": "Functional Anatomy of the Forearm & Hand",
+      "tier": "core"
+    },
+    {
+      "id": "mk19-007",
+      "stem": "A 49-year-old typist has nighttime numbness of the thumb, index and middle fingers and difficulty picking up coins because of weak thumb opposition. Which structure travels with the compressed nerve beneath the flexor retinaculum?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Extensor pollicis longus tendon"
+        },
+        {
+          "label": "B",
+          "text": "Flexor carpi radialis tendon"
+        },
+        {
+          "label": "C",
+          "text": "Flexor pollicis longus tendon"
+        },
+        {
+          "label": "D",
+          "text": "Ulnar artery to the medial palm"
+        },
+        {
+          "label": "E",
+          "text": "Ulnar nerve to the hypothenar muscles"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The carpal tunnel holds the median nerve plus FDS, FDP and FPL tendons.",
+        "whyCorrect": "The carpal tunnel, formed by the carpal bones and the flexor retinaculum, transmits the median nerve and nine flexor tendons: four of flexor digitorum superficialis, four of flexor digitorum profundus and the flexor pollicis longus. The flexor carpi radialis, ulnar nerve and ulnar artery do not pass through it.",
+        "whyWrongByChoice": {
+          "A": "EPL is a dorsal, posterior compartment tendon.",
+          "B": "The lecture states that flexor carpi radialis is not within the carpal tunnel.",
+          "D": "The ulnar artery accompanies the ulnar nerve through Guyon's canal.",
+          "E": "The ulnar nerve enters the hand superficial to the flexor retinaculum via Guyon's canal."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "wrist",
+        "carpal tunnel",
+        "median nerve"
+      ],
+      "topicId": "functional-anatomy-of-the-forearm-hand",
+      "topicName": "Functional Anatomy of the Forearm & Hand",
+      "tier": "core"
+    },
+    {
+      "id": "mk19-008",
+      "stem": "A 22-year-old man falls onto his outstretched hand while snowboarding. He has radial-sided wrist pain and point tenderness in the triangular depression on the lateral wrist bordered by the thumb tendons. If this injury is missed, which complication is most characteristic?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Avascular necrosis of the proximal fragment"
+        },
+        {
+          "label": "B",
+          "text": "Claw posture of the ring and little fingers"
+        },
+        {
+          "label": "C",
+          "text": "Compression of the ulnar nerve in Guyon's canal"
+        },
+        {
+          "label": "D",
+          "text": "Dorsal tilt producing a dinner-fork deformity"
+        },
+        {
+          "label": "E",
+          "text": "Rupture of the annular ligament of the radius"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Missed scaphoid fractures risk proximal avascular necrosis and nonunion.",
+        "whyCorrect": "Snuffbox tenderness after a fall onto an outstretched hand raises concern for a scaphoid fracture. Because the proximal scaphoid has a limited blood supply from the radial artery, missed fractures can result in avascular necrosis and nonunion.",
+        "whyWrongByChoice": {
+          "B": "Ulnar claw results from ulnar nerve injury, not a radial-sided carpal fracture.",
+          "C": "The injury is on the radial side; Guyon's canal is on the ulnar side.",
+          "D": "A dinner-fork deformity is the Colles fracture of the distal radius.",
+          "E": "The annular ligament is at the proximal radioulnar joint, far from this injury."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "wrist",
+        "scaphoid fracture",
+        "anatomical snuffbox",
+        "avascular necrosis"
+      ],
+      "topicId": "functional-anatomy-of-the-forearm-hand",
+      "topicName": "Functional Anatomy of the Forearm & Hand",
+      "tier": "core"
+    },
+    {
+      "id": "mk19-009",
+      "stem": "A 29-year-old chef sustains a shallow knife cut over the thenar eminence just distal to the wrist crease. Afterward she cannot bring her thumb across the palm to touch her fingertips, but sensation of the thumb and fingers is normal. Which nerve is most likely injured?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anterior interosseous nerve"
+        },
+        {
+          "label": "B",
+          "text": "Deep branch of the ulnar nerve"
+        },
+        {
+          "label": "C",
+          "text": "Posterior interosseous nerve"
+        },
+        {
+          "label": "D",
+          "text": "Recurrent branch of the median nerve"
+        },
+        {
+          "label": "E",
+          "text": "Superficial branch of the radial nerve"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Recurrent median branch injury weakens opposition and spares sensation.",
+        "whyCorrect": "After passing through the carpal tunnel, the recurrent (motor) branch of the median nerve curves around the distal margin of the flexor retinaculum to supply most thenar muscles. Because of its superficial location in the palm, injury may weaken thumb opposition while sparing cutaneous sensation.",
+        "whyWrongByChoice": {
+          "A": "The AIN arises in the forearm and supplies FPL, lateral FDP and pronator quadratus.",
+          "B": "The ulnar nerve supplies adductor pollicis and the interossei, not the opposition muscles.",
+          "C": "The PIN supplies forearm extensors.",
+          "E": "This is a sensory nerve to the dorsolateral hand."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hand",
+        "recurrent branch of median nerve",
+        "thenar muscles"
+      ],
+      "topicId": "functional-anatomy-of-the-forearm-hand",
+      "topicName": "Functional Anatomy of the Forearm & Hand",
+      "tier": "core"
+    },
+    {
+      "id": "mk19-010",
+      "stem": "Several months after a deep glass laceration on the little-finger side of the wrist, a 30-year-old man has hyperextension at the knuckle joints and flexion of the more distal finger joints, most prominent in the ring and little fingers. Loss of which muscles best explains this posture?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Extensor digitorum and digiti minimi"
+        },
+        {
+          "label": "B",
+          "text": "Flexor carpi ulnaris and radialis"
+        },
+        {
+          "label": "C",
+          "text": "Flexor digitorum superficialis"
+        },
+        {
+          "label": "D",
+          "text": "Lumbricals 3-4 and the interossei"
+        },
+        {
+          "label": "E",
+          "text": "Thenar muscles and lateral lumbricals"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Ulnar claw reflects loss of ulnar-innervated lumbricals and interossei.",
+        "whyCorrect": "Ulnar nerve injury can produce an ulnar claw because of imbalance between intrinsic and extrinsic muscles. The lumbricals and interossei normally flex the MCP joints while extending the IP joints; lumbricals 3-4 and the interossei are ulnar-innervated, so their loss leaves MCP hyperextension and IP flexion in digits 4 and 5.",
+        "whyWrongByChoice": {
+          "A": "Loss of finger extensors would not cause MCP hyperextension.",
+          "B": "Wrist flexors do not set the MCP-IP posture of the fingers.",
+          "C": "FDS flexes the PIP joints; its loss would not produce IP flexion.",
+          "E": "These are median-innervated and do not explain claw of digits 4 and 5."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hand",
+        "ulnar claw",
+        "intrinsic muscles"
+      ],
+      "topicId": "functional-anatomy-of-the-forearm-hand",
+      "topicName": "Functional Anatomy of the Forearm & Hand",
+      "tier": "core"
+    },
+    {
+      "id": "mk19-011",
+      "stem": "A 74-year-old woman falls onto her outstretched hand. Her wrist has a dorsally angulated profile, and radiographs show dorsal displacement of a distal radius fracture fragment. Two days later she reports new tingling. In which distribution is the tingling most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dorsal web space between thumb and index only"
+        },
+        {
+          "label": "B",
+          "text": "Palmar side of the ring finger's medial half and little finger"
+        },
+        {
+          "label": "C",
+          "text": "Palmar side of the thumb, index and middle fingers"
+        },
+        {
+          "label": "D",
+          "text": "Skin along the lateral forearm above the wrist"
+        },
+        {
+          "label": "E",
+          "text": "Skin over the lateral shoulder and deltoid"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A displaced Colles fracture can compress the median nerve, affecting the lateral 3.5 digits.",
+        "whyCorrect": "A Colles fracture is a distal radius fracture from a fall onto an outstretched hand; dorsal displacement produces the dinner-fork deformity, and severe displacement may compress the median nerve. The median nerve supplies the lateral palm and lateral 3.5 digits.",
+        "whyWrongByChoice": {
+          "A": "That is radial nerve territory, not the nerve described as compressed.",
+          "B": "That is the ulnar territory; the median nerve is the one at risk with a Colles fracture.",
+          "D": "That is the lateral cutaneous nerve of the forearm (musculocutaneous).",
+          "E": "That is axillary nerve territory."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "wrist",
+        "Colles fracture",
+        "median nerve"
+      ],
+      "topicId": "functional-anatomy-of-the-forearm-hand",
+      "topicName": "Functional Anatomy of the Forearm & Hand",
+      "tier": "core"
+    },
+    {
+      "id": "mk19-012",
+      "stem": "A 24-year-old man with a hand injury is asked to grip a playing card between his straightened index and middle fingers while the examiner pulls it away. He cannot hold it. Which muscles are most likely weak?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dorsal interossei"
+        },
+        {
+          "label": "B",
+          "text": "Extensor digitorum"
+        },
+        {
+          "label": "C",
+          "text": "Hypothenar muscles"
+        },
+        {
+          "label": "D",
+          "text": "Palmar interossei"
+        },
+        {
+          "label": "E",
+          "text": "Thenar muscles"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Palmar interossei adduct the fingers (PAD).",
+        "whyCorrect": "The interossei abduct and adduct the fingers relative to the third digit: dorsal interossei abduct (DAB) and palmar interossei adduct (PAD). Holding a card between the fingers requires adduction, which depends on the ulnar-innervated palmar interossei.",
+        "whyWrongByChoice": {
+          "A": "Dorsal interossei abduct (spread) the fingers (DAB).",
+          "B": "Extensor digitorum extends digits 2-5 rather than squeezing them together.",
+          "C": "Hypothenar muscles move the little finger and cup the hand.",
+          "E": "Thenar muscles move the thumb, including opposition."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "hand",
+        "interossei",
+        "ulnar nerve"
+      ],
+      "topicId": "functional-anatomy-of-the-forearm-hand",
+      "topicName": "Functional Anatomy of the Forearm & Hand",
+      "tier": "core"
+    },
+    {
+      "id": "mk20-001",
+      "stem": "A 2-day-old boy was delivered vaginally after a difficult birth in which his right shoulder became lodged behind the maternal pubic symphysis and strong lateral traction was applied to the head. He holds the right arm at his side, internally rotated, with the elbow straight and the forearm pronated. His grasp of an examiner's finger is strong. Which of the following structures is most likely injured?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Long thoracic nerve (C5-C7 roots)"
+        },
+        {
+          "label": "B",
+          "text": "Lower trunk (C8-T1) of the brachial plexus"
+        },
+        {
+          "label": "C",
+          "text": "Posterior cord of the brachial plexus"
+        },
+        {
+          "label": "D",
+          "text": "Radial nerve within the radial groove"
+        },
+        {
+          "label": "E",
+          "text": "Upper trunk (C5-C6) of the brachial plexus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Forcibly widening the neck-shoulder angle (as in shoulder dystocia) stretches the upper trunk (C5-C6), producing Erb palsy.",
+        "whyCorrect": "Shoulder dystocia with traction on the head and neck stretches the C5-C6 upper trunk. Loss of suprascapular, axillary and musculocutaneous function leaves the arm adducted and internally rotated with an extended, pronated forearm. An intact grasp shows that the C8-T1 intrinsic hand muscles are spared.",
+        "whyWrongByChoice": {
+          "A": "Long thoracic nerve injury causes scapular winging from serratus anterior loss and does not produce the adducted, internally rotated posture.",
+          "B": "Lower trunk injury follows upward traction on the arm and spares the shoulder; it produces intrinsic hand weakness and clawing, which this infant's strong grasp argues against.",
+          "C": "A posterior cord lesion affects the axillary and radial nerves, causing weak abduction and loss of elbow, wrist and finger extension, but it would not explain the weak elbow flexion implied by the extended posture.",
+          "D": "A radial groove lesion causes wrist drop with intact shoulder and elbow-flexor function; it does not explain this shoulder posture."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "brachial plexus",
+        "Erb palsy",
+        "shoulder dystocia"
+      ],
+      "topicId": "upper-extremity-injuries",
+      "topicName": "Upper Extremity Injuries",
+      "tier": "core"
+    },
+    {
+      "id": "mk20-002",
+      "stem": "A 61-year-old man with a 45-pack-year smoking history has 4 months of numbness along the inner forearm and progressive weakness of his right hand. Examination shows wasting of the small hand muscles; at rest the fingers sit with the MCP joints hyperextended and the IP joints flexed. He cannot spread or bring together his fingers. Chest imaging shows a mass at the right lung apex. Which of the following is most likely compromised?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lower trunk of the brachial plexus"
+        },
+        {
+          "label": "B",
+          "text": "Posterior cord of the brachial plexus"
+        },
+        {
+          "label": "C",
+          "text": "Radial nerve along the spiral groove"
+        },
+        {
+          "label": "D",
+          "text": "Suprascapular nerve at the scapular notch"
+        },
+        {
+          "label": "E",
+          "text": "Upper trunk of the brachial plexus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Pancoast tumors at the lung apex invade the lower trunk (C8-T1), giving intrinsic hand weakness, claw hand and medial forearm numbness.",
+        "whyCorrect": "The lower trunk carries the C8-T1 fibers of the ulnar and median nerves to the intrinsic hand muscles. Loss of lumbrical and interosseous function produces a claw hand with MCP hyperextension and IP flexion, and sensory loss follows the ulnar distribution along the medial forearm. Apical (Pancoast) tumors in the upper thorax are a classic cause.",
+        "whyWrongByChoice": {
+          "B": "The posterior cord gives the axillary and radial nerves; its injury causes weak abduction and loss of extension, not claw hand.",
+          "C": "A spiral groove radial lesion causes wrist drop and dorsal first web space numbness, not intrinsic wasting and clawing.",
+          "D": "Suprascapular nerve entrapment weakens abduction initiation and external rotation without any hand findings or sensory loss.",
+          "E": "Upper trunk (C5-C6) injury weakens shoulder abduction, external rotation and elbow flexion, not the intrinsic hand muscles."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "brachial plexus",
+        "Klumpke palsy",
+        "Pancoast tumor"
+      ],
+      "topicId": "upper-extremity-injuries",
+      "topicName": "Upper Extremity Injuries",
+      "tier": "core"
+    },
+    {
+      "id": "mk20-003",
+      "stem": "An 80-year-old woman trips on a rug and lands on her left shoulder. Radiographs show a fracture through the surgical neck of the humerus. She cannot lift the arm away from her side past the first few degrees, and sensation is reduced over a patch of skin on the outer aspect of the upper shoulder. Which of the following nerves is most likely injured?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Axillary nerve"
+        },
+        {
+          "label": "B",
+          "text": "Long thoracic nerve"
+        },
+        {
+          "label": "C",
+          "text": "Musculocutaneous nerve"
+        },
+        {
+          "label": "D",
+          "text": "Radial nerve"
+        },
+        {
+          "label": "E",
+          "text": "Suprascapular nerve"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The axillary nerve wraps around the surgical neck of the humerus and is injured by surgical neck fractures and shoulder dislocations.",
+        "whyCorrect": "After passing through the quadrangular space, the axillary nerve wraps around the surgical neck to supply the deltoid and teres minor. Injury weakens abduction beyond the first ~15 degrees and causes sensory loss over the lateral shoulder in the regimental-badge distribution.",
+        "whyWrongByChoice": {
+          "B": "Long thoracic nerve injury causes scapular winging and has no cutaneous territory over the shoulder.",
+          "C": "Musculocutaneous injury weakens elbow flexion and supination with lateral forearm numbness.",
+          "D": "The radial nerve is classically injured by midshaft fractures in the radial groove, causing wrist drop rather than deltoid weakness.",
+          "E": "Suprascapular nerve injury weakens abduction initiation and external rotation but causes no cutaneous sensory loss."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "axillary nerve",
+        "proximal humerus fracture",
+        "regimental badge"
+      ],
+      "topicId": "upper-extremity-injuries",
+      "topicName": "Upper Extremity Injuries",
+      "tier": "core"
+    },
+    {
+      "id": "mk20-004",
+      "stem": "Three weeks after a right mastectomy with axillary lymph node dissection, a 52-year-old woman reports difficulty raising her right arm above shoulder height. When she pushes against a wall with both hands, the medial border of her right shoulder blade lifts away from the chest wall. Which of the following muscles has most likely lost its innervation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deltoid"
+        },
+        {
+          "label": "B",
+          "text": "Infraspinatus"
+        },
+        {
+          "label": "C",
+          "text": "Latissimus dorsi"
+        },
+        {
+          "label": "D",
+          "text": "Serratus anterior"
+        },
+        {
+          "label": "E",
+          "text": "Supraspinatus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The long thoracic nerve (C5-C7) runs along the lateral chest wall and is vulnerable in axillary surgery; loss of serratus anterior causes scapular winging.",
+        "whyCorrect": "The serratus anterior holds the scapula against the thoracic wall and assists upward rotation during arm elevation. Its nerve, the long thoracic nerve, has a long course on the lateral chest wall, so axillary surgery can injure it. The wall-push test exposes the winged medial border.",
+        "whyWrongByChoice": {
+          "A": "Deltoid denervation (axillary nerve) weakens abduction beyond 15 degrees and flattens the shoulder contour but does not wing the scapula.",
+          "B": "Infraspinatus loss weakens external rotation and may hollow the infraspinatus fossa, but the scapula stays against the chest wall.",
+          "C": "Latissimus dorsi (thoracodorsal nerve) extends, adducts and internally rotates the shoulder; it does not hold the scapula against the chest wall.",
+          "E": "Supraspinatus loss (suprascapular nerve) impairs abduction initiation, not scapular stabilization."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "long thoracic nerve",
+        "scapular winging",
+        "axillary surgery"
+      ],
+      "topicId": "upper-extremity-injuries",
+      "topicName": "Upper Extremity Injuries",
+      "tier": "core"
+    },
+    {
+      "id": "mk20-005",
+      "stem": "A 31-year-old man is struck on the middle of the right arm with a baseball bat. Radiographs show a displaced fracture of the humeral shaft at its midpoint. Which of the following examination findings is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Loss of thumb opposition with thenar wasting"
+        },
+        {
+          "label": "B",
+          "text": "Weak elbow extension along with wrist drop"
+        },
+        {
+          "label": "C",
+          "text": "Weak finger spreading with small-finger numbness"
+        },
+        {
+          "label": "D",
+          "text": "Winging of the scapula on arm elevation"
+        },
+        {
+          "label": "E",
+          "text": "Wrist drop with intact elbow extension"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Midshaft humerus fractures injure the radial nerve in the radial groove, giving wrist drop with sparing of the triceps.",
+        "whyCorrect": "Midshaft humeral fractures (up to 10%) injure the radial nerve as it lies in the radial groove. The triceps branches leave proximal to the groove, so elbow extension is preserved while wrist and finger extension are lost, leaving the hand pulled into flexion by unopposed wrist flexors.",
+        "whyWrongByChoice": {
+          "A": "Loss of opposition and thenar wasting reflect median nerve injury, associated with supracondylar fractures or wrist injuries.",
+          "B": "Loss of elbow extension in addition to wrist drop points to a more proximal radial lesion in the axilla, such as crutch palsy.",
+          "C": "Weak finger abduction with small-finger numbness reflects ulnar nerve injury near the medial epicondyle or wrist.",
+          "D": "Scapular winging reflects long thoracic nerve injury, which is a hazard of axillary surgery rather than humeral fractures."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "radial nerve",
+        "humeral shaft fracture",
+        "wrist drop"
+      ],
+      "topicId": "upper-extremity-injuries",
+      "topicName": "Upper Extremity Injuries",
+      "tier": "core"
+    },
+    {
+      "id": "mk20-006",
+      "stem": "A 37-year-old woman falls from a bicycle and fractures the head of the proximal radius. Two days later she cannot straighten the thumb or fingers at the knuckles, although she can still cock the wrist back and straighten the elbow. Sensation over the entire hand and forearm is normal, but she describes a deep ache in the forearm. Which of the following is most likely injured?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anterior interosseous nerve"
+        },
+        {
+          "label": "B",
+          "text": "Posterior interosseous nerve"
+        },
+        {
+          "label": "C",
+          "text": "Radial nerve in the axilla"
+        },
+        {
+          "label": "D",
+          "text": "Radial nerve in the spiral groove"
+        },
+        {
+          "label": "E",
+          "text": "Ulnar nerve at the elbow"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Injury to the distal radial nerve/posterior interosseous nerve (radial head injury, radial tunnel) causes loss of finger and thumb extension without cutaneous sensory loss.",
+        "whyCorrect": "As the radial nerve injury site moves distally, more proximal functions are spared. The posterior interosseous nerve, injured by radial head trauma or compression in the radial tunnel under the supinator, causes loss of finger and thumb extension with no cutaneous sensory deficit, although it can produce deep pain.",
+        "whyWrongByChoice": {
+          "A": "Anterior interosseous injury prevents making an OK sign (flexor pollicis longus, part of FDP) rather than finger extension.",
+          "C": "An axillary-level radial lesion would also abolish elbow extension and cause sensory loss over the posterior arm, forearm and first dorsal web space.",
+          "D": "A spiral groove lesion causes wrist drop and first dorsal web space numbness; this patient's wrist extension and sensation are intact.",
+          "E": "Ulnar nerve injury at the elbow weakens finger abduction and adduction and numbs the small finger."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "radial nerve",
+        "posterior interosseous nerve",
+        "radial head fracture"
+      ],
+      "topicId": "upper-extremity-injuries",
+      "topicName": "Upper Extremity Injuries",
+      "tier": "core"
+    },
+    {
+      "id": "mk20-007",
+      "stem": "A 44-year-old man sustains a deep knife laceration over the front of the distal arm just above the elbow. When asked to make a fist, his ring and small fingers curl fully, but his index and middle fingers remain straight. His thumb tip cannot be bent. Which of the following best describes the lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Median nerve, distal (at the wrist)"
+        },
+        {
+          "label": "B",
+          "text": "Median nerve, proximal (in the arm)"
+        },
+        {
+          "label": "C",
+          "text": "Radial nerve, proximal (in the axilla)"
+        },
+        {
+          "label": "D",
+          "text": "Ulnar nerve, distal (at the wrist)"
+        },
+        {
+          "label": "E",
+          "text": "Ulnar nerve, proximal (at the elbow)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A proximal median lesion paralyzes the long flexors to digits 2-3, so those fingers cannot curl into a fist; a distal lesion spares the fist.",
+        "whyCorrect": "Median nerve deficits appear in digits 2-3 (and the thumb). With a proximal injury, the median-innervated long flexors are lost, so the patient cannot curl the affected fingers into a fist. A distal injury spares the long flexors, so a fist is still possible and the lumbrical loss shows only as inability to fully unfurl the fingers.",
+        "whyWrongByChoice": {
+          "A": "A distal median lesion spares the forearm long flexors, so digits 2-3 can still curl into a fist.",
+          "C": "A proximal radial lesion causes loss of elbow, wrist and finger extension, not failure of finger flexion.",
+          "D": "A distal ulnar lesion affects digits 4-5 and leaves the long flexors intact, so all fingers can still make a fist.",
+          "E": "A proximal ulnar lesion would impair curling of digits 4-5, not the index and middle fingers."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "median nerve",
+        "proximal vs distal",
+        "lumbricals",
+        "long flexors"
+      ],
+      "topicId": "upper-extremity-injuries",
+      "topicName": "Upper Extremity Injuries",
+      "tier": "core"
+    },
+    {
+      "id": "mk20-008",
+      "stem": "A 28-year-old man sustains a crush injury to the proximal forearm. When asked to touch the tip of his thumb to the tip of his index finger to form a circle, he instead presses the pads together with both distal joints straight. Pronation with the elbow flexed is weak. Sensation is normal throughout the hand. Which of the following nerves is most likely injured?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anterior interosseous nerve"
+        },
+        {
+          "label": "B",
+          "text": "Musculocutaneous nerve"
+        },
+        {
+          "label": "C",
+          "text": "Posterior interosseous nerve"
+        },
+        {
+          "label": "D",
+          "text": "Radial nerve in the radial groove"
+        },
+        {
+          "label": "E",
+          "text": "Ulnar nerve at the wrist"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The anterior interosseous branch of the median nerve supplies flexor pollicis longus, half of FDP and pronator quadratus; its loss prevents an OK sign without sensory loss.",
+        "whyCorrect": "The anterior interosseous nerve is a purely motor branch of the median nerve. Losing flexor pollicis longus and the lateral FDP prevents flexion of the thumb IP and index DIP joints, so the patient cannot make an OK sign, and pronator quadratus weakness reduces pronation. There is no sensory loss.",
+        "whyWrongByChoice": {
+          "B": "Musculocutaneous injury weakens elbow flexion and supination with lateral forearm numbness.",
+          "C": "Posterior interosseous injury causes loss of finger and thumb extension, not loss of fingertip flexion.",
+          "D": "A radial groove lesion causes wrist drop and first dorsal web space numbness.",
+          "E": "Ulnar nerve injury at the wrist weakens finger abduction and adduction and typically numbs the small finger."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "anterior interosseous nerve",
+        "median nerve",
+        "OK sign"
+      ],
+      "topicId": "upper-extremity-injuries",
+      "topicName": "Upper Extremity Injuries",
+      "tier": "core"
+    },
+    {
+      "id": "mk20-009",
+      "stem": "A 46-year-old man is carrying a heavy table when it suddenly drops, forcing his bent, contracted elbow into extension. He feels a pop in the front of the elbow, and bruising develops over the antecubital fossa. Which of the following movements is most likely to show the greatest loss of strength?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elbow flexion"
+        },
+        {
+          "label": "B",
+          "text": "Forearm pronation"
+        },
+        {
+          "label": "C",
+          "text": "Forearm supination"
+        },
+        {
+          "label": "D",
+          "text": "Shoulder abduction"
+        },
+        {
+          "label": "E",
+          "text": "Wrist extension"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Distal biceps rupture costs supination more than elbow flexion, because the brachialis is the strongest and purest elbow flexor.",
+        "whyCorrect": "The distal biceps tendon inserts on the radial tuberosity, and biceps brachii is the strongest supinator, especially with the elbow flexed. Rupture typically follows a sudden eccentric load. Elbow flexion is relatively preserved because the brachialis flexes the elbow regardless of forearm position.",
+        "whyWrongByChoice": {
+          "A": "Elbow flexion weakens somewhat, but the brachialis remains the strongest and purest elbow flexor, so supination suffers more.",
+          "B": "Pronation is not a biceps action and is preserved.",
+          "D": "Shoulder abduction depends on the deltoid and supraspinatus, not the biceps insertion at the elbow.",
+          "E": "Wrist extension depends on the radial nerve-innervated extensors, which are unaffected."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "distal biceps tendon rupture",
+        "supination",
+        "brachialis"
+      ],
+      "topicId": "upper-extremity-injuries",
+      "topicName": "Upper Extremity Injuries",
+      "tier": "core"
+    },
+    {
+      "id": "mk20-010",
+      "stem": "A 17-year-old volleyball player is struck on the tip of her straightened middle finger by a spiking ball. The fingertip now droops, and she cannot actively straighten the distal interphalangeal joint, although it can be straightened passively. Which of the following structures is most likely disrupted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Flexor digitorum profundus tendon"
+        },
+        {
+          "label": "B",
+          "text": "Flexor digitorum superficialis tendon"
+        },
+        {
+          "label": "C",
+          "text": "Palmar interosseous tendon"
+        },
+        {
+          "label": "D",
+          "text": "Second lumbrical tendon"
+        },
+        {
+          "label": "E",
+          "text": "Terminal extensor tendon"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Mallet finger is disruption of the terminal extensor tendon at the distal phalanx, so the DIP rests in flexion.",
+        "whyCorrect": "A ball striking the tip of an extended finger disrupts the terminal extensor tendon at the distal phalanx. The patient cannot actively extend the DIP joint, which rests in flexion. This is the opposite of jersey finger, which prevents DIP flexion.",
+        "whyWrongByChoice": {
+          "A": "FDP avulsion (jersey finger) prevents DIP flexion, not extension, and follows forced extension while gripping.",
+          "B": "FDS flexes the PIP joint; its loss does not leave the DIP drooping.",
+          "C": "The palmar interossei adduct the fingers; they are not injured by a blow to the fingertip.",
+          "D": "The lumbricals flex the MCP and extend the IP joints through the extensor hood, but an isolated drooping DIP after a tip impact reflects the terminal tendon."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "mallet finger",
+        "terminal extensor tendon"
+      ],
+      "topicId": "upper-extremity-injuries",
+      "topicName": "Upper Extremity Injuries",
+      "tier": "core"
+    },
+    {
+      "id": "mk20-011",
+      "stem": "A 23-year-old man fell on his outstretched hand while snowboarding 5 months ago and never sought care. He now has persistent radial-sided wrist pain. Imaging shows an ununited fracture across the waist of the carpal bone that lies in the anatomic snuffbox, with sclerosis of the fragment nearest the forearm. Which of the following best explains the involvement of that fragment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is compressed by the flexor retinaculum during healing"
+        },
+        {
+          "label": "B",
+          "text": "It loses venous drainage through the annular ligament"
+        },
+        {
+          "label": "C",
+          "text": "It receives blood only from the anterior interosseous artery"
+        },
+        {
+          "label": "D",
+          "text": "Its blood flow enters distally and runs back proximally"
+        },
+        {
+          "label": "E",
+          "text": "Its blood supply comes only from the ulnar artery branches"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The scaphoid is supplied retrograde (distal to proximal), so a waist fracture can leave the proximal pole avascular, causing necrosis or nonunion.",
+        "whyCorrect": "The scaphoid is the most commonly fractured carpal bone, usually at the waist. Its blood supply enters distally and travels proximally, so a waist fracture can cut off flow to the proximal pole and lead to avascular necrosis or nonunion.",
+        "whyWrongByChoice": {
+          "A": "The flexor retinaculum roofs the carpal tunnel; it does not compress the scaphoid fragment.",
+          "B": "The annular ligament surrounds the radial head at the elbow and has no role at the wrist.",
+          "C": "The scaphoid supply is not described as coming from an anterior interosseous vessel; the proximal pole fails because its blood arrives from the distal end.",
+          "E": "The lecture describes the scaphoid supply by its direction (distal to proximal), not as coming from ulnar artery branches; that is not why the proximal pole fails."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "scaphoid fracture",
+        "avascular necrosis",
+        "nonunion"
+      ],
+      "topicId": "upper-extremity-injuries",
+      "topicName": "Upper Extremity Injuries",
+      "tier": "core"
+    },
+    {
+      "id": "mk20-012",
+      "stem": "A 6-year-old girl falls from the monkey bars onto her outstretched hand. Radiographs show a displaced fracture of the distal humerus just above the condyles. Her hand is pale and cool, the radial pulse is not palpable, and she reports numbness of the palmar thumb and index finger and cannot bend the tip of her thumb. Which pair of structures is most likely injured?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Axillary artery and axillary nerve"
+        },
+        {
+          "label": "B",
+          "text": "Brachial artery and median nerve"
+        },
+        {
+          "label": "C",
+          "text": "Brachial artery and musculocutaneous nerve"
+        },
+        {
+          "label": "D",
+          "text": "Radial artery and radial nerve"
+        },
+        {
+          "label": "E",
+          "text": "Ulnar artery and ulnar nerve"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Supracondylar humerus fractures can injure the brachial artery and the median, ulnar and radial nerves, and carry a higher risk of compartment syndrome.",
+        "whyCorrect": "Supracondylar fractures are common elbow fractures in children after a FOOSH. The brachial artery lies anterior to the distal humerus, so injury produces a pale, cool, pulseless hand. The palmar thumb-index numbness and loss of thumb tip flexion indicate median nerve involvement. These fractures also have a higher incidence of compartment syndrome than other upper extremity fractures.",
+        "whyWrongByChoice": {
+          "A": "The axillary artery and nerve are at risk with anterior shoulder dislocation and surgical neck fractures, not distal humeral fractures.",
+          "C": "The musculocutaneous nerve supplies sensation to the lateral forearm and does not supply the thumb flexor or palmar thumb skin.",
+          "D": "Radial artery injuries usually result from lacerations rather than fractures, and a radial nerve lesion would cause wrist drop and dorsal web space numbness.",
+          "E": "Ulnar artery injury also typically follows penetrating trauma, and ulnar nerve loss would numb the small finger rather than the thumb and index finger."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "supracondylar fracture",
+        "brachial artery",
+        "median nerve",
+        "acute limb ischemia"
+      ],
+      "topicId": "upper-extremity-injuries",
+      "topicName": "Upper Extremity Injuries",
+      "tier": "core"
+    },
+    {
+      "id": "mk21-001",
+      "stem": "A 31-year-old woman in her third trimester of pregnancy has 6 weeks of tingling and burning in her right thumb, index finger, middle finger and the thumb-side half of her ring finger. The symptoms wake her at night, and she shakes her hand to relieve them. Sensation of the small finger is normal. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Carpal tunnel syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Cubital tunnel syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Diabetic peripheral neuropathy"
+        },
+        {
+          "label": "D",
+          "text": "Guyon canal syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Lower trunk brachial plexopathy"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Carpal tunnel syndrome compresses the median nerve at the wrist, causing nocturnal paresthesias of the thumb, index, middle and radial half of the ring finger; pregnancy is a cause.",
+        "whyCorrect": "Increased pressure in the carpal tunnel compresses the median nerve, causing ischemia and impaired conduction. Symptoms follow the median distribution (thumb, index, middle and radial half of the ring finger) and are often worse at night. Pregnancy is among the listed causes, along with repetitive wrist use, obesity, diabetes, hypothyroidism and rheumatoid arthritis.",
+        "whyWrongByChoice": {
+          "B": "Cubital tunnel syndrome compresses the ulnar nerve at the elbow and affects the small finger, ulnar half of the ring finger and dorsal ulnar hand.",
+          "C": "Diabetic neuropathy causes symmetric stocking-glove symptoms starting in the feet, not a single-nerve hand pattern.",
+          "D": "Guyon canal syndrome compresses the ulnar nerve at the wrist and affects the small and ulnar ring fingers.",
+          "E": "Lower trunk injury affects the C8-T1 intrinsic hand muscles with ulnar-side (medial forearm) sensory loss."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "carpal tunnel syndrome",
+        "median nerve",
+        "pregnancy"
+      ],
+      "topicId": "upper-extremity-nerve-entrapment-syndromes",
+      "topicName": "Upper Extremity Nerve Entrapment Syndromes",
+      "tier": "core"
+    },
+    {
+      "id": "mk21-002",
+      "stem": "A 50-year-old long-haul truck driver has 3 months of numbness and tingling in his left little finger, the adjacent half of his ring finger, and the back of the hand on the same side. Symptoms are worst after hours of driving with his left elbow bent and resting on the window ledge. He has mild difficulty holding a sheet of paper between his fingers. Which of the following is the most likely site of nerve compression?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Behind the medial epicondyle at the elbow"
+        },
+        {
+          "label": "B",
+          "text": "Beneath the flexor retinaculum at the wrist"
+        },
+        {
+          "label": "C",
+          "text": "Between the pisiform and the hamate bones"
+        },
+        {
+          "label": "D",
+          "text": "Under the supinator below the elbow"
+        },
+        {
+          "label": "E",
+          "text": "Within the lower trunk of the brachial plexus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cubital tunnel syndrome is ulnar nerve compression behind the medial epicondyle, worsened by prolonged elbow flexion, and it includes the dorsal ulnar hand.",
+        "whyCorrect": "The ulnar nerve passes through the cubital tunnel behind the medial epicondyle, and elbow flexion raises pressure in the tunnel. Symptoms involve the little finger, ulnar half of the ring finger and dorsal ulnar hand, with possible weakness of finger abduction and adduction. Dorsal hand involvement places the lesion proximal to Guyon canal.",
+        "whyWrongByChoice": {
+          "B": "Compression beneath the flexor retinaculum (carpal tunnel) affects the median-supplied thumb, index and middle fingers.",
+          "C": "Compression between the pisiform and hamate (Guyon canal) spares dorsal hand sensation because the dorsal cutaneous branch leaves proximal to the canal.",
+          "D": "The radial tunnel under the supinator, below the elbow, involves the posterior interosseous branch of the radial nerve, which is unrelated to these fingers.",
+          "E": "A lower trunk lesion would produce broader intrinsic weakness with medial forearm involvement, not a position-dependent ulnar pattern."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cubital tunnel syndrome",
+        "ulnar nerve",
+        "elbow flexion"
+      ],
+      "topicId": "upper-extremity-nerve-entrapment-syndromes",
+      "topicName": "Upper Extremity Nerve Entrapment Syndromes",
+      "tier": "core"
+    },
+    {
+      "id": "mk21-003",
+      "stem": "A 38-year-old competitive road cyclist has numbness and tingling of the palmar little finger and the half of the ring finger next to it after long rides with weight on the handlebars. He also has weak pinch. Sensation over the back of the hand on the little-finger side is normal. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Carpal tunnel syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Cubital tunnel syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Diabetic peripheral neuropathy"
+        },
+        {
+          "label": "D",
+          "text": "Guyon canal syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Lower trunk brachial plexopathy"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Guyon canal syndrome compresses the ulnar nerve at the wrist (e.g., handlebars) and spares dorsal hand sensation.",
+        "whyCorrect": "Guyon canal (ulnar tunnel) syndrome follows repetitive palm pressure such as from handlebars or tools. It causes grip and pinch weakness and may cause numbness of the small finger and ulnar half of the ring finger. Dorsal ulnar hand sensation is preserved because the dorsal cutaneous branch leaves the ulnar nerve before it enters the canal.",
+        "whyWrongByChoice": {
+          "A": "Carpal tunnel syndrome affects the median-supplied thumb, index and middle fingers.",
+          "B": "Cubital tunnel syndrome also numbs the dorsal ulnar hand, which is spared here.",
+          "C": "Diabetic neuropathy is symmetric and begins in the feet in a stocking-glove pattern.",
+          "E": "Lower trunk injury would include medial forearm sensory loss and is not provoked by palm pressure."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Guyon canal syndrome",
+        "ulnar nerve",
+        "cycling"
+      ],
+      "topicId": "upper-extremity-nerve-entrapment-syndromes",
+      "topicName": "Upper Extremity Nerve Entrapment Syndromes",
+      "tier": "core"
+    },
+    {
+      "id": "mk21-004",
+      "stem": "A 45-year-old woman with median nerve compression at the wrist has nocturnal paresthesias of the thumb, index and middle fingers. Sensation over the thenar eminence and the central palm is normal. Which of the following best explains the preserved sensation in these areas?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sensory fibers are spared until thenar atrophy occurs"
+        },
+        {
+          "label": "B",
+          "text": "The dorsal cutaneous branch leaves before the wrist"
+        },
+        {
+          "label": "C",
+          "text": "The supplying branch arises proximal to the tunnel"
+        },
+        {
+          "label": "D",
+          "text": "The thenar skin is supplied by the radial nerve alone"
+        },
+        {
+          "label": "E",
+          "text": "Thenar skin fibers come from the C8-T1 roots only"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Thenar and central palm sensation is spared in CTS because the palmar cutaneous branch of the median nerve arises proximal to the carpal tunnel and passes superficial to the flexor retinaculum.",
+        "whyCorrect": "The palmar cutaneous branch of the median nerve leaves the main trunk proximal to the carpal tunnel and runs superficial to the flexor retinaculum, so it escapes compression. Numbness in the thenar eminence or central palm therefore argues against a lesion confined to the carpal tunnel.",
+        "whyWrongByChoice": {
+          "A": "Thenar atrophy reflects motor fiber injury and does not determine whether the palm is numb.",
+          "B": "The dorsal cutaneous branch is an ulnar nerve branch; it explains spared dorsal hand sensation in Guyon canal syndrome.",
+          "D": "The thenar eminence and central palm are supplied by the median nerve's palmar cutaneous branch, not the radial nerve.",
+          "E": "Root level does not explain sparing in a focal wrist entrapment; the branch's course around the tunnel does."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "carpal tunnel syndrome",
+        "palmar cutaneous branch",
+        "thenar eminence"
+      ],
+      "topicId": "upper-extremity-nerve-entrapment-syndromes",
+      "topicName": "Upper Extremity Nerve Entrapment Syndromes",
+      "tier": "core"
+    },
+    {
+      "id": "mk21-005",
+      "stem": "A 57-year-old man has progressive median nerve symptoms at the wrist despite 6 months of splinting and activity modification. He undergoes surgical decompression. Which of the following structures is divided during the procedure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Annular ligament of radius"
+        },
+        {
+          "label": "B",
+          "text": "Hook of the hamate bone"
+        },
+        {
+          "label": "C",
+          "text": "Palmar carpal ligament"
+        },
+        {
+          "label": "D",
+          "text": "Transverse carpal ligament"
+        },
+        {
+          "label": "E",
+          "text": "Ulnar collateral ligament"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Carpal tunnel release divides the transverse carpal ligament (flexor retinaculum), the roof of the tunnel.",
+        "whyCorrect": "The carpal tunnel is a fibro-osseous canal bounded by the carpal bones and roofed by the flexor retinaculum, also called the transverse carpal ligament. Surgical release divides this ligament to permanently relieve pressure on the median nerve.",
+        "whyWrongByChoice": {
+          "A": "The annular ligament encircles the radial head at the elbow.",
+          "B": "The hook of the hamate is a bony medial border of the carpal tunnel and is not divided.",
+          "C": "The palmar carpal ligament roofs Guyon canal and is divided in Guyon canal release.",
+          "E": "The ulnar collateral ligament stabilizes the medial elbow against valgus stress."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "carpal tunnel release",
+        "transverse carpal ligament",
+        "flexor retinaculum"
+      ],
+      "topicId": "upper-extremity-nerve-entrapment-syndromes",
+      "topicName": "Upper Extremity Nerve Entrapment Syndromes",
+      "tier": "core"
+    },
+    {
+      "id": "mk21-006",
+      "stem": "A 44-year-old data-entry clerk has tingling of the thumb, index and middle fingers. The examiner asks her to press the backs of both hands together with the wrists maximally bent and to hold the position for 60 seconds, after which her tingling is reproduced. Which of the following maneuvers was performed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "OK-sign test"
+        },
+        {
+          "label": "B",
+          "text": "Phalen test"
+        },
+        {
+          "label": "C",
+          "text": "Tinel sign"
+        },
+        {
+          "label": "D",
+          "text": "Valgus stress test"
+        },
+        {
+          "label": "E",
+          "text": "Wall-push test"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The Phalen test (maximal wrist flexion with backs of the hands together for 60 seconds) raises carpal tunnel pressure and may reproduce median paresthesias.",
+        "whyCorrect": "Phalen test holds maximal wrist flexion with the backs of the hands together for 60 seconds, increasing pressure on the median nerve. Like Tinel sign, it has only moderate sensitivity and is not diagnostic on its own.",
+        "whyWrongByChoice": {
+          "A": "The OK sign tests the anterior interosseous nerve, not carpal tunnel pressure.",
+          "C": "Tinel sign is percussion over the carpal tunnel rather than sustained wrist flexion.",
+          "D": "Valgus stress testing assesses the ulnar collateral ligament of the elbow.",
+          "E": "Pushing against a wall exposes scapular winging from serratus anterior loss."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Phalen test",
+        "carpal tunnel syndrome",
+        "provocative maneuver"
+      ],
+      "topicId": "upper-extremity-nerve-entrapment-syndromes",
+      "topicName": "Upper Extremity Nerve Entrapment Syndromes",
+      "tier": "core"
+    },
+    {
+      "id": "mk21-007",
+      "stem": "A 52-year-old man with nocturnal numbness of the thumb, index and middle fingers is referred for electrodiagnostic testing before planned surgery. Which of the following results would best confirm the suspected entrapment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Delayed ulnar latency across the wrist"
+        },
+        {
+          "label": "B",
+          "text": "Normal latency with thenar fasciculations"
+        },
+        {
+          "label": "C",
+          "text": "Prolonged median latency across the wrist"
+        },
+        {
+          "label": "D",
+          "text": "Reduced amplitude in the hypothenar muscles"
+        },
+        {
+          "label": "E",
+          "text": "Slowed conduction across the elbow"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In CTS, nerve conduction studies typically show prolonged median nerve latency: the signal takes longer than normal to cross the wrist.",
+        "whyCorrect": "Nerve conduction studies measure the speed and strength of signals in a nerve. In carpal tunnel syndrome they typically show prolonged median nerve latency, meaning the signal takes longer to travel across the wrist. Severe or chronic compression may also show thenar denervation on EMG.",
+        "whyWrongByChoice": {
+          "A": "An ulnar nerve abnormality would indicate cubital tunnel or Guyon canal compression.",
+          "B": "Normal latency would not confirm compression of the median nerve at the wrist.",
+          "D": "Hypothenar muscles are ulnar-innervated and are not affected by median compression.",
+          "E": "Slowing across the elbow points to an elbow-level lesion such as cubital tunnel syndrome."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "nerve conduction study",
+        "median nerve latency",
+        "carpal tunnel syndrome"
+      ],
+      "topicId": "upper-extremity-nerve-entrapment-syndromes",
+      "topicName": "Upper Extremity Nerve Entrapment Syndromes",
+      "tier": "core"
+    },
+    {
+      "id": "mk21-008",
+      "stem": "A 64-year-old man with long-standing poorly controlled type 2 diabetes mellitus has 2 years of burning pain and numbness that began in both feet and has recently appeared in both hands. Examination shows symmetric sensory loss to a level above the ankles and over both hands. Which of the following is the most likely cause of his symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bilateral median compression at the wrist"
+        },
+        {
+          "label": "B",
+          "text": "Bilateral ulnar compression at the elbow"
+        },
+        {
+          "label": "C",
+          "text": "Bilateral ulnar compression at the wrist"
+        },
+        {
+          "label": "D",
+          "text": "Generalized peripheral neuropathy"
+        },
+        {
+          "label": "E",
+          "text": "Lower trunk plexus compression"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Peripheral neuropathy, most often from diabetes, produces symmetric stocking-glove symptoms in the feet before the hands, unlike single-nerve entrapments.",
+        "whyCorrect": "Peripheral neuropathy is dysfunction of multiple peripheral nerves, most commonly from diabetes mellitus. It causes symmetric numbness, tingling, burning pain and sensory loss in a stocking-glove distribution that affects both feet before progressing to the hands, whereas entrapment syndromes follow the territory of a single compressed nerve.",
+        "whyWrongByChoice": {
+          "A": "Carpal tunnel syndrome follows the median territory of the hand and does not involve the feet.",
+          "B": "Cubital tunnel syndrome follows the ulnar distribution and spares the feet.",
+          "C": "Guyon canal syndrome is a focal ulnar entrapment at the wrist.",
+          "E": "A lower trunk lesion causes unilateral hand and medial forearm findings, not symmetric foot involvement."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "peripheral neuropathy",
+        "diabetes mellitus",
+        "stocking-glove"
+      ],
+      "topicId": "upper-extremity-nerve-entrapment-syndromes",
+      "topicName": "Upper Extremity Nerve Entrapment Syndromes",
+      "tier": "core"
+    },
+    {
+      "id": "mk21-009",
+      "stem": "A 47-year-old man is diagnosed clinically with ulnar nerve compression behind the medial epicondyle. He asks whether a steroid shot could help, since a coworker's median nerve symptoms at the wrist improved after one. Which of the following statements about injected corticosteroid for his condition is most accurate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It gives temporary relief, as at the carpal tunnel"
+        },
+        {
+          "label": "B",
+          "text": "It has not been shown to be beneficial"
+        },
+        {
+          "label": "C",
+          "text": "It is required before any splinting is tried"
+        },
+        {
+          "label": "D",
+          "text": "It is the preferred step before activity changes"
+        },
+        {
+          "label": "E",
+          "text": "It permanently relieves pressure on the nerve"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Corticosteroid injection may give temporary relief in carpal tunnel syndrome but has not been shown to help cubital tunnel or Guyon canal syndromes.",
+        "whyCorrect": "Initial management of entrapment syndromes is activity modification and splinting. Corticosteroid injection may provide temporary relief in carpal tunnel syndrome, but it has not been shown to be beneficial for cubital tunnel or Guyon canal syndromes. Persistent or severe cases need surgical decompression for permanent relief.",
+        "whyWrongByChoice": {
+          "A": "Temporary benefit from injection is described for carpal tunnel syndrome only, not for compression at the elbow.",
+          "C": "Splinting is a first-line measure and does not depend on a prior injection.",
+          "D": "Activity modification and avoidance of provoking positions come first.",
+          "E": "Only surgical decompression permanently relieves pressure; injection does not."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cubital tunnel syndrome",
+        "corticosteroid injection",
+        "treatment"
+      ],
+      "topicId": "upper-extremity-nerve-entrapment-syndromes",
+      "topicName": "Upper Extremity Nerve Entrapment Syndromes",
+      "tier": "core"
+    },
+    {
+      "id": "mk21-010",
+      "stem": "A 36-year-old software developer has numbness of the little finger, ulnar ring finger and dorsal ulnar hand that wakes her when she sleeps with her arms tightly bent. Examination shows no weakness or muscle wasting. Which of the following splinting approaches is most appropriate as initial treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Finger splint holding the DIP in extension"
+        },
+        {
+          "label": "B",
+          "text": "Sling immobilizing the shoulder in rotation"
+        },
+        {
+          "label": "C",
+          "text": "Splint limiting elbow bending, worn at night"
+        },
+        {
+          "label": "D",
+          "text": "Thumb spica splint, worn during the day"
+        },
+        {
+          "label": "E",
+          "text": "Wrist splint in neutral, worn at night"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In cubital tunnel syndrome, splinting limits elbow flexion, which would otherwise increase compression of the ulnar nerve.",
+        "whyCorrect": "Initial treatment of entrapment syndromes includes activity modification and avoiding provoking positions. Because elbow flexion increases cubital tunnel pressure, the splint for cubital tunnel syndrome limits elbow flexion, typically at night. Wrist splints in neutral are used for carpal tunnel and Guyon canal syndromes.",
+        "whyWrongByChoice": {
+          "A": "A DIP extension splint is a finger-tendon treatment and does not address ulnar nerve compression.",
+          "B": "Shoulder immobilization does not change pressure behind the medial epicondyle.",
+          "D": "A thumb splint does not reduce pressure in the cubital tunnel.",
+          "E": "A neutral wrist splint treats carpal tunnel and Guyon canal syndromes, where wrist flexion increases compression."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cubital tunnel syndrome",
+        "splinting",
+        "elbow flexion"
+      ],
+      "topicId": "upper-extremity-nerve-entrapment-syndromes",
+      "topicName": "Upper Extremity Nerve Entrapment Syndromes",
+      "tier": "core"
+    },
+    {
+      "id": "mk21-011",
+      "stem": "A 29-year-old man who uses a screwdriver all day has progressive weakness of grip and pinch with wasting of the ulnar-innervated intrinsic hand muscles. Sensation is entirely normal over the palm, all fingers and the back of the hand, and elbow examination is normal. Which of the following best explains a motor-only presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sensory fibers leave the nerve above the elbow"
+        },
+        {
+          "label": "B",
+          "text": "The compression is in the lower trunk of the plexus"
+        },
+        {
+          "label": "C",
+          "text": "The compression lies within the radial tunnel"
+        },
+        {
+          "label": "D",
+          "text": "The lesion sits at a point along the 4-cm canal"
+        },
+        {
+          "label": "E",
+          "text": "The nerve's deep fibers are compressed at the elbow"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Because Guyon canal is about 4 cm long, compression at different points within it can cause motor deficits alone or combined motor and sensory deficits.",
+        "whyCorrect": "Guyon canal syndrome from repetitive palm pressure, tools or trauma weakens grip and pinch through the ulnar intrinsic hand muscles. Because the canal is roughly 4 cm long, compression at different locations within it yields either motor deficits alone or motor plus sensory deficits. Dorsal hand sensation is preserved in either case.",
+        "whyWrongByChoice": {
+          "A": "The ulnar sensory fibers to the fingers travel with the nerve to the wrist; they do not leave above the elbow.",
+          "B": "Lower trunk injury typically includes medial forearm sensory loss and median-innervated weakness.",
+          "C": "The radial tunnel involves the posterior interosseous nerve and causes loss of finger extension, not ulnar intrinsic weakness.",
+          "E": "Cubital tunnel compression at the elbow typically causes ulnar-distribution numbness, including the dorsal ulnar hand."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Guyon canal syndrome",
+        "motor-only",
+        "intrinsic hand muscles"
+      ],
+      "topicId": "upper-extremity-nerve-entrapment-syndromes",
+      "topicName": "Upper Extremity Nerve Entrapment Syndromes",
+      "tier": "core"
+    },
+    {
+      "id": "mk21-012",
+      "stem": "A 66-year-old woman has had numbness of the thumb, index and middle fingers for 2 years despite wrist splinting and ergonomic changes. She now frequently drops objects, and examination shows visible wasting at the base of the thumb with weak thumb abduction and opposition. Which of the following is the most appropriate next step in management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Begin oral treatment for diabetic neuropathy"
+        },
+        {
+          "label": "B",
+          "text": "Continue splinting and recheck in 1 year"
+        },
+        {
+          "label": "C",
+          "text": "Release of the palmar carpal ligament"
+        },
+        {
+          "label": "D",
+          "text": "Splint the elbow to limit flexion at night"
+        },
+        {
+          "label": "E",
+          "text": "Surgical decompression of the median nerve"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Persistent symptoms, progressive weakness, muscle atrophy or severe compression are indications for surgical decompression.",
+        "whyCorrect": "Patients with entrapment syndromes who have persistent symptoms, progressive weakness, muscle atrophy or severe compression may need surgical decompression to permanently relieve pressure. In carpal tunnel syndrome this means carpal tunnel release, dividing the transverse carpal ligament. Thenar atrophy implies median nerve injury.",
+        "whyWrongByChoice": {
+          "A": "This is a single-nerve (median) pattern, not stocking-glove peripheral neuropathy.",
+          "B": "Thenar atrophy and progressive weakness after failed conservative care call for decompression, not continued observation.",
+          "C": "Dividing the palmar carpal ligament releases Guyon canal, which contains the ulnar nerve.",
+          "D": "Elbow splinting is used for cubital tunnel syndrome, not median compression at the wrist."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "carpal tunnel syndrome",
+        "surgical decompression",
+        "thenar atrophy"
+      ],
+      "topicId": "upper-extremity-nerve-entrapment-syndromes",
+      "topicName": "Upper Extremity Nerve Entrapment Syndromes",
+      "tier": "core"
+    },
+    {
+      "id": "mk22-001",
+      "stem": "A 29-year-old woman with multiple sclerosis has stiffness in both legs that limits walking. Examination shows increased tone that worsens with faster passive stretch, hyperreflexia, and sustained ankle clonus. Strength is mildly reduced. Which of the following is the most appropriate medication to reduce her tone?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Baclofen"
+        },
+        {
+          "label": "B",
+          "text": "Carisoprodol"
+        },
+        {
+          "label": "C",
+          "text": "Cyclobenzaprine"
+        },
+        {
+          "label": "D",
+          "text": "Methocarbamol"
+        },
+        {
+          "label": "E",
+          "text": "Topical diclofenac"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Velocity-dependent tone with hyperreflexia and clonus is neurologic spasticity, treated with an antispasticity agent such as baclofen.",
+        "whyCorrect": "Spasticity is a velocity-dependent increase in tone from an upper motor neuron lesion, as in multiple sclerosis, and requires a different approach than acute spasm. Baclofen, a spinal GABA-B agonist, is a centrally acting antispasticity agent used to reduce neurologic spasticity while preserving function.",
+        "whyWrongByChoice": {
+          "B": "Carisoprodol is an antispasmodic with abuse potential that is generally avoided; it does not treat spasticity.",
+          "C": "Cyclobenzaprine is an antispasmodic for short-term acute painful spasm, not a treatment for neurologic spasticity.",
+          "D": "Methocarbamol is a central antispasmodic for acute painful spasm, not an antispasticity agent.",
+          "E": "Topical diclofenac treats localized superficial inflammatory pain, not upper motor neuron spasticity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "spasticity",
+        "baclofen",
+        "muscle spasm vs spasticity"
+      ],
+      "topicId": "pharmacologic-treatment-of-musculoskeletal-pain",
+      "topicName": "Pharmacologic Treatment of Musculoskeletal Pain",
+      "tier": "core"
+    },
+    {
+      "id": "mk22-002",
+      "stem": "A 26-year-old man has a painful, swollen ankle after a basketball injury. Radiographs show no fracture, and he is given oral naproxen. Which of the following best describes how this drug relieves his pain?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activates central alpha-2 receptors, reducing motor neuron input"
+        },
+        {
+          "label": "B",
+          "text": "Activates mu receptors, reducing presynaptic transmitter release"
+        },
+        {
+          "label": "C",
+          "text": "Activates spinal GABA-B receptors, suppressing excitatory signaling"
+        },
+        {
+          "label": "D",
+          "text": "Blocks RyR1-mediated calcium release from the sarcoplasmic reticulum"
+        },
+        {
+          "label": "E",
+          "text": "Inhibits cyclooxygenase, reducing synthesis from arachidonic acid"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "NSAIDs inhibit COX, reducing prostaglandin synthesis and thus nociceptor sensitization and inflammation.",
+        "whyCorrect": "Naproxen inhibits COX-1 and COX-2, reducing prostaglandin synthesis from arachidonic acid. Less prostaglandin decreases peripheral nociceptor sensitization and inflammation, which is why NSAIDs help when pain accompanies inflammation, as in a sprain.",
+        "whyWrongByChoice": {
+          "A": "Central alpha-2 agonism is the mechanism of tizanidine.",
+          "B": "Mu-receptor activation is the mechanism of opioids, not NSAIDs.",
+          "C": "GABA-B agonism is the mechanism of baclofen.",
+          "D": "RyR1 inhibition is the mechanism of dantrolene."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "NSAIDs",
+        "mechanism",
+        "cyclooxygenase"
+      ],
+      "topicId": "pharmacologic-treatment-of-musculoskeletal-pain",
+      "topicName": "Pharmacologic Treatment of Musculoskeletal Pain",
+      "tier": "core"
+    },
+    {
+      "id": "mk22-003",
+      "stem": "A 66-year-old woman with knee osteoarthritis and a prior peptic ulcer is switched from ibuprofen to celecoxib. She also has hypertension and heart failure. Which of the following adverse effect risks persists despite the switch?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anticholinergic urinary retention"
+        },
+        {
+          "label": "B",
+          "text": "Hepatotoxicity requiring N-acetylcysteine"
+        },
+        {
+          "label": "C",
+          "text": "Inhibition of gastric COX-1 at usual doses"
+        },
+        {
+          "label": "D",
+          "text": "Rebound hypertension on abrupt withdrawal"
+        },
+        {
+          "label": "E",
+          "text": "Sodium retention and cardiovascular events"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "COX-2 selectivity reduces some GI toxicity but does not eliminate renal or cardiovascular risk.",
+        "whyCorrect": "Celecoxib selectively inhibits COX-2 at usual doses, which reduces some gastrointestinal toxicity. However, COX-2 selectivity does not eliminate renal effects such as sodium retention (worsening hypertension or heart failure) or the increased myocardial infarction and stroke risk of nonaspirin NSAIDs.",
+        "whyWrongByChoice": {
+          "A": "Anticholinergic urinary retention is associated with cyclobenzaprine and orphenadrine.",
+          "B": "Hepatotoxicity treated with N-acetylcysteine is the classic toxicity of acetaminophen excess.",
+          "C": "Celecoxib is selective for COX-2 at usual doses, so COX-1 inhibition is what it largely avoids.",
+          "D": "Rebound hypertension after abrupt withdrawal is a tizanidine concern."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "celecoxib",
+        "COX-2 selectivity",
+        "NSAID adverse effects"
+      ],
+      "topicId": "pharmacologic-treatment-of-musculoskeletal-pain",
+      "topicName": "Pharmacologic Treatment of Musculoskeletal Pain",
+      "tier": "core"
+    },
+    {
+      "id": "mk22-004",
+      "stem": "A 24-year-old woman presents after ingesting a large quantity of an over-the-counter analgesic and antipyretic with little peripheral anti-inflammatory activity. Treatment with N-acetylcysteine is started. Which of the following is the mechanism of the antidote?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Competitively antagonizes opioid receptors"
+        },
+        {
+          "label": "B",
+          "text": "Enhances renal excretion of unchanged drug"
+        },
+        {
+          "label": "C",
+          "text": "Inhibits calcium release from the sarcoplasmic reticulum"
+        },
+        {
+          "label": "D",
+          "text": "Inhibits cyclooxygenase within hepatocytes"
+        },
+        {
+          "label": "E",
+          "text": "Replenishes hepatic glutathione stores"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "N-acetylcysteine replenishes glutathione and is the antidote for acetaminophen poisoning.",
+        "whyCorrect": "The drug described is acetaminophen, whose excess causes hepatotoxicity. N-acetylcysteine replenishes glutathione and is the antidote for acetaminophen poisoning.",
+        "whyWrongByChoice": {
+          "A": "Competitive opioid receptor antagonism describes naloxone, used for opioid toxicity.",
+          "B": "N-acetylcysteine acts by restoring glutathione, not by enhancing renal excretion.",
+          "C": "Inhibiting sarcoplasmic reticulum calcium release describes dantrolene.",
+          "D": "COX inhibition is the NSAID mechanism and would not reverse acetaminophen hepatotoxicity."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "acetaminophen",
+        "hepatotoxicity",
+        "N-acetylcysteine"
+      ],
+      "topicId": "pharmacologic-treatment-of-musculoskeletal-pain",
+      "topicName": "Pharmacologic Treatment of Musculoskeletal Pain",
+      "tier": "core"
+    },
+    {
+      "id": "mk22-005",
+      "stem": "A 61-year-old man receiving morphine after hip fracture surgery is found difficult to arouse with a respiratory rate of 6/min and pinpoint pupils. After ventilatory support and an intravenous dose of naloxone, he becomes alert. Ninety minutes later he is again somnolent with slow breathing. Which of the following best explains the recurrence?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accumulation of an active anticholinergic metabolite"
+        },
+        {
+          "label": "B",
+          "text": "Acute withdrawal precipitated by the antagonist"
+        },
+        {
+          "label": "C",
+          "text": "Antagonist wearing off before the opioid"
+        },
+        {
+          "label": "D",
+          "text": "New opioid use disorder after a single exposure"
+        },
+        {
+          "label": "E",
+          "text": "Serotonin syndrome from the combined medications"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Naloxone may wear off before the opioid, so respiratory depression can recur after reversal.",
+        "whyCorrect": "Reduced consciousness, slow breathing and pinpoint pupils suggest opioid toxicity, treated with ventilatory support and naloxone, an opioid receptor antagonist. Recurrent respiratory depression is possible because naloxone may wear off before the opioid does.",
+        "whyWrongByChoice": {
+          "A": "Anticholinergic toxicity causes confusion and urinary retention, not miosis with respiratory depression.",
+          "B": "Precipitated withdrawal would cause agitation and arousal, not recurrent sedation and slow breathing.",
+          "D": "Opioid use disorder is a behavioral diagnosis and does not explain recurrent sedation after reversal.",
+          "E": "Serotonin syndrome is a cyclobenzaprine interaction concern and does not present with pinpoint pupils and hypoventilation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "opioids",
+        "naloxone",
+        "opioid toxicity"
+      ],
+      "topicId": "pharmacologic-treatment-of-musculoskeletal-pain",
+      "topicName": "Pharmacologic Treatment of Musculoskeletal Pain",
+      "tier": "core"
+    },
+    {
+      "id": "mk22-006",
+      "stem": "A 47-year-old woman with depression treated with phenelzine, a monoamine oxidase inhibitor, has acute painful spasm of the neck muscles after a fall. Her neurologic examination is normal. Which of the following muscle relaxants is contraindicated for her?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Baclofen"
+        },
+        {
+          "label": "B",
+          "text": "Cyclobenzaprine"
+        },
+        {
+          "label": "C",
+          "text": "Dantrolene"
+        },
+        {
+          "label": "D",
+          "text": "Methocarbamol"
+        },
+        {
+          "label": "E",
+          "text": "Tizanidine"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cyclobenzaprine is tricyclic-related and is contraindicated with MAO inhibitors because of serotonergic risk.",
+        "whyCorrect": "Cyclobenzaprine is a tricyclic-related antispasmodic. It can cause serotonin syndrome with serotonergic drugs and is contraindicated with MAO inhibitors and in significant cardiac conduction disease or arrhythmias.",
+        "whyWrongByChoice": {
+          "A": "Baclofen is an antispasticity GABA-B agonist; its key concern is renal accumulation, not MAO inhibitor interaction.",
+          "C": "Dantrolene's key concerns are weakness and hepatotoxicity, and it is not used for routine acute spasm.",
+          "D": "Methocarbamol causes sedation and impaired coordination but is not listed as contraindicated with MAO inhibitors.",
+          "E": "Tizanidine's key interaction is with CYP1A2 inhibitors such as ciprofloxacin and fluvoxamine."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cyclobenzaprine",
+        "MAO inhibitors",
+        "drug interactions"
+      ],
+      "topicId": "pharmacologic-treatment-of-musculoskeletal-pain",
+      "topicName": "Pharmacologic Treatment of Musculoskeletal Pain",
+      "tier": "core"
+    },
+    {
+      "id": "mk22-007",
+      "stem": "A 15-year-old boy with cerebral palsy has an implanted pump that delivers his spasticity medication directly into the cerebrospinal fluid. The catheter is found to be disconnected. He presents with a temperature of 40.1 C, markedly increased tone, and a generalized seizure. Abrupt loss of which drug best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Baclofen"
+        },
+        {
+          "label": "B",
+          "text": "Cyclobenzaprine"
+        },
+        {
+          "label": "C",
+          "text": "Dantrolene"
+        },
+        {
+          "label": "D",
+          "text": "Methocarbamol"
+        },
+        {
+          "label": "E",
+          "text": "Tizanidine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Abrupt interruption of intrathecal baclofen can cause rebound spasticity, hyperthermia and seizures.",
+        "whyCorrect": "Baclofen is a spinal GABA-B agonist used for neurologic spasticity and can be given intrathecally. Abrupt withdrawal, especially interruption of intrathecal delivery, can cause rebound spasticity, hyperthermia and seizures, so chronic therapy should be tapered.",
+        "whyWrongByChoice": {
+          "B": "Cyclobenzaprine is a short-term antispasmodic for acute spasm, not an intrathecal spasticity drug.",
+          "C": "Dantrolene acts directly on skeletal muscle RyR1 and is not the drug delivered into the cerebrospinal fluid; IV dantrolene treats malignant hyperthermia.",
+          "D": "Methocarbamol is an oral antispasmodic for acute spasm and is not associated with this withdrawal syndrome.",
+          "E": "Abrupt tizanidine withdrawal after sustained high-dose use causes rebound hypertension, and it is not given intrathecally."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "baclofen",
+        "withdrawal",
+        "intrathecal"
+      ],
+      "topicId": "pharmacologic-treatment-of-musculoskeletal-pain",
+      "topicName": "Pharmacologic Treatment of Musculoskeletal Pain",
+      "tier": "core"
+    },
+    {
+      "id": "mk22-008",
+      "stem": "A 52-year-old man with spasticity from a spinal cord injury takes tizanidine. He is started on ciprofloxacin for a urinary tract infection. Two days later he has profound drowsiness, a blood pressure of 82/50 mm Hg, and a pulse of 46/min. Which of the following best explains this reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Additive serotonergic activity at central synapses"
+        },
+        {
+          "label": "B",
+          "text": "Antibiotic-induced depletion of hepatic glutathione"
+        },
+        {
+          "label": "C",
+          "text": "Displacement of the relaxant from plasma proteins"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of the enzyme that metabolizes the relaxant"
+        },
+        {
+          "label": "E",
+          "text": "Reduced renal clearance of the unchanged relaxant"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Ciprofloxacin inhibits CYP1A2, the enzyme that metabolizes tizanidine, so their combination is contraindicated.",
+        "whyCorrect": "Tizanidine is a short-acting central alpha-2 agonist metabolized by CYP1A2. Ciprofloxacin and fluvoxamine inhibit CYP1A2 and are contraindicated with it; higher levels intensify its sedation, hypotension and bradycardia.",
+        "whyWrongByChoice": {
+          "A": "Serotonergic interactions are a cyclobenzaprine concern, and the picture here is alpha-2 excess.",
+          "B": "Glutathione depletion relates to acetaminophen hepatotoxicity, not this interaction.",
+          "C": "The lecture identifies CYP1A2 inhibition, not protein-binding displacement, as the tizanidine-ciprofloxacin interaction.",
+          "E": "Tizanidine is hepatically metabolized; renal clearance of unchanged drug describes baclofen."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tizanidine",
+        "CYP1A2",
+        "ciprofloxacin"
+      ],
+      "topicId": "pharmacologic-treatment-of-musculoskeletal-pain",
+      "topicName": "Pharmacologic Treatment of Musculoskeletal Pain",
+      "tier": "core"
+    },
+    {
+      "id": "mk22-009",
+      "stem": "A 20-year-old man undergoing appendectomy receives sevoflurane and succinylcholine. Shortly after induction he develops masseter rigidity, a rapidly rising temperature, and increasing end-tidal carbon dioxide. Which of the following is the most appropriate drug to administer intravenously?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Baclofen, a GABA-B receptor agonist"
+        },
+        {
+          "label": "B",
+          "text": "Cyclobenzaprine, a brainstem-acting relaxant"
+        },
+        {
+          "label": "C",
+          "text": "Dantrolene, an RyR1 release inhibitor"
+        },
+        {
+          "label": "D",
+          "text": "Naloxone, an opioid receptor antagonist"
+        },
+        {
+          "label": "E",
+          "text": "Tizanidine, a central alpha-2 agonist"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "IV dantrolene treats malignant hyperthermia by reducing excessive RyR1-mediated skeletal muscle calcium release.",
+        "whyCorrect": "This is malignant hyperthermia triggered by a volatile anesthetic or succinylcholine in a susceptible patient. Intravenous dantrolene directly inhibits skeletal muscle RyR1-mediated calcium release from the sarcoplasmic reticulum, reducing the excessive calcium release driving the reaction.",
+        "whyWrongByChoice": {
+          "A": "Baclofen acts centrally on spinal GABA-B receptors for chronic spasticity and does not target the muscle calcium release defect.",
+          "B": "Cyclobenzaprine reduces tonic motor activity in the brainstem and is used for acute spasm only.",
+          "D": "Naloxone reverses opioid toxicity and has no role in this skeletal muscle disorder.",
+          "E": "Tizanidine is a central alpha-2 agonist for spasticity, not a treatment for malignant hyperthermia."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "dantrolene",
+        "malignant hyperthermia",
+        "RyR1"
+      ],
+      "topicId": "pharmacologic-treatment-of-musculoskeletal-pain",
+      "topicName": "Pharmacologic Treatment of Musculoskeletal Pain",
+      "tier": "core"
+    },
+    {
+      "id": "mk22-010",
+      "stem": "A 31-year-old woman inverts her ankle while hiking. She has lateral ankle swelling and tenderness; radiographs show no fracture. She is otherwise healthy and takes no medications. Which of the following is the most appropriate first-line pharmacologic therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cyclobenzaprine taken at bedtime"
+        },
+        {
+          "label": "B",
+          "text": "Diclofenac gel applied to the area"
+        },
+        {
+          "label": "C",
+          "text": "Immediate-release oral oxycodone"
+        },
+        {
+          "label": "D",
+          "text": "Oral baclofen three times daily"
+        },
+        {
+          "label": "E",
+          "text": "Oral ibuprofen combined with naproxen"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "For acute non-low back sprains and strains, a topical NSAID is first-line when appropriate.",
+        "whyCorrect": "For an acute non-low back musculoskeletal injury such as a sprain, a topical NSAID is first-line when appropriate. Local therapy relieves pain with less systemic exposure; oral NSAIDs or acetaminophen are alternatives, and opioids are generally discouraged.",
+        "whyWrongByChoice": {
+          "A": "Cyclobenzaprine treats painful spasm, causes sedation, and is not first-line for a sprain.",
+          "C": "Opioids are generally discouraged for acute sprains and strains and are not first-line.",
+          "D": "Baclofen treats neurologic spasticity and is not a routine treatment for an uncomplicated sprain or strain.",
+          "E": "Two systemic NSAIDs should never be combined because of additive GI, bleeding and renal risk."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "topical NSAID",
+        "acute sprain",
+        "evidence-based approach"
+      ],
+      "topicId": "pharmacologic-treatment-of-musculoskeletal-pain",
+      "topicName": "Pharmacologic Treatment of Musculoskeletal Pain",
+      "tier": "core"
+    },
+    {
+      "id": "mk22-011",
+      "stem": "A 42-year-old man has had lumbar pain for 3 days after shoveling snow. Pain is localized to the paraspinal muscles. Neurologic examination is normal, and he has no fever, trauma, or bladder symptoms. His renal function is normal, and he has no gastrointestinal or cardiovascular history. Which of the following is the most appropriate initial management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Daily cyclobenzaprine continued for 3 months"
+        },
+        {
+          "label": "B",
+          "text": "Dantrolene to reduce paraspinal muscle tone"
+        },
+        {
+          "label": "C",
+          "text": "Extended-release oxycodone for the next 2 weeks"
+        },
+        {
+          "label": "D",
+          "text": "Scheduled acetaminophen as the only analgesic"
+        },
+        {
+          "label": "E",
+          "text": "Staying active, superficial heat, and an oral NSAID"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Acute nonspecific low back pain: activity and nonpharmacologic measures, with an oral NSAID if risks are acceptable.",
+        "whyCorrect": "For acute nonspecific low back pain, activity and nonpharmacologic measures such as superficial heat are recommended, and an oral NSAID is an option when gastrointestinal, renal and cardiovascular risks are acceptable. Acetaminophen alone is not recommended, and skeletal muscle relaxants are second line with uncertain benefit.",
+        "whyWrongByChoice": {
+          "A": "Antispasmodics should be used briefly (about 2-3 weeks at most); chronic use is not routinely recommended.",
+          "B": "Dantrolene is an antispasticity agent with hepatotoxicity risk and is not for routine acute muscle strain.",
+          "C": "Extended-release opioids are inappropriate for acute pain, and opioids are not first-line for uncomplicated back strain.",
+          "D": "Acetaminophen alone is not recommended for acute low back pain."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "low back pain",
+        "evidence-based approach",
+        "NSAIDs"
+      ],
+      "topicId": "pharmacologic-treatment-of-musculoskeletal-pain",
+      "topicName": "Pharmacologic Treatment of Musculoskeletal Pain",
+      "tier": "core"
+    },
+    {
+      "id": "mk22-012",
+      "stem": "A 69-year-old woman with osteoarthritis of the right hip has used diclofenac gel over the lateral hip for 4 weeks with little relief. Her renal function is normal, and she has no gastrointestinal, bleeding, or cardiovascular history. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetaminophen 6 g/day, since benefit is dose-limited"
+        },
+        {
+          "label": "B",
+          "text": "Fentanyl patch, since a skin route suits her best"
+        },
+        {
+          "label": "C",
+          "text": "Higher-dose gel, since joint depth does not matter"
+        },
+        {
+          "label": "D",
+          "text": "Oral ibuprofen added to oral naproxen for synergy"
+        },
+        {
+          "label": "E",
+          "text": "Oral NSAID, since gel poorly reaches the deep joint"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Topical NSAIDs are unlikely to reach the deep hip joint; an oral NSAID is an option when appropriate.",
+        "whyCorrect": "Topical NSAIDs are strongly recommended for knee OA and conditionally for hand OA, but topical treatment is unlikely to reach the deep hip joint adequately. Oral NSAIDs are an option when appropriate, and this patient's risk profile is acceptable.",
+        "whyWrongByChoice": {
+          "A": "The general adult acetaminophen ceiling is 4 g/day; 6 g/day risks hepatotoxicity, and benefit in OA is limited.",
+          "B": "Fentanyl patches are inappropriate for opioid-naive patients and for this kind of pain.",
+          "C": "The depth of the hip joint is the reason topical therapy is unlikely to work; increasing gel does not solve this.",
+          "D": "Two systemic NSAIDs should not be combined because of additive toxicity."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "osteoarthritis",
+        "topical NSAID",
+        "route selection"
+      ],
+      "topicId": "pharmacologic-treatment-of-musculoskeletal-pain",
+      "topicName": "Pharmacologic Treatment of Musculoskeletal Pain",
+      "tier": "core"
+    }
+  ]
+}

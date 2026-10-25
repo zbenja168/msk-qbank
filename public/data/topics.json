@@ -1,0 +1,235 @@
+{
+  "categories": [
+    {
+      "id": "w1s1",
+      "name": "Session 1",
+      "topics": [
+        {
+          "id": "regional-anatomy-of-the-posterior-abdominal-wall-back-and-posterior-neck",
+          "name": "Regional Anatomy of the Posterior Abdominal Wall, Back, and Posterior Neck",
+          "sourceFile": "MSK Brick 1",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "anatomy-of-the-spinal-cord",
+          "name": "Anatomy of the Spinal Cord",
+          "sourceFile": "MSK Brick 2",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "histology-of-bone-and-cartilage",
+          "name": "Histology of Bone and Cartilage",
+          "sourceFile": "MSK Brick 3",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "spine-disorders",
+          "name": "Spine Disorders",
+          "sourceFile": "MSK Brick 4",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        }
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": "Back, Spinal Cord, Bone & Muscle Foundations"
+    },
+    {
+      "id": "w1s2",
+      "name": "Session 2",
+      "topics": [
+        {
+          "id": "development-of-the-musculoskeletal-system",
+          "name": "Development of the Musculoskeletal System",
+          "sourceFile": "MSK Brick 5",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "congenital-disorders-of-the-musculoskeletal-system",
+          "name": "Congenital Disorders of the Musculoskeletal System",
+          "sourceFile": "MSK Brick 6",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "ehlers-danlos-syndrome-and-marfan-syndrome",
+          "name": "Ehlers-Danlos Syndrome and Marfan Syndrome",
+          "sourceFile": "MSK Brick 7",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "acquired-bone-disorders",
+          "name": "Acquired Bone Disorders",
+          "sourceFile": "MSK Brick 8",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        }
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": "Back, Spinal Cord, Bone & Muscle Foundations"
+    },
+    {
+      "id": "w1s3",
+      "name": "Session 3",
+      "topics": [
+        {
+          "id": "mechanics-of-muscle-force-production",
+          "name": "Mechanics of Muscle Force Production",
+          "sourceFile": "MSK Brick 9",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "neuromuscular-junction-disorders",
+          "name": "Neuromuscular Junction Disorders",
+          "sourceFile": "MSK Brick 10",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "muscle-metabolism",
+          "name": "Muscle Metabolism",
+          "sourceFile": "MSK Brick 11",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "skeletal-muscle-adaptations",
+          "name": "Skeletal Muscle Adaptations",
+          "sourceFile": "MSK Brick 12",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        }
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": "Back, Spinal Cord, Bone & Muscle Foundations"
+    },
+    {
+      "id": "w2s1",
+      "name": "Session 1",
+      "topics": [
+        {
+          "id": "functional-anatomy-of-the-shoulder-arm",
+          "name": "Functional Anatomy of the Shoulder & Arm",
+          "sourceFile": "MSK Brick 13",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "vasculature-and-lymphatics-of-the-upper-extremities",
+          "name": "Vasculature and Lymphatics of the Upper Extremities",
+          "sourceFile": "MSK Brick 14",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        }
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": "Upper Limb & Muscle Disorders"
+    },
+    {
+      "id": "w2s2",
+      "name": "Session 2",
+      "topics": [
+        {
+          "id": "inflammatory-myopathies",
+          "name": "Inflammatory Myopathies",
+          "sourceFile": "MSK Brick 15",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "muscular-dystrophy",
+          "name": "Muscular Dystrophy",
+          "sourceFile": "MSK Brick 16",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "traumatic-muscle-injury",
+          "name": "Traumatic Muscle Injury",
+          "sourceFile": "MSK Brick 17",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "common-tendon-bursa-and-joint-capsule-disorders",
+          "name": "Common Tendon, Bursa, and Joint Capsule Disorders",
+          "sourceFile": "MSK Brick 18",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        }
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": "Upper Limb & Muscle Disorders"
+    },
+    {
+      "id": "w2s3",
+      "name": "Session 3",
+      "topics": [
+        {
+          "id": "functional-anatomy-of-the-forearm-hand",
+          "name": "Functional Anatomy of the Forearm & Hand",
+          "sourceFile": "MSK Brick 19",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "upper-extremity-injuries",
+          "name": "Upper Extremity Injuries",
+          "sourceFile": "MSK Brick 20",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "upper-extremity-nerve-entrapment-syndromes",
+          "name": "Upper Extremity Nerve Entrapment Syndromes",
+          "sourceFile": "MSK Brick 21",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "pharmacologic-treatment-of-musculoskeletal-pain",
+          "name": "Pharmacologic Treatment of Musculoskeletal Pain",
+          "sourceFile": "MSK Brick 22",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        }
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": "Upper Limb & Muscle Disorders"
+    }
+  ],
+  "totalQuestions": 792
+}

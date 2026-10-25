@@ -1,0 +1,2243 @@
+{
+  "categoryId": "w2s2",
+  "categoryName": "Session 2",
+  "questions": [
+    {
+      "id": "mk15-001",
+      "stem": "A 55-year-old woman has 5 months of progressive, symmetric weakness of the shoulders and hips; she now has trouble rising from a chair and carrying groceries. She has no rash. Serum creatine kinase is elevated. A muscle biopsy is most likely to show which finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Endomysial CD8+ T cells invading non-necrotic fibers"
+        },
+        {
+          "label": "B",
+          "text": "Perifascicular atrophy with perimysial vessel injury"
+        },
+        {
+          "label": "C",
+          "text": "Ragged-red fibers from subsarcolemmal mitochondria"
+        },
+        {
+          "label": "D",
+          "text": "Rimmed vacuoles with Congo red-positive amyloid"
+        },
+        {
+          "label": "E",
+          "text": "Selective type II fiber atrophy without inflammation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Polymyositis classically shows endomysial CD8+ T-cell invasion of non-necrotic muscle fibers.",
+        "whyCorrect": "Symmetric, slowly progressive proximal weakness without skin findings fits polymyositis. In polymyositis, cytotoxic CD8+ T cells surround the endomysium and invade non-necrotic skeletal muscle fibers; perifascicular atrophy is absent.",
+        "whyWrongByChoice": {
+          "B": "Perifascicular atrophy is the hallmark of dermatomyositis, which would usually come with characteristic skin findings.",
+          "C": "Ragged-red fibers indicate a mitochondrial myopathy, which typically presents with exercise intolerance and multisystem involvement.",
+          "D": "Rimmed vacuoles and amyloid indicate inclusion body myositis, which is asymmetric and involves the quadriceps and finger flexors.",
+          "E": "Type II fiber atrophy is seen in glucocorticoid myopathy, which has a normal CK and a drug history."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "polymyositis",
+        "histology",
+        "CD8+ T cells"
+      ],
+      "topicId": "inflammatory-myopathies",
+      "topicName": "Inflammatory Myopathies",
+      "tier": "core"
+    },
+    {
+      "id": "mk15-002",
+      "stem": "A 52-year-old man has 4 months of increasing difficulty lifting objects overhead and climbing stairs. He has violet discoloration of both upper eyelids and scaly reddish-purple papules over the backs of his knuckles. Proximal muscles are symmetrically weak. Which is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dermatomyositis"
+        },
+        {
+          "label": "B",
+          "text": "Inclusion body myositis"
+        },
+        {
+          "label": "C",
+          "text": "Polymyalgia rheumatica"
+        },
+        {
+          "label": "D",
+          "text": "Polymyositis"
+        },
+        {
+          "label": "E",
+          "text": "Systemic lupus erythematosus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Heliotrope rash and Gottron papules with proximal weakness are pathognomonic of dermatomyositis.",
+        "whyCorrect": "The pathognomonic skin findings of dermatomyositis are the heliotrope rash, a lilac or violaceous eruption on the upper eyelids, and Gottron papules, scaly erythematous to violaceous papules over the dorsal MCP and interphalangeal joints. Skin findings are the key exam feature separating it from polymyositis.",
+        "whyWrongByChoice": {
+          "B": "Inclusion body myositis causes asymmetric quadriceps and finger-flexor weakness without these skin findings.",
+          "C": "Polymyalgia rheumatica causes aching and stiffness without true weakness or skin lesions.",
+          "D": "Polymyositis causes the same symmetric proximal weakness but lacks the characteristic skin findings.",
+          "E": "Lupus may cause a malar rash, but eyelid and knuckle lesions with proximal weakness are pathognomonic of another disease."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "dermatomyositis",
+        "heliotrope rash",
+        "Gottron papules"
+      ],
+      "topicId": "inflammatory-myopathies",
+      "topicName": "Inflammatory Myopathies",
+      "tier": "core"
+    },
+    {
+      "id": "mk15-003",
+      "stem": "A 71-year-old man reports 2 years of falls because his knees buckle, and he now struggles to grip a hammer. Examination shows asymmetric weakness of the quadriceps, worse on the left, weakness of the long finger flexors, and mild foot drop. There is no rash. Which is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dermatomyositis"
+        },
+        {
+          "label": "B",
+          "text": "Immune-mediated necrotizing myopathy"
+        },
+        {
+          "label": "C",
+          "text": "Inclusion body myositis"
+        },
+        {
+          "label": "D",
+          "text": "Polymyalgia rheumatica"
+        },
+        {
+          "label": "E",
+          "text": "Polymyositis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Inclusion body myositis causes asymmetric weakness of the quadriceps and finger flexors in adults over 50.",
+        "whyCorrect": "Inclusion body myositis typically begins with asymmetric proximal leg weakness, especially the quadriceps, causing falls and difficulty rising, along with distal arm and finger-flexor weakness and sometimes foot drop. It occurs most often in adults older than 50.",
+        "whyWrongByChoice": {
+          "A": "Dermatomyositis causes symmetric proximal weakness with characteristic skin findings.",
+          "B": "This statin-associated autoimmune myopathy causes progressive proximal, not asymmetric distal, weakness.",
+          "D": "Polymyalgia rheumatica causes girdle aching and stiffness without true weakness.",
+          "E": "Polymyositis causes symmetric proximal weakness, not asymmetric quadriceps and finger-flexor weakness."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "inclusion body myositis",
+        "weakness pattern"
+      ],
+      "topicId": "inflammatory-myopathies",
+      "topicName": "Inflammatory Myopathies",
+      "tier": "core"
+    },
+    {
+      "id": "mk15-004",
+      "stem": "A muscle biopsy from a 47-year-old woman with dermatomyositis shows small, atrophic fibers concentrated at the outer edges of the fascicles. Which mechanism best explains this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-Jo-1 antibodies directly lysing the myocytes"
+        },
+        {
+          "label": "B",
+          "text": "CD8+ T-cell invasion of individual non-necrotic fibers"
+        },
+        {
+          "label": "C",
+          "text": "Complement-mediated injury of perimysial microvessels"
+        },
+        {
+          "label": "D",
+          "text": "Defective oxidative phosphorylation in mitochondria"
+        },
+        {
+          "label": "E",
+          "text": "Protein aggregation with amyloid deposits in fibers"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In dermatomyositis, complement-mediated microvascular injury in the perimysium causes ischemic perifascicular atrophy.",
+        "whyCorrect": "In dermatomyositis, CD4+ helper T cells promote B-cell activation and, indirectly, complement activation. Complement-mediated injury of perimysial blood vessels reduces flow to myocytes, especially those at the periphery of fascicles, which become atrophic: perifascicular atrophy.",
+        "whyWrongByChoice": {
+          "A": "Myositis-specific antibodies may be present, but antibody-mediated damage is not the main mechanism of injury.",
+          "B": "Direct CD8+ invasion of individual fibers characterizes polymyositis and inclusion body myositis.",
+          "D": "Impaired oxidative phosphorylation underlies mitochondrial myopathies, which show ragged-red fibers.",
+          "E": "Protein aggregation with amyloid is the degenerative feature of inclusion body myositis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dermatomyositis",
+        "pathogenesis",
+        "perifascicular atrophy"
+      ],
+      "topicId": "inflammatory-myopathies",
+      "topicName": "Inflammatory Myopathies",
+      "tier": "core"
+    },
+    {
+      "id": "mk15-005",
+      "stem": "A 63-year-old woman is newly diagnosed with dermatomyositis after a biopsy shows perifascicular atrophy, and prednisone is started. In addition to treating her muscle disease, which evaluation is most important at this time?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Age-appropriate screening for occult cancer"
+        },
+        {
+          "label": "B",
+          "text": "Anti-HMGCR antibody testing for statin myopathy"
+        },
+        {
+          "label": "C",
+          "text": "Genetic testing for an RYR1 mutation"
+        },
+        {
+          "label": "D",
+          "text": "Serial ESR and CRP to track steroid response"
+        },
+        {
+          "label": "E",
+          "text": "Serum lactate testing for mitochondrial disease"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Adults with newly diagnosed dermatomyositis need age-appropriate screening for occult malignancy.",
+        "whyCorrect": "Dermatomyositis is associated with occult malignancy and may be paraneoplastic; about 15-30% of adults are subsequently diagnosed with cancer. Adults with new dermatomyositis should therefore undergo age-appropriate malignancy screening and evaluation for occult cancer.",
+        "whyWrongByChoice": {
+          "B": "Anti-HMGCR antibodies are sought in statin-associated necrotizing myopathy, not confirmed dermatomyositis.",
+          "C": "RYR1 testing relates to malignant hyperthermia susceptibility, not dermatomyositis.",
+          "D": "Following ESR and CRP is how the steroid response is monitored in polymyalgia rheumatica.",
+          "E": "Her biopsy already establishes dermatomyositis; lactate is a clue for mitochondrial myopathy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "dermatomyositis",
+        "paraneoplastic",
+        "malignancy screening"
+      ],
+      "topicId": "inflammatory-myopathies",
+      "topicName": "Inflammatory Myopathies",
+      "tier": "core"
+    },
+    {
+      "id": "mk15-006",
+      "stem": "A 74-year-old woman has 6 weeks of aching and morning stiffness in her neck, shoulders, and hips, with low-grade fever and weight loss. Careful testing shows normal strength. ESR and CRP are elevated, creatine kinase is normal, and autoantibody tests are negative. Which is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dermatomyositis"
+        },
+        {
+          "label": "B",
+          "text": "Glucocorticoid-induced myopathy"
+        },
+        {
+          "label": "C",
+          "text": "Inclusion body myositis"
+        },
+        {
+          "label": "D",
+          "text": "Polymyalgia rheumatica"
+        },
+        {
+          "label": "E",
+          "text": "Polymyositis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Polymyalgia rheumatica causes girdle aching and stiffness in adults over 50 with high ESR/CRP, normal CK and no true weakness.",
+        "whyCorrect": "Polymyalgia rheumatica produces aching and morning stiffness of the shoulders, neck and hip girdle, sometimes with fever, malaise and weight loss, almost exclusively in adults over 50. ESR and CRP are elevated while CK and autoantibodies are normal, and unlike myositis there is no true muscle weakness.",
+        "whyWrongByChoice": {
+          "A": "Dermatomyositis causes true weakness, elevated CK and characteristic skin findings.",
+          "B": "Glucocorticoid myopathy causes painless weakness after long-term steroid use, not aching with high ESR/CRP.",
+          "C": "Inclusion body myositis causes asymmetric true weakness of the quadriceps and finger flexors.",
+          "E": "Polymyositis causes true proximal weakness with elevated CK."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "polymyalgia rheumatica",
+        "myositis mimics"
+      ],
+      "topicId": "inflammatory-myopathies",
+      "topicName": "Inflammatory Myopathies",
+      "tier": "core"
+    },
+    {
+      "id": "mk15-007",
+      "stem": "A 66-year-old man taking atorvastatin develops progressive weakness of the hips and shoulders. The drug is stopped, but 3 months later his weakness has worsened and his creatine kinase remains markedly elevated. Which autoantibody is most likely present?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-acetylcholine receptor"
+        },
+        {
+          "label": "B",
+          "text": "Anti-double-stranded DNA"
+        },
+        {
+          "label": "C",
+          "text": "Anti-HMGCR"
+        },
+        {
+          "label": "D",
+          "text": "Anti-Jo-1"
+        },
+        {
+          "label": "E",
+          "text": "Anti-Mi-2"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Statin-associated immune-mediated necrotizing myopathy persists after the statin is stopped and often shows anti-HMGCR antibodies.",
+        "whyCorrect": "Rarely, statin exposure is associated with immune-mediated necrotizing myopathy, an autoimmune myopathy distinct from self-limited statin muscle symptoms. Progressive proximal weakness and markedly elevated CK persist despite stopping the drug, anti-HMGCR antibodies are often present, and immunosuppression is typically required.",
+        "whyWrongByChoice": {
+          "A": "Anti-acetylcholine receptor antibodies indicate myasthenia gravis, a neurogenic cause of weakness with normal CK.",
+          "B": "Anti-dsDNA antibodies point to lupus, not a progressive statin-associated myopathy.",
+          "D": "Anti-Jo-1 is a myositis-specific antibody of polymyositis and dermatomyositis, not the statin-associated myopathy.",
+          "E": "Anti-Mi-2 is a myositis-specific antibody seen in dermatomyositis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "statin myopathy",
+        "immune-mediated necrotizing myopathy",
+        "anti-HMGCR"
+      ],
+      "topicId": "inflammatory-myopathies",
+      "topicName": "Inflammatory Myopathies",
+      "tier": "core"
+    },
+    {
+      "id": "mk15-008",
+      "stem": "A 58-year-old man with severe asthma has taken oral prednisone for 14 months. He now has painless, progressive difficulty rising from chairs. Serum creatine kinase and aldolase are normal, and he has no rash. A muscle biopsy is most likely to show which finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Endomysial CD8+ T cells around intact fibers"
+        },
+        {
+          "label": "B",
+          "text": "Perifascicular atrophy with perimysial injury"
+        },
+        {
+          "label": "C",
+          "text": "Ragged-red fibers on trichrome stain"
+        },
+        {
+          "label": "D",
+          "text": "Rimmed vacuoles in scattered fibers"
+        },
+        {
+          "label": "E",
+          "text": "Selective atrophy of type II myocytes"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Glucocorticoid-induced myopathy is painless, has a normal CK, and may show selective type II fiber atrophy.",
+        "whyCorrect": "Long-term systemic glucocorticoid use can cause proximal weakness. Unlike an inflammatory myopathy, it is usually painless with a normal CK, and muscle biopsy may show selective atrophy of type II myocytes.",
+        "whyWrongByChoice": {
+          "A": "Endomysial CD8+ invasion indicates polymyositis, which usually raises CK.",
+          "B": "Perifascicular atrophy is the hallmark of dermatomyositis.",
+          "C": "Ragged-red fibers indicate a mitochondrial myopathy.",
+          "D": "Rimmed vacuoles indicate inclusion body myositis, which causes asymmetric weakness."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "glucocorticoid myopathy",
+        "myositis mimics",
+        "histology"
+      ],
+      "topicId": "inflammatory-myopathies",
+      "topicName": "Inflammatory Myopathies",
+      "tier": "core"
+    },
+    {
+      "id": "mk15-009",
+      "stem": "A 19-year-old man undergoing appendectomy under sevoflurane, after induction with succinylcholine, develops jaw and limb rigidity, a rapidly rising end-tidal CO2, tachycardia, and a temperature of 40.2 C. Which drug should be given immediately?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetaminophen"
+        },
+        {
+          "label": "B",
+          "text": "Dantrolene"
+        },
+        {
+          "label": "C",
+          "text": "Intravenous immunoglobulin"
+        },
+        {
+          "label": "D",
+          "text": "Methotrexate"
+        },
+        {
+          "label": "E",
+          "text": "Prednisone"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Malignant hyperthermia is treated immediately with dantrolene, which reduces ryanodine receptor calcium release.",
+        "whyCorrect": "Malignant hyperthermia is triggered by volatile anesthetics or succinylcholine in susceptible people, usually with RYR1 mutations. Excess sarcoplasmic reticulum calcium release causes rigidity, rising end-tidal CO2, acidosis, hyperkalemia, rhabdomyolysis and hyperthermia. Treatment is immediate dantrolene, which reduces calcium release through the ryanodine receptor.",
+        "whyWrongByChoice": {
+          "A": "An antipyretic does not address the underlying excessive calcium release.",
+          "C": "IVIG is reserved for severe or refractory polymyositis or dermatomyositis.",
+          "D": "Methotrexate is a steroid-sparing agent for inflammatory myopathy.",
+          "E": "Glucocorticoids treat inflammatory myopathies, not an acute hypermetabolic crisis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "malignant hyperthermia",
+        "dantrolene"
+      ],
+      "topicId": "inflammatory-myopathies",
+      "topicName": "Inflammatory Myopathies",
+      "tier": "core"
+    },
+    {
+      "id": "mk15-010",
+      "stem": "A 49-year-old woman has biopsy-confirmed polymyositis with marked proximal weakness and an elevated creatine kinase. Which is the most appropriate initial pharmacologic therapy for her active muscle inflammation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "High-dose systemic glucocorticoids"
+        },
+        {
+          "label": "B",
+          "text": "Intravenous dantrolene sodium"
+        },
+        {
+          "label": "C",
+          "text": "Intravenous immunoglobulin"
+        },
+        {
+          "label": "D",
+          "text": "Low-dose oral glucocorticoids"
+        },
+        {
+          "label": "E",
+          "text": "Topical corticosteroid cream"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "High-dose systemic glucocorticoids such as prednisone are initial therapy for active polymyositis and dermatomyositis.",
+        "whyCorrect": "For dermatomyositis and polymyositis, high-dose systemic glucocorticoids such as prednisone are initial therapy for active muscle inflammation and are tapered as the disease improves. They suppress inflammatory gene expression, including proinflammatory cytokine production.",
+        "whyWrongByChoice": {
+          "B": "Dantrolene treats malignant hyperthermia.",
+          "C": "IVIG is reserved for severe or refractory disease rather than initial therapy.",
+          "D": "Low-dose corticosteroids are the treatment for polymyalgia rheumatica, not active myositis.",
+          "E": "Topical steroids help the rash of dermatomyositis but do not treat muscle inflammation."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "polymyositis",
+        "treatment",
+        "glucocorticoids"
+      ],
+      "topicId": "inflammatory-myopathies",
+      "topicName": "Inflammatory Myopathies",
+      "tier": "core"
+    },
+    {
+      "id": "mk15-011",
+      "stem": "A 17-year-old boy has painful cramps in his legs within minutes of sprinting and has passed dark, cola-colored urine after intense workouts. If he slows down and rests briefly, he can then continue exercising with fewer symptoms. Deficiency of which enzyme is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hepatic glucose-6-phosphatase"
+        },
+        {
+          "label": "B",
+          "text": "HMG-CoA reductase"
+        },
+        {
+          "label": "C",
+          "text": "Lysosomal acid alpha-glucosidase"
+        },
+        {
+          "label": "D",
+          "text": "Mitochondrial respiratory complex I"
+        },
+        {
+          "label": "E",
+          "text": "Muscle glycogen phosphorylase"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "McArdle disease is skeletal-muscle glycogen phosphorylase deficiency causing exercise-induced cramps, myoglobinuria and a second-wind phenomenon.",
+        "whyCorrect": "McArdle disease is caused by deficiency of skeletal-muscle glycogen phosphorylase, so muscle cannot efficiently break down glycogen during exercise. Brief intense activity triggers cramps, fatigue, and sometimes rhabdomyolysis with myoglobinuria. After a brief rest, some patients can resume exercise with fewer symptoms (second wind).",
+        "whyWrongByChoice": {
+          "A": "This enzyme deficiency affects the liver and causes fasting hypoglycemia rather than exercise cramps.",
+          "B": "HMG-CoA reductase is the target of statins and of anti-HMGCR autoantibodies, not an inherited deficiency here.",
+          "C": "This is not the enzyme whose absence causes exercise-induced cramps with a second wind.",
+          "D": "Mitochondrial defects cause exercise intolerance with multisystem disease and ragged-red fibers, without a second wind."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "McArdle disease",
+        "myositis mimics",
+        "second wind"
+      ],
+      "topicId": "inflammatory-myopathies",
+      "topicName": "Inflammatory Myopathies",
+      "tier": "core"
+    },
+    {
+      "id": "mk15-012",
+      "stem": "A 69-year-old woman diagnosed with polymyositis a year ago has worsened despite high-dose prednisone and methotrexate. She has asymmetric quadriceps weakness and weak finger flexors. A repeat biopsy shows CD8+ T cells invading fibers along with rimmed vacuoles on trichrome stain. Which should now be the main focus of management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Addition of azathioprine to spare steroids"
+        },
+        {
+          "label": "B",
+          "text": "Escalation to higher-dose glucocorticoids"
+        },
+        {
+          "label": "C",
+          "text": "Intravenous dantrolene to reduce calcium release"
+        },
+        {
+          "label": "D",
+          "text": "Low-dose prednisone with ESR/CRP monitoring"
+        },
+        {
+          "label": "E",
+          "text": "Supportive physical and occupational therapy"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Inclusion body myositis responds poorly to immunosuppression, so management centers on supportive therapy.",
+        "whyCorrect": "Rimmed vacuoles with CD8+ T-cell invasion, asymmetric quadriceps and finger-flexor weakness, and steroid failure indicate inclusion body myositis rather than polymyositis. It generally responds poorly to glucocorticoids and other immunosuppressants, so management emphasizes physical and occupational therapy, mobility aids, and evaluation of dysphagia.",
+        "whyWrongByChoice": {
+          "A": "Steroid-sparing immunosuppressants are also generally ineffective in this disease.",
+          "B": "Her disease responds poorly to glucocorticoids, so escalating them is not helpful.",
+          "C": "Dantrolene treats malignant hyperthermia, not this myopathy.",
+          "D": "Low-dose steroids with ESR/CRP monitoring is the approach to polymyalgia rheumatica."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "inclusion body myositis",
+        "treatment",
+        "rimmed vacuoles"
+      ],
+      "topicId": "inflammatory-myopathies",
+      "topicName": "Inflammatory Myopathies",
+      "tier": "core"
+    },
+    {
+      "id": "mk16-001",
+      "stem": "A 4-year-old boy is brought to clinic because he falls frequently and has trouble climbing stairs. To stand up from the floor he pushes on his knees and thighs with his hands. His calves appear large and firm, and his serum creatine kinase is markedly elevated. Which of the following genetic abnormalities most likely underlies his condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CTG repeat expansion in the 3' untranslated region of DMPK"
+        },
+        {
+          "label": "B",
+          "text": "Exon deletion that preserves the reading frame of the dystrophin gene"
+        },
+        {
+          "label": "C",
+          "text": "Exon deletion that shifts the reading frame of the dystrophin gene"
+        },
+        {
+          "label": "D",
+          "text": "Loss of epigenetic repression at the DUX4 locus on chromosome 4"
+        },
+        {
+          "label": "E",
+          "text": "Recessive loss-of-function mutation in an alpha-sarcoglycan gene"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Duchenne muscular dystrophy is usually caused by large exon deletions in the DMD gene that create a frameshift and abolish dystrophin.",
+        "whyCorrect": "Onset at age 3-5 with frequent falls, a Gowers sign, and calf pseudohypertrophy is classic Duchenne muscular dystrophy. Most cases result from large exon deletions that disrupt the reading frame, so no functional dystrophin is made. Duplications or nonsense/frameshift point mutations produce the same outcome less often.",
+        "whyWrongByChoice": {
+          "A": "This causes myotonic dystrophy type 1, an autosomal dominant adult-onset disorder with myotonia and distal weakness, not a toddler with calf pseudohypertrophy.",
+          "B": "An in-frame (non-frameshift) mutation produces a shortened, partly functional dystrophin and causes Becker muscular dystrophy, which usually presents in the teenage years, not at age 4.",
+          "D": "Toxic DUX4 expression causes facioscapulohumeral dystrophy, which begins with facial weakness and progresses slowly.",
+          "E": "Sarcoglycan defects cause a limb-girdle muscular dystrophy, whose onset is usually in adolescence or young adulthood rather than at age 3-5."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Duchenne",
+        "genetics"
+      ],
+      "topicId": "muscular-dystrophy",
+      "topicName": "Muscular Dystrophy",
+      "tier": "core"
+    },
+    {
+      "id": "mk16-002",
+      "stem": "A 6-year-old boy with progressive proximal weakness undergoes a muscle biopsy. Immunostaining shows complete absence of a large protein that normally lies on the cytoplasmic face of the sarcolemma. Without this protein, the fibers are easily damaged during contraction and undergo necrosis. Which of the following is the normal function of the missing protein?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glycosylating a membrane protein so that it binds the extracellular matrix"
+        },
+        {
+          "label": "B",
+          "text": "Linking intracellular actin to the transmembrane dystroglycan complex"
+        },
+        {
+          "label": "C",
+          "text": "Organizing membrane domains and their associated signaling pathways"
+        },
+        {
+          "label": "D",
+          "text": "Regulating splicing of muscle transcripts within the nucleus"
+        },
+        {
+          "label": "E",
+          "text": "Resealing microscopic sarcolemmal tears that form during contraction"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Dystrophin links intracellular actin to the alpha/beta-dystroglycan complex, which anchors the fiber to the extracellular matrix and acts as a shock absorber.",
+        "whyCorrect": "Dystrophin sits on the cytoplasmic face of the sarcolemma and connects actin to alpha- and beta-dystroglycan, which anchor the fiber to the extracellular matrix. Acting as a molecular spring, it transfers mechanical stress away from the fragile sarcolemma. Its loss causes membrane fragility, myofiber damage and necrosis, and fibrofatty replacement.",
+        "whyWrongByChoice": {
+          "A": "Enzymes that glycosylate alpha-dystroglycan are defective in some limb-girdle dystrophies; the missing protein here is a structural linker, not an enzyme.",
+          "C": "This describes caveolin-3, whose mutations cause a form of limb-girdle muscular dystrophy.",
+          "D": "Sequestration of splicing regulators in the nucleus is the toxic RNA mechanism of myotonic dystrophy, unrelated to the sarcolemmal protein absent here.",
+          "E": "Membrane repair is the role of dysferlin, a limb-girdle muscular dystrophy protein, not of the missing cytoskeletal linker."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Duchenne",
+        "dystrophin",
+        "pathogenesis"
+      ],
+      "topicId": "muscular-dystrophy",
+      "topicName": "Muscular Dystrophy",
+      "tier": "core"
+    },
+    {
+      "id": "mk16-003",
+      "stem": "A 15-year-old boy has had slowly progressive difficulty running and climbing stairs since age 13. He uses his hands to push up from a squat and has enlarged calves. A maternal uncle had similar weakness and died of heart failure at age 44. Genetic testing finds a mutation in the same gene that causes the most common childhood muscular dystrophy. Which of the following best explains his milder, later-onset course?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A frameshift mutation abolishes production of the protein"
+        },
+        {
+          "label": "B",
+          "text": "An in-frame mutation yields a shortened, partly functional protein"
+        },
+        {
+          "label": "C",
+          "text": "Fewer trinucleotide repeats produce less toxic RNA in his fibers"
+        },
+        {
+          "label": "D",
+          "text": "Partial epigenetic silencing limits expression of a toxic protein"
+        },
+        {
+          "label": "E",
+          "text": "Skewed X-inactivation leaves some normal protein in his muscle"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Becker muscular dystrophy results from non-frameshift dystrophin mutations that produce a shortened, partially functional protein.",
+        "whyCorrect": "Becker muscular dystrophy is an X-linked recessive dystrophinopathy. Its mutations are non-frameshift, so dystrophin is present but shortened and only partly functional. Onset is usually in the teenage years, progression is slower than in Duchenne, and dilated cardiomyopathy is the leading cause of death in the 40s.",
+        "whyWrongByChoice": {
+          "A": "Loss of the reading frame with absent dystrophin causes Duchenne muscular dystrophy, which begins at 3-5 years and progresses rapidly.",
+          "C": "Repeat expansions and RNA toxicity are the mechanism of myotonic dystrophy, not of a dystrophinopathy.",
+          "D": "Epigenetic derepression of DUX4 underlies facioscapulohumeral dystrophy, which is autosomal dominant and involves the face and shoulders.",
+          "E": "Skewed X-inactivation explains mild symptoms in female carriers; a male has only one X chromosome."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Becker",
+        "genetics"
+      ],
+      "topicId": "muscular-dystrophy",
+      "topicName": "Muscular Dystrophy",
+      "tier": "core"
+    },
+    {
+      "id": "mk16-004",
+      "stem": "A 34-year-old man has weakness of the hands, bilateral ptosis, and difficulty releasing his grip after shaking hands. Genetic analysis reveals an expanded CTG repeat within a noncoding region of the DMPK gene. Which of the following best explains how this mutation causes disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Haploinsufficiency from loss of one functional DMPK kinase allele"
+        },
+        {
+          "label": "B",
+          "text": "Loss of a frame-preserving exon disrupts the dystrophin linkage complex"
+        },
+        {
+          "label": "C",
+          "text": "Mutant transcripts fold abnormally and trap splicing regulators in the nucleus"
+        },
+        {
+          "label": "D",
+          "text": "Promoter hypermethylation silences transcription of the DMPK gene"
+        },
+        {
+          "label": "E",
+          "text": "The expanded repeat is translated into a toxic polyglutamine protein tract"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Both types of myotonic dystrophy result from a toxic RNA gain-of-function: repeat-containing RNA folds abnormally and sequesters splicing regulators in the nucleus.",
+        "whyCorrect": "In myotonic dystrophy, the expanded repeats (CTG in the DMPK 3' UTR in DM1; CCTG in CNBP intron 1 in DM2) cause the RNA to form inappropriate sharp folds. These toxic RNA molecules trap vital regulatory proteins inside the nucleus and so disrupt splicing. The mechanism is a gain of function at the RNA level.",
+        "whyWrongByChoice": {
+          "A": "The disease is not explained by loss of kinase function; the repeat-containing RNA itself is toxic.",
+          "B": "Dystrophin mutations cause the dystrophinopathies, which are X-linked and do not cause myotonia.",
+          "D": "Myotonic dystrophy is a toxic RNA gain-of-function disorder; silencing the gene would remove the toxic transcript rather than create it.",
+          "E": "The CTG expansion lies in the 3' untranslated region and acts through toxic RNA, not through a translated abnormal protein."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "myotonic dystrophy",
+        "RNA toxicity"
+      ],
+      "topicId": "muscular-dystrophy",
+      "topicName": "Muscular Dystrophy",
+      "tier": "core"
+    },
+    {
+      "id": "mk16-005",
+      "stem": "A 41-year-old man is referred for weakness of the wrists and ankle dorsiflexors and difficulty letting go of objects he has grasped. He has frontal balding and had cataract surgery at age 36. His mother has similar features. Which of the following additional evaluations is most important to arrange?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Audiometry for bilateral sensorineural hearing loss"
+        },
+        {
+          "label": "B",
+          "text": "Dilated fundus examination for retinal telangiectasias"
+        },
+        {
+          "label": "C",
+          "text": "Electrocardiogram to look for conduction abnormalities"
+        },
+        {
+          "label": "D",
+          "text": "Muscle biopsy with dystrophin immunostaining"
+        },
+        {
+          "label": "E",
+          "text": "Serum aldolase to determine the dystrophy subtype"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Myotonic dystrophy causes cardiac conduction abnormalities and arrhythmias, so cardiac evaluation and monitoring are essential.",
+        "whyCorrect": "Distal weakness, myotonia, frontal balding, and early cataracts with autosomal dominant inheritance indicate myotonic dystrophy type 1. The disorder can cause cardiac conduction abnormalities, arrhythmias, and cardiomyopathy. Patients with cardiac involvement may need cardiac monitoring, antiarrhythmic therapy, or a pacemaker.",
+        "whyWrongByChoice": {
+          "A": "Bilateral sensorineural hearing loss is associated with facioscapulohumeral dystrophy and is not life-threatening.",
+          "B": "Retinal telangiectasias are a feature of facioscapulohumeral dystrophy, not myotonic dystrophy.",
+          "D": "Dystrophin staining evaluates dystrophinopathies; this autosomal dominant myotonic picture is diagnosed by repeat analysis, and biopsy is now used less often.",
+          "E": "Aldolase may be elevated in any active muscular dystrophy and does not distinguish subtypes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "myotonic dystrophy",
+        "cardiac",
+        "systemic features"
+      ],
+      "topicId": "muscular-dystrophy",
+      "topicName": "Muscular Dystrophy",
+      "tier": "core"
+    },
+    {
+      "id": "mk16-006",
+      "stem": "A 29-year-old woman with genetically confirmed myotonic dystrophy type 2 reports that stiffness of her thigh and shoulder muscles after contraction interferes with her work. She asks for a medication to reduce this symptom. Which of the following is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deflazacort"
+        },
+        {
+          "label": "B",
+          "text": "Exon-skipping antisense oligonucleotide"
+        },
+        {
+          "label": "C",
+          "text": "Mexiletine"
+        },
+        {
+          "label": "D",
+          "text": "Micro-dystrophin gene therapy"
+        },
+        {
+          "label": "E",
+          "text": "Prednisone"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Mexiletine, a voltage-gated sodium channel blocker, reduces myotonia in DM1 and DM2.",
+        "whyCorrect": "Mexiletine blocks voltage-gated sodium channels, decreasing skeletal muscle membrane hyperexcitability and repetitive action potentials. This improves the delayed muscle relaxation (myotonia) of both myotonic dystrophy types 1 and 2.",
+        "whyWrongByChoice": {
+          "A": "Deflazacort is a glucocorticoid used in Duchenne muscular dystrophy to slow muscle degeneration; it does not treat myotonia.",
+          "B": "Exon-skipping therapy restores the dystrophin reading frame in Duchenne muscular dystrophy.",
+          "D": "Micro-dystrophin gene therapy is used for Duchenne muscular dystrophy.",
+          "E": "Glucocorticoids such as prednisone are used in Duchenne muscular dystrophy to prolong ambulation, not to reduce myotonia."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "myotonic dystrophy",
+        "treatment"
+      ],
+      "topicId": "muscular-dystrophy",
+      "topicName": "Muscular Dystrophy",
+      "tier": "core"
+    },
+    {
+      "id": "mk16-007",
+      "stem": "A 17-year-old boy cannot pucker his lips to whistle, and his eyelids do not close fully during sleep. Over 2 years he has had increasing difficulty raising his arms, and examination shows asymmetric wasting of the biceps. His father has a similar but milder pattern of weakness. Which of the following best describes the molecular basis of his disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Defective dysferlin-mediated repair of sarcolemmal tears"
+        },
+        {
+          "label": "B",
+          "text": "Loss of chromatin repression of a homeobox transcription factor"
+        },
+        {
+          "label": "C",
+          "text": "Reduced glycosylation of alpha-dystroglycan at the matrix interface"
+        },
+        {
+          "label": "D",
+          "text": "Toxic RNA from a CCTG expansion in intron 1 of CNBP"
+        },
+        {
+          "label": "E",
+          "text": "Truncated dystrophin produced by an in-frame exon deletion"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Facioscapulohumeral dystrophy is caused by loss of epigenetic silencing of DUX4, a double homeobox transcription factor, leading to toxic expression in muscle.",
+        "whyCorrect": "Early facial weakness (trouble closing the eyes, smiling, or puckering), shoulder weakness, and asymmetric biceps atrophy with father-to-son transmission indicate autosomal dominant facioscapulohumeral dystrophy. DUX4 is normally epigenetically silenced in mature tissues; loss of chromatin repression causes toxic DUX4 expression and progressive muscle degeneration.",
+        "whyWrongByChoice": {
+          "A": "Dysferlin defects cause a limb-girdle dystrophy with proximal shoulder and hip weakness, without the facial onset seen here.",
+          "C": "Glycosylation defects cause limb-girdle dystrophies affecting the proximal girdle muscles.",
+          "D": "CNBP repeat expansion causes myotonic dystrophy type 2, which produces proximal weakness and myotonia rather than early facial weakness.",
+          "E": "Becker muscular dystrophy is X-linked and would not be passed from father to son."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "FSHD",
+        "pathogenesis"
+      ],
+      "topicId": "muscular-dystrophy",
+      "topicName": "Muscular Dystrophy",
+      "tier": "core"
+    },
+    {
+      "id": "mk16-008",
+      "stem": "A 19-year-old woman has 3 years of progressive difficulty rising from chairs and lifting boxes onto shelves. Examination shows weakness of the shoulder and hip muscles with exaggerated lumbar lordosis; facial strength is normal and there is no delayed relaxation after grip. Her older sister has the same problem, and her parents are unaffected. Serum creatine kinase is elevated. Which of the following is the most appropriate test to establish the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Electromyography to define the specific dystrophy subtype"
+        },
+        {
+          "label": "B",
+          "text": "Methylation analysis of the chromosome 4 DUX4 locus"
+        },
+        {
+          "label": "C",
+          "text": "Multigene panel sequencing of limb-girdle genes"
+        },
+        {
+          "label": "D",
+          "text": "Muscle MRI to define the specific dystrophy subtype"
+        },
+        {
+          "label": "E",
+          "text": "Repeat sizing of DMPK and CNBP by long-range PCR"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Limb-girdle muscular dystrophy, which involves more than 30 genes, is diagnosed by multigene panel sequencing.",
+        "whyCorrect": "Proximal shoulder and pelvic girdle weakness beginning in adolescence, lumbar lordosis, no facial weakness or myotonia, and an affected sibling with unaffected parents suggest an autosomal recessive limb-girdle muscular dystrophy. Because more than 30 genes are implicated, genetic diagnosis uses multigene panel sequencing. Genetic testing is now the primary diagnostic approach for most dystrophies.",
+        "whyWrongByChoice": {
+          "A": "EMG distinguishes myopathic from neuropathic disease but does not identify a dystrophy subtype.",
+          "B": "This tests for facioscapulohumeral dystrophy, which begins with facial weakness; her face is spared.",
+          "D": "Imaging shows patterns of involvement but usually cannot distinguish among dystrophy subtypes.",
+          "E": "Repeat analysis diagnoses myotonic dystrophy, but she has no myotonia and the pattern suggests recessive inheritance."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "LGMD",
+        "diagnosis"
+      ],
+      "topicId": "muscular-dystrophy",
+      "topicName": "Muscular Dystrophy",
+      "tier": "core"
+    },
+    {
+      "id": "mk16-009",
+      "stem": "A 7-year-old boy with a known dystrophinopathy has calves that look unusually bulky, yet he cannot rise onto his toes. A biopsy of the gastrocnemius is examined. Which of the following best explains the enlargement of his calves?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Compensatory hypertrophy of the surviving muscle fibers"
+        },
+        {
+          "label": "B",
+          "text": "Edema from dense inflammatory infiltration of fascicles"
+        },
+        {
+          "label": "C",
+          "text": "Hyperplasia of new fibers formed from satellite cells"
+        },
+        {
+          "label": "D",
+          "text": "Intramuscular hematoma from repeated falls"
+        },
+        {
+          "label": "E",
+          "text": "Replacement of degenerating fibers by fat and fibrous tissue"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Pseudohypertrophy of the calves (and tongue) in dystrophinopathy reflects fibrofatty replacement of muscle.",
+        "whyCorrect": "In muscular dystrophy, early biopsies show variation in fiber size and areas of degeneration; later, myocytes fail to regenerate and are replaced by fibrotic and adipose tissue, leaving islands of muscle in an ocean of fat. In the calves and tongue this replacement looks muscular, which is why the enlargement is called pseudohypertrophy.",
+        "whyWrongByChoice": {
+          "A": "The enlargement is pseudohypertrophy; it reflects loss of muscle, not hypertrophy of contractile fibers.",
+          "B": "The characteristic biopsy shows islands of residual fibers in fat, not an inflammatory edema.",
+          "C": "As the disease progresses, myocytes fail to regenerate; new fibers do not account for the bulk.",
+          "D": "Hematoma is not the basis of the calf enlargement in muscular dystrophy."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "histopathology",
+        "pseudohypertrophy"
+      ],
+      "topicId": "muscular-dystrophy",
+      "topicName": "Muscular Dystrophy",
+      "tier": "core"
+    },
+    {
+      "id": "mk16-010",
+      "stem": "A newborn boy is markedly hypotonic, needs respiratory support, and cannot feed effectively. His 30-year-old mother has had mild hand weakness, cataracts, and difficulty releasing her grip for several years; her own father developed similar symptoms only in his 50s. Which of the following best explains why this severe neonatal presentation is usually transmitted by mothers?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CCTG repeats show strong anticipation in the female germline"
+        },
+        {
+          "label": "B",
+          "text": "Maternal imprinting silences the paternal copy of the gene"
+        },
+        {
+          "label": "C",
+          "text": "Mitochondrial DNA carries the expanded repeat sequence"
+        },
+        {
+          "label": "D",
+          "text": "The responsible gene is X-linked and passes through carrier mothers"
+        },
+        {
+          "label": "E",
+          "text": "Unstable CTG repeats expand much more during oogenesis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Congenital DM1 results from very large CTG expansions (anticipation) and is usually maternally inherited because CTG repeats expand more during oogenesis than spermatogenesis.",
+        "whyCorrect": "Congenital myotonic dystrophy type 1 is the most severe form and presents with a floppy infant, respiratory insufficiency, feeding difficulties, and developmental delay. It is caused by very large CTG expansions resulting from anticipation, as seen in this three-generation pedigree. Because CTG repeats undergo much larger expansions during oogenesis than spermatogenesis, the congenital form is usually maternally inherited.",
+        "whyWrongByChoice": {
+          "A": "The CCTG expansion of DM2 does not usually show clinically significant anticipation, and DM2 has no congenital form.",
+          "B": "Imprinting is not the mechanism; congenital DM1 reflects very large repeat expansions.",
+          "C": "The expansion lies in the nuclear DMPK gene, not in mitochondrial DNA.",
+          "D": "Myotonic dystrophy is autosomal dominant, not X-linked."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "myotonic dystrophy",
+        "congenital DM1",
+        "anticipation"
+      ],
+      "topicId": "muscular-dystrophy",
+      "topicName": "Muscular Dystrophy",
+      "tier": "core"
+    },
+    {
+      "id": "mk16-011",
+      "stem": "A 25-year-old man with Duchenne muscular dystrophy has used nocturnal home mechanical ventilation since age 18 and relies on a power wheelchair. His parents ask what is most likely to limit his survival. Which of the following is the most likely eventual cause of his death?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complete heart block from conduction disease"
+        },
+        {
+          "label": "B",
+          "text": "Heart failure from dilated cardiomyopathy"
+        },
+        {
+          "label": "C",
+          "text": "Hyperglycemic crisis from insulin resistance"
+        },
+        {
+          "label": "D",
+          "text": "Renal failure from chronic myoglobinuria"
+        },
+        {
+          "label": "E",
+          "text": "Respiratory failure from diaphragmatic weakness"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Dilated cardiomyopathy is the most common cause of death in patients with Duchenne muscular dystrophy who survive into adulthood.",
+        "whyCorrect": "Patients with DMD develop dilated cardiomyopathy with reduced ability to contract and pump blood. With home mechanical ventilation, survival into adulthood is now common, and dilated cardiomyopathy has become the most common cause of death in adult survivors; living beyond the 30s is unusual.",
+        "whyWrongByChoice": {
+          "A": "Conduction abnormalities and arrhythmias are characteristic of myotonic dystrophy.",
+          "C": "Insulin resistance leading to type 2 diabetes is a feature of myotonic dystrophy, not Duchenne.",
+          "D": "Chronic myoglobinuric renal failure is not a recognized cause of death in Duchenne muscular dystrophy.",
+          "E": "Respiratory failure was the major cause of death before home mechanical ventilation; in ventilated adult survivors, cardiomyopathy predominates."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Duchenne",
+        "cardiomyopathy",
+        "prognosis"
+      ],
+      "topicId": "muscular-dystrophy",
+      "topicName": "Muscular Dystrophy",
+      "tier": "core"
+    },
+    {
+      "id": "mk16-012",
+      "stem": "An 8-year-old boy with Duchenne muscular dystrophy due to a multi-exon deletion begins weekly infusions of an antisense oligonucleotide. Which of the following best describes the intended effect of this therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blocking sodium channels to reduce sarcolemmal excitability"
+        },
+        {
+          "label": "B",
+          "text": "Degrading the mutant transcript to silence its toxic RNA"
+        },
+        {
+          "label": "C",
+          "text": "Delivering a micro-gene copy that encodes a dystrophin-like protein"
+        },
+        {
+          "label": "D",
+          "text": "Permanently editing genomic DNA to remove the deleted region's effect"
+        },
+        {
+          "label": "E",
+          "text": "Restoring the transcript's reading frame to make a shorter protein"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Exon-skipping antisense oligonucleotides work at the RNA level to restore the DMD reading frame and produce a shortened, partially functional dystrophin.",
+        "whyCorrect": "Approved exon-skipping therapies for DMD use antisense oligonucleotides that cause exons to be skipped during splicing, restoring the reading frame. The result is a shortened but partially functional dystrophin, converting a Duchenne-type defect toward a Becker-like protein. Their effects on muscle function and disease progression remain modest.",
+        "whyWrongByChoice": {
+          "A": "This is the mechanism of mexiletine, used for myotonia in myotonic dystrophy.",
+          "B": "Gene silencing with siRNA is an emerging approach; dystrophinopathy is not a toxic RNA disease.",
+          "C": "This describes micro-dystrophin gene therapy, which delivers a gene rather than acting on the patient's own RNA.",
+          "D": "Gene editing with CRISPR-Cas9 is an emerging therapy and acts on DNA, not RNA."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Duchenne",
+        "treatment",
+        "exon skipping"
+      ],
+      "topicId": "muscular-dystrophy",
+      "topicName": "Muscular Dystrophy",
+      "tier": "core"
+    },
+    {
+      "id": "mk17-001",
+      "stem": "A 24-year-old sprinter feels a sudden sharp pain in the back of his thigh while running at top speed. There was no contact with another player. He has focal tenderness over the posterior thigh and pain with resisted knee flexion. Which of the following best describes the mechanism of his injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Active contraction while the muscle is being lengthened"
+        },
+        {
+          "label": "B",
+          "text": "Blunt impact compressing the muscle against the femur"
+        },
+        {
+          "label": "C",
+          "text": "Hematoma prompting local mesenchymal cells to form bone"
+        },
+        {
+          "label": "D",
+          "text": "Ischemic necrosis from compression of the microcirculation"
+        },
+        {
+          "label": "E",
+          "text": "Sustained pressure rise within a closed fascial compartment"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Muscle strains result from overstretching or tearing of fibers, usually from excessive force or an eccentric contraction.",
+        "whyCorrect": "A muscle strain is overstretching or tearing of muscle fibers. It usually results from excessive force or an eccentric contraction, in which the muscle actively contracts while an opposing force lengthens it, which can exceed the tissue's tensile capacity. Hamstring strains during sprinting are a classic example.",
+        "whyWrongByChoice": {
+          "B": "Crushing of muscle against bone by direct blunt trauma causes a contusion, and there was no contact.",
+          "C": "This is the mechanism of myositis ossificans, which develops over weeks after a deep contusion.",
+          "D": "Ischemic necrosis follows untreated compartment syndrome, not a noncontact sprinting injury.",
+          "E": "This is compartment syndrome, which presents with escalating pain and a tense limb, not an acute focal injury during a sprint."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "muscle strain",
+        "mechanism"
+      ],
+      "topicId": "traumatic-muscle-injury",
+      "topicName": "Traumatic Muscle Injury",
+      "tier": "core"
+    },
+    {
+      "id": "mk17-002",
+      "stem": "A 20-year-old wrestler was struck hard on the front of his arm by an opponent's knee 5 weeks ago. He now has a painful, firm mass in the anterior arm and reduced elbow motion. Serum alkaline phosphatase is elevated. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic exertional compartment syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Muscle strain"
+        },
+        {
+          "label": "C",
+          "text": "Myositis ossificans"
+        },
+        {
+          "label": "D",
+          "text": "Osteosarcoma"
+        },
+        {
+          "label": "E",
+          "text": "Simple muscle contusion"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Myositis ossificans is heterotopic bone within skeletal muscle, typically after a deep contusion of the quadriceps or brachialis in young athletes.",
+        "whyCorrect": "Myositis ossificans occurs most often after a deep muscle contusion in young athletes, particularly in the quadriceps or brachialis. Over several weeks a painful firm mass develops with swelling and reduced joint motion. Alkaline phosphatase, an enzyme elevated in bone disorders, is typically high.",
+        "whyWrongByChoice": {
+          "A": "This causes predictable pain during exercise that resolves with rest, without a mass.",
+          "B": "A strain results from overstretching and does not form a firm mass with high ALP.",
+          "D": "A firm mass developing over weeks after a deep contusion in a young athlete, with high ALP, is typical of a post-traumatic lesion; osteosarcoma has no such trauma-linked course.",
+          "E": "A contusion causes pain, ecchymosis, and swelling acutely; it does not produce a firm mass weeks later."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "myositis ossificans",
+        "diagnosis"
+      ],
+      "topicId": "traumatic-muscle-injury",
+      "topicName": "Traumatic Muscle Injury",
+      "tier": "core"
+    },
+    {
+      "id": "mk17-003",
+      "stem": "A 16-year-old soccer player has a firm, painful thigh mass 3 weeks after an opponent's knee struck his thigh. A trainee proposes an immediate core needle biopsy of the mass. Which of the following is the main reason early biopsy should be avoided?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Its immature cellular center can mimic a malignant bone tumor"
+        },
+        {
+          "label": "B",
+          "text": "Its mature lamellar center is too dense to sample adequately"
+        },
+        {
+          "label": "C",
+          "text": "Its periphery contains only fibroblastic tissue without bone"
+        },
+        {
+          "label": "D",
+          "text": "Its serum ALP level already establishes the diagnosis"
+        },
+        {
+          "label": "E",
+          "text": "Its tissue cannot be distinguished from a healing strain"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Early biopsy of a post-traumatic muscle mass should be avoided because the immature cellular center of myositis ossificans can histologically resemble osteosarcoma.",
+        "whyCorrect": "Myositis ossificans shows a zone phenomenon: immature fibroblastic tissue centrally with mature lamellar bone peripherally. Early in its course, the immature cellular center can histologically resemble osteosarcoma, so early biopsy risks a misdiagnosis. Treatment is usually conservative.",
+        "whyWrongByChoice": {
+          "B": "The zones are the reverse: the center is immature fibroblastic tissue and mature lamellar bone is peripheral.",
+          "C": "The periphery contains mature lamellar bone; the immature tissue is central.",
+          "D": "ALP supports ossification but does not by itself establish the diagnosis; the concern with biopsy is misinterpretation.",
+          "E": "The concern is confusion with osteosarcoma, not with a strain."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "myositis ossificans",
+        "zone phenomenon",
+        "biopsy"
+      ],
+      "topicId": "traumatic-muscle-injury",
+      "topicName": "Traumatic Muscle Injury",
+      "tier": "core"
+    },
+    {
+      "id": "mk17-004",
+      "stem": "A 45-year-old man playing recreational basketball feels sudden severe pain at the back of his ankle while pushing off to jump. He had several months of intermittent soreness in that area beforehand. Which of the following deficits is most likely on examination?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inability to actively extend the knee"
+        },
+        {
+          "label": "B",
+          "text": "Weak dorsiflexion of the ankle"
+        },
+        {
+          "label": "C",
+          "text": "Weak eversion of the foot"
+        },
+        {
+          "label": "D",
+          "text": "Weak hip extension and knee flexion"
+        },
+        {
+          "label": "E",
+          "text": "Weak plantar flexion of the ankle"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A complete tendon rupture causes sudden severe pain and loss of the muscle's primary action; Achilles rupture weakens plantar flexion.",
+        "whyCorrect": "Tendon rupture results from a sudden force exceeding the tendon's tensile strength, often after weakening from repetitive microtrauma. A complete rupture causes loss of the muscle's primary action. Achilles tendon rupture therefore produces weakness of plantar flexion.",
+        "whyWrongByChoice": {
+          "A": "This is the deficit of a patellar tendon rupture.",
+          "B": "Dorsiflexion is not the primary action of the structure that ruptured at the back of the ankle.",
+          "C": "Eversion is not the primary action lost with this injury.",
+          "D": "This is the deficit of a hamstring tendon rupture."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tendon rupture",
+        "Achilles"
+      ],
+      "topicId": "traumatic-muscle-injury",
+      "topicName": "Traumatic Muscle Injury",
+      "tier": "core"
+    },
+    {
+      "id": "mk17-005",
+      "stem": "A 30-year-old man with a closed tibial shaft fracture has escalating leg pain 6 hours after injury, pain with passive extension of his toes, and numbness on the dorsum of his foot. Dorsalis pedis and posterior tibial pulses are easily palpable. Which of the following best explains the palpable pulses?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Collateral arteries bypass the swollen compartment entirely"
+        },
+        {
+          "label": "B",
+          "text": "Compartment pressure exceeds arterial pressure in the leg"
+        },
+        {
+          "label": "C",
+          "text": "Compartment pressure exceeds venous but not arterial pressure"
+        },
+        {
+          "label": "D",
+          "text": "Palpable pulses show that tissue perfusion is adequate"
+        },
+        {
+          "label": "E",
+          "text": "Raised cardiac output overcomes the compartment pressure"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In compartment syndrome, pressure rises above capillary and venous pressure, collapsing the microcirculation while arterial flow and distal pulses persist until very late.",
+        "whyCorrect": "As compartment pressure rises above capillary/venous pressure, the low-pressure microcirculation is compressed, reducing the arteriovenous pressure gradient and capillary flow. Arterial flow through the compartment persists despite inadequate tissue perfusion. Distal pulses are lost only when compartment pressure impairs arterial flow, a very late finding.",
+        "whyWrongByChoice": {
+          "A": "Pulses persist because arterial flow continues through the compartment, not because of collaterals.",
+          "B": "If compartment pressure impaired arterial flow, distal pulses would be lost, which is a very late finding.",
+          "D": "Arterial flow persists despite inadequate capillary tissue perfusion; pulses do not exclude the diagnosis.",
+          "E": "The issue is microcirculatory compression, not cardiac output."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "compartment syndrome",
+        "pathophysiology",
+        "pulses"
+      ],
+      "topicId": "traumatic-muscle-injury",
+      "topicName": "Traumatic Muscle Injury",
+      "tier": "core"
+    },
+    {
+      "id": "mk17-006",
+      "stem": "A 35-year-old woman's forearm was pinned under industrial machinery for an hour. Two hours after release she is alert and reports severe forearm pain out of proportion to the injury that worsens when her fingers are passively extended. The volar forearm is tense, and the radial pulse is palpable. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Arterial Doppler study of the forearm"
+        },
+        {
+          "label": "B",
+          "text": "Compartment pressure measurement before deciding"
+        },
+        {
+          "label": "C",
+          "text": "Elective fasciotomy once the swelling subsides"
+        },
+        {
+          "label": "D",
+          "text": "Elevation, analgesia, and reassessment in 6 hours"
+        },
+        {
+          "label": "E",
+          "text": "Emergent fasciotomy"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Acute compartment syndrome is a clinical diagnosis treated with emergent fasciotomy; testing should not delay surgery when suspicion is strong.",
+        "whyCorrect": "Pain out of proportion, pain with passive stretch, and a tense compartment after a crush injury indicate acute compartment syndrome, even with a palpable pulse. It is a clinical diagnosis, and when strongly suspected, no testing should delay emergent fasciotomy. Untreated, it leads to irreversible nerve injury, muscle necrosis, and rhabdomyolysis.",
+        "whyWrongByChoice": {
+          "A": "Pulses are preserved in compartment syndrome, and vascular imaging would only delay treatment.",
+          "B": "Acute compartment syndrome is a clinical diagnosis; when strongly suspected in an alert patient, no testing should delay fasciotomy. Pressures are measured when the exam cannot be trusted.",
+          "C": "Elective fasciotomy is used for chronic exertional compartment syndrome, not an acute emergency.",
+          "D": "Delay risks irreversible nerve injury and muscle necrosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "compartment syndrome",
+        "management"
+      ],
+      "topicId": "traumatic-muscle-injury",
+      "topicName": "Traumatic Muscle Injury",
+      "tier": "core"
+    },
+    {
+      "id": "mk17-007",
+      "stem": "A 40-year-old man is intubated and sedated after a crush injury to the leg. The leg is tense, but a reliable examination is not possible. His blood pressure is 110/60 mm Hg, and the measured anterior compartment pressure is 38 mm Hg. Which of the following interpretations and plans is correct?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Delta pressure 22 mm Hg; observe while pulses persist"
+        },
+        {
+          "label": "B",
+          "text": "Delta pressure 22 mm Hg; perform fasciotomy"
+        },
+        {
+          "label": "C",
+          "text": "Delta pressure 38 mm Hg; continue observation"
+        },
+        {
+          "label": "D",
+          "text": "Delta pressure 39 mm Hg; continue observation"
+        },
+        {
+          "label": "E",
+          "text": "Delta pressure 72 mm Hg; continue observation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Delta pressure = diastolic BP - compartment pressure; a value under 30 mm Hg requires fasciotomy.",
+        "whyCorrect": "When the clinical exam cannot be trusted, as in a sedated patient, compartment pressures are measured. Acute compartment syndrome is diagnosed with the delta pressure, the diastolic blood pressure minus the compartment pressure. Here 60 - 38 = 22 mm Hg, which is under 30 mm Hg and requires fasciotomy.",
+        "whyWrongByChoice": {
+          "A": "A delta under 30 mm Hg requires fasciotomy, and preserved pulses do not exclude compartment syndrome.",
+          "C": "The compartment pressure alone is not the delta pressure; it must be subtracted from diastolic pressure.",
+          "D": "This uses mean arterial pressure; the delta pressure is diastolic minus compartment pressure.",
+          "E": "Delta pressure uses diastolic, not systolic, pressure: 60 - 38 = 22 mm Hg."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "compartment syndrome",
+        "delta pressure"
+      ],
+      "topicId": "traumatic-muscle-injury",
+      "topicName": "Traumatic Muscle Injury",
+      "tier": "core"
+    },
+    {
+      "id": "mk17-008",
+      "stem": "A surgeon is performing fasciotomy for acute compartment syndrome after a high-energy fracture of the tibia. To fully decompress the lower leg, which of the following compartments must be released?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anterior, lateral, and deep posterior only"
+        },
+        {
+          "label": "B",
+          "text": "Anterior, lateral, and superficial posterior only"
+        },
+        {
+          "label": "C",
+          "text": "Anterior, lateral, superficial posterior, and deep posterior"
+        },
+        {
+          "label": "D",
+          "text": "Anterior, medial, superficial posterior, and deep posterior"
+        },
+        {
+          "label": "E",
+          "text": "Lateral, superficial posterior, and deep posterior only"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Leg fasciotomy must decompress all four compartments: anterior, lateral, superficial posterior, and deep posterior.",
+        "whyCorrect": "Leg fasciotomy requires decompression of all four compartments: anterior, lateral, superficial posterior, and deep posterior. If a compartment is missed, irreversible nerve injury and muscle necrosis may occur.",
+        "whyWrongByChoice": {
+          "A": "Omitting the superficial posterior compartment leaves it at risk of necrosis.",
+          "B": "Omitting the deep posterior compartment leaves it undecompressed.",
+          "D": "The leg has a lateral compartment, not a medial one; a medial compartment belongs to the thigh.",
+          "E": "Omitting the anterior compartment leaves it undecompressed."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "compartment syndrome",
+        "fasciotomy",
+        "leg"
+      ],
+      "topicId": "traumatic-muscle-injury",
+      "topicName": "Traumatic Muscle Injury",
+      "tier": "core"
+    },
+    {
+      "id": "mk17-009",
+      "stem": "A 9-year-old boy had a supracondylar humerus fracture 4 months ago. His parents recall that he had severe forearm pain the night after the injury, which was attributed to the fracture. He now has a stiff, clawed hand, with the wrist and fingers held curled and unable to be straightened. Which of the following best explains this deformity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Contracting scar that replaced ischemic flexor-compartment muscle"
+        },
+        {
+          "label": "B",
+          "text": "Heterotopic bone bridging the soft tissue of the elbow"
+        },
+        {
+          "label": "C",
+          "text": "Ischemic necrosis confined to the posterior extensor compartment"
+        },
+        {
+          "label": "D",
+          "text": "Myositis ossificans of the brachialis after contusion"
+        },
+        {
+          "label": "E",
+          "text": "Rupture of the long finger extensor tendons"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Volkmann contracture results from missed forearm compartment syndrome: necrotic flexor muscle is replaced by scar that myofibroblasts contract.",
+        "whyCorrect": "Retained ischemic muscle that becomes necrotic is replaced by fibrous scar, and myofibroblasts contract and remodel it, causing fixed contracture. Volkmann contracture follows missed or untreated forearm compartment syndrome, and supracondylar humerus fractures carry a significant risk. Fibrosis mainly affects the larger flexor mass, fixing the wrist and fingers in flexion.",
+        "whyWrongByChoice": {
+          "B": "Heterotopic ossification limits joint motion but does not fix the wrist and fingers in this posture.",
+          "C": "Ischemic injury and fibrosis predominantly affect the larger flexor muscle mass, not the extensors.",
+          "D": "This produces a firm mass and reduced elbow motion, not a clawed hand.",
+          "E": "Tendon rupture causes loss of a primary action, not a fixed progressive contracture after ischemia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Volkmann contracture",
+        "complications"
+      ],
+      "topicId": "traumatic-muscle-injury",
+      "topicName": "Traumatic Muscle Injury",
+      "tier": "core"
+    },
+    {
+      "id": "mk17-010",
+      "stem": "A 55-year-old man is rescued after 12 hours trapped under the rubble of a collapsed building. His creatine kinase is 80,000 IU/L, and his serum creatinine rises over the next 2 days. Which of the following is the primary mechanism of his kidney injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calcium phosphate stones obstructing both ureters"
+        },
+        {
+          "label": "B",
+          "text": "Direct tubular injury and casts from filtered myoglobin"
+        },
+        {
+          "label": "C",
+          "text": "Hemoglobin from lysed red cells blocking the tubules"
+        },
+        {
+          "label": "D",
+          "text": "Hypovolemia alone causing prerenal azotemia"
+        },
+        {
+          "label": "E",
+          "text": "Immune complex deposition within the glomeruli"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "AKI in rhabdomyolysis results primarily from direct myoglobin-mediated tubular injury and myoglobin-containing tubular casts.",
+        "whyCorrect": "Crush injury causes extensive muscle necrosis with release of creatine kinase, myoglobin, potassium, and phosphate. AKI results primarily from direct myoglobin-mediated tubular injury and myoglobin-containing tubular casts; hypovolemia may contribute.",
+        "whyWrongByChoice": {
+          "A": "Obstructive stones are not the mechanism of AKI in rhabdomyolysis.",
+          "C": "The pigment comes from damaged muscle, not from red cell lysis.",
+          "D": "Hypovolemia may contribute, but the primary mechanism is myoglobin-mediated tubular injury.",
+          "E": "Glomerular immune injury is not the mechanism of AKI in rhabdomyolysis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "rhabdomyolysis",
+        "acute kidney injury"
+      ],
+      "topicId": "traumatic-muscle-injury",
+      "topicName": "Traumatic Muscle Injury",
+      "tier": "core"
+    },
+    {
+      "id": "mk17-011",
+      "stem": "A 25-year-old man develops rhabdomyolysis after a prolonged generalized seizure. Which of the following serum electrolyte patterns is most expected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "High potassium, high phosphate, high calcium"
+        },
+        {
+          "label": "B",
+          "text": "High potassium, high phosphate, low calcium"
+        },
+        {
+          "label": "C",
+          "text": "High potassium, low phosphate, high calcium"
+        },
+        {
+          "label": "D",
+          "text": "Low potassium, high phosphate, high calcium"
+        },
+        {
+          "label": "E",
+          "text": "Low potassium, low phosphate, low calcium"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Rhabdomyolysis releases potassium and phosphate into the blood, and calcium may fall as it complexes with phosphate.",
+        "whyCorrect": "Seizures are a cause of rhabdomyolysis. Necrotic muscle releases intracellular potassium, which can cause life-threatening hyperkalemia, and phosphate, which also rises. Calcium may fall as it complexes with the phosphate.",
+        "whyWrongByChoice": {
+          "A": "Calcium tends to fall because it complexes with the released phosphate.",
+          "C": "Phosphate is released and rises, and calcium falls as it complexes with phosphate.",
+          "D": "Potassium is released from damaged muscle and rises; calcium tends to fall.",
+          "E": "Both potassium and phosphate are released from necrotic muscle and rise."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "rhabdomyolysis",
+        "electrolytes"
+      ],
+      "topicId": "traumatic-muscle-injury",
+      "topicName": "Traumatic Muscle Injury",
+      "tier": "core"
+    },
+    {
+      "id": "mk17-012",
+      "stem": "A 21-year-old military recruit collapses after an unaccustomed long march in hot weather. He has diffuse muscle pain, cola-colored urine, and a creatine kinase of 40,000 IU/L. Serum potassium and creatinine are normal. Which of the following is the cornerstone of initial management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fluid restriction to protect the lungs"
+        },
+        {
+          "label": "B",
+          "text": "High-volume IV isotonic crystalloid"
+        },
+        {
+          "label": "C",
+          "text": "IV furosemide to force a diuresis"
+        },
+        {
+          "label": "D",
+          "text": "IV sodium bicarbonate to alkalinize the urine"
+        },
+        {
+          "label": "E",
+          "text": "Urgent hemodialysis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Emergent high-volume IV crystalloid is the cornerstone of rhabdomyolysis treatment, aiming for urine output above 200 mL/hr.",
+        "whyCorrect": "Treatment of rhabdomyolysis is to address the cause and infuse high-volume IV crystalloid emergently to maintain renal perfusion, dilute myoglobin, and reduce intratubular precipitation and cast formation. The goal is urine output above 200 mL/hr. Renal function and electrolytes are monitored closely; neither diuretics nor bicarbonate have shown benefit.",
+        "whyWrongByChoice": {
+          "A": "Withholding fluid would worsen renal perfusion and myoglobin precipitation.",
+          "C": "Diuretics have not demonstrated benefit.",
+          "D": "Urine alkalinization has not demonstrated benefit in rhabdomyolysis.",
+          "E": "Dialysis is reserved for standard indications such as refractory hyperkalemia, severe acidosis, or volume overload."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "rhabdomyolysis",
+        "treatment"
+      ],
+      "topicId": "traumatic-muscle-injury",
+      "topicName": "Traumatic Muscle Injury",
+      "tier": "core"
+    },
+    {
+      "id": "mk18-001",
+      "stem": "A 45-year-old house painter has 3 months of gradually worsening pain over the outer shoulder that is worst when he paints ceilings. When he raises the straight arm out to the side, pain begins partway up and eases near the top of the motion. Resisted strength is full and symmetric, and passive range of motion is normal. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adhesive capsulitis of the shoulder"
+        },
+        {
+          "label": "B",
+          "text": "Axillary nerve injury"
+        },
+        {
+          "label": "C",
+          "text": "Full-thickness rotator cuff tear"
+        },
+        {
+          "label": "D",
+          "text": "Subscapularis tendon rupture"
+        },
+        {
+          "label": "E",
+          "text": "Supraspinatus tendon impingement"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Supraspinatus impingement causes activity-related lateral shoulder pain with a painful arc of abduction and preserved strength.",
+        "whyCorrect": "Gradual lateral shoulder pain worsened by overhead activity with a painful arc during abduction is the classic picture of supraspinatus impingement, in which the tendon is compressed within the subacromial space beneath the acromion and coracoacromial arch. Diagnosis is clinical. Preserved strength argues against a substantial tear.",
+        "whyWrongByChoice": {
+          "A": "Adhesive capsulitis restricts both active and passive motion; his passive range of motion is normal.",
+          "B": "Axillary nerve injury causes deltoid weakness, not an activity-related painful arc with normal strength.",
+          "C": "A full-thickness tear disrupts force transmission and produces weakness; his strength is full and symmetric.",
+          "D": "Subscapularis failure produces weakness of internal rotation, which is not present."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "shoulder",
+        "impingement",
+        "painful arc"
+      ],
+      "topicId": "common-tendon-bursa-and-joint-capsule-disorders",
+      "topicName": "Common Tendon, Bursa, and Joint Capsule Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk18-002",
+      "stem": "A 71-year-old retired carpenter has had slowly progressive shoulder pain and weakness over several years without any injury. MRI shows a degenerative full-thickness rotator cuff tear. Which tendon is most likely involved?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deltoid"
+        },
+        {
+          "label": "B",
+          "text": "Infraspinatus"
+        },
+        {
+          "label": "C",
+          "text": "Subscapularis"
+        },
+        {
+          "label": "D",
+          "text": "Supraspinatus"
+        },
+        {
+          "label": "E",
+          "text": "Teres minor"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The supraspinatus is the most commonly torn rotator cuff tendon.",
+        "whyCorrect": "The supraspinatus tendon is the most commonly torn rotator cuff tendon, often as a progression of chronic impingement and tendinopathy. Most tears develop from gradual worsening of chronic tendon degeneration, as in this patient.",
+        "whyWrongByChoice": {
+          "A": "The deltoid is not part of the rotator cuff, and primary deltoid tendon injury is uncommon.",
+          "B": "The infraspinatus is the second most commonly involved tendon, not the most common.",
+          "C": "Subscapularis tears are less common; its failure is detected by weak internal rotation and the lift-off test.",
+          "E": "Teres minor is tested with external rotation and is not the most commonly torn cuff tendon."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "shoulder",
+        "rotator cuff tear"
+      ],
+      "topicId": "common-tendon-bursa-and-joint-capsule-disorders",
+      "topicName": "Common Tendon, Bursa, and Joint Capsule Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk18-003",
+      "stem": "A 59-year-old man has shoulder weakness after a fall. With his elbow bent to 90 degrees and his arm against his side, he cannot resist as the examiner pushes his forearm inward toward his abdomen; he is weak at turning the hand away from his body. Weakness of which muscles is being demonstrated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Infraspinatus and teres minor"
+        },
+        {
+          "label": "B",
+          "text": "Subscapularis and deltoid"
+        },
+        {
+          "label": "C",
+          "text": "Supraspinatus and deltoid"
+        },
+        {
+          "label": "D",
+          "text": "Supraspinatus and subscapularis"
+        },
+        {
+          "label": "E",
+          "text": "Teres major and deltoid"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Resisted external rotation tests the infraspinatus and teres minor.",
+        "whyCorrect": "Resisted external rotation (turning the forearm away from the body with the elbow at the side) assesses the infraspinatus and teres minor. Significant weakness compared with the other side raises concern for a substantial tendon tear.",
+        "whyWrongByChoice": {
+          "B": "The subscapularis is tested by internal rotation, the opposite movement.",
+          "C": "The supraspinatus is tested by initiation of abduction, and the deltoid is not a rotator cuff muscle.",
+          "D": "These are tested by initiation of abduction and internal rotation, respectively, not external rotation.",
+          "E": "Neither muscle is part of the rotator cuff external-rotation test described."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "shoulder",
+        "rotator cuff",
+        "physical exam"
+      ],
+      "topicId": "common-tendon-bursa-and-joint-capsule-disorders",
+      "topicName": "Common Tendon, Bursa, and Joint Capsule Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk18-004",
+      "stem": "A 38-year-old man has shoulder pain and weakness after an anterior shoulder dislocation. With the back of his hand resting against his lower back, he cannot move the hand away from his back. Which of the following best pairs the deficient movement with the injured muscle?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Abduction initiation; supraspinatus"
+        },
+        {
+          "label": "B",
+          "text": "Arm abduction; deltoid"
+        },
+        {
+          "label": "C",
+          "text": "External rotation; infraspinatus"
+        },
+        {
+          "label": "D",
+          "text": "External rotation; teres minor"
+        },
+        {
+          "label": "E",
+          "text": "Internal rotation; subscapularis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Inability to lift the hand off the back indicates failed internal rotation and subscapularis dysfunction.",
+        "whyCorrect": "Lifting the hand off the lower back requires internal rotation, so this (lift-off) maneuver is highly specific for failed subscapularis function. Shoulder dislocation is one cause of acute rotator cuff tears. The key to any named maneuver is identifying which cuff function it tests.",
+        "whyWrongByChoice": {
+          "A": "Supraspinatus is tested by resisted initiation of abduction, not by moving the hand away from the back.",
+          "B": "The deltoid is not a rotator cuff muscle, and this maneuver does not test abduction.",
+          "C": "External rotation is tested with the elbow at the side and forearm rotated outward, not by lifting the hand off the back.",
+          "D": "Teres minor contributes to external rotation, which this maneuver does not test."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "shoulder",
+        "rotator cuff",
+        "subscapularis",
+        "lift-off test"
+      ],
+      "topicId": "common-tendon-bursa-and-joint-capsule-disorders",
+      "topicName": "Common Tendon, Bursa, and Joint Capsule Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk18-005",
+      "stem": "A 57-year-old woman with type 2 diabetes wore a sling for 6 weeks after a proximal humerus fracture. Three months later she has progressive shoulder pain and stiffness. The examiner cannot passively rotate the arm outward beyond a few degrees, and her active motion is equally limited in every direction. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adhesive capsulitis"
+        },
+        {
+          "label": "B",
+          "text": "Axillary nerve palsy"
+        },
+        {
+          "label": "C",
+          "text": "Rotator cuff tear"
+        },
+        {
+          "label": "D",
+          "text": "Subacromial bursitis"
+        },
+        {
+          "label": "E",
+          "text": "Supraspinatus impingement"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Equal loss of active and passive shoulder motion after immobilization indicates adhesive capsulitis.",
+        "whyCorrect": "Fibrosis and contracture of the glenohumeral capsule restrict both active and passive motion in all directions, particularly external rotation. It most often follows injury, surgery or prolonged immobilization and is more likely in older adults and patients with diabetes mellitus.",
+        "whyWrongByChoice": {
+          "B": "Axillary nerve injury weakens the deltoid but does not mechanically block passive motion.",
+          "C": "A cuff tear causes weakness of active motion, but passive range of motion is not markedly restricted.",
+          "D": "Bursitis causes activity-related lateral pain, not global loss of passive motion.",
+          "E": "Impingement produces a painful arc during abduction with preserved passive range of motion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "shoulder",
+        "adhesive capsulitis",
+        "frozen shoulder"
+      ],
+      "topicId": "common-tendon-bursa-and-joint-capsule-disorders",
+      "topicName": "Common Tendon, Bursa, and Joint Capsule Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk18-006",
+      "stem": "A 61-year-old man has a 4-month history of a painful, stiff shoulder that began after a period of reduced arm use. Active and passive range of motion are markedly and equally restricted, most of all in outward rotation. Radiographs are unremarkable. Which of the following is the mainstay of treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aspiration of the subacromial bursa"
+        },
+        {
+          "label": "B",
+          "text": "Excision of an inferior acromial spur"
+        },
+        {
+          "label": "C",
+          "text": "Physical therapy aimed at regaining mobility"
+        },
+        {
+          "label": "D",
+          "text": "Sling immobilization until pain resolves"
+        },
+        {
+          "label": "E",
+          "text": "Surgical repair of a rotator cuff tendon"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Treatment of adhesive capsulitis centers on physical therapy to restore range of motion.",
+        "whyCorrect": "Adhesive capsulitis is treated by restoring range of motion through physical therapy; maintaining motion is also the best prevention. NSAIDs and intra-articular corticosteroid injection may provide symptomatic relief, and surgery is only occasionally required.",
+        "whyWrongByChoice": {
+          "A": "Bursal aspiration does not address a contracted glenohumeral capsule.",
+          "B": "Acromial spurs narrow the subacromial space in impingement, not adhesive capsulitis.",
+          "D": "Immobilization is a cause of adhesive capsulitis and would worsen the stiffness.",
+          "E": "There is no cuff tear; the problem is capsular fibrosis and contracture."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "shoulder",
+        "adhesive capsulitis",
+        "treatment"
+      ],
+      "topicId": "common-tendon-bursa-and-joint-capsule-disorders",
+      "topicName": "Common Tendon, Bursa, and Joint Capsule Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk18-007",
+      "stem": "A 34-year-old woman who lifts her infant many times a day has pain over the radial side of the wrist near the base of the thumb. Pain is reproduced when she makes a fist around her tucked thumb and the examiner tilts the wrist toward the ulna. Inflammation of the sheath around which tendons is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Abductor pollicis brevis and opponens pollicis"
+        },
+        {
+          "label": "B",
+          "text": "Abductor pollicis longus and extensor pollicis brevis"
+        },
+        {
+          "label": "C",
+          "text": "Extensor carpi radialis longus and brevis"
+        },
+        {
+          "label": "D",
+          "text": "Extensor pollicis longus and extensor indicis"
+        },
+        {
+          "label": "E",
+          "text": "Flexor pollicis longus and flexor carpi radialis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "De Quervain tenosynovitis involves the APL and EPB tendon sheaths.",
+        "whyCorrect": "De Quervain tenosynovitis is inflammation and thickening of the abductor pollicis longus and extensor pollicis brevis tendon sheaths, impairing smooth gliding. Pain is over the radial wrist near the thumb base and is reproduced by a fist over the thumb with ulnar deviation.",
+        "whyWrongByChoice": {
+          "A": "These are intrinsic thenar muscles without the involved first-compartment sheath.",
+          "C": "These wrist extensors are not the tendons of De Quervain tenosynovitis.",
+          "D": "These tendons are not the ones involved in De Quervain tenosynovitis.",
+          "E": "These are flexor tendons and are not stressed by the fist-and-ulnar-deviation maneuver."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "tenosynovitis",
+        "De Quervain",
+        "wrist"
+      ],
+      "topicId": "common-tendon-bursa-and-joint-capsule-disorders",
+      "topicName": "Common Tendon, Bursa, and Joint Capsule Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk18-008",
+      "stem": "A 56-year-old woman reports that her middle finger catches in a bent position when she grips a steering wheel, then pops straight suddenly when she forces it open. A tender nodule is palpable at the base of the finger on the palm side. Thickening of which structure most directly impairs tendon gliding in this condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A1 annular pulley of the digital sheath"
+        },
+        {
+          "label": "B",
+          "text": "Capsule of the proximal interphalangeal joint"
+        },
+        {
+          "label": "C",
+          "text": "Common flexor tendon origin at the elbow"
+        },
+        {
+          "label": "D",
+          "text": "Extensor retinaculum at the dorsal wrist"
+        },
+        {
+          "label": "E",
+          "text": "Sheath of abductor pollicis longus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Trigger finger is caused by thickening of the annular (A1) flexor pulley.",
+        "whyCorrect": "Trigger finger results from repetitive stress on a flexor tendon pulley, causing annular pulley thickening that impairs gliding, sometimes with nodular thickening of the tendon. Annular pulleys such as A1 are fibrous bands of the digital flexor sheath.",
+        "whyWrongByChoice": {
+          "B": "Joint capsule disease does not produce a palpable gliding nodule with sudden release.",
+          "C": "The common flexor origin is involved in medial epicondylitis, which causes medial elbow pain.",
+          "D": "The catching occurs at the base of the finger on the palm side, not at the dorsal wrist.",
+          "E": "The APL sheath is involved in De Quervain tenosynovitis, which causes radial wrist pain."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tenosynovitis",
+        "trigger finger",
+        "hand"
+      ],
+      "topicId": "common-tendon-bursa-and-joint-capsule-disorders",
+      "topicName": "Common Tendon, Bursa, and Joint Capsule Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk18-009",
+      "stem": "A 44-year-old carpenter has 2 months of aching over the outer elbow that radiates into the forearm and worsens when he grips a hammer. Pain is reproduced when he cocks the wrist back against the examiner's resistance. Overuse degeneration of which structure is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Abductor pollicis longus tendon sheath"
+        },
+        {
+          "label": "B",
+          "text": "Common extensor origin at the lateral epicondyle"
+        },
+        {
+          "label": "C",
+          "text": "Common flexor origin at the medial epicondyle"
+        },
+        {
+          "label": "D",
+          "text": "Olecranon bursa over the proximal ulna"
+        },
+        {
+          "label": "E",
+          "text": "Supraspinatus tendon under the acromion"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Lateral epicondylitis is degeneration of the common extensor origin and is provoked by resisted wrist extension.",
+        "whyCorrect": "Lateral epicondylitis (tennis elbow) is an overuse, degenerative injury of the common extensor tendon origin at the lateral epicondyle. Pain over the lateral elbow may radiate into the forearm and is reproduced by resisted wrist extension and gripping.",
+        "whyWrongByChoice": {
+          "A": "APL sheath inflammation causes radial wrist pain near the thumb base (De Quervain).",
+          "C": "This is medial epicondylitis, which causes medial elbow pain with resisted wrist flexion.",
+          "D": "Olecranon bursitis causes swelling over the tip of the elbow, not pain with resisted wrist movement.",
+          "E": "Supraspinatus disease causes lateral shoulder, not elbow, pain."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "elbow",
+        "lateral epicondylitis",
+        "tennis elbow"
+      ],
+      "topicId": "common-tendon-bursa-and-joint-capsule-disorders",
+      "topicName": "Common Tendon, Bursa, and Joint Capsule Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk18-010",
+      "stem": "A 68-year-old woman with knee osteoarthritis and recurrent effusions notices fullness behind the knee. Ultrasound shows a fluid-filled, distended bursa that communicates with the joint through an opening at the back of the knee. Between which two structures does this collection lie?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Biceps femoris tendon and lateral head of gastrocnemius"
+        },
+        {
+          "label": "B",
+          "text": "Patellar tendon and anterior surface of the tibia"
+        },
+        {
+          "label": "C",
+          "text": "Popliteal artery and the posterior joint capsule"
+        },
+        {
+          "label": "D",
+          "text": "Quadriceps tendon and anterior surface of the femur"
+        },
+        {
+          "label": "E",
+          "text": "Semimembranosus tendon and medial head of gastrocnemius"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A Baker cyst lies between the semimembranosus tendon and the medial head of gastrocnemius.",
+        "whyCorrect": "A true Baker (popliteal) cyst is synovial fluid distention of the gastrocnemius-semimembranosus bursa, so it lies between the semimembranosus tendon and the medial head of the gastrocnemius. It may communicate with the knee through a posteromedial opening.",
+        "whyWrongByChoice": {
+          "A": "The involved bursa is posteromedial, not between lateral structures.",
+          "B": "This is anterior to the knee; a Baker cyst is in the popliteal fossa.",
+          "C": "A Baker cyst is a bursal distention, not a collection defined by the popliteal vessels.",
+          "D": "This is an anterior location, not the popliteal fossa."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "knee",
+        "Baker cyst",
+        "anatomy"
+      ],
+      "topicId": "common-tendon-bursa-and-joint-capsule-disorders",
+      "topicName": "Common Tendon, Bursa, and Joint Capsule Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk18-011",
+      "stem": "A 52-year-old man with a history of gout has a 2-day history of a swollen, warm, tender, fluctuant mass over the tip of his elbow. He leans on his elbows at work. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aspirate fluid to assess for infection or crystals"
+        },
+        {
+          "label": "B",
+          "text": "Inject corticosteroid directly into the bursa"
+        },
+        {
+          "label": "C",
+          "text": "Obtain MRI of the common extensor tendon origin"
+        },
+        {
+          "label": "D",
+          "text": "Reassure and observe for spontaneous resolution"
+        },
+        {
+          "label": "E",
+          "text": "Refer for surgical excision of the whole bursa"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Aspirate a bursa when infection or crystal arthropathy is suspected.",
+        "whyCorrect": "Bursitis (here olecranon bursitis from prolonged pressure) is usually treated with activity modification, NSAIDs and avoidance of aggravating activities, but aspiration is considered when infection or crystal arthropathy is suspected. Warmth plus a gout history makes both concerns real.",
+        "whyWrongByChoice": {
+          "B": "Injecting a steroid before excluding infection is inappropriate when infection is suspected.",
+          "C": "The common extensor origin is the site of lateral epicondylitis, not this posterior elbow swelling.",
+          "D": "Warmth and a gout history call for fluid analysis rather than observation alone.",
+          "E": "Surgery is not the initial step; fluid analysis comes first."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "bursitis",
+        "olecranon bursitis",
+        "elbow"
+      ],
+      "topicId": "common-tendon-bursa-and-joint-capsule-disorders",
+      "topicName": "Common Tendon, Bursa, and Joint Capsule Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk18-012",
+      "stem": "A 27-year-old woman has a smooth, fluctuant, painless 1.5-cm swelling on the back of her wrist that has grown and shrunk over 3 months. Hand function and sensation are normal. Which of the following is the most appropriate initial management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Core needle biopsy of the mass"
+        },
+        {
+          "label": "B",
+          "text": "Needle aspiration of the mass"
+        },
+        {
+          "label": "C",
+          "text": "Observation without intervention"
+        },
+        {
+          "label": "D",
+          "text": "Splinting with oral NSAIDs"
+        },
+        {
+          "label": "E",
+          "text": "Surgical excision of the mass"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Initial management of a ganglion cyst is observation; just over half resolve.",
+        "whyCorrect": "This is a ganglion cyst, diagnosed clinically by its characteristic appearance and dorsal wrist location. Management begins with observation because just over half resolve spontaneously; aspiration or excision is reserved for persistent, symptomatic cysts.",
+        "whyWrongByChoice": {
+          "A": "Diagnosis is clinical; a benign-appearing ganglion does not require biopsy.",
+          "B": "Aspiration is for persistent symptomatic cysts and carries a higher recurrence rate.",
+          "D": "Splinting and NSAIDs are treatments for tenosynovitis, not the first step for a painless ganglion.",
+          "E": "Excision is reserved for persistent, symptomatic cysts, not as an initial step."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "cyst",
+        "ganglion cyst",
+        "wrist"
+      ],
+      "topicId": "common-tendon-bursa-and-joint-capsule-disorders",
+      "topicName": "Common Tendon, Bursa, and Joint Capsule Disorders",
+      "tier": "core"
+    }
+  ]
+}
