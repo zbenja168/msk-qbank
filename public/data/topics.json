@@ -229,7 +229,106 @@
       "week": 2,
       "weekName": "Week 2",
       "weekSubtitle": "Upper Limb & Muscle Disorders"
+    },
+    {
+      "id": "w3s1",
+      "name": "Session 1",
+      "topics": [
+        {
+          "id": "functional-anatomy-of-the-gluteal-region-hip-thigh-knee",
+          "name": "Functional Anatomy of the Gluteal Region, Hip, Thigh & Knee",
+          "sourceFile": "MSK Brick 23",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "vasculature-and-lymphatics-of-the-lower-extremities",
+          "name": "Vasculature and Lymphatics of the Lower Extremities",
+          "sourceFile": "MSK Brick 24",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "histology-of-adipose-tissue",
+          "name": "Histology of Adipose Tissue",
+          "sourceFile": "MSK Brick 25",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "msk-soft-tissue-tumors",
+          "name": "MSK: Soft Tissue Tumors",
+          "sourceFile": "MSK Brick 26",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        }
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": "Lower Limb, Bone Infection & Tumors"
+    },
+    {
+      "id": "w3s2",
+      "name": "Session 2",
+      "topics": [
+        {
+          "id": "msk-osteomyelitis",
+          "name": "MSK: Osteomyelitis",
+          "sourceFile": "MSK Brick 27",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "msk-bone-tumors",
+          "name": "MSK: Bone Tumors",
+          "sourceFile": "MSK Brick 28",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        }
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": "Lower Limb, Bone Infection & Tumors"
+    },
+    {
+      "id": "w3s3",
+      "name": "Session 3",
+      "topics": [
+        {
+          "id": "functional-anatomy-of-the-leg-ankle-and-foot",
+          "name": "Functional Anatomy of the Leg, Ankle and Foot",
+          "sourceFile": "MSK Brick 29",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "lower-extremity-injury-part-1-of-2",
+          "name": "Lower Extremity Injury- Part 1 of 2",
+          "sourceFile": "MSK Brick 30",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "lower-extremity-injury-part-2-of-2",
+          "name": "Lower Extremity Injury - Part 2 of 2",
+          "sourceFile": "MSK Brick 31",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        }
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": "Lower Limb, Bone Infection & Tumors"
     }
   ],
-  "totalQuestions": 792
+  "totalQuestions": 1116
 }

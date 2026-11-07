@@ -1,0 +1,2250 @@
+{
+  "categoryId": "w3s1",
+  "categoryName": "Session 1",
+  "questions": [
+    {
+      "id": "mk23-001",
+      "stem": "A 47-year-old man sustains a deep stab wound to the upper part of his left buttock. Two weeks later, when he stands on his left foot alone, the right side of his pelvis sags downward, and as he walks he lurches his trunk to the left with each left-sided step. Injury to which nerve best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Left femoral nerve"
+        },
+        {
+          "label": "B",
+          "text": "Left inferior gluteal nerve"
+        },
+        {
+          "label": "C",
+          "text": "Left obturator nerve"
+        },
+        {
+          "label": "D",
+          "text": "Left superior gluteal nerve"
+        },
+        {
+          "label": "E",
+          "text": "Right superior gluteal nerve"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Pelvic drop toward the unsupported side during single-leg stance points to abductor weakness on the stance side, from injury to that side's superior gluteal nerve.",
+        "whyCorrect": "The gluteus medius and minimus, supplied by the superior gluteal nerve, contract on the weight-bearing side to keep the pelvis from dropping toward the unsupported side. With the left nerve injured, standing on the left lets the right side of the pelvis drop (a positive Trendelenburg sign), and patients compensate by leaning the trunk toward the affected side.",
+        "whyWrongByChoice": {
+          "A": "The femoral nerve supplies the anterior thigh (knee extension, hip flexion); it does not supply the hip abductors that hold the pelvis level.",
+          "B": "The inferior gluteal nerve supplies gluteus maximus, a hip extender; its loss weakens propulsion, not pelvic leveling in single-leg stance.",
+          "C": "The obturator nerve supplies the thigh adductors; adductor weakness does not let the opposite side of the pelvis drop.",
+          "E": "The abductors that act during stance are on the weight-bearing (left) side; a right-sided lesion would cause a left pelvic drop while standing on the right foot."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Trendelenburg gait",
+        "superior gluteal nerve",
+        "hip abductors"
+      ],
+      "topicId": "functional-anatomy-of-the-gluteal-region-hip-thigh-knee",
+      "topicName": "Functional Anatomy of the Gluteal Region, Hip, Thigh & Knee",
+      "tier": "core"
+    },
+    {
+      "id": "mk23-002",
+      "stem": "An 81-year-old woman trips on a rug and cannot bear weight on her right leg. Radiographs show a displaced fracture through the narrow segment connecting the head of the thigh bone to its shaft. Which complication is of greatest concern specifically because of the location of this fracture?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Avascular necrosis of the femoral head"
+        },
+        {
+          "label": "B",
+          "text": "Compression of the sciatic nerve by the piriformis"
+        },
+        {
+          "label": "C",
+          "text": "Disruption of the medial meniscus"
+        },
+        {
+          "label": "D",
+          "text": "Paralysis of the gluteus medius and minimus"
+        },
+        {
+          "label": "E",
+          "text": "Rupture of the anterior cruciate ligament"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Femoral neck fractures can tear the vessels supplying the femoral head, causing avascular necrosis, which is why they are especially concerning in older adults.",
+        "whyCorrect": "The femoral neck connects the head to the shaft, and the vessels supplying the femoral head run along it. A fracture here can disrupt that blood supply, and the loss of blood flow can result in avascular necrosis of the femoral head.",
+        "whyWrongByChoice": {
+          "B": "Piriformis syndrome is a soft-tissue entrapment unrelated to a fracture at this site.",
+          "C": "The menisci lie between the femoral and tibial condyles at the knee, far from the proximal femur.",
+          "D": "These muscles are paralyzed by superior gluteal nerve injury, not by a fracture of the proximal femur.",
+          "E": "The ACL is an intra-articular knee ligament and is not affected by a proximal femoral fracture."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "femoral neck fracture",
+        "avascular necrosis",
+        "hip"
+      ],
+      "topicId": "functional-anatomy-of-the-gluteal-region-hip-thigh-knee",
+      "topicName": "Functional Anatomy of the Gluteal Region, Hip, Thigh & Knee",
+      "tier": "core"
+    },
+    {
+      "id": "mk23-003",
+      "stem": "A 33-year-old man is struck in the groin by a fragment of glass. Afterward he cannot straighten his knee against resistance, his leg buckles when he descends stairs, and lifting the thigh toward the chest is weaker than on the other side. Thigh adduction and hip abduction are normal. Which nerve is most likely injured?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Femoral nerve"
+        },
+        {
+          "label": "B",
+          "text": "Inferior gluteal nerve"
+        },
+        {
+          "label": "C",
+          "text": "Obturator nerve"
+        },
+        {
+          "label": "D",
+          "text": "Superior gluteal nerve"
+        },
+        {
+          "label": "E",
+          "text": "Tibial division of the sciatic nerve"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Weak knee extension plus weak hip flexion indicates femoral nerve injury.",
+        "whyCorrect": "The femoral nerve supplies the quadriceps femoris (the primary knee extensor), the sartorius, and most of the iliacus. Injury therefore weakens knee extension and may also impair hip flexion, while adduction (obturator nerve) and abduction (superior gluteal nerve) are spared.",
+        "whyWrongByChoice": {
+          "B": "This nerve supplies gluteus maximus, a hip extensor; it does not supply knee extensors or hip flexors.",
+          "C": "The obturator nerve supplies the medial compartment, and adduction is normal here.",
+          "D": "This nerve supplies the hip abductors, which are normal in this patient.",
+          "E": "The tibial division supplies the hamstrings, which extend the hip and flex the knee, the opposite of the deficits here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "femoral nerve",
+        "anterior thigh compartment",
+        "knee extension"
+      ],
+      "topicId": "functional-anatomy-of-the-gluteal-region-hip-thigh-knee",
+      "topicName": "Functional Anatomy of the Gluteal Region, Hip, Thigh & Knee",
+      "tier": "core"
+    },
+    {
+      "id": "mk23-004",
+      "stem": "A 52-year-old woman undergoes pelvic surgery during which the nerve that exits the pelvis to supply the medial thigh compartment is transected. Which action produced by a muscle in her medial thigh would most likely remain intact?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Knee flexion assisted by the gracilis"
+        },
+        {
+          "label": "B",
+          "text": "Lateral rotation of the thigh by obturator externus"
+        },
+        {
+          "label": "C",
+          "text": "Thigh adduction and hip flexion by adductor longus"
+        },
+        {
+          "label": "D",
+          "text": "Thigh adduction by the adductor part of adductor magnus"
+        },
+        {
+          "label": "E",
+          "text": "Thigh extension by the hamstring part of adductor magnus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Adductor magnus is dual-innervated: its hamstring part (thigh extension) is supplied by the tibial division of the sciatic nerve and survives obturator nerve injury.",
+        "whyCorrect": "The adductor magnus has two functionally distinct parts. The adductor part adducts the thigh and is supplied by the obturator nerve, but the hamstring part extends the thigh and is innervated by the tibial division of the sciatic nerve. Transection of the obturator nerve therefore spares extension by the hamstring part.",
+        "whyWrongByChoice": {
+          "A": "The gracilis is supplied by the obturator nerve and would be weakened along with its assisting action at the knee.",
+          "B": "Obturator externus is innervated by the obturator nerve and would be paralyzed.",
+          "C": "Adductor longus is innervated by the obturator nerve and would be weakened.",
+          "D": "The adductor part of adductor magnus is supplied by the obturator nerve and would be lost."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "obturator nerve",
+        "adductor magnus",
+        "dual innervation"
+      ],
+      "topicId": "functional-anatomy-of-the-gluteal-region-hip-thigh-knee",
+      "topicName": "Functional Anatomy of the Gluteal Region, Hip, Thigh & Knee",
+      "tier": "core"
+    },
+    {
+      "id": "mk23-005",
+      "stem": "A 61-year-old man has difficulty rising from a low chair and climbing stairs after a gluteal-region injury. He can stand on either leg with the pelvis level, and abduction strength is normal. Lying prone, he cannot lift the thigh backward against resistance. Which muscle is most likely weakened?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gluteus maximus"
+        },
+        {
+          "label": "B",
+          "text": "Gluteus medius"
+        },
+        {
+          "label": "C",
+          "text": "Iliopsoas"
+        },
+        {
+          "label": "D",
+          "text": "Piriformis"
+        },
+        {
+          "label": "E",
+          "text": "Tensor fasciae latae"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Gluteus maximus (inferior gluteal nerve) is the primary hip extensor for propulsion, such as climbing stairs or rising.",
+        "whyCorrect": "The gluteus maximus is the primary gluteal muscle responsible for hip extension and also laterally rotates the thigh. Working with the hamstrings, it generates propulsion for climbing stairs, running, and jumping. Its innervation, the inferior gluteal nerve, is separate from that of the abductors, so pelvic stability is preserved.",
+        "whyWrongByChoice": {
+          "B": "Gluteus medius abducts and stabilizes the pelvis, and both of those functions are normal here.",
+          "C": "The iliopsoas is the principal hip flexor; the deficit here is in extension.",
+          "D": "Piriformis is a deep lateral rotator; it is not the muscle responsible for powerful hip extension when rising or climbing.",
+          "E": "Tensor fasciae latae abducts and assists flexion of the hip rather than extension."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "gluteus maximus",
+        "inferior gluteal nerve",
+        "hip extension"
+      ],
+      "topicId": "functional-anatomy-of-the-gluteal-region-hip-thigh-knee",
+      "topicName": "Functional Anatomy of the Gluteal Region, Hip, Thigh & Knee",
+      "tier": "core"
+    },
+    {
+      "id": "mk23-006",
+      "stem": "A 29-year-old marathon runner has deep buttock pain radiating into the back of the thigh. It worsens during long car rides and when running hills, and lumbar spine imaging is normal. Which muscle is most likely irritating the nerve responsible for her symptoms as the nerve leaves the pelvis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gluteus medius"
+        },
+        {
+          "label": "B",
+          "text": "Gluteus minimus"
+        },
+        {
+          "label": "C",
+          "text": "Obturator internus"
+        },
+        {
+          "label": "D",
+          "text": "Piriformis"
+        },
+        {
+          "label": "E",
+          "text": "Quadratus femoris"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Piriformis syndrome: the piriformis compresses the sciatic nerve as it exits the pelvis, mimicking spinal nerve root irritation.",
+        "whyCorrect": "The sciatic nerve typically exits the greater sciatic foramen inferior to the piriformis. Irritation or compression here causes gluteal pain radiating into the posterior thigh, often worsened by prolonged sitting, running, or climbing stairs, and can resemble spinal nerve root irritation.",
+        "whyWrongByChoice": {
+          "A": "Gluteus medius is a superficial abductor that stabilizes the pelvis; it is not the muscle the nerve exits beneath.",
+          "B": "Gluteus minimus is a superficial-group abductor and is not described as compressing the nerve that exits the pelvis into the posterior thigh.",
+          "C": "Obturator internus is a deep lateral rotator, but the nerve exits the pelvis in relation to a different muscle.",
+          "E": "Quadratus femoris lies below the exit point of the nerve and is not the muscle implicated in this syndrome."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "piriformis syndrome",
+        "sciatic nerve",
+        "deep rotators"
+      ],
+      "topicId": "functional-anatomy-of-the-gluteal-region-hip-thigh-knee",
+      "topicName": "Functional Anatomy of the Gluteal Region, Hip, Thigh & Knee",
+      "tier": "core"
+    },
+    {
+      "id": "mk23-007",
+      "stem": "A gunshot wound in the mid-thigh damages only the fibers of the sciatic nerve that will continue as the common fibular nerve; the remaining fibers are intact. Which muscle of the thigh would be paralyzed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hamstring part of adductor magnus"
+        },
+        {
+          "label": "B",
+          "text": "Long head of biceps femoris"
+        },
+        {
+          "label": "C",
+          "text": "Semimembranosus"
+        },
+        {
+          "label": "D",
+          "text": "Semitendinosus"
+        },
+        {
+          "label": "E",
+          "text": "Short head of biceps femoris"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The short head of biceps femoris is the posterior-thigh exception: it arises from the femur, acts only at the knee, and is supplied by the common fibular division.",
+        "whyCorrect": "Most posterior thigh muscles (semitendinosus, semimembranosus, long head of biceps femoris, and the hamstring part of adductor magnus) are supplied by the tibial division. The short head of biceps femoris is the exception, receiving the common fibular division, so it alone is lost when only those fibers are injured.",
+        "whyWrongByChoice": {
+          "A": "The hamstring part of adductor magnus is innervated by the tibial division, which is intact.",
+          "B": "The long head arises from the ischial tuberosity and is supplied by the tibial division, unlike its companion head.",
+          "C": "Semimembranosus is supplied by the tibial division of the sciatic nerve.",
+          "D": "Semitendinosus is supplied by the tibial division of the sciatic nerve."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "posterior thigh",
+        "biceps femoris",
+        "common fibular division"
+      ],
+      "topicId": "functional-anatomy-of-the-gluteal-region-hip-thigh-knee",
+      "topicName": "Functional Anatomy of the Gluteal Region, Hip, Thigh & Knee",
+      "tier": "core"
+    },
+    {
+      "id": "mk23-008",
+      "stem": "A 22-year-old basketball player lands awkwardly from a jump and feels a pop in his knee. With the knee flexed, the examiner can pull the proximal tibia forward on the femur much farther than on the uninjured side. Which structure is most likely torn?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anterior cruciate ligament"
+        },
+        {
+          "label": "B",
+          "text": "Lateral collateral ligament"
+        },
+        {
+          "label": "C",
+          "text": "Medial collateral ligament"
+        },
+        {
+          "label": "D",
+          "text": "Patellar ligament"
+        },
+        {
+          "label": "E",
+          "text": "Posterior cruciate ligament"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The ACL limits anterior translation of the tibia relative to the femur.",
+        "whyCorrect": "The anterior and posterior cruciate ligaments cross within the knee joint and limit anterior and posterior tibial translation, respectively. Excess forward glide of the tibia on the femur therefore indicates ACL disruption.",
+        "whyWrongByChoice": {
+          "B": "The LCL resists varus stress, not forward translation of the tibia.",
+          "C": "The MCL resists valgus stress, not forward translation of the tibia.",
+          "D": "The patellar ligament links the patella to the tibial tuberosity and transmits quadriceps force; it does not restrain tibial translation.",
+          "E": "The PCL limits backward, not forward, translation of the tibia."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ACL",
+        "knee ligaments",
+        "anterior translation"
+      ],
+      "topicId": "functional-anatomy-of-the-gluteal-region-hip-thigh-knee",
+      "topicName": "Functional Anatomy of the Gluteal Region, Hip, Thigh & Knee",
+      "tier": "core"
+    },
+    {
+      "id": "mk23-009",
+      "stem": "A 19-year-old soccer player has the knee forced into valgus during a tackle. MRI shows a complete tear of the ligament on the inner side of the knee that resists this force. Because of a direct attachment between that ligament and an adjacent structure, which structure is also most likely injured?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetabular labrum"
+        },
+        {
+          "label": "B",
+          "text": "Lateral collateral ligament"
+        },
+        {
+          "label": "C",
+          "text": "Lateral meniscus"
+        },
+        {
+          "label": "D",
+          "text": "Medial meniscus"
+        },
+        {
+          "label": "E",
+          "text": "Posterior cruciate ligament"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The MCL is attached to the medial meniscus, so valgus injuries that tear the MCL often tear the medial meniscus too.",
+        "whyCorrect": "The MCL resists valgus stress and is attached to the medial meniscus. This anatomical relationship is why a valgus force commonly injures the ACL, MCL, and medial meniscus together, the unhappy triad.",
+        "whyWrongByChoice": {
+          "A": "The acetabular labrum is at the hip, not the knee.",
+          "B": "The LCL resists varus stress on the opposite side and is not attached to the torn ligament.",
+          "C": "The lateral meniscus is not attached to the ligament on the inner side of the knee.",
+          "E": "The PCL limits posterior tibial translation and is not part of the classic valgus injury pattern."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "MCL",
+        "medial meniscus",
+        "unhappy triad"
+      ],
+      "topicId": "functional-anatomy-of-the-gluteal-region-hip-thigh-knee",
+      "topicName": "Functional Anatomy of the Gluteal Region, Hip, Thigh & Knee",
+      "tier": "core"
+    },
+    {
+      "id": "mk23-010",
+      "stem": "A healthy 40-year-old man stands upright for a long time with his hips fully extended, leaning his pelvis slightly forward, and needs little muscle activity to stay upright. Which capsular structure is primarily responsible for limiting further hip extension in this posture?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetabular labrum"
+        },
+        {
+          "label": "B",
+          "text": "Iliofemoral ligament"
+        },
+        {
+          "label": "C",
+          "text": "Ischiofemoral ligament"
+        },
+        {
+          "label": "D",
+          "text": "Lateral collateral ligament"
+        },
+        {
+          "label": "E",
+          "text": "Pubofemoral ligament"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The iliofemoral ligament is the particularly strong capsular ligament that limits excessive hip extension.",
+        "whyCorrect": "The three capsular ligaments of the hip all become taut in extension, providing passive stability that reduces the muscular effort needed to stand upright. The iliofemoral ligament is particularly strong and is the one that limits excessive hip extension.",
+        "whyWrongByChoice": {
+          "A": "The labrum deepens the socket; it is a fibrocartilage ring on the rim, not a capsular ligament that limits extension.",
+          "C": "The ischiofemoral ligament becomes taut in extension but is noted for limiting medial rotation.",
+          "D": "The LCL is a knee ligament that resists varus stress.",
+          "E": "The pubofemoral ligament is noted for limiting excessive abduction."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hip joint",
+        "iliofemoral ligament",
+        "hip ligaments"
+      ],
+      "topicId": "functional-anatomy-of-the-gluteal-region-hip-thigh-knee",
+      "topicName": "Functional Anatomy of the Gluteal Region, Hip, Thigh & Knee",
+      "tier": "core"
+    },
+    {
+      "id": "mk23-011",
+      "stem": "During a physical examination, a patient sits with the knee flexed to 90 degrees. She can turn her foot and leg inward normally but cannot turn the leg outward against resistance. Weakness of which muscle best explains this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Biceps femoris"
+        },
+        {
+          "label": "B",
+          "text": "Gracilis"
+        },
+        {
+          "label": "C",
+          "text": "Sartorius"
+        },
+        {
+          "label": "D",
+          "text": "Semimembranosus"
+        },
+        {
+          "label": "E",
+          "text": "Semitendinosus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "With the knee flexed, the biceps femoris is the lateral rotator of the leg, while semitendinosus, semimembranosus, sartorius, and gracilis rotate it medially.",
+        "whyCorrect": "When the knee is flexed, limited rotation is possible. The semitendinosus and semimembranosus, together with the sartorius and gracilis, medially rotate the flexed leg, and the biceps femoris produces lateral rotation.",
+        "whyWrongByChoice": {
+          "B": "The gracilis contributes to medial, not lateral, rotation of the flexed leg.",
+          "C": "At the knee, the sartorius contributes to medial rotation of the flexed leg.",
+          "D": "Semimembranosus medially rotates the flexed leg.",
+          "E": "Semitendinosus medially rotates the flexed leg."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "knee rotation",
+        "biceps femoris",
+        "hamstrings"
+      ],
+      "topicId": "functional-anatomy-of-the-gluteal-region-hip-thigh-knee",
+      "topicName": "Functional Anatomy of the Gluteal Region, Hip, Thigh & Knee",
+      "tier": "core"
+    },
+    {
+      "id": "mk23-012",
+      "stem": "A 38-year-old woman has complete transection of the nerve that supplies the quadriceps femoris, high in the thigh just below where it enters. She can still flex her hip, though weakly. Which muscle most likely accounts for her remaining hip flexion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Iliacus"
+        },
+        {
+          "label": "B",
+          "text": "Psoas major"
+        },
+        {
+          "label": "C",
+          "text": "Rectus femoris"
+        },
+        {
+          "label": "D",
+          "text": "Sartorius"
+        },
+        {
+          "label": "E",
+          "text": "Vastus intermedius"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Psoas major is supplied by anterior rami of lumbar spinal nerves, so femoral nerve injury weakens but does not abolish hip flexion.",
+        "whyCorrect": "The iliopsoas (psoas major and iliacus) is the principal hip flexor. The femoral nerve supplies most of the iliacus, plus rectus femoris and sartorius, but psoas major is supplied by anterior rami of the lumbar spinal nerves. Hip flexion is therefore weakened, not lost, after femoral nerve injury.",
+        "whyWrongByChoice": {
+          "A": "Most of the iliacus is supplied by the femoral nerve, so it would be weakened.",
+          "C": "Rectus femoris assists hip flexion but is supplied by the femoral nerve.",
+          "D": "Sartorius flexes the hip but is innervated by the femoral nerve.",
+          "E": "Vastus intermedius acts only to extend the knee and is supplied by the femoral nerve."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "iliopsoas",
+        "psoas major",
+        "femoral nerve"
+      ],
+      "topicId": "functional-anatomy-of-the-gluteal-region-hip-thigh-knee",
+      "topicName": "Functional Anatomy of the Gluteal Region, Hip, Thigh & Knee",
+      "tier": "core"
+    },
+    {
+      "id": "mk24-001",
+      "stem": "A 79-year-old woman has an intracapsular fracture through the neck of her thigh bone. Six months later, imaging shows collapse of the bone's head from osteonecrosis. The vessel whose disruption most likely caused this is a branch of which artery?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deep femoral artery"
+        },
+        {
+          "label": "B",
+          "text": "External iliac artery"
+        },
+        {
+          "label": "C",
+          "text": "Inferior gluteal artery"
+        },
+        {
+          "label": "D",
+          "text": "Obturator artery"
+        },
+        {
+          "label": "E",
+          "text": "Popliteal artery"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The medial circumflex femoral artery, a branch of the deep femoral (profunda femoris) artery, is the principal supply to the femoral head and neck.",
+        "whyCorrect": "The medial circumflex femoral artery arises from the deep femoral artery and is the principal blood supply to the head and neck of the femur. An intracapsular femoral neck fracture can disrupt its branches, reducing flow through the trochanteric anastomosis and causing avascular necrosis (osteonecrosis) of the femoral head.",
+        "whyWrongByChoice": {
+          "B": "The external iliac artery continues as the femoral artery; it does not directly give the femoral head's principal supply.",
+          "C": "The inferior gluteal artery joins the cruciate anastomosis but does not give the principal supply to the femoral head.",
+          "D": "The obturator artery is an internal iliac branch to the medial thigh, not the parent of the principal femoral head supply.",
+          "E": "The popliteal artery supplies the knee and proximal leg, far from the femoral head."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "femoral head blood supply",
+        "deep femoral artery",
+        "avascular necrosis"
+      ],
+      "topicId": "vasculature-and-lymphatics-of-the-lower-extremities",
+      "topicName": "Vasculature and Lymphatics of the Lower Extremities",
+      "tier": "core"
+    },
+    {
+      "id": "mk24-002",
+      "stem": "A 58-year-old man has a swollen, tender, warm left calf two days after a long car trip. Ultrasound shows a thrombus in the left femoral vein. Which complication of this condition is the most immediately life-threatening?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Arterial claudication"
+        },
+        {
+          "label": "B",
+          "text": "Avascular necrosis of the femoral head"
+        },
+        {
+          "label": "C",
+          "text": "Lymph node enlargement at Virchow node"
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary embolism"
+        },
+        {
+          "label": "E",
+          "text": "Varicosity of superficial leg veins"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The greatest danger of deep vein thrombosis is embolization of the thrombus through the venous circulation to the lungs.",
+        "whyCorrect": "Part of a deep vein thrombus can dislodge and travel through the venous circulation to the lungs, producing a pulmonary embolism, a potentially life-threatening complication. Treatment with anticoagulation aims to prevent clot extension and embolization.",
+        "whyWrongByChoice": {
+          "A": "Claudication is exertional pain from arterial narrowing, not a complication of a venous clot.",
+          "B": "Avascular necrosis follows disruption of femoral head arteries, not venous thrombosis.",
+          "C": "An enlarged left supraclavicular node suggests abdominal malignancy, not DVT.",
+          "E": "Varicose veins reflect valve incompetence and are not the life-threatening danger of a DVT."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "deep vein thrombosis",
+        "pulmonary embolism"
+      ],
+      "topicId": "vasculature-and-lymphatics-of-the-lower-extremities",
+      "topicName": "Vasculature and Lymphatics of the Lower Extremities",
+      "tier": "core"
+    },
+    {
+      "id": "mk24-003",
+      "stem": "A 27-year-old motorcyclist sustains a knee dislocation. His foot is cool and pale, and pulses cannot be felt on the dorsum of the foot or behind the medial malleolus, while the groin pulse is strong. Which artery is most likely injured?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deep femoral artery"
+        },
+        {
+          "label": "B",
+          "text": "Dorsalis pedis artery"
+        },
+        {
+          "label": "C",
+          "text": "Fibular artery"
+        },
+        {
+          "label": "D",
+          "text": "Lateral circumflex femoral artery"
+        },
+        {
+          "label": "E",
+          "text": "Popliteal artery"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The popliteal artery is deep and relatively fixed in the popliteal fossa, so knee dislocations can injure it and abolish distal pulses.",
+        "whyCorrect": "The popliteal artery lies deep in the popliteal fossa and is relatively fixed in position. Knee dislocations and fractures of the distal femur or proximal tibia can injure it, compromising flow to the leg and foot; because it gives rise to both tibial arteries, distal pulses are lost.",
+        "whyWrongByChoice": {
+          "A": "The deep femoral artery supplies the thigh and does not continue to the leg and foot.",
+          "B": "Isolated dorsalis pedis injury would not abolish the pulse behind the medial malleolus.",
+          "C": "The fibular artery supplies the lateral compartment; its injury would not abolish both foot pulses.",
+          "D": "This branch supplies the proximal thigh and hip region, not the leg and foot."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "popliteal artery",
+        "knee dislocation",
+        "pulses"
+      ],
+      "topicId": "vasculature-and-lymphatics-of-the-lower-extremities",
+      "topicName": "Vasculature and Lymphatics of the Lower Extremities",
+      "tier": "core"
+    },
+    {
+      "id": "mk24-004",
+      "stem": "A 63-year-old man has weakness of dorsiflexion after an embolic event. The pulse on the top of his foot is absent, but the pulse behind the medial malleolus is normal. Occlusion of which artery best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anterior tibial artery"
+        },
+        {
+          "label": "B",
+          "text": "Fibular artery"
+        },
+        {
+          "label": "C",
+          "text": "Lateral plantar artery"
+        },
+        {
+          "label": "D",
+          "text": "Popliteal artery"
+        },
+        {
+          "label": "E",
+          "text": "Posterior tibial artery"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The anterior tibial artery supplies the anterior compartment (dorsiflexors) and continues as the dorsalis pedis artery.",
+        "whyCorrect": "The anterior tibial artery passes through the interosseous membrane into the anterior compartment, where it supplies the dorsiflexor muscles, and continues onto the foot as the dorsalis pedis artery. Its occlusion explains both the weakness and the lost dorsal foot pulse while the posterior tibial pulse is spared.",
+        "whyWrongByChoice": {
+          "B": "The fibular artery supplies the lateral compartment, not the dorsiflexors.",
+          "C": "The lateral plantar artery supplies the sole and forms the plantar arch.",
+          "D": "Popliteal occlusion would also abolish the pulse behind the medial malleolus.",
+          "E": "The posterior tibial artery produces the pulse behind the medial malleolus, which is normal."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "anterior tibial artery",
+        "dorsiflexors",
+        "dorsalis pedis"
+      ],
+      "topicId": "vasculature-and-lymphatics-of-the-lower-extremities",
+      "topicName": "Vasculature and Lymphatics of the Lower Extremities",
+      "tier": "core"
+    },
+    {
+      "id": "mk24-005",
+      "stem": "After diagnostic coronary angiography performed through a catheter in the groin, the sheath is removed. Against which structure is the artery pressed to control bleeding from the puncture site?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Femoral head"
+        },
+        {
+          "label": "B",
+          "text": "Greater trochanter"
+        },
+        {
+          "label": "C",
+          "text": "Ischial tuberosity"
+        },
+        {
+          "label": "D",
+          "text": "Lesser trochanter"
+        },
+        {
+          "label": "E",
+          "text": "Medial malleolus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The femoral artery can be compressed against the femoral head, so bleeding after catheter removal can usually be controlled.",
+        "whyCorrect": "The femoral artery is used for catheterization because it is large, superficial, and readily accessible. Because it can be compressed against the femoral head, bleeding can usually be controlled after the catheter is removed.",
+        "whyWrongByChoice": {
+          "B": "The greater trochanter lies laterally, away from the artery's course in the groin.",
+          "C": "The ischial tuberosity is posterior, deep to the buttock, not under the artery in the groin.",
+          "D": "The lesser trochanter is on the posteromedial femur and is not the structure used to compress the artery.",
+          "E": "The medial malleolus is the landmark for the posterior tibial pulse at the ankle."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "femoral artery",
+        "catheterization",
+        "compression"
+      ],
+      "topicId": "vasculature-and-lymphatics-of-the-lower-extremities",
+      "topicName": "Vasculature and Lymphatics of the Lower Extremities",
+      "tier": "core"
+    },
+    {
+      "id": "mk24-006",
+      "stem": "A 52-year-old woman has dilated, tortuous superficial veins along the inner side of her calf and thigh and complains of leg heaviness by evening. Which vein is most likely involved?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "External iliac vein"
+        },
+        {
+          "label": "B",
+          "text": "Femoral vein"
+        },
+        {
+          "label": "C",
+          "text": "Great saphenous vein"
+        },
+        {
+          "label": "D",
+          "text": "Popliteal vein"
+        },
+        {
+          "label": "E",
+          "text": "Posterior tibial vein"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The great saphenous vein is the most clinically important superficial vein and is commonly affected by varicose veins.",
+        "whyCorrect": "The great saphenous vein begins on the medial dorsum of the foot and ascends along the medial leg and thigh. It is commonly affected by varicose veins, which develop when venous valves become incompetent, causing symptoms from cosmetic enlargement to aching and heaviness.",
+        "whyWrongByChoice": {
+          "A": "The external iliac vein is a deep vein within the pelvis.",
+          "B": "The femoral vein is a deep vein that accompanies the femoral artery.",
+          "D": "The popliteal vein is a deep vein in the popliteal fossa.",
+          "E": "The posterior tibial vein is a deep vein accompanying its artery."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "great saphenous vein",
+        "varicose veins"
+      ],
+      "topicId": "vasculature-and-lymphatics-of-the-lower-extremities",
+      "topicName": "Vasculature and Lymphatics of the Lower Extremities",
+      "tier": "core"
+    },
+    {
+      "id": "mk24-007",
+      "stem": "A 45-year-old surgeon becomes lightheaded during a long operation in which she stands still for hours. She is advised to periodically contract her calf muscles. This advice works chiefly by which mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Augmenting arterial inflow to the leg muscles"
+        },
+        {
+          "label": "B",
+          "text": "Closing venous valves to raise distal venous pressure"
+        },
+        {
+          "label": "C",
+          "text": "Compressing deep veins to propel blood toward the heart"
+        },
+        {
+          "label": "D",
+          "text": "Constricting the femoral artery to raise blood pressure"
+        },
+        {
+          "label": "E",
+          "text": "Diverting leg blood into lymphatic vessels for return"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Calf and thigh contraction compresses the deep veins (the skeletal muscle pump), propelling blood toward the heart against gravity.",
+        "whyCorrect": "Venous return from the legs must overcome gravity and relies on one-way valves and the skeletal muscle pump. Standing motionless reduces the pump's effectiveness, so blood pools, venous return and cardiac output fall, and lightheadedness or syncope can follow. Contracting the calves restores the pump.",
+        "whyWrongByChoice": {
+          "A": "More arterial inflow would not return pooled venous blood to the heart.",
+          "B": "Valves prevent backflow; raising distal venous pressure would worsen pooling, not relieve it.",
+          "D": "Arterial constriction is not how calf contraction improves venous return.",
+          "E": "Lymphatics return interstitial fluid, not venous blood, and are not the mechanism here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "skeletal muscle pump",
+        "venous return",
+        "syncope"
+      ],
+      "topicId": "vasculature-and-lymphatics-of-the-lower-extremities",
+      "topicName": "Vasculature and Lymphatics of the Lower Extremities",
+      "tier": "core"
+    },
+    {
+      "id": "mk24-008",
+      "stem": "Lymph collected from the right foot of a 40-year-old woman is traced with a radiotracer. At which site does this lymph ultimately re-enter the venous circulation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Femoral vein"
+        },
+        {
+          "label": "B",
+          "text": "Inferior vena cava"
+        },
+        {
+          "label": "C",
+          "text": "Left subclavian vein"
+        },
+        {
+          "label": "D",
+          "text": "Right lymphatic duct"
+        },
+        {
+          "label": "E",
+          "text": "Right subclavian vein"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Lymph from both lower limbs drains via the lumbar trunks and cisterna chyli into the thoracic duct, which empties into the left subclavian vein.",
+        "whyCorrect": "Lymph from the lower extremities drains into the lumbar lymphatic trunks, which converge at the cisterna chyli before entering the thoracic duct. The thoracic duct ascends through the thorax and empties into the left subclavian vein, even for lymph from the right lower limb.",
+        "whyWrongByChoice": {
+          "A": "Lymph from the lower limb is not returned to the femoral vein; it passes through the trunk lymphatics first.",
+          "B": "The IVC receives deep venous blood from the legs, not the lymph.",
+          "D": "Lymph from both lower limbs passes through the lumbar trunks and cisterna chyli into the thoracic duct, not the right duct.",
+          "E": "Even right lower-limb lymph travels in the thoracic duct, which empties on the left."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "lymphatic drainage",
+        "thoracic duct",
+        "left subclavian vein"
+      ],
+      "topicId": "vasculature-and-lymphatics-of-the-lower-extremities",
+      "topicName": "Vasculature and Lymphatics of the Lower Extremities",
+      "tier": "core"
+    },
+    {
+      "id": "mk24-009",
+      "stem": "Angiography in a 70-year-old man shows an arterial network posterior to the proximal femur, near the lesser trochanter, linking the circumflex femoral arteries and the first perforating artery. Which branch of the internal iliac artery also joins this network?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Genicular artery"
+        },
+        {
+          "label": "B",
+          "text": "Inferior gluteal artery"
+        },
+        {
+          "label": "C",
+          "text": "Obturator artery"
+        },
+        {
+          "label": "D",
+          "text": "Superior gluteal artery"
+        },
+        {
+          "label": "E",
+          "text": "Sural artery"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The cruciate anastomosis connects the inferior gluteal artery with the medial and lateral circumflex femoral arteries and the first perforating artery.",
+        "whyCorrect": "The cruciate anastomosis lies posterior to the proximal femur near the lesser trochanter. It connects branches of the inferior gluteal artery with the medial and lateral circumflex femoral arteries and the first perforating artery. The superior gluteal artery instead contributes to the trochanteric anastomosis.",
+        "whyWrongByChoice": {
+          "A": "Genicular arteries arise from the popliteal artery and form the network around the knee.",
+          "C": "The obturator artery is an internal iliac branch but is not named as a contributor to this network.",
+          "D": "The superior gluteal artery contributes to the trochanteric anastomosis around the femoral neck, not this network.",
+          "E": "Sural arteries arise from the popliteal artery to supply the calf muscles; they are not internal iliac branches."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cruciate anastomosis",
+        "inferior gluteal artery",
+        "collateral circulation"
+      ],
+      "topicId": "vasculature-and-lymphatics-of-the-lower-extremities",
+      "topicName": "Vasculature and Lymphatics of the Lower Extremities",
+      "tier": "core"
+    },
+    {
+      "id": "mk24-010",
+      "stem": "A 66-year-old man has an arterial occlusion exactly where the main artery of the thigh passes through an opening into the space behind the knee and changes its name. Which opening is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adductor hiatus"
+        },
+        {
+          "label": "B",
+          "text": "Greater sciatic foramen"
+        },
+        {
+          "label": "C",
+          "text": "Inguinal ligament passage"
+        },
+        {
+          "label": "D",
+          "text": "Interosseous membrane opening"
+        },
+        {
+          "label": "E",
+          "text": "Tarsal tunnel"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The femoral artery becomes the popliteal artery after passing through the adductor hiatus into the popliteal fossa.",
+        "whyCorrect": "The femoral artery continues distally and becomes the popliteal artery after passing through the adductor hiatus and entering the popliteal fossa.",
+        "whyWrongByChoice": {
+          "B": "The greater sciatic foramen is in the pelvis, far proximal to this transition.",
+          "C": "Passing deep to the inguinal ligament is where the external iliac becomes the femoral artery.",
+          "D": "The opening in the interosseous membrane admits the anterior tibial artery to the anterior compartment of the leg.",
+          "E": "The posterior tibial artery passes through the tarsal tunnel, behind the medial malleolus."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "adductor hiatus",
+        "femoral artery",
+        "popliteal artery"
+      ],
+      "topicId": "vasculature-and-lymphatics-of-the-lower-extremities",
+      "topicName": "Vasculature and Lymphatics of the Lower Extremities",
+      "tier": "core"
+    },
+    {
+      "id": "mk24-011",
+      "stem": "A 68-year-old man who smokes reports cramping calf pain that comes on after walking two blocks and resolves within minutes of resting. Which process best explains his pain?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atherosclerotic narrowing of leg arteries"
+        },
+        {
+          "label": "B",
+          "text": "Backup of lymph from the cisterna chyli"
+        },
+        {
+          "label": "C",
+          "text": "Incompetent valves of superficial veins"
+        },
+        {
+          "label": "D",
+          "text": "Thrombus within the popliteal vein"
+        },
+        {
+          "label": "E",
+          "text": "Venous pooling from a failed muscle pump"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Peripheral artery disease causes claudication: exertional leg or buttock pain from reduced oxygen delivery to muscles, relieved by rest.",
+        "whyCorrect": "When atherosclerosis narrows lower-extremity arteries, peripheral artery disease results. Patients develop leg or buttock pain (claudication) when walking or climbing stairs because oxygen delivery to the muscles cannot meet demand; the pain is relieved by rest.",
+        "whyWrongByChoice": {
+          "B": "Lymphatic obstruction does not cause exertional pain relieved by rest.",
+          "C": "Valve incompetence causes varicose veins with aching and heaviness, not exertion-triggered pain.",
+          "D": "DVT causes persistent swelling, redness, and tenderness, not pain that resolves with rest.",
+          "E": "Venous pooling occurs with prolonged motionless standing, not with walking."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "peripheral artery disease",
+        "claudication"
+      ],
+      "topicId": "vasculature-and-lymphatics-of-the-lower-extremities",
+      "topicName": "Vasculature and Lymphatics of the Lower Extremities",
+      "tier": "core"
+    },
+    {
+      "id": "mk24-012",
+      "stem": "A 59-year-old woman has a vascular injury that produces ischemia limited to the muscles of the lateral compartment of the leg. The injured vessel is a branch of which artery?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anterior tibial artery"
+        },
+        {
+          "label": "B",
+          "text": "Deep femoral artery"
+        },
+        {
+          "label": "C",
+          "text": "Dorsalis pedis artery"
+        },
+        {
+          "label": "D",
+          "text": "Posterior tibial artery"
+        },
+        {
+          "label": "E",
+          "text": "Sural artery"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The fibular (peroneal) artery, a branch of the posterior tibial artery, supplies the lateral compartment of the leg.",
+        "whyCorrect": "The posterior tibial artery descends through the posterior compartment, supplying the plantarflexors, and gives rise to the fibular (peroneal) artery, which supplies the lateral compartment of the leg.",
+        "whyWrongByChoice": {
+          "A": "The anterior tibial artery supplies the anterior compartment, and the lateral compartment's artery does not arise from it.",
+          "B": "The deep femoral artery supplies the thigh through circumflex and perforating branches.",
+          "C": "The dorsalis pedis supplies the dorsum of the foot and does not give the lateral compartment's artery.",
+          "E": "Sural arteries arise from the popliteal artery and supply the gastrocnemius, soleus, and plantaris."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "fibular artery",
+        "posterior tibial artery",
+        "lateral compartment"
+      ],
+      "topicId": "vasculature-and-lymphatics-of-the-lower-extremities",
+      "topicName": "Vasculature and Lymphatics of the Lower Extremities",
+      "tier": "core"
+    },
+    {
+      "id": "mk25-001",
+      "stem": "A 40-year-old man has a benign skin cyst excised from his flank, and the specimen includes a rim of the underlying hypodermis. On H&E staining, the hypodermis is filled with big, round, empty-appearing cells packed closely together. Which description best fits the predominant cell type in that layer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Many small droplets around an eccentric nucleus in ample cytoplasm"
+        },
+        {
+          "label": "B",
+          "text": "Mononuclear cells mixed with multinucleated giant cells"
+        },
+        {
+          "label": "C",
+          "text": "One large droplet pushing a thin nucleus to the cell edge"
+        },
+        {
+          "label": "D",
+          "text": "Polygonal cells with variable droplets arranged in plates"
+        },
+        {
+          "label": "E",
+          "text": "Spindle cells with abundant cytoplasm in wavy bundles"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "White adipocytes have a single central lipid droplet that pushes a thin rim of cytoplasm and the nucleus to the periphery.",
+        "whyCorrect": "Subcutaneous fat in adults is white adipose tissue. Each white adipocyte contains one central lipid droplet that displaces the cytoplasm and nucleus to the cell periphery, where both are often quite thin. Because the lipid dissolves during processing, the cells look empty.",
+        "whyWrongByChoice": {
+          "A": "This describes a brown adipocyte, which is mostly seen in newborns, not the hypodermis of an adult.",
+          "B": "This describes a giant-cell lesion of synovium, not normal adipose tissue.",
+          "D": "Variable numbers of droplets in plate-like cells describes fatty hepatocytes in hepatic steatosis.",
+          "E": "Spindle-shaped cells are not the round, lipid-filled cells described."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "white adipocyte",
+        "histology"
+      ],
+      "topicId": "histology-of-adipose-tissue",
+      "topicName": "Histology of Adipose Tissue",
+      "tier": "core"
+    },
+    {
+      "id": "mk25-002",
+      "stem": "A full-term newborn is placed briefly on a cool examination table. Within minutes, tissue packed with mitochondria in the infant's neck and around the vertebrae increases its oxidation of fat and releases heat without any muscle activity. By which mechanism does this tissue produce heat?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hydrolyzing a single large triglyceride droplet to release glycerol for heat"
+        },
+        {
+          "label": "B",
+          "text": "Letting the proton gradient dissipate as heat instead of making ATP"
+        },
+        {
+          "label": "C",
+          "text": "Releasing leptin that raises the hypothalamic set point for body temperature"
+        },
+        {
+          "label": "D",
+          "text": "Thickening the hypodermal fat layer to reduce conductive heat loss"
+        },
+        {
+          "label": "E",
+          "text": "Using the proton gradient to accelerate ATP synthesis by oxidative phosphorylation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Brown fat makes heat through uncoupling protein 1 (UCP1), which converts proton movement across the mitochondrial membrane into heat rather than ATP.",
+        "whyCorrect": "Brown adipocytes contain many mitochondria with a unique membrane protein, mitochondrial uncoupling protein 1 (UCP1). Normally proton movement across the mitochondrial membrane drives ATP production (oxidative phosphorylation); UCP1 instead converts that proton motion into heat, uncoupling ion movement from ATP generation. This thermogenesis helps maintain newborn body temperature.",
+        "whyWrongByChoice": {
+          "A": "A single droplet is a white adipocyte feature; glycerol goes to the liver for glucose synthesis, not heat.",
+          "C": "Leptin acts on the hypothalamus to regulate appetite and satiety, not to generate heat.",
+          "D": "Subcutaneous white fat insulates, but insulation does not generate endogenous heat.",
+          "E": "Coupling proton flow to ATP synthesis is ordinary oxidative phosphorylation; brown fat specifically bypasses it."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "brown fat",
+        "UCP1",
+        "thermogenesis"
+      ],
+      "topicId": "histology-of-adipose-tissue",
+      "topicName": "Histology of Adipose Tissue",
+      "tier": "core"
+    },
+    {
+      "id": "mk25-003",
+      "stem": "Two 50-year-old men have the same body mass index. CT shows that in one man most of the excess fat lies packed around the liver, mesentery and bowel loops, while in the other it lies mostly beneath the skin. The first man has fasting hyperglycemia, hypertriglyceridemia and hypertension. Excess in which fat depot best explains his findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Breast fat"
+        },
+        {
+          "label": "B",
+          "text": "Brown fat"
+        },
+        {
+          "label": "C",
+          "text": "Marrow fat"
+        },
+        {
+          "label": "D",
+          "text": "Subcutaneous fat"
+        },
+        {
+          "label": "E",
+          "text": "Visceral fat"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Visceral (intra-abdominal) fat is the depot associated with insulin resistance, metabolic syndrome, type 2 diabetes and cardiovascular disease.",
+        "whyCorrect": "Fat packed between the abdominal organs is visceral, or intra-abdominal, fat. Unlike subcutaneous fat, it is associated with insulin resistance, metabolic syndrome and type 2 diabetes mellitus, and with higher rates of cardiovascular disease. His hyperglycemia, high triglycerides and hypertension fit metabolic syndrome.",
+        "whyWrongByChoice": {
+          "A": "Breast fat lies in breast tissue and is not known to affect disease prognosis.",
+          "B": "Brown fat generates heat and is not associated with cardiovascular or metabolic disease.",
+          "C": "Marrow fat lies among hematopoietic cells in bone marrow and is not the depot around the abdominal organs.",
+          "D": "Subcutaneous fat is not tied to the classic obesity-related diseases and may even be protective; it is the other man's pattern."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "visceral fat",
+        "type 2 diabetes",
+        "metabolic syndrome"
+      ],
+      "topicId": "histology-of-adipose-tissue",
+      "topicName": "Histology of Adipose Tissue",
+      "tier": "core"
+    },
+    {
+      "id": "mk25-004",
+      "stem": "A 47-year-old woman with type 2 diabetes begins basal-bolus injection therapy. Over the next 6 months her glucose control improves but she gains 5 kg, mostly as adipose tissue. Which direct effect of her new medication on white adipocytes contributes most to the weight gain?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activating lipase to split triglycerides into fatty acids"
+        },
+        {
+          "label": "B",
+          "text": "Inducing uncoupling protein 1 in the white adipocytes"
+        },
+        {
+          "label": "C",
+          "text": "Raising leptin resistance at hypothalamic receptor sites"
+        },
+        {
+          "label": "D",
+          "text": "Releasing glycerol from adipocytes for hepatic glucose output"
+        },
+        {
+          "label": "E",
+          "text": "Suppressing lipolysis while stimulating lipid synthesis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Insulin is the main fat storage hormone: it suppresses lipolysis and stimulates lipid synthesis in adipocytes.",
+        "whyCorrect": "Basal-bolus therapy is insulin. Insulin promotes triglyceride storage by suppressing lipolysis and stimulating lipid synthesis within adipocytes, enlarging the lipid droplet; adipocytes can grow up to 20-fold in diameter this way.",
+        "whyWrongByChoice": {
+          "A": "Lipase activation causes fat mobilization; it is triggered by epinephrine, glucagon, GH and cortisol, not by the storage hormone.",
+          "B": "UCP1 is the heat-generating protein of brown fat, and inducing it would burn rather than store fat.",
+          "C": "Leptin resistance explains persistent appetite in obesity, but it is not a direct adipocyte effect of this drug.",
+          "D": "Glycerol release follows triglyceride breakdown, which is the opposite of fat storage."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "insulin",
+        "fat storage"
+      ],
+      "topicId": "histology-of-adipose-tissue",
+      "topicName": "Histology of Adipose Tissue",
+      "tier": "core"
+    },
+    {
+      "id": "mk25-005",
+      "stem": "During a 36-hour fast, rising glucagon, cortisol and catecholamines act on a man's white adipocytes and break down their stored triglycerides. What is the main fate of the three-carbon backbone released from each triglyceride molecule?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Conversion by the hypothalamus into leptin"
+        },
+        {
+          "label": "B",
+          "text": "Oxidation by cardiac muscle as its preferred fuel"
+        },
+        {
+          "label": "C",
+          "text": "Re-esterification inside brown fat to generate heat"
+        },
+        {
+          "label": "D",
+          "text": "Storage by skeletal muscle as intracellular fat"
+        },
+        {
+          "label": "E",
+          "text": "Uptake by the liver to synthesize new glucose"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Lipolysis yields fatty acids (used by muscle and heart for energy) and glycerol (taken up by the liver to make new glucose).",
+        "whyCorrect": "Mobilizing hormones (epinephrine, norepinephrine, glucagon, growth hormone and cortisol) activate lipase, which breaks stored triglycerides into fatty acids and glycerol. The glycerol backbone is taken up by the liver and used to make new glucose.",
+        "whyWrongByChoice": {
+          "A": "Leptin is a protein hormone made by white adipocytes, not a product made from glycerol.",
+          "B": "Fatty acids, not the glycerol backbone, are the products used by muscle and cardiac tissue for energy.",
+          "C": "Brown fat burns its own stored fat via UCP1; it is not where released glycerol goes.",
+          "D": "Fat inside muscle is pathologic ectopic deposition of fatty acids, not the normal fate of glycerol."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "lipolysis",
+        "glycerol",
+        "gluconeogenesis"
+      ],
+      "topicId": "histology-of-adipose-tissue",
+      "topicName": "Histology of Adipose Tissue",
+      "tier": "core"
+    },
+    {
+      "id": "mk25-006",
+      "stem": "A 34-year-old woman loses 9 kg over 4 months on a calorie-restricted diet. She reports that she now feels hungry much of the day and has trouble feeling full after meals. Which change best explains her increased appetite?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Expansion of brown fat that burns more fuel"
+        },
+        {
+          "label": "B",
+          "text": "Falling leptin output as her fat mass shrinks"
+        },
+        {
+          "label": "C",
+          "text": "Increased cytokine release from her adipose tissue"
+        },
+        {
+          "label": "D",
+          "text": "Increased insulin action that promotes fat storage"
+        },
+        {
+          "label": "E",
+          "text": "Rising leptin output from shrinking adipocytes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Leptin levels track fat mass; when fat is lost during dieting, leptin falls and appetite increases.",
+        "whyCorrect": "White adipocytes are the major producers of leptin, which acts on the hypothalamus to reduce hunger and stimulate satiety. Higher fat mass means higher leptin; when we diet, leptin levels drop and appetite increases. Leptin probably evolved as a signal of starvation.",
+        "whyWrongByChoice": {
+          "A": "Brown fat decreases with age and there is no proven way for adults to convert white fat to brown.",
+          "C": "Cytokine output reflects the inflammatory state of obesity, not the appetite response to dieting.",
+          "D": "Insulin is the fat storage hormone; it does not explain the hunger signal that follows fat loss.",
+          "E": "Leptin rises with fat mass, so it falls, not rises, as fat is lost; higher leptin would reduce hunger."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "leptin",
+        "appetite",
+        "dieting"
+      ],
+      "topicId": "histology-of-adipose-tissue",
+      "topicName": "Histology of Adipose Tissue",
+      "tier": "core"
+    },
+    {
+      "id": "mk25-007",
+      "stem": "A 55-year-old obese man asks why excess body fat would raise his risk of myocardial infarction and some cancers beyond its effect on weight. His physician explains that adipose tissue behaves as an active organ. Which mechanism linking his adipose tissue to these risks is best supported?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic inflammation from cytokines of adipocytes and resident macrophages"
+        },
+        {
+          "label": "B",
+          "text": "Estrogen deficiency produced by enlarged white adipocytes"
+        },
+        {
+          "label": "C",
+          "text": "Excess heat production by uncoupled mitochondria in white fat"
+        },
+        {
+          "label": "D",
+          "text": "Leptin oversupply that directly causes coronary plaque rupture"
+        },
+        {
+          "label": "E",
+          "text": "Mechanical padding of viscera that compresses the coronary arteries"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Obesity is an inflammatory state: adipocytes and adipose macrophages secrete cytokines that raise cardiovascular and cancer risk.",
+        "whyCorrect": "Adipocytes secrete cytokines and inflammatory modulators such as plasminogen activator inhibitor 1, monocyte chemoattractant protein 1, TNF-alpha, IL-6 and IL-8, and resident macrophages add pro-inflammatory cytokines. This increased inflammation offers one explanation for why obesity leads to high rates of cardiovascular disease and some cancers.",
+        "whyWrongByChoice": {
+          "B": "Adipose tissue releases estrogen; it does not cause estrogen deficiency.",
+          "C": "Uncoupled heat production is a brown fat function, and brown fat is not associated with cardiovascular disease.",
+          "D": "Leptin acts on the hypothalamus to signal satiety; it is not described as directly injuring coronary arteries.",
+          "E": "Padding of visceral organs is a normal protective function, not the mechanism of increased risk."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cytokines",
+        "inflammation",
+        "obesity",
+        "cardiovascular disease"
+      ],
+      "topicId": "histology-of-adipose-tissue",
+      "topicName": "Histology of Adipose Tissue",
+      "tier": "core"
+    },
+    {
+      "id": "mk25-008",
+      "stem": "A 57-year-old woman, 6 years past her last menstrual period, notes that her waist has widened over several years while her weight and her hip and thigh measurements have stayed about the same. Which change in her body fat most directly increases her cardiovascular risk?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Conversion of her white fat into heat-producing brown fat"
+        },
+        {
+          "label": "B",
+          "text": "Increased fat content within the breast parenchyma"
+        },
+        {
+          "label": "C",
+          "text": "Loss of marrow fat as hematopoietic cells expand"
+        },
+        {
+          "label": "D",
+          "text": "Migration from beneath the skin into the abdominal cavity"
+        },
+        {
+          "label": "E",
+          "text": "Migration from the abdominal cavity into the hypodermis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "After menopause, fat migrates from a subcutaneous to a visceral distribution, raising cardiovascular risk.",
+        "whyCorrect": "Premenopausal females, because of sex hormone differences, store more fat subcutaneously around the hips, thighs and buttocks, a lower-risk pattern. After menopause, fat migrates from the subcutaneous to the visceral (intra-abdominal) distribution, increasing cardiovascular risk.",
+        "whyWrongByChoice": {
+          "A": "There is no proven way for adults to convert white fat to brown, and brown fat is not linked to cardiovascular disease.",
+          "B": "Breast fat is not known to affect disease prognosis.",
+          "C": "Marrow fat changes are not the mechanism of increased cardiovascular risk after menopause.",
+          "E": "This is the reverse of the postmenopausal shift; fat moves out of the subcutaneous compartment, not into it."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "fat distribution",
+        "menopause",
+        "sex hormones"
+      ],
+      "topicId": "histology-of-adipose-tissue",
+      "topicName": "Histology of Adipose Tissue",
+      "tier": "core"
+    },
+    {
+      "id": "mk25-009",
+      "stem": "In a man with long-standing obesity, fat begins to accumulate inside his hepatocytes, pancreas, skeletal muscle and heart. Which event within his white adipose tissue starts the sequence that leads to this deposition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adipocytes enlarging beyond what their blood supply can support"
+        },
+        {
+          "label": "B",
+          "text": "Insulin suppressing lipolysis so fatty acids stay inside adipocytes"
+        },
+        {
+          "label": "C",
+          "text": "Leptin excess blocking uptake of free fatty acids by peripheral organs"
+        },
+        {
+          "label": "D",
+          "text": "Marrow stem cells migrating out and maturing within distant organs"
+        },
+        {
+          "label": "E",
+          "text": "Uncoupling protein 1 activation draining the stored triglycerides"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Ectopic fat begins when white adipocytes outgrow their blood supply, triggering cytokine-driven inflammation that redirects free fatty acids to other organs.",
+        "whyCorrect": "When white adipocytes get too big for their blood supply they release stress signals such as cytokines, which attract immune cells and induce chronic inflammation. Some cytokines interfere with insulin signaling, reduce lipid accumulation and increase lipolysis, redirecting free fatty acids to skeletal muscle, liver, pancreas and heart. Their uptake there is ectopic fat deposition.",
+        "whyWrongByChoice": {
+          "B": "Insulin-driven storage keeps fat in adipocytes; the ectopic process involves impaired insulin signaling and increased lipolysis.",
+          "C": "Leptin is a satiety hormone acting on the hypothalamus; it does not block fatty acid uptake.",
+          "D": "Mesenchymal stem cells give rise to marrow adipocytes and bone cells; they are not the source of ectopic fat.",
+          "E": "UCP1 is a brown fat protein that burns fat for heat; it does not redirect fat to other organs."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ectopic fat",
+        "pathogenesis"
+      ],
+      "topicId": "histology-of-adipose-tissue",
+      "topicName": "Histology of Adipose Tissue",
+      "tier": "core"
+    },
+    {
+      "id": "mk25-010",
+      "stem": "A 49-year-old man who drinks a pint of vodka daily has mildly elevated liver enzymes. Liver biopsy shows that nearly every hepatocyte contains lipid, in differing amounts and in differing numbers of droplets per cell. If this process continues unchecked, which outcome is he at greatest risk of developing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cirrhosis with progressive hepatic failure"
+        },
+        {
+          "label": "B",
+          "text": "Conversion of liver fat into marrow-type adipose"
+        },
+        {
+          "label": "C",
+          "text": "Increased hepatic leptin output suppressing appetite"
+        },
+        {
+          "label": "D",
+          "text": "Replacement of hepatocytes by brown adipocytes"
+        },
+        {
+          "label": "E",
+          "text": "Spontaneous clearance of fat without lasting harm"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Hepatic steatosis (fatty liver), from metabolic syndrome or heavy alcohol use, may progress to cirrhosis.",
+        "whyCorrect": "Fat within hepatocytes, in variable amounts and variable numbers of intracellular droplets, is hepatic steatosis, a form of ectopic fat. It can be seen with metabolic syndrome or result from heavy alcohol use, and it may progress to cirrhosis (fibrosis and scarring) with progressive loss of liver function.",
+        "whyWrongByChoice": {
+          "B": "Marrow fat derives from mesenchymal stem cells in bone marrow, not from fatty hepatocytes.",
+          "C": "Leptin is made mainly by white adipocytes, not by the liver.",
+          "D": "Hepatocytes do not turn into brown fat; brown fat sits in the neck, shoulders, around the vertebrae and over the kidneys.",
+          "E": "Hepatic steatosis may progress to cirrhosis; it is not described as harmless."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hepatic steatosis",
+        "alcohol",
+        "cirrhosis"
+      ],
+      "topicId": "histology-of-adipose-tissue",
+      "topicName": "Histology of Adipose Tissue",
+      "tier": "core"
+    },
+    {
+      "id": "mk25-011",
+      "stem": "A PET-CT scan of a 25-year-old woman performed in a cold room shows symmetric, metabolically active fat that is distinct from her white fat. In which locations is this heat-generating fat expected to be found?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hips, thighs and buttocks beneath the skin"
+        },
+        {
+          "label": "B",
+          "text": "Neck, shoulders, paravertebral and perirenal areas"
+        },
+        {
+          "label": "C",
+          "text": "Packed between the abdominal organs and mesentery"
+        },
+        {
+          "label": "D",
+          "text": "Within bone marrow among the hematopoietic cells"
+        },
+        {
+          "label": "E",
+          "text": "Within the breast parenchyma beneath the nipple"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In humans, brown fat lies in the shoulders and neck, around the vertebrae and over the kidneys, unlike the subcutaneous and abdominal white fat.",
+        "whyCorrect": "Brown fat generates heat (thermogenesis). In humans it decreases with age but persists in small amounts, located in the shoulders and neck, around the vertebrae and over the kidneys, a pattern very different from the subcutaneous and abdominal distribution of white fat.",
+        "whyWrongByChoice": {
+          "A": "This is the subcutaneous white fat pattern of premenopausal females.",
+          "C": "This is visceral white fat, associated with insulin resistance and cardiovascular disease.",
+          "D": "Marrow fat is white fat derived from mesenchymal stem cells.",
+          "E": "Breast fat is white fat and does not generate heat."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "brown fat",
+        "distribution"
+      ],
+      "topicId": "histology-of-adipose-tissue",
+      "topicName": "Histology of Adipose Tissue",
+      "tier": "core"
+    },
+    {
+      "id": "mk25-012",
+      "stem": "An infant born at 25 weeks' gestation is intubated for severe respiratory distress, and his arterial oxygen tension remains low despite ventilation. His axillary temperature is 35.1 C (95.2 F). Which combination of factors best explains his poor ability to generate body heat?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Excess white fat in the hypodermis that traps heat inside the body"
+        },
+        {
+          "label": "B",
+          "text": "Immature brown fat whose metabolism is further impaired by hypoxemia"
+        },
+        {
+          "label": "C",
+          "text": "Insufficient hepatic glucose production from circulating glycerol"
+        },
+        {
+          "label": "D",
+          "text": "Leptin deficiency that lowers the hypothalamic temperature set point"
+        },
+        {
+          "label": "E",
+          "text": "Overactive uncoupling protein 1 that has used up all fat stores"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Premature infants are prone to hypothermia because brown fat may not be well developed until 26-30 weeks, and hypoxemia impairs brown fat metabolism.",
+        "whyCorrect": "Brown fat produces endogenous heat in newborns. Compared with term infants, premature infants are at higher risk of hypothermia partly because brown fat may not be well developed until 26-30 weeks of gestation, and hypoxemia is also known to impair brown fat metabolism. That is why NICU infants are placed in incubators and radiant warmers.",
+        "whyWrongByChoice": {
+          "A": "Trapping heat would raise, not lower, temperature, and premature infants are not marked by excess white fat.",
+          "C": "Glycerol use by the liver for glucose is part of fat mobilization, not the explanation for poor thermogenesis.",
+          "D": "Leptin regulates appetite and satiety; it is not implicated in neonatal hypothermia.",
+          "E": "The problem is underdeveloped brown fat, not overactivity of its heat-generating protein."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "premature infant",
+        "hypothermia",
+        "brown fat"
+      ],
+      "topicId": "histology-of-adipose-tissue",
+      "topicName": "Histology of Adipose Tissue",
+      "tier": "core"
+    },
+    {
+      "id": "mk26-001",
+      "stem": "A 46-year-old woman has had a soft, painless, 3-cm lump on her upper back for several years. It is freely mobile, nontender and lies just beneath the dermis, and it has not changed in size. Which diagnosis is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Leiomyoma"
+        },
+        {
+          "label": "B",
+          "text": "Leiomyosarcoma"
+        },
+        {
+          "label": "C",
+          "text": "Lipoma"
+        },
+        {
+          "label": "D",
+          "text": "Liposarcoma"
+        },
+        {
+          "label": "E",
+          "text": "Rhabdomyosarcoma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Lipomas are the most common benign adipose tumor: painless, mobile, usually under 5 cm and just beneath the dermis in adults.",
+        "whyCorrect": "A small, soft, painless, freely mobile lump just beneath the dermis in an adult is classic for a lipoma. Lipomas are usually under 5 cm, composed of well-differentiated adipocytes and do not metastasize; diagnosis is usually clinical.",
+        "whyWrongByChoice": {
+          "A": "Leiomyomas arise in smooth muscle, most often the uterus, and are generally not palpable.",
+          "B": "Leiomyosarcomas are large malignant smooth muscle tumors, around 10 cm on average, in older adults.",
+          "D": "Liposarcomas are deep, large masses of the retroperitoneum, inguinal region or thigh in people in their 50s-60s, not small superficial lumps.",
+          "E": "Rhabdomyosarcomas are malignant skeletal muscle tumors seen mostly in children and adolescents."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "lipoma",
+        "diagnosis"
+      ],
+      "topicId": "msk-soft-tissue-tumors",
+      "topicName": "MSK: Soft Tissue Tumors",
+      "tier": "core"
+    },
+    {
+      "id": "mk26-002",
+      "stem": "A 61-year-old man has 4 months of weight loss and a dull flank ache. CT shows a 22-cm retroperitoneal mass with left hydronephrosis. Biopsy shows mature-appearing fat cells within a fibrous stroma containing scattered atypical cells with hyperchromatic nuclei. Which diagnosis is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Leiomyoma"
+        },
+        {
+          "label": "B",
+          "text": "Leiomyosarcoma"
+        },
+        {
+          "label": "C",
+          "text": "Lipoma"
+        },
+        {
+          "label": "D",
+          "text": "Liposarcoma"
+        },
+        {
+          "label": "E",
+          "text": "Rhabdomyosarcoma"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Liposarcoma is a large, deep adult tumor (retroperitoneum, inguinal region, thigh) showing adipocytes in a fibrous stroma with atypical hyperchromatic cells.",
+        "whyCorrect": "Liposarcomas typically arise in the deep soft tissue of the retroperitoneum, inguinal region and thigh in adults in their 50s-60s, often growing large before causing symptoms such as weight loss or dull pain; bulky ones can obstruct the kidneys and ureters. Histology shows adipocytes within a fibrous stroma containing atypical cells with hyperchromatic nuclei.",
+        "whyWrongByChoice": {
+          "A": "Leiomyomas show bland smooth muscle fascicles and are not fat-containing.",
+          "B": "Retroperitoneal leiomyosarcomas consist of pleomorphic smooth muscle cells, not fat with atypical stromal cells.",
+          "C": "Lipomas are composed of well-differentiated adipocytes without atypical hyperchromatic cells and are usually under 5 cm.",
+          "E": "Rhabdomyosarcomas are skeletal muscle tumors, mostly of childhood."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "liposarcoma",
+        "retroperitoneum",
+        "histology"
+      ],
+      "topicId": "msk-soft-tissue-tumors",
+      "topicName": "MSK: Soft Tissue Tumors",
+      "tier": "core"
+    },
+    {
+      "id": "mk26-003",
+      "stem": "A 38-year-old woman has heavy vaginal bleeding, urinary frequency and new constipation. Pelvic exam reveals an enlarged, irregular uterus, and ultrasound shows several well-circumscribed intramural masses. A resected mass shows randomly oriented bundles of bland spindle cells in a fibrous connective tissue stroma. Which diagnosis is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Leiomyoma"
+        },
+        {
+          "label": "B",
+          "text": "Leiomyosarcoma"
+        },
+        {
+          "label": "C",
+          "text": "Lipoma"
+        },
+        {
+          "label": "D",
+          "text": "Liposarcoma"
+        },
+        {
+          "label": "E",
+          "text": "Rhabdomyosarcoma"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Uterine leiomyomas (fibroids) are benign, often multiple smooth muscle tumors that cause bleeding and compressive symptoms.",
+        "whyCorrect": "Leiomyomas are most common in the uterus, where they may be multiple, and affect young to middle-aged women. Fibroids can cause vaginal bleeding, constipation from rectal compression and urinary frequency from bladder compression. Microscopically they show randomly oriented fascicles of bland smooth muscle cells in a fibrous stroma.",
+        "whyWrongByChoice": {
+          "B": "Leiomyosarcoma shows pleomorphic cells with abundant mitoses, not bland cells, and occurs in older adults.",
+          "C": "Lipomas are benign fat tumors, usually just beneath the dermis.",
+          "D": "Liposarcoma is a fat-containing tumor of the retroperitoneum, inguinal region or thigh.",
+          "E": "Rhabdomyosarcoma is a skeletal muscle malignancy of mostly children and adolescents."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "leiomyoma",
+        "uterine fibroid"
+      ],
+      "topicId": "msk-soft-tissue-tumors",
+      "topicName": "MSK: Soft Tissue Tumors",
+      "tier": "core"
+    },
+    {
+      "id": "mk26-004",
+      "stem": "A 64-year-old postmenopausal woman has rapid uterine enlargement and pelvic pressure. Hysterectomy reveals a 12-cm fleshy, yellow-tan mass with areas of necrosis that engulfs the adnexa. Which microscopic finding would most strongly support the malignant diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mature adipocytes in a fibrous stroma with hyperchromatic cells"
+        },
+        {
+          "label": "B",
+          "text": "Mononuclear synovial-like cells with osteoclast-like giant cells"
+        },
+        {
+          "label": "C",
+          "text": "Randomly oriented fascicles of bland smooth muscle in a fibrous stroma"
+        },
+        {
+          "label": "D",
+          "text": "Smooth muscle cells of varied size and shape with abundant mitoses"
+        },
+        {
+          "label": "E",
+          "text": "Uniform round cells lining spaces that resemble lung alveoli"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Leiomyosarcoma shows pleomorphic smooth muscle cells with abundant (and abnormal) mitotic activity.",
+        "whyCorrect": "Leiomyosarcomas arise from smooth muscle, commonly the uterus or retroperitoneum of older adults, and are large (around 10 cm on average). Their cells are pleomorphic, highly variable in size and shape, usually with abundant mitotic activity, which separates them from bland leiomyomas.",
+        "whyWrongByChoice": {
+          "A": "Adipocytes with atypical hyperchromatic stromal cells describe liposarcoma.",
+          "B": "This describes tenosynovial giant cell tumor of synovium.",
+          "C": "Bland, randomly oriented fascicles describe a benign leiomyoma.",
+          "E": "Round cells around alveolus-like spaces describe alveolar rhabdomyosarcoma."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "leiomyosarcoma",
+        "histology"
+      ],
+      "topicId": "msk-soft-tissue-tumors",
+      "topicName": "MSK: Soft Tissue Tumors",
+      "tier": "core"
+    },
+    {
+      "id": "mk26-005",
+      "stem": "A 3-year-old girl has vaginal bleeding, and examination reveals a polypoid mass protruding from the vagina. Biopsy shows malignant cells ranging from primitive and round to densely eosinophilic with skeletal muscle differentiation, many of them spindle shaped. Which diagnosis is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alveolar rhabdomyosarcoma"
+        },
+        {
+          "label": "B",
+          "text": "Benign vaginal leiomyoma"
+        },
+        {
+          "label": "C",
+          "text": "Embryonal rhabdomyosarcoma"
+        },
+        {
+          "label": "D",
+          "text": "Pleomorphic rhabdomyosarcoma"
+        },
+        {
+          "label": "E",
+          "text": "Vaginal leiomyosarcoma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Embryonal rhabdomyosarcoma, the most common subtype, occurs in children under 6; its botryoid variant arises in the bladder, vagina and nasopharynx.",
+        "whyCorrect": "Embryonal rhabdomyosarcoma usually occurs in children younger than 6 years; its tumor cells are spindle shaped and resemble embryonal muscle cells. The botryoid subtype occurs in the bladder, vagina and nasopharynx. Skeletal muscle differentiation identifies the tumor as a rhabdomyosarcoma.",
+        "whyWrongByChoice": {
+          "A": "The alveolar subtype affects teens and young adults and shows round cells around alveolus-like spaces.",
+          "B": "Leiomyoma is a benign smooth muscle tumor, most often of reproductive-age women, without malignant cells.",
+          "D": "The pleomorphic subtype occurs mainly in adults, in the extremities.",
+          "E": "Leiomyosarcoma is a smooth muscle malignancy of older adults, not a skeletal muscle tumor of toddlers."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "embryonal rhabdomyosarcoma",
+        "botryoid"
+      ],
+      "topicId": "msk-soft-tissue-tumors",
+      "topicName": "MSK: Soft Tissue Tumors",
+      "tier": "core"
+    },
+    {
+      "id": "mk26-006",
+      "stem": "A 15-year-old boy has a rapidly enlarging mass in his forearm. Biopsy shows numerous spaces lined by dyscohesive, uniform, round tumor cells packed closely together, with skeletal muscle differentiation. Molecular testing of the tumor is most likely to show which abnormality?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Germline loss of fumarate hydratase"
+        },
+        {
+          "label": "B",
+          "text": "t(11;22) producing an EWSR1::FLI1 fusion"
+        },
+        {
+          "label": "C",
+          "text": "t(2;13) producing a PAX3::FOXO1 fusion"
+        },
+        {
+          "label": "D",
+          "text": "t(9;22) producing a BCR::ABL1 fusion"
+        },
+        {
+          "label": "E",
+          "text": "t(X;18) producing an SS18::SSX fusion"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Alveolar rhabdomyosarcoma frequently carries t(2;13) PAX3::FOXO1 or t(1;13) PAX7::FOXO1 fusions.",
+        "whyCorrect": "Round, closely packed tumor cells around spaces resembling pulmonary alveoli in a teenager's extremity indicate alveolar rhabdomyosarcoma. These tumors frequently contain t(2;13) or t(1;13) translocations, producing PAX3::FOXO1 or PAX7::FOXO1 fusions, respectively.",
+        "whyWrongByChoice": {
+          "A": "Germline FH loss causes multiple cutaneous and uterine leiomyomas with renal cell carcinoma.",
+          "B": "This translocation is not the one associated with alveolar rhabdomyosarcoma.",
+          "D": "This translocation is not associated with rhabdomyosarcoma.",
+          "E": "This translocation is not associated with rhabdomyosarcoma."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "alveolar rhabdomyosarcoma",
+        "translocation",
+        "genetics"
+      ],
+      "topicId": "msk-soft-tissue-tumors",
+      "topicName": "MSK: Soft Tissue Tumors",
+      "tier": "core"
+    },
+    {
+      "id": "mk26-007",
+      "stem": "A 63-year-old man has a large, rapidly growing mass in his thigh. Biopsy shows poorly differentiated malignant cells with skeletal muscle differentiation, hyperchromatic nuclei of widely varying shapes and sizes, and multipolar mitotic figures. His tumor belongs to which category?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A malignant fat tumor of the deep thigh"
+        },
+        {
+          "label": "B",
+          "text": "A malignant smooth muscle tumor of the thigh"
+        },
+        {
+          "label": "C",
+          "text": "The most aggressive rhabdomyosarcoma subtype"
+        },
+        {
+          "label": "D",
+          "text": "The most common rhabdomyosarcoma subtype"
+        },
+        {
+          "label": "E",
+          "text": "The subtype that affects all age groups equally"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Pleomorphic (anaplastic) rhabdomyosarcoma occurs mainly in adult extremities and is the most aggressive subtype.",
+        "whyCorrect": "Pleomorphic rhabdomyosarcomas, also called anaplastic, occur more often in adults, mainly in the extremities, and are the most aggressive rhabdomyosarcomas. They consist of poorly differentiated cells with pleomorphic, hyperchromatic nuclei and multipolar mitotic figures.",
+        "whyWrongByChoice": {
+          "A": "Liposarcoma shows adipocytes in a fibrous stroma, not skeletal muscle differentiation.",
+          "B": "Skeletal muscle differentiation excludes a smooth muscle tumor such as leiomyosarcoma.",
+          "D": "The most common subtype is embryonal, which occurs in young children and shows spindle cells resembling embryonal muscle.",
+          "E": "Spindle cell/sclerosing rhabdomyosarcoma affects all ages and shows fusiform cells in fascicles."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pleomorphic rhabdomyosarcoma",
+        "aggressive"
+      ],
+      "topicId": "msk-soft-tissue-tumors",
+      "topicName": "MSK: Soft Tissue Tumors",
+      "tier": "core"
+    },
+    {
+      "id": "mk26-008",
+      "stem": "A 33-year-old man has 8 months of right knee pain, episodes of locking and recurrent swelling. There is no history of trauma, and joint aspiration shows no crystals or infection. MRI shows a diffuse intra-articular mass involving the joint lining. Biopsy of the mass would most likely show which finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mature adipocytes with scattered atypical hyperchromatic cells"
+        },
+        {
+          "label": "B",
+          "text": "Osteoclast-like giant cells with hemosiderin-laden macrophages"
+        },
+        {
+          "label": "C",
+          "text": "Pleomorphic smooth muscle cells with abundant mitotic figures"
+        },
+        {
+          "label": "D",
+          "text": "Randomly oriented fascicles of bland smooth muscle cells"
+        },
+        {
+          "label": "E",
+          "text": "Spindle cells resembling embryonal skeletal muscle cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Tenosynovial giant cell tumor shows synovial-like mononuclear cells with osteoclast-like giant cells, foamy and hemosiderin-laden macrophages.",
+        "whyCorrect": "Pain, locking and recurrent swelling of the knee mimicking arthritis, with a diffuse synovial mass in a young adult, indicate diffuse tenosynovial giant cell tumor. Microscopy shows a multinodular proliferation of mononuclear synovial-like cells admixed with numerous osteoclast-like multinucleated giant cells, foamy (xanthomatous) macrophages, hemosiderin-laden macrophages and chronic inflammatory cells.",
+        "whyWrongByChoice": {
+          "A": "Adipocytes with atypical stromal cells describe liposarcoma.",
+          "C": "This describes leiomyosarcoma.",
+          "D": "Bland smooth muscle fascicles describe a leiomyoma.",
+          "E": "This describes embryonal rhabdomyosarcoma of young children."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tenosynovial giant cell tumor",
+        "diffuse",
+        "histology"
+      ],
+      "topicId": "msk-soft-tissue-tumors",
+      "topicName": "MSK: Soft Tissue Tumors",
+      "tier": "core"
+    },
+    {
+      "id": "mk26-009",
+      "stem": "A 29-year-old woman has a firm, painless nodule along the palmar side of her right fourth finger that has grown slowly over 2 years. It is not attached to the skin. Excision shows mononuclear cells mixed with multinucleated osteoclast-like cells and foamy macrophages. Which diagnosis is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cutaneous leiomyosarcoma of the finger"
+        },
+        {
+          "label": "B",
+          "text": "Diffuse tenosynovial giant cell tumor"
+        },
+        {
+          "label": "C",
+          "text": "Localized tenosynovial giant cell tumor"
+        },
+        {
+          "label": "D",
+          "text": "Spindle cell/sclerosing rhabdomyosarcoma"
+        },
+        {
+          "label": "E",
+          "text": "Superficial lipoma of the finger"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Localized tenosynovial giant cell tumor is a slow-growing, painless nodule on a tendon sheath, often of the hand (wrist and fingers).",
+        "whyCorrect": "Tenosynovial giant cell tumor is a benign synovial neoplasm diagnosed in the second to fourth decades. The localized type is a discrete nodule attached to a tendon sheath, often of the hand, presenting as a slow-growing painless mass along the wrist and fingers, with the characteristic giant cell histology.",
+        "whyWrongByChoice": {
+          "A": "Cutaneous leiomyosarcoma arises from arrector pili and shows pleomorphic smooth muscle cells.",
+          "B": "The diffuse type involves large joints such as the knee and presents with pain, locking and swelling.",
+          "D": "This malignant tumor shows fusiform cells in fascicles, not osteoclast-like giant cells.",
+          "E": "A lipoma is composed of well-differentiated adipocytes and is soft rather than firm."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "tenosynovial giant cell tumor",
+        "localized",
+        "hand"
+      ],
+      "topicId": "msk-soft-tissue-tumors",
+      "topicName": "MSK: Soft Tissue Tumors",
+      "tier": "core"
+    },
+    {
+      "id": "mk26-010",
+      "stem": "A 57-year-old woman is found to have a 28-cm liposarcoma of the thigh that abuts the femoral vessels. Imaging shows no metastases. Which initial management step is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hormonal suppression to shrink the tumor before excision"
+        },
+        {
+          "label": "B",
+          "text": "Observation with repeat imaging in 6 months"
+        },
+        {
+          "label": "C",
+          "text": "Radiation to reduce the size of the tumor before excision"
+        },
+        {
+          "label": "D",
+          "text": "Systemic chemotherapy alone without later surgery"
+        },
+        {
+          "label": "E",
+          "text": "VAC chemotherapy followed by bone marrow transplantation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Surgical excision is first-line for liposarcoma, but radiation may be given first to shrink very large tumors.",
+        "whyCorrect": "Surgical excision is the first-line treatment for most liposarcomas. However, radiation may be employed first to reduce the size of very large tumors. Localized tumors have a low recurrence rate, so postoperative chemotherapy is rarely used.",
+        "whyWrongByChoice": {
+          "A": "Hormone responsiveness is a feature of uterine fibroids, not liposarcoma.",
+          "B": "A large malignant tumor requires treatment; observation is reasoning used for small lipomas.",
+          "D": "Surgical excision is first-line; chemotherapy is rarely used for localized liposarcoma.",
+          "E": "VAC and high-dose chemotherapy with marrow transplant are rhabdomyosarcoma strategies."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "liposarcoma",
+        "management",
+        "radiation"
+      ],
+      "topicId": "msk-soft-tissue-tumors",
+      "topicName": "MSK: Soft Tissue Tumors",
+      "tier": "core"
+    },
+    {
+      "id": "mk26-011",
+      "stem": "A 59-year-old woman is diagnosed with a localized 10-cm leiomyosarcoma of the retroperitoneum without evidence of metastasis. Which treatment approach offers her the best chance of successful control?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Combination chemotherapy alone as definitive treatment"
+        },
+        {
+          "label": "B",
+          "text": "Complete surgical excision of the tumor"
+        },
+        {
+          "label": "C",
+          "text": "Hormonal suppression of estrogen-driven growth"
+        },
+        {
+          "label": "D",
+          "text": "Observation with serial imaging every 6 months"
+        },
+        {
+          "label": "E",
+          "text": "Radiation therapy alone as definitive treatment"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Leiomyosarcoma responds poorly to chemotherapy and radiation; complete surgical excision is usually the most successful approach.",
+        "whyCorrect": "Most leiomyosarcomas are difficult to treat successfully with chemotherapy and radiotherapy, and quite often the most successful approach is complete surgical excision. Prognosis depends mainly on extent at treatment, with 63% 5-year survival for localized tumors.",
+        "whyWrongByChoice": {
+          "A": "Leiomyosarcomas are difficult to treat successfully with chemotherapy.",
+          "C": "Estrogen responsiveness is described for uterine fibroids, not leiomyosarcoma treatment.",
+          "D": "A localized malignant tumor should be treated; prognosis depends on extent at the start of treatment.",
+          "E": "Leiomyosarcomas are difficult to treat successfully with radiotherapy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "leiomyosarcoma",
+        "management"
+      ],
+      "topicId": "msk-soft-tissue-tumors",
+      "topicName": "MSK: Soft Tissue Tumors",
+      "tier": "core"
+    },
+    {
+      "id": "mk26-012",
+      "stem": "A 7-year-old boy undergoes resection of a rhabdomyosarcoma of the extremity. His oncologist plans the standard three-drug postoperative chemotherapy regimen for this tumor. Which combination will he most likely receive?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cyclophosphamide, doxorubicin and vinblastine"
+        },
+        {
+          "label": "B",
+          "text": "Methotrexate, doxorubicin and cisplatin"
+        },
+        {
+          "label": "C",
+          "text": "Vinblastine, doxorubicin and cisplatin"
+        },
+        {
+          "label": "D",
+          "text": "Vincristine, dactinomycin and cyclophosphamide"
+        },
+        {
+          "label": "E",
+          "text": "Vincristine, prednisone and asparaginase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Postoperative chemotherapy for rhabdomyosarcoma is VAC: vincristine, dactinomycin (actinomycin D) and cyclophosphamide.",
+        "whyCorrect": "Postoperative chemotherapy and radiotherapy are common for rhabdomyosarcoma to ensure complete destruction of the cancer and prevent recurrence. The typical regimen is the three-drug VAC: vincristine, dactinomycin (actinomycin D) and cyclophosphamide.",
+        "whyWrongByChoice": {
+          "A": "This mixes agents but is not the standard rhabdomyosarcoma combination.",
+          "B": "This is not the regimen described for rhabdomyosarcoma.",
+          "C": "This is not the three-drug regimen used after rhabdomyosarcoma resection.",
+          "E": "This combination is not the postoperative rhabdomyosarcoma regimen."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "rhabdomyosarcoma",
+        "VAC",
+        "chemotherapy"
+      ],
+      "topicId": "msk-soft-tissue-tumors",
+      "topicName": "MSK: Soft Tissue Tumors",
+      "tier": "core"
+    }
+  ]
+}

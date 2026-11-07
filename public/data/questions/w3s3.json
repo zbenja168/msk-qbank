@@ -1,0 +1,1670 @@
+{
+  "categoryId": "w3s3",
+  "categoryName": "Session 3",
+  "questions": [
+    {
+      "id": "mk29-001",
+      "stem": "A 27-year-old soccer player sustains a direct blow to the lateral side of his right knee, and radiographs show a fracture just below the head of the fibula. Which combination of findings is most likely on examination of his right lower limb?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Normal strength; numb medial leg and medial foot"
+        },
+        {
+          "label": "B",
+          "text": "Weak dorsiflexion and eversion; numb dorsum of foot"
+        },
+        {
+          "label": "C",
+          "text": "Weak dorsiflexion only; numb first web space only"
+        },
+        {
+          "label": "D",
+          "text": "Weak eversion only; numb dorsum, intact dorsiflexion"
+        },
+        {
+          "label": "E",
+          "text": "Weak plantarflexion and toe flexion; numb sole"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The common fibular nerve wraps the fibular neck; injury there weakens dorsiflexion and eversion (foot drop) with dorsal foot and lateral leg numbness.",
+        "whyCorrect": "The common fibular nerve passes superficially around the neck of the fibula before dividing into deep and superficial fibular nerves, so an injury here affects both branches. Loss of the deep branch paralyzes the anterior compartment (dorsiflexion, toe extension), and loss of the superficial branch weakens the lateral compartment (eversion). Sensation is lost over the dorsum of the foot and lateral leg, and plantarflexion is preserved because the tibial nerve is intact.",
+        "whyWrongByChoice": {
+          "A": "This is the saphenous nerve territory, a femoral branch far from the fibular neck.",
+          "C": "This is an isolated deep fibular nerve lesion; a fibular neck injury involves the common fibular nerve and so also affects eversion and most of the dorsum.",
+          "D": "This is an isolated superficial fibular lesion; the common fibular trunk injury affects both branches.",
+          "E": "This is a tibial nerve lesion; the tibial nerve is not wrapped around the fibular neck."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "common fibular nerve",
+        "fibular neck",
+        "foot drop"
+      ],
+      "topicId": "functional-anatomy-of-the-leg-ankle-and-foot",
+      "topicName": "Functional Anatomy of the Leg, Ankle and Foot",
+      "tier": "core"
+    },
+    {
+      "id": "mk29-002",
+      "stem": "A 33-year-old man has numbness confined to the skin between his first and second toes on the dorsum of the left foot. Sensation over the rest of the dorsum and the lateral leg is normal. Toe extension is mildly weak. Which nerve is most likely affected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deep fibular nerve"
+        },
+        {
+          "label": "B",
+          "text": "Saphenous nerve"
+        },
+        {
+          "label": "C",
+          "text": "Superficial fibular nerve"
+        },
+        {
+          "label": "D",
+          "text": "Sural nerve"
+        },
+        {
+          "label": "E",
+          "text": "Tibial nerve"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The deep fibular nerve supplies the anterior compartment and the skin of the first dorsal web space.",
+        "whyCorrect": "The deep fibular nerve innervates the anterior compartment (dorsiflexion and toe extension) and provides sensation to the first dorsal web space. Preserved sensation over the rest of the dorsum shows the superficial fibular nerve is intact, so the lesion is isolated to the deep branch.",
+        "whyWrongByChoice": {
+          "B": "The saphenous nerve supplies the medial leg and medial side of the foot.",
+          "C": "It supplies most of the dorsum of the foot, which is normal here, and the lateral compartment.",
+          "D": "The sural nerve supplies the posterolateral leg and lateral foot.",
+          "E": "The tibial nerve supplies the posterior compartment and, via plantar branches, the sole."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "deep fibular nerve",
+        "sensory distribution"
+      ],
+      "topicId": "functional-anatomy-of-the-leg-ankle-and-foot",
+      "topicName": "Functional Anatomy of the Leg, Ankle and Foot",
+      "tier": "core"
+    },
+    {
+      "id": "mk29-003",
+      "stem": "A 52-year-old woman who stands all day at work has burning pain and tingling over the sole of her right foot, worse at the end of the day. Ankle plantarflexion, dorsiflexion and eversion are strong, and sensation over the dorsum and lateral foot is normal. Tapping just behind the medial malleolus reproduces her symptoms. Where is the nerve most likely compressed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Around the neck of the fibula"
+        },
+        {
+          "label": "B",
+          "text": "Beneath the flexor retinaculum"
+        },
+        {
+          "label": "C",
+          "text": "In the popliteal fossa"
+        },
+        {
+          "label": "D",
+          "text": "Posterior to the lateral malleolus"
+        },
+        {
+          "label": "E",
+          "text": "Within the anterior compartment"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Tarsal tunnel syndrome compresses the tibial nerve behind the medial malleolus beneath the flexor retinaculum: plantar sensory symptoms with preserved plantarflexion.",
+        "whyCorrect": "The tibial nerve passes through the tarsal tunnel posterior to the medial malleolus, beneath the flexor retinaculum, and then divides into the medial and lateral plantar nerves supplying the sole. Compression here is distal to the motor branches to the leg muscles, so plantarflexion is preserved, while plantar pain, numbness or paresthesia occur and intrinsic foot muscles may weaken in severe cases.",
+        "whyWrongByChoice": {
+          "A": "Compression here affects the common fibular nerve: foot drop, weak eversion and dorsal numbness.",
+          "C": "A tibial lesion this proximal would weaken plantarflexion and toe flexion.",
+          "D": "This is where the fibularis tendons pass; the sole is supplied by branches of the tibial nerve on the medial side.",
+          "E": "The deep fibular nerve here supplies dorsiflexors and the first web space, not the sole."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tarsal tunnel syndrome",
+        "tibial nerve"
+      ],
+      "topicId": "functional-anatomy-of-the-leg-ankle-and-foot",
+      "topicName": "Functional Anatomy of the Leg, Ankle and Foot",
+      "tier": "core"
+    },
+    {
+      "id": "mk29-004",
+      "stem": "A 41-year-old man feels a sudden 'pop' at the back of his lower leg while lunging forward during a tennis match and now has difficulty pushing off. With him kneeling on a chair, squeezing his calf produces no passive plantarflexion of the foot. Which structure is most likely disrupted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Achilles tendon"
+        },
+        {
+          "label": "B",
+          "text": "Anterior talofibular ligament"
+        },
+        {
+          "label": "C",
+          "text": "Deltoid ligament"
+        },
+        {
+          "label": "D",
+          "text": "Plantar aponeurosis"
+        },
+        {
+          "label": "E",
+          "text": "Tibialis posterior tendon"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A positive Thompson test (no plantarflexion on calf squeeze) indicates calcaneal (Achilles) tendon rupture.",
+        "whyCorrect": "The calcaneal (Achilles) tendon transmits force from the gastrocnemius and soleus to the calcaneal tuberosity. Rupture typically follows sudden forceful plantarflexion, often with a popping sensation, and markedly weakens plantarflexion and push off. A positive Thompson test, in which squeezing the calf fails to produce passive plantarflexion, suggests rupture.",
+        "whyWrongByChoice": {
+          "B": "This lateral ankle ligament is injured in inversion sprains and does not transmit calf force.",
+          "C": "The deltoid ligament stabilizes the medial ankle and is injured in eversion.",
+          "D": "Irritation of the plantar aponeurosis causes plantar heel pain on first steps, not loss of calf-squeeze plantarflexion.",
+          "E": "Tibialis posterior is mainly an inverter and arch supporter; its loss does not abolish the calf-squeeze response."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "calcaneal tendon",
+        "Thompson test",
+        "rupture"
+      ],
+      "topicId": "functional-anatomy-of-the-leg-ankle-and-foot",
+      "topicName": "Functional Anatomy of the Leg, Ankle and Foot",
+      "tier": "core"
+    },
+    {
+      "id": "mk29-005",
+      "stem": "A 19-year-old basketball player lands on another player's foot, rolling the sole of his foot inward. He has swelling and tenderness just anterior and inferior to the lateral malleolus. Which ligament is most likely injured?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anterior talofibular ligament"
+        },
+        {
+          "label": "B",
+          "text": "Deltoid ligament"
+        },
+        {
+          "label": "C",
+          "text": "Distal tibiofibular syndesmosis"
+        },
+        {
+          "label": "D",
+          "text": "Long plantar ligament"
+        },
+        {
+          "label": "E",
+          "text": "Spring ligament"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Inversion sprains injure the lateral ligament complex, most commonly the ATFL.",
+        "whyCorrect": "Turning the sole medially is inversion. An inversion ankle sprain typically injures the lateral ligament complex of the talocrural joint (ATFL, calcaneofibular and posterior talofibular ligaments), with the anterior talofibular ligament most commonly affected.",
+        "whyWrongByChoice": {
+          "B": "The strong medial deltoid ligament is injured by eversion, which is less common.",
+          "C": "Syndesmosis injury is a high ankle sprain, above the joint rather than in front of the lateral malleolus.",
+          "D": "The long plantar ligament supports the lateral longitudinal arch on the sole.",
+          "E": "The spring (plantar calcaneonavicular) ligament supports the head of the talus in the medial arch."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ankle sprain",
+        "lateral ligaments"
+      ],
+      "topicId": "functional-anatomy-of-the-leg-ankle-and-foot",
+      "topicName": "Functional Anatomy of the Leg, Ankle and Foot",
+      "tier": "core"
+    },
+    {
+      "id": "mk29-006",
+      "stem": "A 36-year-old woman sustains a deep laceration over the mid-lateral aspect of her right leg. Afterward she cannot turn the sole of her foot outward against resistance and has numbness over most of the dorsum of her foot, but the skin between her first and second toes feels normal and she can lift her forefoot and toes normally. Which nerve was cut?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Common fibular nerve"
+        },
+        {
+          "label": "B",
+          "text": "Deep fibular nerve"
+        },
+        {
+          "label": "C",
+          "text": "Superficial fibular nerve"
+        },
+        {
+          "label": "D",
+          "text": "Sural nerve"
+        },
+        {
+          "label": "E",
+          "text": "Tibial nerve in the leg"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Superficial fibular nerve: lateral compartment (eversion) and most of the dorsum of the foot, sparing the first web space.",
+        "whyCorrect": "The superficial fibular nerve innervates the lateral compartment (fibularis longus and brevis), the main evertors, and supplies most of the dorsum of the foot. The first dorsal web space and the dorsiflexors belong to the deep fibular nerve, which is spared here, so the lesion is below the division of the common fibular nerve.",
+        "whyWrongByChoice": {
+          "A": "A common fibular lesion would also weaken dorsiflexion and numb the first web space.",
+          "B": "It supplies the dorsiflexors and the first web space, both of which are intact.",
+          "D": "The sural nerve is sensory to the posterolateral leg and lateral foot and has no motor role in eversion.",
+          "E": "The tibial nerve supplies plantarflexors and the sole, not the evertors or the dorsum."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "superficial fibular nerve",
+        "lateral compartment"
+      ],
+      "topicId": "functional-anatomy-of-the-leg-ankle-and-foot",
+      "topicName": "Functional Anatomy of the Leg, Ankle and Foot",
+      "tier": "core"
+    },
+    {
+      "id": "mk29-007",
+      "stem": "A 58-year-old woman notices that her right foot has gradually flattened on the inner side. She has pain along the medial ankle, the medial longitudinal arch collapses when she stands, and resisted inversion with the foot plantarflexed is weak compared with the left. Dorsiflexion and eversion are normal. Dysfunction of which muscle best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fibularis longus"
+        },
+        {
+          "label": "B",
+          "text": "Flexor hallucis longus"
+        },
+        {
+          "label": "C",
+          "text": "Soleus"
+        },
+        {
+          "label": "D",
+          "text": "Tibialis anterior"
+        },
+        {
+          "label": "E",
+          "text": "Tibialis posterior"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Tibialis posterior is a powerful inverter (navicular tuberosity insertion) and the key dynamic supporter of the medial longitudinal arch.",
+        "whyCorrect": "Tibialis posterior, in the deep posterior compartment (tibial nerve), is a powerful inverter through its insertion on the navicular tuberosity and a dynamic supporter of the medial longitudinal arch. Its dysfunction weakens inversion and lets the medial arch collapse during weight bearing, while dorsiflexion and eversion are spared.",
+        "whyWrongByChoice": {
+          "A": "Fibularis longus everts and supports the transverse arch.",
+          "B": "FHL flexes the great toe and drives propulsion through the hallux.",
+          "C": "Soleus is a plantarflexor important for standing posture; it does not invert or support the arch.",
+          "D": "Tibialis anterior inverts but is mainly a dorsiflexor, which is normal here, and is not described as the dynamic support of the medial arch."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "tibialis posterior",
+        "medial longitudinal arch"
+      ],
+      "topicId": "functional-anatomy-of-the-leg-ankle-and-foot",
+      "topicName": "Functional Anatomy of the Leg, Ankle and Foot",
+      "tier": "core"
+    },
+    {
+      "id": "mk29-008",
+      "stem": "A 23-year-old football player is tackled while his foot is planted and the leg is forcibly rotated. He has pain and tenderness above the ankle joint, between the lower ends of the tibia and fibula, and the ankle mortise widens on stress radiographs. Which structure is most likely injured?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anterior talofibular ligament"
+        },
+        {
+          "label": "B",
+          "text": "Calcaneofibular ligament"
+        },
+        {
+          "label": "C",
+          "text": "Deltoid ligament"
+        },
+        {
+          "label": "D",
+          "text": "Distal tibiofibular syndesmosis"
+        },
+        {
+          "label": "E",
+          "text": "Posterior talofibular ligament"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A high ankle sprain injures the distal tibiofibular syndesmosis, which maintains the ankle mortise.",
+        "whyCorrect": "The distal tibia and fibula are stabilized by the distal tibiofibular syndesmosis, which helps maintain the ankle mortise around the talus. Injury involving the syndesmosis produces a high ankle sprain, with pain above the joint and widening of the mortise.",
+        "whyWrongByChoice": {
+          "A": "ATFL injury is the typical inversion sprain, located in front of the lateral malleolus.",
+          "B": "This lateral collateral ligament runs from the lateral malleolus to the calcaneus, below the joint.",
+          "C": "The deltoid ligament lies on the medial side of the ankle.",
+          "E": "The PTFL is part of the lateral ligament complex behind the lateral malleolus."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "high ankle sprain",
+        "syndesmosis"
+      ],
+      "topicId": "functional-anatomy-of-the-leg-ankle-and-foot",
+      "topicName": "Functional Anatomy of the Leg, Ankle and Foot",
+      "tier": "core"
+    },
+    {
+      "id": "mk29-009",
+      "stem": "A 45-year-old nurse who recently began training for a half-marathon has sharp pain on the underside of her heel. The pain is worst with her first steps out of bed in the morning and eases after a few minutes of walking. There is tenderness at the medial plantar heel. Repetitive microtrauma of which structure is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calcaneal tendon"
+        },
+        {
+          "label": "B",
+          "text": "Flexor retinaculum"
+        },
+        {
+          "label": "C",
+          "text": "Plantar aponeurosis"
+        },
+        {
+          "label": "D",
+          "text": "Short plantar ligament"
+        },
+        {
+          "label": "E",
+          "text": "Spring ligament"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Plantar fasciitis is repetitive microtrauma of the plantar aponeurosis near the calcaneus, with heel pain worst on first steps after rest.",
+        "whyCorrect": "Plantar fasciitis results from irritation and repetitive microtrauma of the plantar aponeurosis, commonly near its attachment to the calcaneus. Patients have plantar heel pain that is often greatest with the first steps after rest. Because the aponeurosis supports the longitudinal arches, repetitive loading places substantial tension on it.",
+        "whyWrongByChoice": {
+          "A": "The calcaneal (Achilles) tendon inserts on the back of the heel; its injury impairs plantarflexion and push off.",
+          "B": "Compression beneath the flexor retinaculum causes tarsal tunnel syndrome with sole paresthesia.",
+          "D": "The short plantar ligament supports the lateral longitudinal arch.",
+          "E": "The spring ligament supports the head of the talus; it is not the classic site of first-step heel pain."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "plantar fasciitis",
+        "plantar aponeurosis"
+      ],
+      "topicId": "functional-anatomy-of-the-leg-ankle-and-foot",
+      "topicName": "Functional Anatomy of the Leg, Ankle and Foot",
+      "tier": "core"
+    },
+    {
+      "id": "mk29-010",
+      "stem": "Two patients have numbness over the sole of the foot from tibial nerve injury: one from a deep laceration of the mid-posterior calf, the other from compression behind the medial malleolus. Which finding would be present only in the patient with the calf injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Numbness over the first dorsal web space"
+        },
+        {
+          "label": "B",
+          "text": "Numbness over the medial heel and sole"
+        },
+        {
+          "label": "C",
+          "text": "Weak abduction of the great toe"
+        },
+        {
+          "label": "D",
+          "text": "Weak dorsiflexion against resistance"
+        },
+        {
+          "label": "E",
+          "text": "Weak plantarflexion against resistance"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A tibial nerve lesion in the leg weakens plantarflexion and toe flexion; a tarsal tunnel lesion is distal to those motor branches and spares them.",
+        "whyCorrect": "A tibial nerve lesion in the leg affects posterior compartment muscles, impairing plantarflexion and toe flexion, plus everything distal. A lesion at the tarsal tunnel occurs distal to the motor branches that supply the leg muscles, so plantarflexion is preserved while plantar sensation and intrinsic foot muscles may be affected. Weak plantarflexion therefore localizes the lesion to the leg.",
+        "whyWrongByChoice": {
+          "A": "The first web space is deep fibular territory, intact in both.",
+          "B": "Plantar sensation is lost in both, because both lesions are proximal to the plantar branches.",
+          "C": "Intrinsic plantar muscles such as abductor hallucis are supplied by plantar branches distal to both lesions, so both may be affected.",
+          "D": "Dorsiflexion is a deep fibular (anterior compartment) function, normal in both."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "tibial nerve",
+        "lesion level"
+      ],
+      "topicId": "functional-anatomy-of-the-leg-ankle-and-foot",
+      "topicName": "Functional Anatomy of the Leg, Ankle and Foot",
+      "tier": "core"
+    },
+    {
+      "id": "mk29-011",
+      "stem": "A 30-year-old sprinter strains a muscle at the back of his leg. On examination, pain is reproduced both by resisted knee flexion and by resisted plantarflexion with the knee extended. Which muscle is most likely injured?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Flexor digitorum longus"
+        },
+        {
+          "label": "B",
+          "text": "Gastrocnemius"
+        },
+        {
+          "label": "C",
+          "text": "Popliteus"
+        },
+        {
+          "label": "D",
+          "text": "Soleus"
+        },
+        {
+          "label": "E",
+          "text": "Tibialis posterior"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Gastrocnemius crosses both the knee and ankle, so it flexes the knee as well as plantarflexing; soleus acts only at the ankle.",
+        "whyCorrect": "Gastrocnemius and soleus form the triceps surae, the major plantarflexor, inserting on the calcaneal tuberosity via the calcaneal tendon. Gastrocnemius crosses both the knee and ankle and contributes to knee flexion, whereas soleus acts only at the ankle and is important for posture during standing.",
+        "whyWrongByChoice": {
+          "A": "FDL flexes digits 2-5 and does not cross the knee.",
+          "C": "Popliteus acts primarily at the knee and is not a meaningful plantarflexor.",
+          "D": "Soleus acts only at the ankle, so resisted knee flexion would not stress it.",
+          "E": "Tibialis posterior is an inverter and arch supporter that does not cross the knee."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "gastrocnemius",
+        "triceps surae"
+      ],
+      "topicId": "functional-anatomy-of-the-leg-ankle-and-foot",
+      "topicName": "Functional Anatomy of the Leg, Ankle and Foot",
+      "tier": "core"
+    },
+    {
+      "id": "mk29-012",
+      "stem": "During surgical release of the tarsal tunnel, the surgeon identifies the structures passing posterior to the medial malleolus in order from front to back. Which structure lies immediately posterior to the tibial nerve?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Flexor digitorum longus tendon"
+        },
+        {
+          "label": "B",
+          "text": "Flexor hallucis longus tendon"
+        },
+        {
+          "label": "C",
+          "text": "Posterior tibial artery"
+        },
+        {
+          "label": "D",
+          "text": "Posterior tibial veins"
+        },
+        {
+          "label": "E",
+          "text": "Tibialis posterior tendon"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Front to back behind the medial malleolus: tibialis posterior, FDL, posterior tibial artery, veins, tibial nerve, FHL (Tom, Dick And Very Nervous Harry).",
+        "whyCorrect": "From anterior to posterior, the structures passing behind the medial malleolus are tibialis posterior, flexor digitorum longus, posterior tibial artery, posterior tibial veins, tibial nerve and flexor hallucis longus (Tom Dick And Very Nervous Harry). The FHL tendon is therefore the most posterior, immediately behind the nerve.",
+        "whyWrongByChoice": {
+          "A": "FDL lies second, just behind tibialis posterior and in front of the vessels.",
+          "C": "The artery lies in front of the veins and nerve.",
+          "D": "The veins lie between the artery and the nerve, anterior to the nerve.",
+          "E": "This is the most anterior structure, directly behind the medial malleolus."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "tarsal tunnel",
+        "relations"
+      ],
+      "topicId": "functional-anatomy-of-the-leg-ankle-and-foot",
+      "topicName": "Functional Anatomy of the Leg, Ankle and Foot",
+      "tier": "core"
+    },
+    {
+      "id": "mk30-001",
+      "stem": "A 61-year-old man is evaluated 3 weeks after a total hip replacement on the right through a lateral approach. When he stands on his right leg alone, the left side of his pelvis drops. Standing on the left leg is normal. Knee extension, ankle movements, and sensation in both legs are normal. Injury to which of the following nerves most likely explains this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Common fibular nerve"
+        },
+        {
+          "label": "B",
+          "text": "Femoral nerve"
+        },
+        {
+          "label": "C",
+          "text": "Inferior gluteal nerve"
+        },
+        {
+          "label": "D",
+          "text": "Obturator nerve"
+        },
+        {
+          "label": "E",
+          "text": "Superior gluteal nerve"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Superior gluteal nerve injury weakens gluteus medius and minimus, producing a Trendelenburg gait with the pelvis dropping toward the non-weight-bearing side.",
+        "whyCorrect": "The superior gluteal nerve innervates the gluteus medius, gluteus minimus and tensor fasciae latae, which abduct the hip and keep the pelvis level during single-leg stance. It can be injured during hip surgery. With these muscles weak, the pelvis drops toward the contralateral, non-weight-bearing side when the patient stands on the affected limb.",
+        "whyWrongByChoice": {
+          "A": "Common fibular injury causes foot drop with weak eversion; ankle movements are normal here.",
+          "B": "Femoral nerve injury weakens knee extension and abolishes the patellar reflex; it does not destabilize the pelvis in single-leg stance.",
+          "C": "The inferior gluteal nerve supplies the gluteus maximus; its loss impairs forceful hip extension (rising from a chair, climbing stairs), not pelvic leveling.",
+          "D": "Obturator nerve injury weakens thigh adduction and numbs the medial thigh; it does not cause the opposite pelvis to drop."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "superior gluteal nerve",
+        "Trendelenburg gait"
+      ],
+      "topicId": "lower-extremity-injury-part-1-of-2",
+      "topicName": "Lower Extremity Injury- Part 1 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "mk30-002",
+      "stem": "A 47-year-old long-haul truck driver who habitually sits with his legs crossed has had difficulty walking for 2 days. He drags the toes of his right foot unless he lifts the knee unusually high. Examination shows weak ankle dorsiflexion, toe extension, and foot eversion. Plantarflexion, inversion, and knee flexion are normal. Sensation is decreased over most of the dorsum of the right foot, including the web space between the first two toes. Which nerve is most likely injured?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Common fibular nerve"
+        },
+        {
+          "label": "B",
+          "text": "Deep fibular nerve"
+        },
+        {
+          "label": "C",
+          "text": "Sciatic nerve"
+        },
+        {
+          "label": "D",
+          "text": "Superficial fibular nerve"
+        },
+        {
+          "label": "E",
+          "text": "Tibial nerve"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Common fibular injury (at the fibular neck, e.g., from leg crossing) weakens both anterior and lateral compartments: foot drop plus lost eversion with dorsal foot numbness.",
+        "whyCorrect": "The common fibular nerve is the most frequently injured lower extremity nerve because of its superficial course around the fibular neck; prolonged leg crossing is a classic cause. Injury weakens the anterior and lateral compartments, so dorsiflexion, toe extension and eversion are all lost and the patient develops foot drop with a steppage gait. Sensory loss involves the territories of both terminal branches across the dorsum of the foot.",
+        "whyWrongByChoice": {
+          "B": "A deep fibular lesion spares eversion (lateral compartment) and limits sensory loss to the first dorsal web space.",
+          "C": "A sciatic lesion would also weaken knee flexion and plantarflexion and numb the sole, all of which are normal here.",
+          "D": "A superficial fibular lesion weakens eversion but preserves dorsiflexion and spares the first dorsal web space.",
+          "E": "Tibial nerve injury weakens plantarflexion, toe flexion and inversion and numbs the sole; those functions are intact."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "common fibular nerve",
+        "foot drop",
+        "leg crossing"
+      ],
+      "topicId": "lower-extremity-injury-part-1-of-2",
+      "topicName": "Lower Extremity Injury- Part 1 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "mk30-003",
+      "stem": "A 24-year-old man sustains a laceration over the anterior leg that injures a nerve supplying only the anterior compartment. He now has weak ankle dorsiflexion and weak toe extension, but foot eversion is strong. Sensory testing would most likely show decreased sensation in which of the following areas?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lateral foot and posterolateral leg"
+        },
+        {
+          "label": "B",
+          "text": "Medial leg, ankle, and foot"
+        },
+        {
+          "label": "C",
+          "text": "Most of the dorsum of the foot"
+        },
+        {
+          "label": "D",
+          "text": "Sole of the foot and plantar toes"
+        },
+        {
+          "label": "E",
+          "text": "Web space between the first two toes"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The deep fibular nerve supplies the anterior compartment, and its sensory loss is limited primarily to the first dorsal web space.",
+        "whyCorrect": "The deep fibular nerve is a terminal branch of the common fibular nerve that innervates only the anterior compartment, so injury weakens dorsiflexion and toe extension while eversion (lateral compartment, superficial fibular nerve) is preserved. Its sensory territory is limited primarily to the first dorsal web space between the great and second toes.",
+        "whyWrongByChoice": {
+          "A": "This is the sural nerve territory, a purely sensory nerve that is unaffected here.",
+          "B": "This is the saphenous nerve territory, the terminal sensory branch of the femoral nerve.",
+          "C": "Most of the dorsum is supplied by the superficial fibular nerve, which is intact given the preserved eversion.",
+          "D": "The sole is supplied by the tibial nerve via the plantar nerves, which is not involved."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "deep fibular nerve",
+        "sensory territory"
+      ],
+      "topicId": "lower-extremity-injury-part-1-of-2",
+      "topicName": "Lower Extremity Injury- Part 1 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "mk30-004",
+      "stem": "A 35-year-old woman is treated for a knee dislocation in which the leg was displaced backward relative to the thigh. After reduction, she cannot push off with her foot, curl her toes, or turn the sole inward. Sensation is absent over the sole of the foot. Dorsiflexion and eversion are strong. Which nerve was most likely injured?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Common fibular nerve"
+        },
+        {
+          "label": "B",
+          "text": "Deep fibular nerve"
+        },
+        {
+          "label": "C",
+          "text": "Femoral nerve"
+        },
+        {
+          "label": "D",
+          "text": "Sural nerve"
+        },
+        {
+          "label": "E",
+          "text": "Tibial nerve"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Tibial nerve injury weakens the posterior compartment (plantarflexion, toe flexion, inversion) and causes sensory loss over the sole.",
+        "whyCorrect": "The tibial nerve, the larger terminal branch of the sciatic nerve, innervates the posterior compartment of the leg and can be injured with posterior knee dislocation. Injury impairs plantarflexion, toe flexion and inversion, leaving the ankle dorsiflexed and everted, with sensory loss over the sole of the foot.",
+        "whyWrongByChoice": {
+          "A": "Common fibular injury causes foot drop with lost dorsiflexion and eversion, which are strong in this patient.",
+          "B": "Deep fibular injury weakens dorsiflexion and toe extension and numbs the first dorsal web space.",
+          "C": "Femoral injury weakens knee extension and numbs the anterior thigh and medial leg; it does not affect plantarflexion.",
+          "D": "The sural nerve is purely sensory, supplying the posterolateral leg and lateral foot; it produces no motor deficit."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tibial nerve",
+        "posterior compartment"
+      ],
+      "topicId": "lower-extremity-injury-part-1-of-2",
+      "topicName": "Lower Extremity Injury- Part 1 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "mk30-005",
+      "stem": "A 70-year-old woman taking warfarin develops a large retroperitoneal hematoma. Two days later she cannot straighten her right knee against resistance and her knee buckles when she climbs stairs. The patellar reflex is absent on the right, and sensation is reduced over the anterior thigh. Hip adduction strength is normal. Which nerve is most likely compressed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Common fibular nerve"
+        },
+        {
+          "label": "B",
+          "text": "Deep fibular nerve"
+        },
+        {
+          "label": "C",
+          "text": "Femoral nerve"
+        },
+        {
+          "label": "D",
+          "text": "Obturator nerve"
+        },
+        {
+          "label": "E",
+          "text": "Superior gluteal nerve"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Femoral nerve injury (e.g., from retroperitoneal hematoma) weakens the quadriceps, abolishes the patellar reflex and numbs the anterior thigh.",
+        "whyCorrect": "The femoral nerve passes beneath the inguinal ligament to innervate the anterior compartment of the thigh, the quadriceps femoris, which are the primary knee extensors. It may be injured by pelvic fracture, retroperitoneal hematoma or pelvic surgery. Injury causes weak knee extension, loss of the patellar reflex and sensory loss over the anterior thigh and medial leg.",
+        "whyWrongByChoice": {
+          "A": "Common fibular injury causes foot drop and weak eversion; it does not affect the quadriceps or patellar reflex.",
+          "B": "Deep fibular injury weakens ankle dorsiflexion and toe extension, not knee extension.",
+          "D": "Obturator injury weakens thigh adduction, which is normal here, and numbs the medial thigh.",
+          "E": "Superior gluteal injury weakens hip abduction and causes a Trendelenburg gait, not loss of knee extension."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "femoral nerve",
+        "retroperitoneal hematoma"
+      ],
+      "topicId": "lower-extremity-injury-part-1-of-2",
+      "topicName": "Lower Extremity Injury- Part 1 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "mk30-006",
+      "stem": "A 44-year-old woman has 3 months of burning pain and tingling in the sole of her left foot that worsens with prolonged standing. Sensation is reduced over the plantar foot. Strength of ankle plantarflexion and inversion is normal, and the dorsum of the foot has normal sensation. Compression at which of the following sites best explains her findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Around the neck of the fibula"
+        },
+        {
+          "label": "B",
+          "text": "At the greater sciatic foramen"
+        },
+        {
+          "label": "C",
+          "text": "Behind the knee in the popliteal fossa"
+        },
+        {
+          "label": "D",
+          "text": "Beneath the flexor retinaculum"
+        },
+        {
+          "label": "E",
+          "text": "Deep to the inguinal ligament"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Tarsal tunnel syndrome compresses the tibial nerve under the flexor retinaculum distal to its leg motor branches: plantar pain and numbness with preserved plantarflexion.",
+        "whyCorrect": "The tibial nerve courses behind the medial malleolus through the tarsal tunnel, beneath the flexor retinaculum, before dividing into the plantar nerves. Compression here occurs distal to the motor branches that supply the leg muscles, so plantarflexion and inversion are preserved. Patients develop burning pain, paresthesias and sensory loss involving the plantar foot.",
+        "whyWrongByChoice": {
+          "A": "Compression at the fibular neck affects the common fibular nerve, causing foot drop and dorsal foot numbness rather than plantar symptoms.",
+          "B": "Nerves exiting the greater sciatic foramen supply the gluteal muscles or form the sciatic trunk; compression there would cause motor deficits.",
+          "C": "A tibial nerve lesion at the knee lies proximal to the motor branches to the leg, so plantarflexion and inversion would be weak.",
+          "E": "Compression here affects the femoral nerve, weakening knee extension and numbing the anterior thigh and medial leg."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "tarsal tunnel syndrome",
+        "tibial nerve"
+      ],
+      "topicId": "lower-extremity-injury-part-1-of-2",
+      "topicName": "Lower Extremity Injury- Part 1 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "mk30-007",
+      "stem": "A 19-year-old basketball player lands on another player's foot and rolls his ankle so that the sole turns inward. He has pain, swelling, and tenderness just in front of the outer ankle bone. Which structure is most likely injured?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anterior inferior tibiofibular ligament"
+        },
+        {
+          "label": "B",
+          "text": "Anterior talofibular ligament"
+        },
+        {
+          "label": "C",
+          "text": "Deltoid ligament"
+        },
+        {
+          "label": "D",
+          "text": "Interosseous ligament"
+        },
+        {
+          "label": "E",
+          "text": "Posterior inferior tibiofibular ligament"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Excessive inversion most often injures the anterior talofibular ligament, the weakest lateral ankle ligament; lateral sprain is the most common lower extremity injury.",
+        "whyCorrect": "Lateral ankle sprain is the most common lower extremity injury. The lateral ligaments resist inversion, so an excessive inversion mechanism most often injures the anterior talofibular ligament (ATFL), the weakest ligament of the lateral complex. Patients present with lateral ankle pain, swelling and tenderness after a twisting injury.",
+        "whyWrongByChoice": {
+          "A": "This syndesmotic ligament is injured in high ankle sprains from rotation, with pain above the ankle joint.",
+          "C": "The deltoid ligament is the strong medial complex that resists eversion; it is injured by excessive eversion.",
+          "D": "The interosseous ligament is part of the distal tibiofibular syndesmosis, not the lateral ankle complex.",
+          "E": "This syndesmotic ligament stabilizes the distal tibia and fibula and is not the classic inversion injury."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "lateral ankle sprain",
+        "ATFL",
+        "inversion"
+      ],
+      "topicId": "lower-extremity-injury-part-1-of-2",
+      "topicName": "Lower Extremity Injury- Part 1 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "mk30-008",
+      "stem": "A 23-year-old football lineman's cleat sticks in the turf as he is spun so that his leg twists inward over the planted foot. He has pain several centimeters above the ankle joint. Squeezing the tibia and fibula together at mid-calf reproduces the pain distally. Routine ankle films taken with the patient lying down are normal. Which of the following is most likely to demonstrate the injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Compression ultrasonography of the calf veins"
+        },
+        {
+          "label": "B",
+          "text": "Nerve conduction studies of the common fibular nerve"
+        },
+        {
+          "label": "C",
+          "text": "Repeat non-weight-bearing radiographs in 1 week"
+        },
+        {
+          "label": "D",
+          "text": "Valgus and varus stress radiographs of the knee"
+        },
+        {
+          "label": "E",
+          "text": "Weight-bearing or external-rotation stress radiographs"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In a high ankle sprain, weight-bearing or external-rotation stress radiographs reveal syndesmotic widening that routine films may miss.",
+        "whyCorrect": "Internal rotation of the leg on a planted foot, mechanically equivalent to foot external rotation, injures the distal tibiofibular syndesmosis. Pain lies above the ankle joint and the squeeze test is positive. Radiographs taken with weight-bearing and/or external-rotation stress can reveal abnormal widening of the syndesmosis that may not be apparent on routine non-weight-bearing films.",
+        "whyWrongByChoice": {
+          "A": "Venous ultrasound evaluates for deep venous thrombosis; it does not assess the distal tibiofibular joint.",
+          "B": "There are no motor or sensory deficits suggesting nerve injury; the problem is ligamentous.",
+          "C": "Routine non-weight-bearing films may not show syndesmotic widening, so repeating them adds little.",
+          "D": "Collateral stress testing evaluates the knee ligaments, not the distal tibiofibular syndesmosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "high ankle sprain",
+        "syndesmosis",
+        "stress radiographs"
+      ],
+      "topicId": "lower-extremity-injury-part-1-of-2",
+      "topicName": "Lower Extremity Injury- Part 1 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "mk30-009",
+      "stem": "A 21-year-old soccer player plants her foot and cuts sharply to change direction without contact from another player. She feels a pop, and her knee is markedly swollen within 2 hours. Which examination maneuver is the most sensitive for the most likely injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lachman test"
+        },
+        {
+          "label": "B",
+          "text": "McMurray test"
+        },
+        {
+          "label": "C",
+          "text": "Posterior drawer test"
+        },
+        {
+          "label": "D",
+          "text": "Valgus stress test"
+        },
+        {
+          "label": "E",
+          "text": "Varus stress test"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A noncontact pivoting injury with a pop and rapid hemarthrosis suggests ACL tear; the Lachman test is the most sensitive exam maneuver.",
+        "whyCorrect": "The ACL resists anterior translation of the tibia relative to the femur and is most commonly torn during pivoting or sudden deceleration, often without contact. A pop is followed by rapid swelling from hemarthrosis. Increased anterior tibial translation on the Lachman test, the most sensitive examination maneuver, supports the diagnosis.",
+        "whyWrongByChoice": {
+          "B": "The McMurray test evaluates the menisci by tibial rotation during extension of a flexed knee.",
+          "C": "The posterior drawer test detects increased posterior tibial translation from a PCL injury.",
+          "D": "Valgus stress testing evaluates the medial collateral ligament.",
+          "E": "Varus stress testing evaluates the lateral collateral ligament."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ACL tear",
+        "Lachman test"
+      ],
+      "topicId": "lower-extremity-injury-part-1-of-2",
+      "topicName": "Lower Extremity Injury- Part 1 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "mk30-010",
+      "stem": "A 34-year-old man has knee pain with intermittent catching after twisting the knee while his foot was planted. The examiner fully flexes the knee and then extends it while holding the tibia rotated externally (laterally). This reproduces pain and a palpable click. Which injury does this finding most suggest?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anterior cruciate ligament tear"
+        },
+        {
+          "label": "B",
+          "text": "Lateral collateral ligament sprain"
+        },
+        {
+          "label": "C",
+          "text": "Lateral meniscus tear"
+        },
+        {
+          "label": "D",
+          "text": "Medial meniscus tear"
+        },
+        {
+          "label": "E",
+          "text": "Posterior cruciate ligament tear"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In the McMurray test, the tibia is rotated away from the meniscus being tested: lateral rotation tests the medial meniscus.",
+        "whyCorrect": "Meniscal tears follow twisting of a planted knee and cause pain, locking or catching. In the McMurray test, rotation of the tibia during extension of a flexed knee reproduces pain or a click. The rotation is away from the meniscus being tested, so lateral (external) rotation tests the medial meniscus and medial rotation tests the lateral meniscus.",
+        "whyWrongByChoice": {
+          "A": "ACL tears are detected by increased anterior tibial translation on the Lachman or anterior drawer test.",
+          "B": "LCL injury is identified by increased laxity on varus stress testing.",
+          "C": "The tibia is rotated medially (internally) to test the lateral meniscus; lateral rotation tests the medial meniscus.",
+          "E": "PCL injury produces increased posterior tibial translation on the posterior drawer test or a sag sign."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "McMurray test",
+        "medial meniscus"
+      ],
+      "topicId": "lower-extremity-injury-part-1-of-2",
+      "topicName": "Lower Extremity Injury- Part 1 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "mk30-011",
+      "stem": "A 20-year-old rugby player's foot is planted when an opponent slams into the outside of his knee, forcing it inward while the leg twists. He has a large effusion, tenderness on the inner side of the knee, and laxity when the examiner angles the leg away from the midline. A positive Lachman test and joint line tenderness are also present. Which combination of structures is most likely injured?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "LCL, lateral meniscus, and ACL"
+        },
+        {
+          "label": "B",
+          "text": "LCL, medial meniscus, and PCL"
+        },
+        {
+          "label": "C",
+          "text": "MCL, lateral meniscus, and PCL"
+        },
+        {
+          "label": "D",
+          "text": "MCL, medial meniscus, and ACL"
+        },
+        {
+          "label": "E",
+          "text": "MCL, medial meniscus, and PCL"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A severe valgus-rotation injury can tear the MCL, the attached medial meniscus and the ACL together: the unhappy triad.",
+        "whyCorrect": "A blow to the lateral knee creates valgus stress on the MCL. Because the medial meniscus is firmly attached to the MCL, force is transmitted to it, and the rotational component also stresses the ACL. A sufficiently severe valgus-rotation injury therefore injures the MCL, medial meniscus and ACL together.",
+        "whyWrongByChoice": {
+          "A": "The lateral structures are stressed by varus forces directed toward the medial knee, not by a blow to the outer knee.",
+          "B": "The LCL resists varus stress, and the PCL is injured by a posteriorly directed force on a flexed knee.",
+          "C": "The meniscus attached to the MCL is the medial one, and a valgus-rotation injury stresses the ACL, not the PCL.",
+          "E": "A valgus-rotation injury stresses the ACL; the PCL is classically injured by a dashboard-type force."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "unhappy triad",
+        "valgus-rotation injury"
+      ],
+      "topicId": "lower-extremity-injury-part-1-of-2",
+      "topicName": "Lower Extremity Injury- Part 1 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "mk30-012",
+      "stem": "A 40-year-old woman is a front-seat passenger in a car crash in which her bent knee strikes the dashboard. She has knee pain, swelling, and a sense of instability. Which of the following examination findings is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Click with tibial rotation as the knee extends"
+        },
+        {
+          "label": "B",
+          "text": "Increased forward translation of the tibia"
+        },
+        {
+          "label": "C",
+          "text": "Increased laxity with valgus stress at the knee"
+        },
+        {
+          "label": "D",
+          "text": "Increased laxity with varus stress at the knee"
+        },
+        {
+          "label": "E",
+          "text": "Tibial sag with increased backward translation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A dashboard injury drives the tibia backward on a flexed knee, injuring the PCL; posterior drawer or sag sign shows increased posterior translation.",
+        "whyCorrect": "The PCL resists posterior translation of the tibia relative to the femur and is stronger than the ACL. It is most commonly injured by a posteriorly directed force on a flexed knee, classically the dashboard injury in a motor vehicle collision. Examination shows increased posterior tibial translation on the posterior drawer test or a sag sign.",
+        "whyWrongByChoice": {
+          "A": "A click on McMurray testing suggests a meniscal tear from a twisting injury.",
+          "B": "Increased anterior translation on the Lachman test indicates an ACL tear from pivoting or deceleration.",
+          "C": "Valgus laxity indicates MCL injury, usually from a blow to the lateral knee.",
+          "D": "Varus laxity indicates LCL injury from a force directed toward the medial knee."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "PCL injury",
+        "dashboard injury"
+      ],
+      "topicId": "lower-extremity-injury-part-1-of-2",
+      "topicName": "Lower Extremity Injury- Part 1 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "mk31-001",
+      "stem": "A 28-year-old man is brought to the emergency department after a head-on car crash in which his flexed knee struck the dashboard. His right lower extremity is shortened, flexed, adducted, and internally rotated at the hip. Which injury is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calcaneal fracture"
+        },
+        {
+          "label": "B",
+          "text": "Femoral shaft fracture"
+        },
+        {
+          "label": "C",
+          "text": "Hip (femoral neck) fracture"
+        },
+        {
+          "label": "D",
+          "text": "Multiligament knee dislocation"
+        },
+        {
+          "label": "E",
+          "text": "Posterior hip dislocation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Posterior hip dislocation, usually a dashboard injury, leaves the limb shortened, flexed, adducted and internally rotated.",
+        "whyCorrect": "Hip dislocation usually results from high-energy trauma, most commonly (more than 85%) a posteriorly directed force on a flexed knee in a motor vehicle collision. Patients with posterior dislocation present with a shortened, flexed, adducted, internally rotated lower extremity, in contrast to the shortened, externally rotated limb of hip fracture.",
+        "whyWrongByChoice": {
+          "A": "Calcaneal fractures follow falls from height onto the heels and do not alter hip position.",
+          "B": "A shaft fracture causes thigh deformity and severe pain but not this fixed flexed, adducted, internally rotated hip posture.",
+          "C": "Hip fracture classically follows a low-energy fall in an older adult and leaves the limb shortened and externally rotated.",
+          "D": "Knee dislocation deforms the knee and threatens the popliteal artery; it does not fix the hip in this position."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "posterior hip dislocation",
+        "limb position"
+      ],
+      "topicId": "lower-extremity-injury-part-2-of-2",
+      "topicName": "Lower Extremity Injury - Part 2 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "mk31-002",
+      "stem": "A 76-year-old woman underwent fixation of a displaced hip fracture 14 months ago. She now has worsening groin pain, and imaging shows collapse of the femoral head. Disruption of which vessel, which supplies most of the adult femoral head via retinacular branches, most likely caused this complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Artery of the ligamentum teres"
+        },
+        {
+          "label": "B",
+          "text": "Lateral circumflex femoral artery"
+        },
+        {
+          "label": "C",
+          "text": "Medial circumflex femoral artery"
+        },
+        {
+          "label": "D",
+          "text": "Popliteal artery behind the knee"
+        },
+        {
+          "label": "E",
+          "text": "Posterior tibial artery at the ankle"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The medial circumflex femoral artery, via retinacular arteries, provides about 85% of femoral head blood supply; its disruption risks AVN and nonunion.",
+        "whyCorrect": "The medial circumflex femoral artery supplies about 85% of the blood to the femoral head by way of the retinacular arteries. Disruption of these vessels by hip fracture or hip dislocation risks avascular necrosis of the femoral head and nonunion of fractures.",
+        "whyWrongByChoice": {
+          "A": "This foveolar artery is the main supply in children but makes only a trivial contribution in adults.",
+          "B": "The lateral circumflex femoral artery provides only about 15% of femoral head blood supply.",
+          "D": "The popliteal artery supplies the leg and is at risk in knee dislocation, not hip fracture.",
+          "E": "The posterior tibial artery is a distal leg vessel with no role in femoral head supply."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "femoral head blood supply",
+        "avascular necrosis"
+      ],
+      "topicId": "lower-extremity-injury-part-2-of-2",
+      "topicName": "Lower Extremity Injury - Part 2 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "mk31-003",
+      "stem": "A 20-year-old cross-country runner recently doubled her weekly mileage. Over 3 weeks she has developed gradually worsening pain at one spot on the distal tibia that worsens with running and improves with rest. There is focal bony tenderness. Plain radiographs are normal. Which of the following is the most appropriate next step to confirm the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CT angiography of the leg"
+        },
+        {
+          "label": "B",
+          "text": "Mortise-view ankle radiographs"
+        },
+        {
+          "label": "C",
+          "text": "MRI of the leg"
+        },
+        {
+          "label": "D",
+          "text": "Pulse study with Doppler"
+        },
+        {
+          "label": "E",
+          "text": "Reassurance and no imaging"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Bone stress injuries begin with plain films, but early injuries may be radiographically occult; MRI confirms the diagnosis when suspicion remains high.",
+        "whyCorrect": "Repetitive submaximal loading, especially after a sudden increase in training volume, produces microdamage that exceeds the bone's ability to repair, causing gradually progressive, localized pain that worsens with activity. Evaluation begins with plain radiographs, although early injuries may not be visible. When suspicion remains high despite normal radiographs, MRI can confirm the diagnosis.",
+        "whyWrongByChoice": {
+          "A": "CT angiography defines arterial occlusion in acute limb ischemia, not bone stress injury.",
+          "B": "Mortise views evaluate malleolar fractures and the ankle socket, not a tibial stress injury.",
+          "D": "Bedside Doppler assesses arterial perfusion, which is not the problem here.",
+          "E": "Normal early radiographs do not exclude a stress injury when suspicion remains high."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "bone stress injury",
+        "MRI"
+      ],
+      "topicId": "lower-extremity-injury-part-2-of-2",
+      "topicName": "Lower Extremity Injury - Part 2 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "mk31-004",
+      "stem": "A 24-year-old man is hospitalized with a femoral shaft fracture from a motorcycle crash. Two days later he becomes short of breath and confused. Oxygen saturation is 86% on room air, and pinpoint red spots are seen across his chest and in the axillae. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute compartment syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Fat embolism syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Hemorrhagic shock from thigh bleeding"
+        },
+        {
+          "label": "D",
+          "text": "Hospital-acquired pneumonia"
+        },
+        {
+          "label": "E",
+          "text": "Primary blast lung injury"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Long-bone fractures are a classic cause of fat embolism syndrome: respiratory distress, neurologic dysfunction and chest/axillary petechiae 1-3 days after injury.",
+        "whyCorrect": "Because considerable force is required to fracture the femur, associated complications are common. Long-bone fractures are a classic cause of fat embolism syndrome, characterized by respiratory distress, neurologic dysfunction and petechiae over the chest and axillae developing 1-3 days after injury.",
+        "whyWrongByChoice": {
+          "A": "Compartment syndrome causes ischemic pain confined to a fascial compartment, not hypoxemia, confusion and petechiae.",
+          "C": "Thigh hemorrhage causes hypovolemia but would not produce petechiae and confusion with hypoxemia.",
+          "D": "Pneumonia from immobility does not explain the axillary and chest petechiae with neurologic dysfunction.",
+          "E": "Blast lung follows exposure to explosive pressure waves, not a motorcycle crash."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "fat embolism syndrome",
+        "long-bone fracture"
+      ],
+      "topicId": "lower-extremity-injury-part-2-of-2",
+      "topicName": "Lower Extremity Injury - Part 2 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "mk31-005",
+      "stem": "A 34-year-old motorcyclist has a grossly deformed left knee, and radiographs confirm anterior dislocation of the tibia on the femur. The limb is currently warm. Which of the following is the most important next step in the physical examination?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Check for varus and valgus laxity"
+        },
+        {
+          "label": "B",
+          "text": "Check the distal pulses of the foot"
+        },
+        {
+          "label": "C",
+          "text": "Perform a squeeze test at mid-calf"
+        },
+        {
+          "label": "D",
+          "text": "Perform the Lachman test for laxity"
+        },
+        {
+          "label": "E",
+          "text": "Test the patellar tendon reflex"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "After any knee dislocation, distal pulses must be assessed because the tethered popliteal artery is at risk of injury.",
+        "whyCorrect": "Knee dislocation, anterior or posterior, is a high-energy injury that disrupts multiple ligaments, and the major concern is popliteal artery injury. The popliteal artery is tethered proximally and distally, placing it at risk of stretching, tearing or occlusion, so vascular assessment with evaluation of distal pulses is required after any knee dislocation.",
+        "whyWrongByChoice": {
+          "A": "Collateral ligament testing helps characterize ligament damage but does not address the limb-threatening arterial injury.",
+          "C": "The squeeze test evaluates the distal tibiofibular syndesmosis, which is not the concern here.",
+          "D": "Ligament injury is expected after dislocation; evaluating it is not the priority over the arterial exam.",
+          "E": "The patellar reflex evaluates the femoral nerve, which is not the main concern in knee dislocation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "knee dislocation",
+        "popliteal artery",
+        "vascular exam"
+      ],
+      "topicId": "lower-extremity-injury-part-2-of-2",
+      "topicName": "Lower Extremity Injury - Part 2 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "mk31-006",
+      "stem": "A 39-year-old man's posterior knee dislocation is promptly reduced in the emergency department. Thirty minutes later the foot remains cool and pale, and Doppler signals are absent at both pedal pulse sites. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Below-knee amputation"
+        },
+        {
+          "label": "B",
+          "text": "Repeat pulse checks over 24 hours"
+        },
+        {
+          "label": "C",
+          "text": "Splinting and next-day follow-up"
+        },
+        {
+          "label": "D",
+          "text": "Urgent operative arterial repair"
+        },
+        {
+          "label": "E",
+          "text": "Weight-bearing stress radiographs"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "If ischemia persists after reduction of a causative dislocation, urgent vascular evaluation and revascularization, typically operative arterial repair, are required.",
+        "whyCorrect": "Any causative fracture or dislocation should be promptly reduced and the limb reassessed for restoration of perfusion. Persistent ischemia requires urgent vascular evaluation and revascularization, typically by operative arterial repair, because ischemia beyond roughly 6 hours risks irreversible damage.",
+        "whyWrongByChoice": {
+          "A": "Amputation is reserved for limbs that cannot be preserved; this limb needs immediate revascularization.",
+          "B": "Observation delays treatment of a threatened limb; ischemia beyond roughly 6 hours risks irreversible damage.",
+          "C": "Discharge with a splint ignores persistent ischemia, which is a vascular emergency.",
+          "E": "Stress radiographs evaluate ligamentous instability and have no role in a pulseless limb."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "acute limb ischemia",
+        "revascularization"
+      ],
+      "topicId": "lower-extremity-injury-part-2-of-2",
+      "topicName": "Lower Extremity Injury - Part 2 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "mk31-007",
+      "stem": "A 23-year-old basketball player rolls his foot inward on landing and has a fracture of the fifth metatarsal at the junction of the metaphysis and diaphysis. Seven months later the fracture line is still visible. Which feature of this site best explains the poor healing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Constant pull of the deltoid ligament"
+        },
+        {
+          "label": "B",
+          "text": "Nitrogen bubbles in marrow vessels"
+        },
+        {
+          "label": "C",
+          "text": "Repeated axial load on a pointed foot"
+        },
+        {
+          "label": "D",
+          "text": "Stress of weight-bearing on a syndesmosis"
+        },
+        {
+          "label": "E",
+          "text": "Watershed between two blood supplies"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Jones fractures occur at a vascular watershed of the proximal fifth metatarsal, so they are prone to delayed union and nonunion.",
+        "whyCorrect": "A Jones fracture of the proximal fifth metatarsal occurs at the metaphyseal-diaphyseal junction, a vascular watershed between the proximal metaphyseal and distal diaphyseal blood supplies. It is typically caused by inversion. Because this region has a relatively poor blood supply, Jones fractures are prone to delayed union and nonunion.",
+        "whyWrongByChoice": {
+          "A": "The deltoid ligament is a medial ankle structure that can avulse the medial malleolus, not the fifth metatarsal.",
+          "B": "Nitrogen bubbles from decompression sickness are an AVN cause in divers, not an inversion fracture.",
+          "C": "Axial loading of a plantar-flexed foot is the mechanism of Lisfranc injury.",
+          "D": "Repeated syndesmotic loading prolongs recovery of high ankle sprains, not metatarsal fractures."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Jones fracture",
+        "nonunion",
+        "watershed"
+      ],
+      "topicId": "lower-extremity-injury-part-2-of-2",
+      "topicName": "Lower Extremity Injury - Part 2 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "mk31-008",
+      "stem": "A 45-year-old roofer falls about 4 meters and lands on both heels. CT confirms a fracture of the heel bone. Because of the axial loading mechanism, which associated, easily missed injury should be specifically excluded?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clavicle midshaft fracture"
+        },
+        {
+          "label": "B",
+          "text": "Mandibular condyle fracture"
+        },
+        {
+          "label": "C",
+          "text": "Scaphoid fracture of the wrist"
+        },
+        {
+          "label": "D",
+          "text": "Thoracolumbar vertebral fracture"
+        },
+        {
+          "label": "E",
+          "text": "Tympanic membrane rupture"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Calcaneal fractures from falls onto the heels are associated with easily missed thoracolumbar burst or compression fractures due to axial loading.",
+        "whyCorrect": "Calcaneal fractures usually result from a fall from height landing on the heels and are best seen on CT. This mechanism is associated with easily missed thoracolumbar vertebral injuries, such as burst or compression fractures, because of axial loading, as well as other lower extremity injuries.",
+        "whyWrongByChoice": {
+          "A": "Clavicle fractures are not the classic associated injury of axial heel loading.",
+          "B": "Facial fractures are not linked to landing on the heels.",
+          "C": "Scaphoid fracture follows a fall on an outstretched hand, not an axial heel strike.",
+          "E": "Tympanic membrane rupture indicates blast pressure exposure, not a fall from height."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "calcaneal fracture",
+        "thoracolumbar spine"
+      ],
+      "topicId": "lower-extremity-injury-part-2-of-2",
+      "topicName": "Lower Extremity Injury - Part 2 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "mk31-009",
+      "stem": "A 46-year-old commercial deep-sea diver has had progressive left groin pain for several months. MRI shows avascular necrosis of the femoral head. He has no history of trauma, corticosteroid use, or alcohol use. Which mechanism most likely caused the bone ischemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Disrupted retinacular artery supply"
+        },
+        {
+          "label": "B",
+          "text": "Idiopathic childhood femoral head ischemia"
+        },
+        {
+          "label": "C",
+          "text": "Marrow fat accumulation and emboli"
+        },
+        {
+          "label": "D",
+          "text": "Nitrogen gas bubbles blocking vessels"
+        },
+        {
+          "label": "E",
+          "text": "Sickled red cells occluding vessels"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The bends (decompression sickness) cause AVN when nitrogen gas bubbles occlude bone vessels, a classic risk in deep-sea divers.",
+        "whyCorrect": "The etiologies of avascular necrosis include corticosteroids, alcohol, sickle cell disease, trauma, systemic lupus erythematosus, the bends and Legg-Calvé-Perthes disease. In the bends, nitrogen gas bubbles from decompression sickness in deep-sea divers obstruct bone blood flow.",
+        "whyWrongByChoice": {
+          "A": "Retinacular artery disruption follows hip fracture or dislocation, and he has no trauma history.",
+          "B": "Idiopathic pediatric AVN of the femoral head is Legg-Calvé-Perthes disease, a childhood condition.",
+          "C": "Marrow fat accumulation explains corticosteroid- and alcohol-related AVN, which he lacks.",
+          "E": "Sickled RBC occlusion explains AVN in sickle cell disease, which is not described."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "avascular necrosis",
+        "decompression sickness"
+      ],
+      "topicId": "lower-extremity-injury-part-2-of-2",
+      "topicName": "Lower Extremity Injury - Part 2 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "mk31-010",
+      "stem": "A 72-year-old woman with untreated atrial fibrillation has sudden severe pain in her right leg that began 1 hour ago. The leg is pale and cool, with absent popliteal and pedal pulses. She has never had leg pain with walking. Which of the following is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute compartment syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Cardiogenic arterial embolism"
+        },
+        {
+          "label": "C",
+          "text": "Popliteal artery aneurysm rupture"
+        },
+        {
+          "label": "D",
+          "text": "Thrombosis on a stenotic plaque"
+        },
+        {
+          "label": "E",
+          "text": "Traumatic arterial transection"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Sudden limb ischemia in a patient with atrial fibrillation suggests arterial embolism, most often cardiogenic.",
+        "whyCorrect": "Acute limb ischemia is a sudden decrease in arterial perfusion causing pain, pallor, coolness and absent pulses. Arterial embolism is sudden occlusion of a peripheral artery by an embolus, most often cardiogenic, as in atrial fibrillation. Atherosclerotic thrombosis on a preexisting stenotic plaque is the most common cause overall, but the abrupt onset, embolic source and absence of prior vascular symptoms favor embolism here.",
+        "whyWrongByChoice": {
+          "A": "Compartment syndrome confines ischemia to a fascial compartment with major arterial flow initially preserved.",
+          "C": "Rupture of a popliteal aneurysm is uncommon; its main complication is thrombosis.",
+          "D": "Atherosclerotic thrombosis is the most common cause overall, but she lacks prior claudication and has an embolic source.",
+          "E": "There is no history of major trauma to explain arterial transection."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "arterial embolism",
+        "atrial fibrillation"
+      ],
+      "topicId": "lower-extremity-injury-part-2-of-2",
+      "topicName": "Lower Extremity Injury - Part 2 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "mk31-011",
+      "stem": "A 68-year-old man with diabetes and peripheral vascular disease needs an amputation for nonhealing foot gangrene, and the leg tissue below the knee is healthy enough to heal. The surgeon explains that keeping the knee joint will matter more to his future walking than any other choice. What is the main reason?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It avoids the need for any prosthesis"
+        },
+        {
+          "label": "B",
+          "text": "It eliminates the risk of contractures"
+        },
+        {
+          "label": "C",
+          "text": "It preserves active ankle plantarflexion"
+        },
+        {
+          "label": "D",
+          "text": "It prevents phantom limb pain entirely"
+        },
+        {
+          "label": "E",
+          "text": "It retains active flexion and extension"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Preserving the knee retains active flexion and extension, so below-knee amputation needs far less walking energy than above-knee amputation.",
+        "whyCorrect": "Preserved joints help maintain gait efficiency, and the biggest jump in energy cost comes from crossing the knee, because knee preservation retains active flexion and extension. Walking with an above-knee prosthesis requires substantially more energy than normal, while a below-knee prosthesis causes a moderate increase; in older patients the cardiopulmonary cost of losing the knee often prevents walking again.",
+        "whyWrongByChoice": {
+          "A": "Below-knee amputees still require a prosthesis; the benefit is a lower energy cost of walking.",
+          "B": "Contracture prevention remains an early rehabilitation focus regardless of level.",
+          "C": "The ankle is removed in a below-knee amputation, so plantarflexion is not preserved.",
+          "D": "Phantom pain arises from persistent sensory pathways and is not prevented by the amputation level."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "amputation level",
+        "knee preservation",
+        "energy cost"
+      ],
+      "topicId": "lower-extremity-injury-part-2-of-2",
+      "topicName": "Lower Extremity Injury - Part 2 of 2",
+      "tier": "core"
+    },
+    {
+      "id": "mk31-012",
+      "stem": "A 31-year-old factory worker is standing near an industrial explosion. He has no external wounds and his tympanic membranes are intact. Over the next hour he becomes increasingly short of breath, and breath sounds are diminished on the right. Which of the following is the most likely mechanism of his injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Being thrown against a fixed object"
+        },
+        {
+          "label": "B",
+          "text": "Fat emboli from a long-bone fracture"
+        },
+        {
+          "label": "C",
+          "text": "Penetration by flying debris"
+        },
+        {
+          "label": "D",
+          "text": "Pressure wave damaging air-filled organs"
+        },
+        {
+          "label": "E",
+          "text": "Traumatic loss of a limb with bleeding"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Primary blast injury damages air-filled organs via pressure waves; lung injury is the most common fatal form, and intact tympanic membranes do not exclude it.",
+        "whyCorrect": "Primary blast injury preferentially damages air-filled organs through pressure waves, causing pulmonary contusion and pneumothorax; lung injury is the most common fatal primary blast injury. Tympanic membrane rupture is a common indicator of blast exposure but is incompletely sensitive, so intact membranes do not exclude serious injury.",
+        "whyWrongByChoice": {
+          "A": "Tertiary blast injury causes fractures and blunt trauma from the body being thrown, which are not present.",
+          "B": "Fat embolism follows long-bone fractures 1-3 days later; he has no fracture.",
+          "C": "Secondary blast injury causes penetrating wounds, and he has no external wounds.",
+          "E": "Traumatic amputation with hemorrhage would be obvious on examination."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "primary blast injury",
+        "blast lung"
+      ],
+      "topicId": "lower-extremity-injury-part-2-of-2",
+      "topicName": "Lower Extremity Injury - Part 2 of 2",
+      "tier": "core"
+    }
+  ]
+}

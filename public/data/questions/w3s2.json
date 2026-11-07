@@ -1,0 +1,1126 @@
+{
+  "categoryId": "w3s2",
+  "categoryName": "Session 2",
+  "questions": [
+    {
+      "id": "mk27-001",
+      "stem": "A 7-year-old boy has had fever for 3 days and now limps and refuses to bear weight on his right leg. There is focal tenderness just above the knee. Blood cultures grow gram-positive cocci in clusters. In which region of the femur did this infection most likely begin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Articular cartilage"
+        },
+        {
+          "label": "B",
+          "text": "Diaphysis"
+        },
+        {
+          "label": "C",
+          "text": "Epiphysis"
+        },
+        {
+          "label": "D",
+          "text": "Metaphysis"
+        },
+        {
+          "label": "E",
+          "text": "Periosteum"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Pediatric hematogenous osteomyelitis most often begins in the metaphysis of long bones such as the femur and tibia.",
+        "whyCorrect": "Children are particularly susceptible to hematogenous osteomyelitis. Because of the unique blood supply of growing bones, infection most often develops in the metaphysis of long bones, especially the femur and tibia, where slow-flowing vascular loops facilitate bacterial seeding. Fever, limping and refusal to bear weight are typical.",
+        "whyWrongByChoice": {
+          "A": "Articular cartilage is avascular and is not seeded by bloodstream bacteria.",
+          "B": "The diaphysis (shaft) lacks the sluggish vascular loops that favor bacterial seeding in growing bones.",
+          "C": "The epiphysis is not the region the lecture identifies as vulnerable; seeding in children favors the zone of slow-flowing vascular loops.",
+          "E": "Periosteal reaction is a radiographic response to infection, not the usual initial site of hematogenous seeding."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "pediatric",
+        "hematogenous",
+        "metaphysis"
+      ],
+      "topicId": "msk-osteomyelitis",
+      "topicName": "MSK: Osteomyelitis",
+      "tier": "core"
+    },
+    {
+      "id": "mk27-002",
+      "stem": "A 9-year-old girl with HbSS disease has 5 days of fever and progressive pain in her right humerus. MRI shows marrow signal abnormality with a small subperiosteal collection. Besides Staphylococcus aureus, which organism is most characteristically associated with bone infection in her underlying condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aspergillus fumigatus"
+        },
+        {
+          "label": "B",
+          "text": "Eikenella corrodens"
+        },
+        {
+          "label": "C",
+          "text": "Pasteurella multocida"
+        },
+        {
+          "label": "D",
+          "text": "Salmonella species"
+        },
+        {
+          "label": "E",
+          "text": "Staphylococcus epidermidis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Sickle cell disease predisposes to osteomyelitis caused by Salmonella species as well as S. aureus.",
+        "whyCorrect": "The lecture's risk-factor table lists Salmonella species and S. aureus for sickle cell disease. Sickle cell disease is also listed both as a cause of immune compromise and as a risk factor for hematogenous osteomyelitis.",
+        "whyWrongByChoice": {
+          "A": "Aspergillus is linked to osteomyelitis in a compromised immune system, not specifically to sickle cell disease.",
+          "B": "Eikenella corrodens is linked to bite wounds, not to sickle cell disease.",
+          "C": "Pasteurella multocida is linked to osteomyelitis after human or animal bites.",
+          "E": "Staphylococcus epidermidis is classically linked to prosthetic joints and hardware."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "sickle cell disease",
+        "Salmonella",
+        "risk factors"
+      ],
+      "topicId": "msk-osteomyelitis",
+      "topicName": "MSK: Osteomyelitis",
+      "tier": "core"
+    },
+    {
+      "id": "mk27-003",
+      "stem": "A 71-year-old woman has a total knee arthroplasty. Five months later she develops low-grade fever and worsening knee pain. Imaging shows bone involvement adjacent to the implant. Besides the most common osteomyelitis pathogen overall, which organism is most typically responsible for this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "B",
+          "text": "Mycobacterium tuberculosis"
+        },
+        {
+          "label": "C",
+          "text": "Pasteurella multocida"
+        },
+        {
+          "label": "D",
+          "text": "Salmonella species"
+        },
+        {
+          "label": "E",
+          "text": "Staphylococcus epidermidis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Prosthetic joint-associated osteomyelitis is typically caused by S. aureus and S. epidermidis.",
+        "whyCorrect": "Invasive bone surgery such as joint replacement can introduce bacteria directly to bone, and prosthetic joints carry a significantly increased risk of adjacent infection. The risk-factor table pairs prosthetic joints with S. aureus and S. epidermidis.",
+        "whyWrongByChoice": {
+          "A": "Candida albicans is associated with immune compromise and IV drug use rather than prosthetic joints.",
+          "B": "M. tuberculosis causes Pott disease of the vertebrae via hematogenous spread from the lung.",
+          "C": "Pasteurella multocida is associated with human or animal bite wounds.",
+          "D": "Salmonella is associated with osteomyelitis in sickle cell disease."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "prosthetic joint",
+        "S. epidermidis",
+        "direct inoculation"
+      ],
+      "topicId": "msk-osteomyelitis",
+      "topicName": "MSK: Osteomyelitis",
+      "tier": "core"
+    },
+    {
+      "id": "mk27-004",
+      "stem": "A 62-year-old man with long-standing type 2 diabetes has a painless ulcer under the head of his first metatarsal that has failed to heal for 6 weeks. A metal probe passed into the ulcer base touches bone. MRI confirms infection of the underlying metatarsal. By which route did the bone most likely become infected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Contiguous spread"
+        },
+        {
+          "label": "B",
+          "text": "Direct inoculation"
+        },
+        {
+          "label": "C",
+          "text": "Hematogenous seeding"
+        },
+        {
+          "label": "D",
+          "text": "Lymphatic drainage"
+        },
+        {
+          "label": "E",
+          "text": "Retrograde venous flow"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Diabetic foot osteomyelitis arises by contiguous spread from an infected ulcer into adjacent bone.",
+        "whyCorrect": "Diabetic foot ulcers serve as a portal of entry for bacteria, allowing infection to spread from skin and soft tissue into adjacent bone through contiguous spread. Any diabetic patient with a nonhealing foot ulcer over a bony prominence should be suspected of having underlying osteomyelitis.",
+        "whyWrongByChoice": {
+          "B": "Direct inoculation follows bone surgery or a deep penetrating wound; no such event is described.",
+          "C": "Hematogenous spread is bloodstream seeding, most common in children and in adult vertebral disease, not spread from an overlying ulcer.",
+          "D": "The lecture does not describe lymphatic spread as a route of osteomyelitis.",
+          "E": "The lecture does not describe a retrograde venous route; the infection came from adjacent soft tissue."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "diabetic foot",
+        "contiguous spread",
+        "route of infection"
+      ],
+      "topicId": "msk-osteomyelitis",
+      "topicName": "MSK: Osteomyelitis",
+      "tier": "core"
+    },
+    {
+      "id": "mk27-005",
+      "stem": "A 58-year-old woman with diabetes has a 3-week nonhealing ulcer over the lateral malleolus. She has localized warmth, and her CRP and ESR are elevated. Plain radiographs of the ankle show only soft tissue swelling without bony changes. Which of the following is the most appropriate imaging study to evaluate for early bone infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "DXA scan"
+        },
+        {
+          "label": "B",
+          "text": "MRI"
+        },
+        {
+          "label": "C",
+          "text": "Repeat x-ray"
+        },
+        {
+          "label": "D",
+          "text": "Standing x-ray"
+        },
+        {
+          "label": "E",
+          "text": "Ultrasound"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "MRI is the most sensitive imaging study for osteomyelitis and detects infection before plain films change.",
+        "whyCorrect": "Plain x-rays are quick and inexpensive but will not pick up early osteomyelitis, showing evidence only once bone destruction starts. MRI is the most sensitive imaging modality, identifies infection before radiographic bone destruction is visible, and delineates the extent of bone and soft tissue infection.",
+        "whyWrongByChoice": {
+          "A": "DXA measures bone density and does not detect infection.",
+          "C": "Plain x-rays do not pick up early osteomyelitis and show changes only after bone destruction begins; repeating one now adds little.",
+          "D": "Any plain radiograph, weight-bearing or not, misses early osteomyelitis.",
+          "E": "Ultrasound is not the modality the lecture describes for detecting bone infection."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "imaging",
+        "MRI",
+        "plain radiograph"
+      ],
+      "topicId": "msk-osteomyelitis",
+      "topicName": "MSK: Osteomyelitis",
+      "tier": "core"
+    },
+    {
+      "id": "mk27-006",
+      "stem": "A 45-year-old man has 4 weeks of worsening pain in the left tibia. MRI shows marrow edema and cortical destruction of the tibial shaft. Two sets of blood cultures show no growth. Which of the following is the best next step to establish the causative organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bone biopsy with culture"
+        },
+        {
+          "label": "B",
+          "text": "CT of the tibia"
+        },
+        {
+          "label": "C",
+          "text": "Nuclear bone scan"
+        },
+        {
+          "label": "D",
+          "text": "Repeat ESR and CRP"
+        },
+        {
+          "label": "E",
+          "text": "Third set of blood cultures"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "When blood cultures are negative, bone biopsy is the gold-standard test that identifies both the infection and the organism.",
+        "whyCorrect": "If blood cultures are negative, a bone biopsy can be done to identify the type of pathogen. Bone biopsy is the gold-standard test because it allows culture of the bone and identification of the infection along with the specific causative organism, guiding antimicrobial therapy.",
+        "whyWrongByChoice": {
+          "B": "CT shows bone structure but cannot culture or identify the infecting organism.",
+          "C": "Nuclear scans show areas of affected bone that take up tracer but do not identify the organism.",
+          "D": "ESR and CRP are nonspecific and cannot identify a pathogen.",
+          "E": "Blood cultures are positive in only about half of cases; when they are negative, the next step is to sample bone."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "bone biopsy",
+        "gold standard",
+        "diagnosis"
+      ],
+      "topicId": "msk-osteomyelitis",
+      "topicName": "MSK: Osteomyelitis",
+      "tier": "core"
+    },
+    {
+      "id": "mk27-007",
+      "stem": "A 66-year-old man with chronic osteomyelitis of the femur has persistent infection despite 6 weeks of IV antibiotics to which his organism is susceptible. Imaging shows a fragment of dead bone surrounded by pus. Which of the following best explains the failure of antibiotic therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acquired resistance during the course"
+        },
+        {
+          "label": "B",
+          "text": "Inactivation of the drug by osteoclasts"
+        },
+        {
+          "label": "C",
+          "text": "Inadequate oral bioavailability"
+        },
+        {
+          "label": "D",
+          "text": "Poor penetration of the sequestrum"
+        },
+        {
+          "label": "E",
+          "text": "Rapid renal clearance of the drug"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Necrotic, sequestrated bone is poorly penetrated by systemic antibiotics, so persistent infection may require surgical debridement.",
+        "whyCorrect": "Antibiotic effectiveness depends on susceptibility and adequate drug exposure within infected bone. Abscesses and reduced blood flow to sequestrated bone limit antibiotic delivery, and necrotic bone is poorly penetrated by systemic antibiotics. If the patient does not respond, surgical debridement of the infected bone may be needed.",
+        "whyWrongByChoice": {
+          "A": "The organism remains susceptible; the problem is drug exposure, not resistance.",
+          "B": "The lecture does not describe osteoclast inactivation of antibiotics.",
+          "C": "The patient received IV therapy, which is used precisely to overcome bioavailability concerns.",
+          "E": "Clearance is not the limitation the lecture describes; delivery into necrotic bone is."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "sequestrum",
+        "antibiotic penetration",
+        "debridement"
+      ],
+      "topicId": "msk-osteomyelitis",
+      "topicName": "MSK: Osteomyelitis",
+      "tier": "core"
+    },
+    {
+      "id": "mk27-008",
+      "stem": "A 52-year-old woman has osteomyelitis of the calcaneus. Bone culture grows Staphylococcus aureus that is resistant to oxacillin. Which of the following is the most appropriate antibiotic?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amoxicillin"
+        },
+        {
+          "label": "B",
+          "text": "Cefazolin"
+        },
+        {
+          "label": "C",
+          "text": "Nafcillin"
+        },
+        {
+          "label": "D",
+          "text": "Penicillin G"
+        },
+        {
+          "label": "E",
+          "text": "Vancomycin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Methicillin-resistant S. aureus osteomyelitis is treated with vancomycin.",
+        "whyCorrect": "Because S. aureus is the most common cause of osteomyelitis, therapy targets staphylococci. MSSA is treated with cefazolin or an antistaphylococcal penicillin such as nafcillin or oxacillin, whereas MRSA (resistance to oxacillin) is treated with vancomycin.",
+        "whyWrongByChoice": {
+          "A": "Amoxicillin lacks antistaphylococcal activity against resistant strains.",
+          "B": "Cefazolin is a choice for methicillin-susceptible S. aureus; it does not cover MRSA.",
+          "C": "Nafcillin is an antistaphylococcal penicillin for MSSA; oxacillin resistance means it will fail.",
+          "D": "Penicillin G does not cover methicillin-resistant S. aureus."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "MRSA",
+        "vancomycin",
+        "treatment"
+      ],
+      "topicId": "msk-osteomyelitis",
+      "topicName": "MSK: Osteomyelitis",
+      "tier": "core"
+    },
+    {
+      "id": "mk27-009",
+      "stem": "A 64-year-old man with diabetes is admitted with a foul-smelling plantar foot wound with spreading erythema, purulent drainage and bone exposed at the base. He is febrile but hemodynamically stable. The infection is presumed to involve gram-positive, gram-negative and anaerobic organisms, including Pseudomonas. Which of the following is the most appropriate single empiric agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cefazolin monotherapy"
+        },
+        {
+          "label": "B",
+          "text": "Nafcillin monotherapy"
+        },
+        {
+          "label": "C",
+          "text": "Oxacillin monotherapy"
+        },
+        {
+          "label": "D",
+          "text": "Piperacillin/tazobactam"
+        },
+        {
+          "label": "E",
+          "text": "Vancomycin monotherapy"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Piperacillin/tazobactam is a go-to empiric agent for moderate-to-severe diabetic foot infection needing broad polymicrobial and antipseudomonal coverage.",
+        "whyCorrect": "The lecture highlights the broad spectrum of piperacillin/tazobactam and describes it as a common empiric choice for moderate-to-severe diabetic foot infections when broad polymicrobial and antipseudomonal coverage is needed. Antistaphylococcal agents and vancomycin alone do not provide that breadth.",
+        "whyWrongByChoice": {
+          "A": "Cefazolin covers MSSA but lacks antipseudomonal and broad polymicrobial coverage.",
+          "B": "Nafcillin targets MSSA and lacks antipseudomonal coverage.",
+          "C": "Oxacillin is an antistaphylococcal penicillin with no antipseudomonal activity.",
+          "E": "Vancomycin covers MRSA and other gram-positive organisms but not gram-negatives or Pseudomonas."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "diabetic foot",
+        "piperacillin/tazobactam",
+        "empiric therapy"
+      ],
+      "topicId": "msk-osteomyelitis",
+      "topicName": "MSK: Osteomyelitis",
+      "tier": "core"
+    },
+    {
+      "id": "mk27-010",
+      "stem": "A 30-year-old woman with HIV has had 3 months of mid-back pain with night sweats, fever and a 6-kg weight loss. Examination shows a sharp angular kyphosis at T10 and mild leg weakness. MRI shows destruction of adjacent thoracic vertebral bodies with a paraspinal abscess. Which organism is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Eikenella corrodens"
+        },
+        {
+          "label": "B",
+          "text": "Mycobacterium tuberculosis"
+        },
+        {
+          "label": "C",
+          "text": "Pasteurella multocida"
+        },
+        {
+          "label": "D",
+          "text": "Salmonella species"
+        },
+        {
+          "label": "E",
+          "text": "Staphylococcus epidermidis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pott disease is vertebral osteomyelitis caused by M. tuberculosis, presenting insidiously with back pain, constitutional symptoms and kyphosis.",
+        "whyCorrect": "Pott disease is vertebral osteomyelitis caused by Mycobacterium tuberculosis, reaching the spine hematogenously from a pulmonary focus and usually involving thoracic or lumbar vertebrae. It presents insidiously with chronic back pain, weight loss, fever and night sweats, and vertebral collapse can cause kyphosis and cord compression. MRI shows vertebral involvement and paraspinal abscesses.",
+        "whyWrongByChoice": {
+          "A": "Eikenella corrodens is associated with bite wounds.",
+          "C": "Pasteurella multocida follows animal or human bites.",
+          "D": "Salmonella osteomyelitis is associated with sickle cell disease.",
+          "E": "S. epidermidis is associated with prosthetic joints, not an insidious vertebral infection with constitutional symptoms."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Pott disease",
+        "tuberculosis",
+        "vertebral osteomyelitis"
+      ],
+      "topicId": "msk-osteomyelitis",
+      "topicName": "MSK: Osteomyelitis",
+      "tier": "core"
+    },
+    {
+      "id": "mk27-011",
+      "stem": "A 14-year-old boy stepped on a nail that went through the sole of his sneaker 2 weeks ago. He now has increasing pain, swelling and tenderness over the plantar forefoot, and imaging suggests osteomyelitis at the site. Besides Staphylococcus aureus, which organism is most characteristically associated with this mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mycobacterium avium-intracellulare"
+        },
+        {
+          "label": "B",
+          "text": "Pasteurella multocida"
+        },
+        {
+          "label": "C",
+          "text": "Pseudomonas aeruginosa"
+        },
+        {
+          "label": "D",
+          "text": "Salmonella species"
+        },
+        {
+          "label": "E",
+          "text": "Staphylococcus epidermidis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Puncture wounds of the foot are classically associated with Pseudomonas aeruginosa osteomyelitis.",
+        "whyCorrect": "The risk-factor table lists Pseudomonas aeruginosa, S. aureus and mixed infection for puncture wound trauma of the feet. A deep penetrating wound causes direct inoculation, so osteomyelitis arises adjacent to the site of penetration.",
+        "whyWrongByChoice": {
+          "A": "MAC causes osteomyelitis in patients with a compromised immune system.",
+          "B": "Pasteurella multocida is characteristic of bite wounds.",
+          "D": "Salmonella is associated with osteomyelitis in sickle cell disease.",
+          "E": "S. epidermidis is characteristic of prosthetic joint infection."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "puncture wound",
+        "Pseudomonas",
+        "direct inoculation"
+      ],
+      "topicId": "msk-osteomyelitis",
+      "topicName": "MSK: Osteomyelitis",
+      "tier": "core"
+    },
+    {
+      "id": "mk27-012",
+      "stem": "A 57-year-old man has MRI-confirmed vertebral osteomyelitis with a small paraspinal abscess. Blood cultures grow methicillin-susceptible Staphylococcus aureus, and he improves on IV cefazolin. Which of the following is the most appropriate total duration of antibiotic therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Approximately 10 days"
+        },
+        {
+          "label": "B",
+          "text": "Approximately 2 weeks"
+        },
+        {
+          "label": "C",
+          "text": "Approximately 3 weeks"
+        },
+        {
+          "label": "D",
+          "text": "Approximately 5 days"
+        },
+        {
+          "label": "E",
+          "text": "Approximately 6 weeks"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Osteomyelitis requires prolonged therapy: at least 4 weeks, and about 6 weeks for many adult or complicated infections.",
+        "whyCorrect": "Antibiotic treatment for osteomyelitis is prolonged. Most patients require at least 4 weeks, and many adult or complicated infections are treated for approximately 6 weeks, because abscesses and necrotic bone hinder source control and reduced blood flow limits drug delivery. Duration is individualized to site, extent, organism, debridement and response.",
+        "whyWrongByChoice": {
+          "A": "Ten days is adequate for many soft tissue infections but not for bone infection.",
+          "B": "Two weeks is shorter than the minimum of about 4 weeks the lecture describes.",
+          "C": "Three weeks still falls below the at least 4 weeks most patients require.",
+          "D": "Five days is far short of the at least 4 weeks that osteomyelitis requires."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "treatment duration",
+        "vertebral osteomyelitis",
+        "antibiotics"
+      ],
+      "topicId": "msk-osteomyelitis",
+      "topicName": "MSK: Osteomyelitis",
+      "tier": "core"
+    },
+    {
+      "id": "mk28-001",
+      "stem": "A 15-year-old girl has had 3 months of worsening pain and swelling just below her right knee. Examination shows a warm, tender mass over the proximal tibia. Radiographs show a destructive metaphyseal lesion with spiculated, radiating new bone and a triangular lifting of the periosteum at its edge. A biopsy is obtained. Which histologic finding is the hallmark of this tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anaplastic cells depositing uncalcified bone matrix"
+        },
+        {
+          "label": "B",
+          "text": "Grooved-nucleus cells admixed with numerous eosinophils"
+        },
+        {
+          "label": "C",
+          "text": "Polygonal chondroblasts with chicken-wire calcification"
+        },
+        {
+          "label": "D",
+          "text": "Sheets of small round blue cells with hemorrhage"
+        },
+        {
+          "label": "E",
+          "text": "Uniform oval stromal cells among multinucleated giant cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Production of malignant osteoid by anaplastic tumor cells is the histologic hallmark of osteosarcoma.",
+        "whyCorrect": "A teenager with a warm, tender metaphyseal mass around the knee, a sunburst pattern and a Codman triangle (periosteal elevation) has osteosarcoma, the most common primary malignant bone tumor. It arises from early mesenchymal bone-forming cells, and its hallmark is anaplastic malignant cells, often with malignant giant cells, producing malignant osteoid. Biopsy is required for diagnosis.",
+        "whyWrongByChoice": {
+          "B": "This is Langerhans cell histiocytosis, which forms well-defined lytic lesions, often in the skull.",
+          "C": "This is chondroblastoma, an epiphyseal tumor without a sunburst pattern or Codman triangle.",
+          "D": "This describes Ewing sarcoma, which favors the diaphysis and shows an onion-skin periosteal reaction.",
+          "E": "This is giant cell tumor of bone, an epiphyseal lytic soap-bubble lesion of adults in the 3rd-5th decades."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "osteosarcoma",
+        "histology"
+      ],
+      "topicId": "msk-bone-tumors",
+      "topicName": "MSK: Bone Tumors",
+      "tier": "core"
+    },
+    {
+      "id": "mk28-002",
+      "stem": "A 10-year-old boy has 2 months of left hip and buttock pain that wakes him at night, along with low-grade fevers, fatigue, and a 3-kg weight loss. Imaging shows a destructive lesion of the iliac wing with layered periosteal new bone resembling the rings of an onion. Biopsy shows sheets of small, round blue cells with areas of hemorrhage. Which is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chondrosarcoma"
+        },
+        {
+          "label": "B",
+          "text": "Ewing sarcoma"
+        },
+        {
+          "label": "C",
+          "text": "Langerhans cell histiocytosis"
+        },
+        {
+          "label": "D",
+          "text": "Osteoid osteoma"
+        },
+        {
+          "label": "E",
+          "text": "Osteosarcoma"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Ewing sarcoma: boy under 15, diaphysis or pelvis, onion-skin periosteal reaction, small round blue cells, constitutional symptoms.",
+        "whyCorrect": "Ewing sarcoma is a rare, aggressive malignant tumor typically seen in boys under 15, favoring the diaphysis of the femur and the flat bones of the pelvis. Pain is progressive and often worse at night, and fever, weight loss and fatigue are common. X-ray shows a layered onion-skin periosteal reaction, and histology shows anaplastic small blue cells with frequent hemorrhage.",
+        "whyWrongByChoice": {
+          "A": "Chondrosarcoma occurs in older adults and shows malignant chondrocytes in cartilaginous matrix.",
+          "C": "LCH shows grooved-nucleus Langerhans cells with eosinophils and typically forms skull lesions with a rash.",
+          "D": "Osteoid osteoma is a small benign lesion with a radiolucent osteoid core and no constitutional symptoms.",
+          "E": "Osteosarcoma produces malignant osteoid and classically a sunburst pattern with a Codman triangle, not layered onion-skin periosteal reaction."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Ewing sarcoma",
+        "diagnosis"
+      ],
+      "topicId": "msk-bone-tumors",
+      "topicName": "MSK: Bone Tumors",
+      "tier": "core"
+    },
+    {
+      "id": "mk28-003",
+      "stem": "A 19-year-old man has 5 months of dull, aching pain in his right thigh that is worst at night and resolves within an hour of taking ibuprofen. A radiograph shows a 1.2-cm well-demarcated lesion in the femoral shaft with a lucent core surrounded by thickened sclerotic cortex. The dramatic response to his medication reflects which property of the lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Endothelin-1 release activating osteoblasts"
+        },
+        {
+          "label": "B",
+          "text": "Periosteal elevation by tumor expansion"
+        },
+        {
+          "label": "C",
+          "text": "PTHrP secretion activating osteoclasts"
+        },
+        {
+          "label": "D",
+          "text": "Release of prostaglandins by the tumor"
+        },
+        {
+          "label": "E",
+          "text": "Stromal RANKL overexpression"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Osteoid osteoma pain is worse at night and dramatically relieved by NSAIDs because the tumor produces prostaglandins.",
+        "whyCorrect": "Osteoid osteoma is a benign bone-forming tumor under 2 cm, usually in the shaft of long bones (especially the femur) in teens and twenties, with a radiolucent osteoid core and surrounding reactive bone. Its dull night pain is dramatically relieved by NSAIDs because the tumor produces prostaglandins, which NSAIDs inhibit.",
+        "whyWrongByChoice": {
+          "A": "Endothelin-1 drives osteoblastic metastases such as prostate cancer.",
+          "B": "Periosteal elevation (Codman triangle) is a feature of osteosarcoma and is unrelated to NSAID response.",
+          "C": "PTHrP drives osteolytic metastases; it is not why NSAIDs relieve this pain.",
+          "E": "RANKL overexpression underlies giant cell tumor of bone."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "osteoid osteoma",
+        "pathophysiology",
+        "NSAIDs"
+      ],
+      "topicId": "msk-bone-tumors",
+      "topicName": "MSK: Bone Tumors",
+      "tier": "core"
+    },
+    {
+      "id": "mk28-004",
+      "stem": "A 72-year-old man with an elevated PSA has low back and pelvic pain. A pelvic radiograph shows multiple dense, sclerotic foci in the ilium and sacrum, so that the affected hemipelvis appears whiter than the opposite side. Which tumor-derived mechanism best explains these lesions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Endothelin-1 stimulating osteoblasts"
+        },
+        {
+          "label": "B",
+          "text": "Malignant osteoid laid down by tumor cells"
+        },
+        {
+          "label": "C",
+          "text": "PTHrP stimulating osteoclasts"
+        },
+        {
+          "label": "D",
+          "text": "RANKL overexpression by stromal cells"
+        },
+        {
+          "label": "E",
+          "text": "TGF-beta stimulating osteoclasts"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Osteoblastic metastases (e.g., prostate) arise when tumor cells release growth factors such as endothelin-1 that activate osteoblasts.",
+        "whyCorrect": "Prostate cancer is a typical osteoblastic metastasis: the lesions show increased bone deposition, so the involved pelvis looks denser than the other side. Cancer cells release growth factors such as endothelin-1 that activate osteoblasts. Osteolytic metastases, by contrast, are driven by PTHrP and TGF-beta activating osteoclasts.",
+        "whyWrongByChoice": {
+          "B": "Tumor cells making osteoid themselves is the hallmark of osteosarcoma, not metastatic carcinoma.",
+          "C": "PTHrP activates osteoclasts and produces osteolytic (bone-destroying) lesions, not dense ones.",
+          "D": "Stromal RANKL overexpression recruits osteoclast-like giant cells in giant cell tumor of bone, causing lysis.",
+          "E": "TGF-beta, like PTHrP, promotes osteoclast-mediated bone destruction in osteolytic metastases."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "metastatic bone disease",
+        "osteoblastic",
+        "prostate cancer"
+      ],
+      "topicId": "msk-bone-tumors",
+      "topicName": "MSK: Bone Tumors",
+      "tier": "core"
+    },
+    {
+      "id": "mk28-005",
+      "stem": "A 67-year-old woman who completed treatment for breast cancer 4 years ago develops new aching pain in her mid back. Imaging shows several lesions in the thoracic vertebral bodies and the pelvis. Which is the most likely cause of these bone lesions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Giant cell tumor of bone"
+        },
+        {
+          "label": "B",
+          "text": "Langerhans cell histiocytosis"
+        },
+        {
+          "label": "C",
+          "text": "Metastatic carcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Primary chondrosarcoma"
+        },
+        {
+          "label": "E",
+          "text": "Primary osteosarcoma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Metastasis is the most common cause of malignant bone tumors; breast cancer commonly spreads to the spine and pelvis.",
+        "whyCorrect": "Metastatic disease is the most common cause of malignant bone tumors, and the vertebral column, sacrum, pelvis and proximal femurs are its most common locations. Breast cancer is among the tumors that commonly metastasize to bone. Pain is the most common symptom when lesions are symptomatic.",
+        "whyWrongByChoice": {
+          "A": "Giant cell tumor is a solitary epiphyseal lesion around the knee in younger adults.",
+          "B": "LCH is mainly a disease of children with skull lesions and rash.",
+          "D": "Chondrosarcoma is a primary tumor of older adults, but multiple vertebral and pelvic lesions after breast cancer point to metastasis.",
+          "E": "Osteosarcoma is the most common primary malignant bone tumor, but metastasis is far more common than any primary tumor."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "metastatic bone disease",
+        "epidemiology"
+      ],
+      "topicId": "msk-bone-tumors",
+      "topicName": "MSK: Bone Tumors",
+      "tier": "core"
+    },
+    {
+      "id": "mk28-006",
+      "stem": "A 34-year-old woman has 4 months of pain, swelling and reduced motion of her left knee. Radiographs show a lytic, expansile 'soap bubble' lesion with cortical destruction that begins in the distal femoral epiphysis and extends into the metaphysis. The curettage specimen shows uniform oval mononuclear cells among numerous osteoclast-type cells, some with more than 100 nuclei. Which process drives the bone destruction in this tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clonal dendritic cells carrying BRAF V600E"
+        },
+        {
+          "label": "B",
+          "text": "EWSR1-FLI1 fusion in small round cells"
+        },
+        {
+          "label": "C",
+          "text": "IDH-mutant chondrocytes within the medulla"
+        },
+        {
+          "label": "D",
+          "text": "Neoplastic stromal cells overexpressing RANKL"
+        },
+        {
+          "label": "E",
+          "text": "Tumor cells releasing endothelin-1 into bone"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In giant cell tumor of bone, neoplastic stromal cells overexpress RANKL, recruiting osteoclast-like giant cells that destroy bone.",
+        "whyCorrect": "An epiphyseal, lytic, expansile soap-bubble lesion around the knee in the 3rd-5th decade is giant cell tumor of bone. The neoplastic cells are the mononuclear stromal cells, which overexpress RANKL; this recruits the osteoclast-type giant cells responsible for bone destruction. This is also why the RANKL inhibitor denosumab is useful.",
+        "whyWrongByChoice": {
+          "A": "This describes Langerhans cell histiocytosis.",
+          "B": "The t(11;22) fusion defines Ewing sarcoma, a diaphyseal small round blue cell tumor.",
+          "C": "IDH1/IDH2 mutations are found in enchondromas, which are cartilage nodules, not giant cell lesions.",
+          "E": "Endothelin-1 activates osteoblasts and produces osteoblastic metastases."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "giant cell tumor of bone",
+        "pathophysiology",
+        "RANKL"
+      ],
+      "topicId": "msk-bone-tumors",
+      "topicName": "MSK: Bone Tumors",
+      "tier": "core"
+    },
+    {
+      "id": "mk28-007",
+      "stem": "A 15-year-old boy notices a hard, painless lump on the inner side of his distal thigh. A radiograph obtained after a minor sports injury shows a bony outgrowth projecting from the surface of the femoral metaphysis and pointing away from the knee. Which is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chondroblastoma"
+        },
+        {
+          "label": "B",
+          "text": "Enchondroma"
+        },
+        {
+          "label": "C",
+          "text": "Osteochondroma"
+        },
+        {
+          "label": "D",
+          "text": "Osteoid osteoma"
+        },
+        {
+          "label": "E",
+          "text": "Osteosarcoma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Osteochondroma, the most common benign bone tumor, is a painless metaphyseal bony exostosis in adolescent boys, often near the knee.",
+        "whyCorrect": "Osteochondroma is the most common benign bone tumor, a solid overgrowth of normal bone and cartilage arising at the metaphysis. It usually occurs in teenage boys or young men as a painless mass around the knee or shoulder and is often found incidentally on x-ray as a bony exostosis. Growth stops when the growth plates fuse.",
+        "whyWrongByChoice": {
+          "A": "Chondroblastoma is an epiphyseal lytic lesion causing joint pain and swelling.",
+          "B": "Enchondroma sits inside the medullary cavity, most often in the small bones of the hands and feet; it does not project from the surface.",
+          "D": "Osteoid osteoma is a painful small lesion with a radiolucent core, classically relieved by NSAIDs.",
+          "E": "Osteosarcoma presents as a painful, enlarging, warm, tender mass with a destructive lesion."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "osteochondroma",
+        "diagnosis"
+      ],
+      "topicId": "msk-bone-tumors",
+      "topicName": "MSK: Bone Tumors",
+      "tier": "core"
+    },
+    {
+      "id": "mk28-008",
+      "stem": "A 24-year-old man has multiple firm swellings of his fingers. Radiographs show several well-circumscribed radiolucent nodules with central calcification in the medullary cavities of the phalanges and metacarpals. Examination also shows several soft, bluish vascular lesions in the skin of both hands. Which is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gardner syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Langerhans cell histiocytosis"
+        },
+        {
+          "label": "C",
+          "text": "Maffucci syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Multiple hereditary exostosis"
+        },
+        {
+          "label": "E",
+          "text": "Ollier disease"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Multiple enchondromas plus skin hemangiomas = Maffucci syndrome; without hemangiomas = Ollier disease.",
+        "whyCorrect": "Multiple medullary, radiolucent cartilage nodules with central calcification in the tubular bones of the hand are enchondromas. Multiple enchondromas occur in Ollier disease and Maffucci syndrome, both caused by somatic IDH1 or IDH2 mutations. Maffucci syndrome is distinguished by the presence of hemangiomas in the skin.",
+        "whyWrongByChoice": {
+          "A": "Gardner syndrome causes osteomas of the skull, face and jaw with colorectal polyps.",
+          "B": "LCH causes lytic bone lesions (often skull) and an eczematous or papular rash, not vascular skin lesions.",
+          "D": "This autosomal dominant EXT1/EXT2 syndrome causes multiple surface osteochondromas, not intramedullary cartilage nodules.",
+          "E": "Ollier disease also causes multiple enchondromas from somatic IDH1/IDH2 mutations, but without skin hemangiomas."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "enchondroma",
+        "Maffucci syndrome",
+        "Ollier disease"
+      ],
+      "topicId": "msk-bone-tumors",
+      "topicName": "MSK: Bone Tumors",
+      "tier": "core"
+    },
+    {
+      "id": "mk28-009",
+      "stem": "A 14-year-old boy has 3 months of right shoulder pain and swelling. A radiograph shows a well-defined lytic lesion centered in the epiphysis of the proximal humerus while the growth plate is still open. Which histologic appearance is most expected on biopsy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chondroblasts with chicken-wire calcification"
+        },
+        {
+          "label": "B",
+          "text": "Malignant cells producing abundant osteoid"
+        },
+        {
+          "label": "C",
+          "text": "Mononuclear stromal cells among 100-nucleus giant cells"
+        },
+        {
+          "label": "D",
+          "text": "Small round blue cells with hemorrhage"
+        },
+        {
+          "label": "E",
+          "text": "Woven bone trabeculae rimmed by osteoblasts"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chondroblastoma: epiphyseal tumor of skeletally immature teens; round/polyhedral chondroblasts with chicken-wire calcification.",
+        "whyCorrect": "Chondroblastoma is a benign cartilage-forming tumor arising in the epiphyses of skeletally immature long bones, most often the proximal humerus, distal femur and proximal tibia, and presents in teens with joint pain and swelling. Histology shows round or polyhedral chondroblasts with eosinophilic cytoplasm and pericellular lace-like, chicken-wire calcification. It is treated with curettage and bone grafting.",
+        "whyWrongByChoice": {
+          "B": "This is osteosarcoma, typically metaphyseal with a sunburst pattern.",
+          "C": "Giant cell tumor is also epiphyseal but arises in skeletally mature adults (3rd-5th decades).",
+          "D": "This is Ewing sarcoma, a diaphyseal tumor with onion-skin periosteal reaction.",
+          "E": "This is osteoid osteoma, a small cortical lesion of long-bone shafts."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "chondroblastoma",
+        "histology"
+      ],
+      "topicId": "msk-bone-tumors",
+      "topicName": "MSK: Bone Tumors",
+      "tier": "core"
+    },
+    {
+      "id": "mk28-010",
+      "stem": "A 2-year-old boy has a scaly, yellow-brown papular rash with crusting on his scalp and trunk. A skull radiograph shows several sharply defined lytic defects. Biopsy of a skull lesion shows cells with folded, grooved nuclei and pale cytoplasm mixed with eosinophils. Which additional finding would best confirm the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Absent S-100 and CD1a staining of the cells"
+        },
+        {
+          "label": "B",
+          "text": "Birbeck granules on electron microscopy"
+        },
+        {
+          "label": "C",
+          "text": "Chicken-wire calcification on light microscopy"
+        },
+        {
+          "label": "D",
+          "text": "EWSR1-FLI1 fusion on cytogenetics"
+        },
+        {
+          "label": "E",
+          "text": "Germline EXT1 mutation on sequencing"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "LCH: grooved Langerhans cells with eosinophils, S-100/CD1a positive, with rod-like Birbeck granules on electron microscopy.",
+        "whyCorrect": "Lytic skull lesions with an eczematous or papular rash in a young boy suggest Langerhans cell histiocytosis, a clonal neoplastic disorder of dendritic cells. Biopsy shows Langerhans cells with folded or grooved nuclei admixed with eosinophils, positive for S-100 and CD1a, and rod-like Birbeck granules on electron microscopy are the classic testable feature. Multisystem disease is treated systemically, e.g., with vinblastine and prednisone.",
+        "whyWrongByChoice": {
+          "A": "The lesional Langerhans cells are positive, not negative, for S-100 and CD1a.",
+          "C": "This is a feature of chondroblastoma.",
+          "D": "This t(11;22) fusion defines Ewing sarcoma.",
+          "E": "EXT1/EXT2 mutations cause multiple hereditary exostosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Langerhans cell histiocytosis",
+        "diagnosis"
+      ],
+      "topicId": "msk-bone-tumors",
+      "topicName": "MSK: Bone Tumors",
+      "tier": "core"
+    },
+    {
+      "id": "mk28-011",
+      "stem": "A 61-year-old man has 8 months of progressive deep pain in his right hip region and a slowly enlarging mass. CT shows a lobulated, expansile lesion of the ilium with cortical destruction, punctate calcifications and extension into soft tissue. Biopsy shows atypical chondrocytes within a hyaline cartilage matrix. Staging shows no metastases. Which is the mainstay of treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Denosumab to block RANKL"
+        },
+        {
+          "label": "B",
+          "text": "External-beam radiation alone"
+        },
+        {
+          "label": "C",
+          "text": "Neoadjuvant MAP chemotherapy"
+        },
+        {
+          "label": "D",
+          "text": "Observation with serial imaging"
+        },
+        {
+          "label": "E",
+          "text": "Surgical excision"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Chondrosarcoma, a malignant cartilage tumor of older adults, is treated mainly by surgical excision because it resists chemotherapy and radiation.",
+        "whyCorrect": "A lobulated, expansile pelvic lesion with cortical destruction and punctate calcifications, made of malignant chondrocytes, in an older adult is chondrosarcoma. The main treatment is surgical excision; chemotherapy and radiation are used for metastatic tumors, though conventional chondrosarcomas are relatively resistant to both. Five-year survival is about 50% and varies with grade.",
+        "whyWrongByChoice": {
+          "A": "Denosumab is an alternative to surgery for giant cell tumor of bone.",
+          "B": "Conventional chondrosarcomas are relatively resistant to radiation, which is reserved for metastatic disease.",
+          "C": "MAP is the osteosarcoma regimen; conventional chondrosarcomas are relatively resistant to chemotherapy.",
+          "D": "Observation suits small asymptomatic enchondromas, not a destructive malignancy."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "chondrosarcoma",
+        "management"
+      ],
+      "topicId": "msk-bone-tumors",
+      "topicName": "MSK: Bone Tumors",
+      "tier": "core"
+    },
+    {
+      "id": "mk28-012",
+      "stem": "A 58-year-old woman with lung cancer develops new right hip pain. A radiograph shows a lytic lesion in the proximal femur without fracture. Which study is usually the next step to survey the rest of her skeleton for additional deposits?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dual-energy x-ray absorptiometry"
+        },
+        {
+          "label": "B",
+          "text": "Open excisional biopsy of the femur"
+        },
+        {
+          "label": "C",
+          "text": "Repeat plain radiograph in 6 weeks"
+        },
+        {
+          "label": "D",
+          "text": "Serum PTHrP measurement"
+        },
+        {
+          "label": "E",
+          "text": "Whole-body bone scan"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "After the index lesion is imaged, a bone scan is usually the next step to screen the rest of the skeleton for metastases.",
+        "whyCorrect": "Any suspected bone metastasis needs imaging to identify the site and check for complications such as pathologic fracture or cord compression; X-ray, CT or MRI are chosen by region. A bone scan is usually the next step to screen the rest of the skeleton. Definitive diagnosis still requires histologic examination.",
+        "whyWrongByChoice": {
+          "A": "DEXA measures bone density, not focal metastatic deposits.",
+          "B": "Histology confirms the diagnosis but does not screen the rest of the skeleton.",
+          "C": "Repeating a single film delays staging and does not survey the whole skeleton.",
+          "D": "PTHrP helps explain osteolysis and hypercalcemia but does not locate other lesions."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "metastatic bone disease",
+        "imaging"
+      ],
+      "topicId": "msk-bone-tumors",
+      "topicName": "MSK: Bone Tumors",
+      "tier": "core"
+    }
+  ]
+}
