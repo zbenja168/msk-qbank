@@ -1,0 +1,2253 @@
+{
+  "categoryId": "w4s1",
+  "categoryName": "Session 1",
+  "questions": [
+    {
+      "id": "mk32-001",
+      "stem": "A 67-year-old woman has had 2 years of deep, achy right knee pain that worsens as the day goes on, especially after long walks, and eases with rest. Morning stiffness lasts about 15 minutes. Examination shows crepitus and reduced range of motion without warmth, erythema, or effusion. A radiograph of the knee is most likely to show which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diffuse osteopenia with a tibial plateau fracture"
+        },
+        {
+          "label": "B",
+          "text": "Juxta-articular osteopenia with bone erosions"
+        },
+        {
+          "label": "C",
+          "text": "Narrowing of joint space with bone spurs"
+        },
+        {
+          "label": "D",
+          "text": "Normal joint space with soft tissue swelling"
+        },
+        {
+          "label": "E",
+          "text": "Widened joint space with periosteal reaction"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Osteoarthritis radiographs show joint space narrowing, osteophytes, subchondral cysts and subchondral sclerosis.",
+        "whyCorrect": "Gradual, asymmetric, use-related pain with brief morning stiffness, crepitus and no warmth is osteoarthritis. Its radiographic features follow the LOSS mnemonic: loss of joint space, osteophytes (bone spurs), subchondral cysts and subchondral sclerosis.",
+        "whyWrongByChoice": {
+          "A": "Nothing suggests a fracture; OA produces sclerosis of bone ends rather than diffuse osteopenia.",
+          "B": "Juxta-articular osteopenia and erosions are rheumatoid arthritis findings, typically on hand and foot films.",
+          "D": "Soft tissue swelling with preserved space fits an inflammatory process; OA narrows the joint space as cartilage is lost.",
+          "E": "OA narrows rather than widens the joint space, and periosteal reaction is not a feature of OA."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "osteoarthritis",
+        "radiography",
+        "LOSS"
+      ],
+      "topicId": "msk-osteoarthritis-and-rheumatoid-arthritis",
+      "topicName": "MSK: Osteoarthritis and Rheumatoid Arthritis",
+      "tier": "core"
+    },
+    {
+      "id": "mk32-002",
+      "stem": "A 72-year-old woman notes gradually enlarging, firm, bony swellings at the distal interphalangeal joints of several fingers on both hands. The joints are not warm or red, and she has no systemic symptoms. Which of the following best describes these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bouchard nodes"
+        },
+        {
+          "label": "B",
+          "text": "Boutonniere deformity"
+        },
+        {
+          "label": "C",
+          "text": "Heberden nodes"
+        },
+        {
+          "label": "D",
+          "text": "Rheumatoid nodules"
+        },
+        {
+          "label": "E",
+          "text": "Swan neck deformity"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Heberden nodes are bony OA nodules at the DIP joints; Bouchard nodes are at the PIP joints.",
+        "whyCorrect": "Firm bony nodules of hand osteoarthritis at the distal interphalangeal (DIP) joints are Heberden nodes. Hand OA shows that OA can involve non-weight-bearing joints too.",
+        "whyWrongByChoice": {
+          "A": "Bouchard nodes are the same bony OA nodules but at the proximal interphalangeal joints.",
+          "B": "Boutonniere deformity is an RA posture of PIP flexion with DIP hyperextension, not a bony swelling.",
+          "D": "Rheumatoid nodules form in subcutaneous tissue and lung in RA, and RA typically spares the DIP joints.",
+          "E": "Swan neck deformity is an RA posture of DIP flexion with PIP hyperextension, not a bony swelling."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "osteoarthritis",
+        "Heberden nodes",
+        "hand"
+      ],
+      "topicId": "msk-osteoarthritis-and-rheumatoid-arthritis",
+      "topicName": "MSK: Osteoarthritis and Rheumatoid Arthritis",
+      "tier": "core"
+    },
+    {
+      "id": "mk32-003",
+      "stem": "A 63-year-old man has slowly progressive bilateral knee pain that worsens with use and improves with rest. He has no fever, weight loss, or prolonged morning stiffness, and the knees are cool to the touch. In the early stage of his disease, which of the following most directly contributes to loss of the cushioning surface of his joints?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Macrophage TNF-alpha inducing synovial proteases"
+        },
+        {
+          "label": "B",
+          "text": "Metalloproteinases degrading type II collagen"
+        },
+        {
+          "label": "C",
+          "text": "Osteoclast activation by T-cell RANKL expression"
+        },
+        {
+          "label": "D",
+          "text": "Pannus of granulation tissue eroding the surface"
+        },
+        {
+          "label": "E",
+          "text": "Th17-derived IL-17 recruiting joint neutrophils"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In OA, chondrocyte metalloproteinases break down type II collagen during insufficient repair, driving cartilage degeneration.",
+        "whyCorrect": "This is osteoarthritis. When the cartilage is damaged, chondrocytes release metalloproteinases that break down type II collagen; these reparative processes are insufficient and contribute to progressive cartilage degeneration (degeneration with disordered repair).",
+        "whyWrongByChoice": {
+          "A": "Macrophage TNF-alpha driving synovial protease release is the cartilage-destroying pathway of rheumatoid arthritis, an autoimmune disease.",
+          "C": "RANKL on activated T cells drives bone resorption in rheumatoid arthritis, not cartilage loss in OA.",
+          "D": "Pannus is the inflamed synovial mass of rheumatoid arthritis; OA lacks this inflammatory tissue.",
+          "E": "IL-17 from Th17 cells recruiting neutrophils is part of RA's autoimmune inflammation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "osteoarthritis",
+        "pathogenesis",
+        "metalloproteinases"
+      ],
+      "topicId": "msk-osteoarthritis-and-rheumatoid-arthritis",
+      "topicName": "MSK: Osteoarthritis and Rheumatoid Arthritis",
+      "tier": "core"
+    },
+    {
+      "id": "mk32-004",
+      "stem": "A 41-year-old woman has 3 months of pain and swelling in both wrists and the metacarpophalangeal joints of both hands, with stiffness that lasts about 2 hours each morning, fatigue, and a 3-kg weight loss. Which of the following laboratory tests is most specific for her likely diagnosis and may predict erosive disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-CCP antibodies"
+        },
+        {
+          "label": "B",
+          "text": "C-reactive protein"
+        },
+        {
+          "label": "C",
+          "text": "Rheumatoid factor"
+        },
+        {
+          "label": "D",
+          "text": "Sedimentation rate"
+        },
+        {
+          "label": "E",
+          "text": "Synovial fluid cell count"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Anti-CCP is the more specific RA autoantibody, appears early, and may predict erosive disease.",
+        "whyCorrect": "Symmetric small-joint synovitis with prolonged morning stiffness and constitutional symptoms suggests rheumatoid arthritis. Anti-cyclic citrullinated peptide (anti-CCP) antibodies are more specific than rheumatoid factor, may be detected early, and may predict erosive disease.",
+        "whyWrongByChoice": {
+          "B": "CRP is typically elevated in RA but is a nonspecific inflammatory marker.",
+          "C": "Rheumatoid factor is found in about 80% of patients and is the more sensitive marker, but it is less specific than anti-CCP.",
+          "D": "ESR is typically elevated in RA but is a nonspecific inflammatory marker.",
+          "E": "An inflammatory synovial fluid count supports RA but is not specific and does not predict erosions."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "rheumatoid arthritis",
+        "anti-CCP",
+        "serology"
+      ],
+      "topicId": "msk-osteoarthritis-and-rheumatoid-arthritis",
+      "topicName": "MSK: Osteoarthritis and Rheumatoid Arthritis",
+      "tier": "core"
+    },
+    {
+      "id": "mk32-005",
+      "stem": "A 52-year-old woman with long-standing rheumatoid arthritis has hand radiographs that show new marginal bone erosions. Which of the following mediators most directly stimulates the cells that resorb bone in her joints?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IFN-gamma from Th1 cells"
+        },
+        {
+          "label": "B",
+          "text": "IgM rheumatoid factor"
+        },
+        {
+          "label": "C",
+          "text": "IL-17 from Th17 cells"
+        },
+        {
+          "label": "D",
+          "text": "IL-6 from macrophages"
+        },
+        {
+          "label": "E",
+          "text": "RANKL on activated T cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "RANKL on activated T cells stimulates osteoclasts to resorb bone in RA.",
+        "whyCorrect": "In RA, RANKL expressed on activated T cells stimulates osteoclasts, causing bone resorption and the erosions seen on radiographs.",
+        "whyWrongByChoice": {
+          "A": "IFN-gamma from Th1 cells activates macrophages and synovial cells.",
+          "B": "Rheumatoid factor is an IgM autoantibody against IgG Fc used diagnostically; it does not activate osteoclasts.",
+          "C": "IL-17 from Th17 cells recruits neutrophils and monocytes rather than activating bone resorption.",
+          "D": "Macrophage IL-6 (with TNF-alpha and IL-1) recruits leukocytes and stimulates synovial proteases that destroy cartilage."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "rheumatoid arthritis",
+        "RANKL",
+        "pathogenesis"
+      ],
+      "topicId": "msk-osteoarthritis-and-rheumatoid-arthritis",
+      "topicName": "MSK: Osteoarthritis and Rheumatoid Arthritis",
+      "tier": "core"
+    },
+    {
+      "id": "mk32-006",
+      "stem": "A 55-year-old woman with severe rheumatoid arthritis undergoes knee surgery. The surgeon finds a mass of edematous lining tissue containing inflammatory cells, granulation tissue, and fibroblasts that has grown across and eroded the articular cartilage. Which of the following terms best describes this tissue?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Joint mouse"
+        },
+        {
+          "label": "B",
+          "text": "Pannus"
+        },
+        {
+          "label": "C",
+          "text": "Rheumatoid nodule"
+        },
+        {
+          "label": "D",
+          "text": "Subchondral cyst"
+        },
+        {
+          "label": "E",
+          "text": "Subchondral sclerosis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pannus is inflamed, hyperplastic synovium with granulation tissue that grows over and erodes articular cartilage in RA.",
+        "whyCorrect": "A pannus is the mass of edematous synovium, inflammatory cells, granulation tissue and fibroblasts that grows over and erodes articular cartilage in RA. It arises from synovial hyperplasia with a dense infiltrate of T cells, B cells, plasma cells and macrophages.",
+        "whyWrongByChoice": {
+          "A": "A joint mouse is a free fragment of bone and cartilage floating in an osteoarthritic joint.",
+          "C": "A rheumatoid nodule is central necrosis rimmed by palisaded macrophages in subcutaneous tissue or lung.",
+          "D": "A subchondral cyst is a fluid-like sac in the bone beneath the cartilage, a radiographic OA (and RA) finding.",
+          "E": "Subchondral sclerosis is hardening of bone ends beneath lost cartilage in OA, not a soft tissue mass."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "rheumatoid arthritis",
+        "pannus",
+        "pathology"
+      ],
+      "topicId": "msk-osteoarthritis-and-rheumatoid-arthritis",
+      "topicName": "MSK: Osteoarthritis and Rheumatoid Arthritis",
+      "tier": "core"
+    },
+    {
+      "id": "mk32-007",
+      "stem": "A 58-year-old woman has had severe, erosive rheumatoid arthritis for 14 years. She has had three bacterial infections this year. The spleen tip is palpable, and the absolute neutrophil count is low. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "AA amyloidosis"
+        },
+        {
+          "label": "B",
+          "text": "Felty syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Seronegative rheumatoid arthritis"
+        },
+        {
+          "label": "D",
+          "text": "Sjogren syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Systemic juvenile idiopathic arthritis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Felty syndrome = RA + splenomegaly + neutropenia, usually after 10+ years of severe RA.",
+        "whyCorrect": "Felty syndrome is rheumatoid arthritis plus splenomegaly plus neutropenia. It occurs in about 1-3% of RA, typically after 10 or more years of long-standing severe disease, is more common in females, and is strongly associated with HLA-DR4.",
+        "whyWrongByChoice": {
+          "A": "AA amyloidosis is an extra-articular complication of chronic RA inflammation, but it does not explain this triad.",
+          "C": "Seronegative RA means negative RF and anti-CCP; it does not explain splenomegaly with neutropenia.",
+          "D": "Sjogren syndrome is an extra-articular association of RA, but it does not define the splenomegaly-neutropenia triad.",
+          "E": "Systemic JIA begins before age 16 with fever, salmon-pink rash and serositis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "rheumatoid arthritis",
+        "Felty syndrome",
+        "extra-articular"
+      ],
+      "topicId": "msk-osteoarthritis-and-rheumatoid-arthritis",
+      "topicName": "MSK: Osteoarthritis and Rheumatoid Arthritis",
+      "tier": "core"
+    },
+    {
+      "id": "mk32-008",
+      "stem": "A 45-year-old woman is newly diagnosed with rheumatoid arthritis; she is anti-CCP positive and has early erosions. She has normal liver and kidney function, is not pregnant, and rarely drinks alcohol. Which of the following is the most appropriate initial disease-modifying monotherapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adalimumab"
+        },
+        {
+          "label": "B",
+          "text": "Celecoxib"
+        },
+        {
+          "label": "C",
+          "text": "Methotrexate"
+        },
+        {
+          "label": "D",
+          "text": "Prednisone"
+        },
+        {
+          "label": "E",
+          "text": "Tofacitinib"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Methotrexate is the usual first-line DMARD monotherapy for RA, started early.",
+        "whyCorrect": "DMARDs should be started early to delay disease progression, and methotrexate is typically the first choice for monotherapy. Biologic or other DMARDs are added or combined if the response is insufficient.",
+        "whyWrongByChoice": {
+          "A": "TNF inhibitors such as adalimumab are biologic DMARDs added to traditional DMARDs when the response is insufficient.",
+          "B": "NSAIDs such as celecoxib relieve flares but do not control disease progression and should not be stand-alone therapy.",
+          "D": "Glucocorticoids treat inflammation in severe disease or inadequate NSAID response but are not the disease-modifying foundation.",
+          "E": "JAK inhibitors are reserved for inadequate response to biologic and/or nonbiologic DMARDs."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "rheumatoid arthritis",
+        "methotrexate",
+        "treatment"
+      ],
+      "topicId": "msk-osteoarthritis-and-rheumatoid-arthritis",
+      "topicName": "MSK: Osteoarthritis and Rheumatoid Arthritis",
+      "tier": "core"
+    },
+    {
+      "id": "mk32-009",
+      "stem": "A 47-year-old man with rheumatoid arthritis takes once-weekly low-dose methotrexate. At this dose, which of the following best explains the drug's anti-inflammatory effect in his joints?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "AICAR transformylase inhibition raising adenosine"
+        },
+        {
+          "label": "B",
+          "text": "Dihydrofolate reductase blockade, cytotoxic"
+        },
+        {
+          "label": "C",
+          "text": "Dihydroorotate dehydrogenase inhibition"
+        },
+        {
+          "label": "D",
+          "text": "Janus kinase inhibition of cytokine signals"
+        },
+        {
+          "label": "E",
+          "text": "Neutralization of soluble TNF-alpha"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Low-dose methotrexate works in RA by inhibiting AICAR transformylase, raising anti-inflammatory adenosine.",
+        "whyCorrect": "In autoimmune disease, low-dose methotrexate inhibits aminoimidazole carboxamide ribonucleotide (AICAR) transformylase, raising adenosine levels, which reduce activated T cells and TNF-alpha.",
+        "whyWrongByChoice": {
+          "B": "Dihydrofolate reductase inhibition with death of rapidly dividing cells is methotrexate's anticancer mechanism, not the main low-dose RA mechanism.",
+          "C": "DHODH inhibition, which blocks pyrimidine synthesis, is the mechanism of leflunomide.",
+          "D": "Blocking JAK signaling downstream of cytokines is the mechanism of tofacitinib and upadacitinib.",
+          "E": "Neutralizing TNF-alpha is the mechanism of biologic TNF inhibitors such as adalimumab and etanercept."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "methotrexate",
+        "mechanism",
+        "DMARD"
+      ],
+      "topicId": "msk-osteoarthritis-and-rheumatoid-arthritis",
+      "topicName": "MSK: Osteoarthritis and Rheumatoid Arthritis",
+      "tier": "core"
+    },
+    {
+      "id": "mk32-010",
+      "stem": "A 64-year-old man has osteoarthritis limited to his right knee. Despite weight loss, exercise, and physical therapy, he still has pain with activity. He has no other joint symptoms. Which of the following is the most appropriate first-line drug therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetaminophen tablets"
+        },
+        {
+          "label": "B",
+          "text": "Codeine tablets"
+        },
+        {
+          "label": "C",
+          "text": "Diclofenac gel"
+        },
+        {
+          "label": "D",
+          "text": "Methotrexate tablets"
+        },
+        {
+          "label": "E",
+          "text": "Tramadol tablets"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Topical NSAIDs (diclofenac) are first-line drug therapy for OA of one or a few joints.",
+        "whyCorrect": "Pharmacologic therapy is started only after nonpharmacologic measures fail. With one or a few joints affected, the first-line drug for OA is a topical NSAID such as diclofenac; oral NSAIDs are used next if relief is inadequate.",
+        "whyWrongByChoice": {
+          "A": "Acetaminophen is no longer recommended as first-line OA therapy and is not routinely used.",
+          "B": "Opioids are not first-line OA therapy; a topical NSAID is preferred for one or a few joints.",
+          "D": "Methotrexate is a DMARD for rheumatoid arthritis; OA is not an autoimmune disease.",
+          "E": "Opioid-type analgesics are not first-line OA therapy."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "osteoarthritis",
+        "treatment",
+        "topical NSAID"
+      ],
+      "topicId": "msk-osteoarthritis-and-rheumatoid-arthritis",
+      "topicName": "MSK: Osteoarthritis and Rheumatoid Arthritis",
+      "tier": "core"
+    },
+    {
+      "id": "mk32-011",
+      "stem": "A 53-year-old woman has a painful, swollen left knee. Aspiration yields cloudy, yellow fluid with 18,000 white blood cells/mm3, predominantly neutrophils; Gram stain and crystal analysis are negative. Which additional finding is most likely in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bilateral wrist and MCP joint synovitis"
+        },
+        {
+          "label": "B",
+          "text": "Crepitus with no warmth over the knee"
+        },
+        {
+          "label": "C",
+          "text": "Firm bony nodules at the DIP joints"
+        },
+        {
+          "label": "D",
+          "text": "Knee pain that is worst by late evening"
+        },
+        {
+          "label": "E",
+          "text": "Morning stiffness of about 15 minutes"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "RA synovial fluid is cloudy and yellow with 5,000-25,000 WBC/mm3, mostly neutrophils; OA fluid has <2,000, mostly mononuclear.",
+        "whyCorrect": "Cloudy yellow synovial fluid with 5,000-25,000 cells/mm3, predominantly neutrophils, is typical of rheumatoid arthritis, which involves small joints such as the wrists and MCP joints symmetrically. Osteoarthritis fluid is noninflammatory or mildly inflammatory (<2,000 cells/mm3, mostly mononuclear).",
+        "whyWrongByChoice": {
+          "B": "Crepitus without warmth fits noninflammatory OA, not this inflammatory fluid.",
+          "C": "Heberden nodes indicate osteoarthritis, whose fluid has fewer than 2,000 cells/mm3.",
+          "D": "Pain that worsens with use through the day is typical of OA; RA pain is worst in the morning.",
+          "E": "Brief (<30 minute) morning stiffness is typical of OA; RA stiffness lasts more than 1 hour."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "synovial fluid",
+        "rheumatoid arthritis",
+        "osteoarthritis"
+      ],
+      "topicId": "msk-osteoarthritis-and-rheumatoid-arthritis",
+      "topicName": "MSK: Osteoarthritis and Rheumatoid Arthritis",
+      "tier": "core"
+    },
+    {
+      "id": "mk32-012",
+      "stem": "A 50-year-old woman with rheumatoid arthritis has an inadequate response to methotrexate, and her rheumatologist plans to add adalimumab. Which of the following should be done before the first dose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dilated ophthalmic examination"
+        },
+        {
+          "label": "B",
+          "text": "Fasting lipid panel"
+        },
+        {
+          "label": "C",
+          "text": "Semen analysis for sperm count"
+        },
+        {
+          "label": "D",
+          "text": "Serum potassium level"
+        },
+        {
+          "label": "E",
+          "text": "TB and hepatitis B screening"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Screen for TB and hepatitis B before biologic or targeted synthetic DMARDs.",
+        "whyCorrect": "Before starting biologic DMARDs (and targeted synthetic DMARDs), patients are screened for tuberculosis and hepatitis B.",
+        "whyWrongByChoice": {
+          "A": "Ophthalmic examination is the monitoring needed for hydroxychloroquine's ocular toxicity.",
+          "B": "A lipid panel is the monitoring specific to JAK inhibitors.",
+          "C": "Reversible oligospermia is an adverse effect of sulfasalazine.",
+          "D": "Low potassium is an adverse effect of leflunomide, which also needs electrolyte monitoring."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "biologic DMARD",
+        "adalimumab",
+        "screening"
+      ],
+      "topicId": "msk-osteoarthritis-and-rheumatoid-arthritis",
+      "topicName": "MSK: Osteoarthritis and Rheumatoid Arthritis",
+      "tier": "core"
+    },
+    {
+      "id": "mk33-001",
+      "stem": "A 52-year-old man with hypertension is awakened at night by excruciating pain in his right great toe. He felt completely well the evening before. The base of the toe is red, swollen, and too tender to touch. Aspiration of the joint shows needle-shaped crystals that are negatively birefringent under polarized light. Which substance makes up these crystals?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calcium oxalate"
+        },
+        {
+          "label": "B",
+          "text": "Calcium pyrophosphate"
+        },
+        {
+          "label": "C",
+          "text": "Cholesterol"
+        },
+        {
+          "label": "D",
+          "text": "Hydroxyapatite"
+        },
+        {
+          "label": "E",
+          "text": "Monosodium urate"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Needle-shaped, negatively birefringent crystals in an acutely inflamed first MTP joint are monosodium urate crystals of gout.",
+        "whyCorrect": "Gout results from accumulation of monosodium urate crystals in the joint space. Its classic presentation is podagra: sudden, severe pain, swelling and redness of the first metatarsophalangeal joint, going from well to severe pain within hours. Joint fluid in gout shows needle-shaped negatively birefringent crystals.",
+        "whyWrongByChoice": {
+          "A": "Calcium oxalate is not one of the crystal-induced arthropathies described; gout and CPPD are the most common.",
+          "B": "Calcium pyrophosphate crystals of CPPD are rhomboid and weakly positively birefringent, and they favor large joints such as the knee.",
+          "C": "Cholesterol crystals do not cause the abrupt first-MTP flare described; needle-shaped negatively birefringent crystals define gout.",
+          "D": "Hydroxyapatite is not the crystal of gout; the needle-shaped, negatively birefringent crystal is the urate salt."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "gout",
+        "synovial fluid",
+        "crystal identification"
+      ],
+      "topicId": "msk-crystal-induced-arthritis",
+      "topicName": "MSK: Crystal-Induced Arthritis",
+      "tier": "core"
+    },
+    {
+      "id": "mk33-002",
+      "stem": "A 74-year-old woman has had 2 days of gradually worsening pain and swelling of her right knee. She has never had pain in her toes. The knee is warm with a moderate effusion. Arthrocentesis is performed. Which finding on polarized light microscopy is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Needle-shaped crystals, negatively birefringent"
+        },
+        {
+          "label": "B",
+          "text": "Needle-shaped crystals, weakly positively birefringent"
+        },
+        {
+          "label": "C",
+          "text": "No crystals, with sheets of lymphocytes"
+        },
+        {
+          "label": "D",
+          "text": "Rhomboid crystals, strongly negatively birefringent"
+        },
+        {
+          "label": "E",
+          "text": "Rhomboid crystals, weakly positively birefringent"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Acute CPPD (pseudogout) of a large joint in an older adult shows rhomboid, weakly positively birefringent crystals.",
+        "whyCorrect": "Acute CPPD (pseudogout) resembles gout but usually involves large joints such as the knees and hips, with a more gradual onset, and is seen mostly in patients older than 40 and slightly more often in women. Arthrocentesis is the best diagnostic test and shows rhomboid crystals that are weakly positively birefringent under polarized light.",
+        "whyWrongByChoice": {
+          "A": "Needle-shaped negatively birefringent crystals are urate crystals of gout, which classically strikes the first MTP joint abruptly.",
+          "B": "This mixes the needle shape of urate with the birefringence of calcium pyrophosphate; neither crystal looks like this.",
+          "C": "Crystal arthritis fluid is dominated by neutrophils and contains crystals; this pattern does not fit acute CPPD.",
+          "D": "Rhomboid crystals of CPPD are weakly POSITIVELY birefringent, not negatively birefringent."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "CPPD",
+        "pseudogout",
+        "synovial fluid"
+      ],
+      "topicId": "msk-crystal-induced-arthritis",
+      "topicName": "MSK: Crystal-Induced Arthritis",
+      "tier": "core"
+    },
+    {
+      "id": "mk33-003",
+      "stem": "A 48-year-old man has had three attacks of severe great-toe pain over the past 2 years. His serum uric acid is 9.5 mg/dL. A 24-hour urine collection shows a low uric acid level. He drinks rarely and eats little meat. Which mechanism best explains his hyperuricemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accelerated hepatic breakdown of ATP"
+        },
+        {
+          "label": "B",
+          "text": "Deficient hypoxanthine-guanine salvage enzyme"
+        },
+        {
+          "label": "C",
+          "text": "Excess intake of purine-rich foods"
+        },
+        {
+          "label": "D",
+          "text": "Impaired renal tubular handling of urate"
+        },
+        {
+          "label": "E",
+          "text": "Increased nucleic acid release from cell lysis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Low urine uric acid with high serum uric acid indicates renal underexcretion, the cause of about 90% of hyperuricemia.",
+        "whyCorrect": "Uric acid accumulates by overproduction or by underexcretion. Reduced kidney excretion of uric acid accounts for 90% of cases of high blood uric acid, and in these patients the urine uric acid level is low, whereas overproducers have high urine uric acid.",
+        "whyWrongByChoice": {
+          "A": "Accelerated ATP degradation (as with ethanol) feeds overproduction; he rarely drinks and his urinary uric acid is low.",
+          "B": "HPRT deficiency (Lesch-Nyhan syndrome) causes OVERproduction, which raises urinary uric acid rather than lowering it.",
+          "C": "Dietary excess is an overproduction mechanism and would raise urinary uric acid; he also eats little meat.",
+          "E": "Cell lysis (as in tumor lysis syndrome) overproduces urate, so urine uric acid would be high."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "gout",
+        "hyperuricemia",
+        "underexcretion"
+      ],
+      "topicId": "msk-crystal-induced-arthritis",
+      "topicName": "MSK: Crystal-Induced Arthritis",
+      "tier": "core"
+    },
+    {
+      "id": "mk33-004",
+      "stem": "A 61-year-old man develops an acutely painful, swollen ankle. Joint aspiration confirms monosodium urate crystals. Which process most directly initiates the inflammatory response in this joint?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoantibody binding to synovial self-antigens"
+        },
+        {
+          "label": "B",
+          "text": "Immune complex deposition with complement fixation"
+        },
+        {
+          "label": "C",
+          "text": "Macrophage phagocytosis with IL-1 release"
+        },
+        {
+          "label": "D",
+          "text": "Mast cell degranulation with histamine release"
+        },
+        {
+          "label": "E",
+          "text": "T-cell recognition of crystal-bound peptides"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Urate crystals are phagocytosed by macrophages, which release IL-1 and rupture lysosomes, recruiting neutrophils.",
+        "whyCorrect": "Monosodium urate crystals deposited in joints are phagocytosed by macrophages, stimulating IL-1 production and lysosomal rupture. This leads to recruitment of neutrophils, tissue injury and inflammation; treatment of the flare targets this IL-1-mediated neutrophilic inflammation.",
+        "whyWrongByChoice": {
+          "A": "Autoimmune destruction of synovium describes rheumatoid arthritis, not crystal-induced inflammation.",
+          "B": "Gout is not an immune complex disease; crystals are engulfed by macrophages that release IL-1.",
+          "D": "Gouty inflammation is driven by IL-1 and neutrophil recruitment, not histamine from mast cells.",
+          "E": "Adaptive T-cell responses do not initiate the flare; innate macrophage phagocytosis and IL-1 do."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "gout",
+        "pathogenesis",
+        "IL-1"
+      ],
+      "topicId": "msk-crystal-induced-arthritis",
+      "topicName": "MSK: Crystal-Induced Arthritis",
+      "tier": "core"
+    },
+    {
+      "id": "mk33-005",
+      "stem": "A 45-year-old man has a hot, swollen first metatarsophalangeal joint that began 8 hours ago. Aspiration shows needle-shaped negatively birefringent crystals and a WBC count of 22,000/mm3. He has normal kidney function and no history of peptic ulcer disease. This is his first attack. Which drug is the most appropriate treatment now?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Allopurinol"
+        },
+        {
+          "label": "B",
+          "text": "Febuxostat"
+        },
+        {
+          "label": "C",
+          "text": "Indomethacin"
+        },
+        {
+          "label": "D",
+          "text": "Pegloticase"
+        },
+        {
+          "label": "E",
+          "text": "Probenecid"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "An acute gout flare is treated promptly with an NSAID (classically indomethacin), low-dose colchicine or a glucocorticoid.",
+        "whyCorrect": "Acute flare treatment suppresses crystal-induced inflammation: an NSAID, low-dose colchicine or a glucocorticoid are all first-line, chosen by comorbidities. Indomethacin is classically used; it inhibits COX-1 and COX-2 to decrease prostaglandin-mediated pain and inflammation, but it does not lower serum urate.",
+        "whyWrongByChoice": {
+          "A": "Urate-lowering therapy does not relieve the inflammation or pain of the current flare, and a single first flare is not by itself an indication.",
+          "B": "Febuxostat lowers urate, does not treat flare inflammation, and is reserved for patients who fail or cannot take allopurinol.",
+          "D": "Pegloticase is reserved for severe gout uncontrolled by conventional urate-lowering therapy.",
+          "E": "Probenecid increases urinary urate excretion; it does not suppress the inflammation of an acute flare."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "gout",
+        "acute flare",
+        "treatment"
+      ],
+      "topicId": "msk-crystal-induced-arthritis",
+      "topicName": "MSK: Crystal-Induced Arthritis",
+      "tier": "core"
+    },
+    {
+      "id": "mk33-006",
+      "stem": "A 66-year-old man with a history of bleeding peptic ulcer develops an acute gout flare of the left first metatarsophalangeal joint. Because NSAIDs are a concern, he is given low-dose colchicine. Which action accounts for this drug's benefit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blocks microtubule assembly, limiting neutrophil migration"
+        },
+        {
+          "label": "B",
+          "text": "Blocks tubular urate reabsorption, raising excretion"
+        },
+        {
+          "label": "C",
+          "text": "Converts uric acid to soluble allantoin"
+        },
+        {
+          "label": "D",
+          "text": "Inhibits cyclooxygenase, lowering prostaglandin synthesis"
+        },
+        {
+          "label": "E",
+          "text": "Inhibits xanthine oxidase, lowering urate production"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Colchicine binds beta-tubulin and inhibits microtubule polymerization, reducing neutrophil migration and activation.",
+        "whyCorrect": "Colchicine binds beta-tubulin and inhibits microtubule polymerization, reducing neutrophil migration and activation in response to monosodium urate crystals. This interrupts the inflammatory response of the flare, but colchicine does not lower serum urate or remove existing crystals.",
+        "whyWrongByChoice": {
+          "B": "Inhibiting tubular reabsorption of urate is the mechanism of probenecid.",
+          "C": "Conversion to allantoin is the action of the recombinant uricase pegloticase.",
+          "D": "COX-1 and COX-2 inhibition is the NSAID mechanism (e.g., indomethacin).",
+          "E": "That is the action of allopurinol and febuxostat; colchicine does not lower serum urate."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "colchicine",
+        "mechanism",
+        "pharmacology"
+      ],
+      "topicId": "msk-crystal-induced-arthritis",
+      "topicName": "MSK: Crystal-Induced Arthritis",
+      "tier": "core"
+    },
+    {
+      "id": "mk33-007",
+      "stem": "A 58-year-old man has had four gout flares in the past year and has firm nodules over both elbows. He is started on allopurinol at a low dose with a plan to titrate. Which enzyme do this drug and its active metabolite inhibit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adenosine deaminase"
+        },
+        {
+          "label": "B",
+          "text": "Cyclooxygenase-2"
+        },
+        {
+          "label": "C",
+          "text": "Hypoxanthine-guanine phosphoribosyltransferase"
+        },
+        {
+          "label": "D",
+          "text": "Uricase"
+        },
+        {
+          "label": "E",
+          "text": "Xanthine oxidase"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Allopurinol and oxypurinol inhibit xanthine oxidase, decreasing conversion of hypoxanthine and xanthine to uric acid.",
+        "whyCorrect": "Allopurinol is the preferred first-line urate-lowering drug, including in chronic kidney disease. It and its active metabolite oxypurinol inhibit xanthine oxidase, decreasing conversion of hypoxanthine and xanthine to uric acid. It is started at a low dose and titrated to the serum urate target; tophi and frequent flares are indications.",
+        "whyWrongByChoice": {
+          "A": "Allopurinol does not act on adenosine deaminase; it blocks the final steps of uric acid formation.",
+          "B": "COX inhibition is the NSAID mechanism used for flares, not urate lowering.",
+          "C": "HPRT is the salvage enzyme deficient in Lesch-Nyhan syndrome; allopurinol does not target it.",
+          "D": "Uricase converts uric acid to allantoin; pegloticase is a recombinant uricase, not an inhibitor of it."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "allopurinol",
+        "xanthine oxidase",
+        "urate-lowering therapy"
+      ],
+      "topicId": "msk-crystal-induced-arthritis",
+      "topicName": "MSK: Crystal-Induced Arthritis",
+      "tier": "core"
+    },
+    {
+      "id": "mk33-008",
+      "stem": "A 62-year-old man has his first episode of acute gout in the right great toe. He has hypertension, type 2 diabetes mellitus, and dyslipidemia, and four months ago a new medication was added for blood pressure. Which of the following drugs most likely contributed to this flare?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amlodipine"
+        },
+        {
+          "label": "B",
+          "text": "Atorvastatin"
+        },
+        {
+          "label": "C",
+          "text": "Empagliflozin"
+        },
+        {
+          "label": "D",
+          "text": "Hydrochlorothiazide"
+        },
+        {
+          "label": "E",
+          "text": "Metoprolol succinate"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Thiazide diuretics reduce renal urate excretion, raise serum urate and can trigger gout; replace them when feasible.",
+        "whyCorrect": "Medication triggers of gout include thiazide diuretics, which reduce renal excretion of uric acid and increase serum urate. In a patient with gout, hydrochlorothiazide should be replaced with another antihypertensive when feasible. His hypertension, diabetes and dyslipidemia are themselves gout risk factors.",
+        "whyWrongByChoice": {
+          "A": "Amlodipine is not identified as a gout trigger; the antihypertensive to avoid is the thiazide diuretic.",
+          "B": "Atorvastatin treats dyslipidemia and is not among the medication triggers of gout.",
+          "C": "Empagliflozin is not among the gout triggers; diabetes itself is a risk factor, not the drug.",
+          "E": "Metoprolol is not identified as reducing urate excretion; thiazides are the medication trigger."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "gout",
+        "triggers",
+        "thiazide diuretics"
+      ],
+      "topicId": "msk-crystal-induced-arthritis",
+      "topicName": "MSK: Crystal-Induced Arthritis",
+      "tier": "core"
+    },
+    {
+      "id": "mk33-009",
+      "stem": "A 59-year-old man has a 1-day history of a hot, swollen right knee. He has had gout of the great toe in the past. Arthrocentesis shows needle-shaped negatively birefringent crystals and a WBC count of 68,000/mm3 with mostly neutrophils. Which is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Culture the fluid and start antibiotics"
+        },
+        {
+          "label": "B",
+          "text": "Give indomethacin with no further testing"
+        },
+        {
+          "label": "C",
+          "text": "Inject an intra-articular glucocorticoid"
+        },
+        {
+          "label": "D",
+          "text": "Obtain plain radiographs of the knee"
+        },
+        {
+          "label": "E",
+          "text": "Start allopurinol and recheck in 2 weeks"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Synovial WBC counts above 50,000/mm3 make a septic joint more likely: culture the fluid and give antibiotics.",
+        "whyCorrect": "Gout and CPPD typically produce synovial WBC counts of 10,000-70,000/mm3, but counts above 50,000/mm3 make a septic joint more likely, so the fluid should be cultured and antibiotics given to all such patients. Arthrocentesis is mandatory in acute monoarticular arthritis because infection may present exactly the same way, and crystals do not exclude it.",
+        "whyWrongByChoice": {
+          "B": "Crystals do not exclude infection; a count above 50,000/mm3 requires culture and antibiotic therapy.",
+          "C": "Intra-articular glucocorticoid is used only once infection has been excluded, which it has not been here.",
+          "D": "Imaging is not useful in evaluating an acute flare and does not address possible septic arthritis.",
+          "E": "Urate-lowering therapy does not treat a flare, and a count this high mandates evaluation for infection first."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "arthrocentesis",
+        "septic joint",
+        "synovial WBC"
+      ],
+      "topicId": "msk-crystal-induced-arthritis",
+      "topicName": "MSK: Crystal-Induced Arthritis",
+      "tier": "core"
+    },
+    {
+      "id": "mk33-010",
+      "stem": "A 63-year-old man with tophaceous gout began allopurinol 3 weeks ago; no other gout medication was prescribed. He now has an acute flare of the left ankle. Infection has been excluded. Which is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Continue allopurinol and start colchicine"
+        },
+        {
+          "label": "B",
+          "text": "Continue allopurinol without other therapy"
+        },
+        {
+          "label": "C",
+          "text": "Stop allopurinol and start colchicine"
+        },
+        {
+          "label": "D",
+          "text": "Switch allopurinol to febuxostat"
+        },
+        {
+          "label": "E",
+          "text": "Switch allopurinol to probenecid"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Starting urate lowering mobilizes tissue urate and can precipitate flares: continue the urate-lowering drug and add an anti-inflammatory.",
+        "whyCorrect": "Lowering serum urate mobilizes urate from tissue deposits and may precipitate flares, so colchicine, an NSAID or a low-dose glucocorticoid should be given as prophylaxis for at least 3-6 months after urate-lowering therapy starts. Established urate-lowering therapy should be continued during a flare while anti-inflammatory treatment is given.",
+        "whyWrongByChoice": {
+          "B": "Allopurinol does not relieve the inflammation of the current flare; an anti-inflammatory is needed.",
+          "C": "Established urate-lowering therapy should be continued during a flare; stopping it is not recommended.",
+          "D": "Febuxostat is reserved for inadequate response to or intolerance of allopurinol; the flare is from urate mobilization.",
+          "E": "Changing urate-lowering agents does not treat the flare; continue therapy and add an anti-inflammatory."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "urate-lowering therapy",
+        "flare prophylaxis",
+        "allopurinol"
+      ],
+      "topicId": "msk-crystal-induced-arthritis",
+      "topicName": "MSK: Crystal-Induced Arthritis",
+      "tier": "core"
+    },
+    {
+      "id": "mk33-011",
+      "stem": "A 70-year-old man with decades of untreated recurrent joint attacks has painless, enlarging, yellow-white nodules on the helices of both ears and over several fingers. A nodule is excised. Which histologic finding is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amorphous deposits with apple-green birefringence"
+        },
+        {
+          "label": "B",
+          "text": "Caseating granulomas with acid-fast bacilli"
+        },
+        {
+          "label": "C",
+          "text": "Crystal aggregates ringed by foreign-body giant cells"
+        },
+        {
+          "label": "D",
+          "text": "Rhomboid crystals within hyaline articular cartilage"
+        },
+        {
+          "label": "E",
+          "text": "Sheets of lipid-laden foamy histiocytes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Tophi are large aggregates of urate crystals surrounded by an intense foreign-body giant cell reaction.",
+        "whyCorrect": "When serum uric acid stays elevated for a long time, tophi form: deposits of monosodium urate crystals in the skin (ears, fingers), joints and subcutaneous tissue, appearing as yellow-white nodules. Histologically they are large aggregations of urate crystals surrounded by an intense inflammatory reaction of foreign-body giant cells.",
+        "whyWrongByChoice": {
+          "A": "Apple-green birefringence is the Congo red pattern of amyloid, not crystal-induced arthropathy.",
+          "B": "Caseating granulomas indicate mycobacterial infection, not deposition of crystals in subcutaneous tissue.",
+          "D": "Rhomboid crystals in cartilage describe calcium pyrophosphate deposition, not subcutaneous nodules of chronic gout.",
+          "E": "Lipid-laden histiocytes are not the lesion of chronic gout; these nodules are urate deposits."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "chronic gout",
+        "tophi",
+        "pathology"
+      ],
+      "topicId": "msk-crystal-induced-arthritis",
+      "topicName": "MSK: Crystal-Induced Arthritis",
+      "tier": "core"
+    },
+    {
+      "id": "mk33-012",
+      "stem": "A 56-year-old man has had recurrent attacks of knee and wrist swelling. Aspirates show rhomboid crystals that are weakly positively birefringent. Calcium and phosphate levels are normal. Evaluation for which associated condition is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ankylosing spondylitis"
+        },
+        {
+          "label": "B",
+          "text": "Hemochromatosis"
+        },
+        {
+          "label": "C",
+          "text": "Hypoparathyroidism"
+        },
+        {
+          "label": "D",
+          "text": "Lesch-Nyhan syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Von Gierke disease"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "CPPD is usually idiopathic but is associated with hemochromatosis, hyperparathyroidism and joint trauma.",
+        "whyCorrect": "The rhomboid, weakly positively birefringent crystals identify CPPD. Though usually idiopathic, CPPD is sometimes associated with hemochromatosis, hyperparathyroidism or joint trauma, so an atypically young patient warrants evaluation. There are no specific blood tests for CPPD, and calcium and phosphate are usually normal.",
+        "whyWrongByChoice": {
+          "A": "Ankylosing spondylitis is not among the conditions associated with CPPD.",
+          "C": "CPPD is associated with HYPERparathyroidism (and attacks may follow parathyroidectomy), not hypoparathyroidism.",
+          "D": "Lesch-Nyhan syndrome causes urate overproduction and gout, not calcium pyrophosphate deposition.",
+          "E": "Von Gierke disease leads to uric acid accumulation and gout, not CPPD."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "CPPD",
+        "associations",
+        "hemochromatosis"
+      ],
+      "topicId": "msk-crystal-induced-arthritis",
+      "topicName": "MSK: Crystal-Induced Arthritis",
+      "tier": "core"
+    },
+    {
+      "id": "mk34-001",
+      "stem": "A 23-year-old man has had low back and buttock pain for 5 months. The pain is worst on waking, with stiffness lasting more than an hour, and it eases after he walks to work; it worsens when he sits through long lectures. Pressing over the sacroiliac joints reproduces his pain. Rheumatoid factor is negative. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ankylosing spondylitis"
+        },
+        {
+          "label": "B",
+          "text": "Lumbar muscle strain"
+        },
+        {
+          "label": "C",
+          "text": "Psoriatic arthritis"
+        },
+        {
+          "label": "D",
+          "text": "Reactive arthritis"
+        },
+        {
+          "label": "E",
+          "text": "Rheumatoid arthritis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chronic low back pain in a young man that improves with activity and worsens with rest suggests ankylosing spondylitis.",
+        "whyCorrect": "This is inflammatory back pain in a young man: chronic low back pain centered on the sacroiliac joints that improves with activity and worsens with rest, with prolonged morning stiffness and negative rheumatoid factor. The lecture stresses that ankylosing spondylitis is the disease to think of with chronic low back pain in young men.",
+        "whyWrongByChoice": {
+          "B": "A mechanical strain improves with rest and worsens with activity; it does not cause hour-long morning stiffness or sacroiliac tenderness.",
+          "C": "There is no psoriasis, nail disease or DIP-predominant asymmetric peripheral arthritis to suggest psoriatic arthritis.",
+          "D": "There is no preceding infection and no conjunctivitis or urethritis; reactive arthritis is usually an asymmetric oligoarthritis of the legs.",
+          "E": "Rheumatoid arthritis is typically rheumatoid factor positive and does not present as sacroiliac back pain that improves with activity."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ankylosing spondylitis",
+        "clinical presentation"
+      ],
+      "topicId": "msk-spondyloarthropathies",
+      "topicName": "MSK: Spondyloarthropathies",
+      "tier": "core"
+    },
+    {
+      "id": "mk34-002",
+      "stem": "A 30-year-old woman with asymmetric knee and ankle arthritis is being evaluated for a suspected spondyloarthropathy. Which combination of laboratory results is most typical of this group of disorders?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "RF negative, ANA negative, HLA-B27 negative"
+        },
+        {
+          "label": "B",
+          "text": "RF negative, ANA negative, HLA-B27 positive"
+        },
+        {
+          "label": "C",
+          "text": "RF negative, ANA positive, HLA-B27 negative"
+        },
+        {
+          "label": "D",
+          "text": "RF positive, ANA negative, HLA-B27 positive"
+        },
+        {
+          "label": "E",
+          "text": "RF positive, ANA positive, HLA-B27 negative"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Spondyloarthropathies are seronegative (RF and ANA negative) and usually HLA-B27 positive.",
+        "whyCorrect": "The spondyloarthropathies are called seronegative because rheumatoid factor and antinuclear antibodies, common in rheumatoid arthritis and lupus, are absent. HLA-B27, found in only 0.1%-10% of the general population, is usually positive.",
+        "whyWrongByChoice": {
+          "A": "Seronegativity fits, but HLA-B27 is usually positive in all three spondyloarthropathies.",
+          "C": "A positive ANA suggests lupus; the spondyloarthropathies are typically ANA negative and HLA-B27 positive.",
+          "D": "A positive rheumatoid factor points toward rheumatoid arthritis, not a seronegative spondyloarthropathy.",
+          "E": "This pattern fits other autoimmune joint disease; it is the opposite of the seronegative, HLA-B27-associated profile."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "seronegative",
+        "HLA-B27",
+        "shared features"
+      ],
+      "topicId": "msk-spondyloarthropathies",
+      "topicName": "MSK: Spondyloarthropathies",
+      "tier": "core"
+    },
+    {
+      "id": "mk34-003",
+      "stem": "A 41-year-old man with a 15-year history of inflammatory back pain, reduced spinal mobility and fused vertebrae on spinal x-ray now reports exertional dyspnea. A blowing diastolic murmur is heard at the left sternal border. Which of the following best explains the murmur?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aortitis causing a leaky aortic valve"
+        },
+        {
+          "label": "B",
+          "text": "Calcific narrowing of a congenital bicuspid aortic valve"
+        },
+        {
+          "label": "C",
+          "text": "Fibrinous pericarditis with a pericardial rub"
+        },
+        {
+          "label": "D",
+          "text": "Myxomatous degeneration of the mitral valve"
+        },
+        {
+          "label": "E",
+          "text": "Rheumatic scarring narrowing the mitral valve"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Ankylosing spondylitis can cause aortitis with aortic regurgitation.",
+        "whyCorrect": "Ankylosing spondylitis can inflame the aorta, producing aortic regurgitation, a leaky, malfunctioning aortic valve. The diastolic murmur in a man with long-standing disease fits this extra-articular complication.",
+        "whyWrongByChoice": {
+          "B": "Aortic stenosis gives a systolic murmur; the disease causes regurgitation through aortitis.",
+          "C": "A rub is not a diastolic murmur, and pericarditis is not the described cardiac complication.",
+          "D": "Mitral valve prolapse is not the cardiac lesion associated with ankylosing spondylitis.",
+          "E": "Mitral stenosis is not an extra-articular feature of ankylosing spondylitis taught here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ankylosing spondylitis",
+        "extra-articular",
+        "cardiac"
+      ],
+      "topicId": "msk-spondyloarthropathies",
+      "topicName": "MSK: Spondyloarthropathies",
+      "tier": "core"
+    },
+    {
+      "id": "mk34-004",
+      "stem": "A 26-year-old man with suspected ankylosing spondylitis is examined. The physician measures the circumference of his thorax at full expiration and again at full inspiration. Which result is expected in this disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Asymmetric chest expansion"
+        },
+        {
+          "label": "B",
+          "text": "Increased chest expansion"
+        },
+        {
+          "label": "C",
+          "text": "Normal chest expansion"
+        },
+        {
+          "label": "D",
+          "text": "Paradoxical inward movement"
+        },
+        {
+          "label": "E",
+          "text": "Reduced chest expansion"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Spine mobility and chest expansion are reduced in ankylosing spondylitis.",
+        "whyCorrect": "The chest expansion test measures how much the chest moves with a deep breath. In ankylosing spondylitis, spine mobility and chest expansion tests both show reduced movement.",
+        "whyWrongByChoice": {
+          "A": "The finding is a global reduction in expansion, not a unilateral lag as in lung disease.",
+          "B": "Spinal and costovertebral involvement restricts, rather than increases, chest movement.",
+          "C": "Chest expansion is characteristically reduced, which is why the test is part of the exam.",
+          "D": "Paradoxical chest wall motion is a feature of flail chest, not this inflammatory disease."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ankylosing spondylitis",
+        "physical exam"
+      ],
+      "topicId": "msk-spondyloarthropathies",
+      "topicName": "MSK: Spondyloarthropathies",
+      "tier": "core"
+    },
+    {
+      "id": "mk34-005",
+      "stem": "A 29-year-old man with ankylosing spondylitis has done daily physical therapy and taken full-dose NSAIDs for 4 months, yet he still has active inflammatory back pain, prolonged morning stiffness and elevated CRP. He has no peripheral joint swelling. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Start adalimumab"
+        },
+        {
+          "label": "B",
+          "text": "Start doxycycline"
+        },
+        {
+          "label": "C",
+          "text": "Start methotrexate"
+        },
+        {
+          "label": "D",
+          "text": "Start oral prednisone"
+        },
+        {
+          "label": "E",
+          "text": "Stop physical therapy"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Axial ankylosing spondylitis refractory to NSAIDs is treated with a TNF-alpha or IL-17 inhibitor, not methotrexate.",
+        "whyCorrect": "When active axial disease persists despite NSAIDs, a TNF-alpha inhibitor such as adalimumab (or an IL-17 inhibitor) is used to suppress cytokine-mediated inflammation.",
+        "whyWrongByChoice": {
+          "B": "Antibiotics are used for a current infection in reactive arthritis, not for axial ankylosing spondylitis.",
+          "C": "Conventional DMARDs such as methotrexate do not adequately treat axial disease; they help only when peripheral arthritis is prominent.",
+          "D": "Systemic glucocorticoids are not the recommended step for persistent axial disease; cytokine-targeting biologics are.",
+          "E": "Regular exercise and physical therapy preserve spinal mobility and posture and should continue."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ankylosing spondylitis",
+        "treatment",
+        "biologics"
+      ],
+      "topicId": "msk-spondyloarthropathies",
+      "topicName": "MSK: Spondyloarthropathies",
+      "tier": "core"
+    },
+    {
+      "id": "mk34-006",
+      "stem": "A 47-year-old man has had scaly plaques on his elbows and scalp for about 10 years. Over the past 6 months he has developed asymmetric pain and morning stiffness in several fingertip joints, and his fingernails show small pits and areas lifting off the nail bed. Rheumatoid factor is negative. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ankylosing spondylitis"
+        },
+        {
+          "label": "B",
+          "text": "Psoriatic arthritis"
+        },
+        {
+          "label": "C",
+          "text": "Reactive arthritis"
+        },
+        {
+          "label": "D",
+          "text": "Rheumatoid arthritis"
+        },
+        {
+          "label": "E",
+          "text": "Septic arthritis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Psoriasis plus asymmetric DIP arthritis and nail lesions indicates psoriatic arthritis.",
+        "whyCorrect": "Psoriatic arthritis typically appears about 10 years after psoriasis, with asymmetric joint pain, morning stiffness, distal interphalangeal joint involvement and nail lesions such as pitting and onycholysis.",
+        "whyWrongByChoice": {
+          "A": "Ankylosing spondylitis is mainly axial, with sacroiliac and spinal pain, not DIP arthritis with nail disease.",
+          "C": "There is no preceding infection, conjunctivitis or urethritis, and the joints involved are fingertips rather than knees and ankles.",
+          "D": "Rheumatoid arthritis can be confused with this picture, but it spares the DIP joints, is usually RF positive and does not cause nail lesions.",
+          "E": "Multiple asymmetric DIP joints over months with nail changes do not suggest a single infected joint."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "psoriatic arthritis",
+        "clinical presentation"
+      ],
+      "topicId": "msk-spondyloarthropathies",
+      "topicName": "MSK: Spondyloarthropathies",
+      "tier": "core"
+    },
+    {
+      "id": "mk34-007",
+      "stem": "A 52-year-old woman with psoriasis and dactylitis has hand radiographs showing the end of one middle phalanx tapered to a point and sitting within a widened, cupped base of the distal phalanx. Which process produces this appearance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bone erosion and resorption"
+        },
+        {
+          "label": "B",
+          "text": "Diffuse osteopenia"
+        },
+        {
+          "label": "C",
+          "text": "Marginal osteophyte formation"
+        },
+        {
+          "label": "D",
+          "text": "Subchondral sclerosis"
+        },
+        {
+          "label": "E",
+          "text": "Vertebral bony fusion"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The pencil-in-cup deformity of psoriatic arthritis results from erosion and resorption of bone.",
+        "whyCorrect": "The pencil-in-cup deformity of psoriatic arthritis is due to erosions and resorption of bone at the joint.",
+        "whyWrongByChoice": {
+          "B": "Generalized bone weakening underlies fragility fractures in ankylosing spondylitis, not this focal deformity.",
+          "C": "Osteophytes are bony overgrowths of degenerative disease; CASPAR specifically excludes them from its new-bone criterion.",
+          "D": "Sclerosis is described at the sacroiliac joints in sacroiliitis; the pencil-in-cup deformity is erosive.",
+          "E": "Fusion of vertebrae produces the bamboo spine of ankylosing spondylitis, not a hand deformity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "psoriatic arthritis",
+        "imaging"
+      ],
+      "topicId": "msk-spondyloarthropathies",
+      "topicName": "MSK: Spondyloarthropathies",
+      "tier": "core"
+    },
+    {
+      "id": "mk34-008",
+      "stem": "A 44-year-old woman with psoriatic arthritis has persistent swelling of several finger and wrist joints despite 3 months of NSAIDs and one round of intra-articular injections. She has no back symptoms. Which of the following is the most appropriate next medication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Doxycycline"
+        },
+        {
+          "label": "B",
+          "text": "Higher-dose NSAID"
+        },
+        {
+          "label": "C",
+          "text": "Methotrexate"
+        },
+        {
+          "label": "D",
+          "text": "Oral prednisone"
+        },
+        {
+          "label": "E",
+          "text": "Secukinumab"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Persistent peripheral psoriatic arthritis is treated first with methotrexate; biologics follow if it fails.",
+        "whyCorrect": "Persistent peripheral arthritis in psoriatic arthritis is generally treated with a conventional DMARD, most commonly methotrexate. Biologics are added if disease remains active despite it.",
+        "whyWrongByChoice": {
+          "A": "Antibiotics treat the triggering infection of reactive arthritis and have no role here.",
+          "B": "NSAIDs give only short-term relief in psoriatic arthritis and do not prevent progressive joint damage.",
+          "D": "Routine oral glucocorticoids are not recommended in psoriatic arthritis.",
+          "E": "An IL-17 inhibitor is a biologic reserved for disease that stays active despite a conventional DMARD."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "psoriatic arthritis",
+        "treatment"
+      ],
+      "topicId": "msk-spondyloarthropathies",
+      "topicName": "MSK: Spondyloarthropathies",
+      "tier": "core"
+    },
+    {
+      "id": "mk34-009",
+      "stem": "A 22-year-old man in the United States develops a painful swollen left knee and ankle, burning on urination and bilateral red, gritty eyes. He had a new sexual partner 3 weeks ago and has had no diarrhea. Which organism most likely triggered this condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Campylobacter jejuni"
+        },
+        {
+          "label": "B",
+          "text": "Chlamydia trachomatis"
+        },
+        {
+          "label": "C",
+          "text": "Salmonella species"
+        },
+        {
+          "label": "D",
+          "text": "Shigella species"
+        },
+        {
+          "label": "E",
+          "text": "Yersinia species"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Chlamydia trachomatis is the most common trigger of reactive arthritis in the United States.",
+        "whyCorrect": "The triad of conjunctivitis, urethritis and arthritis after a sexual exposure is reactive arthritis. In the United States the most common trigger is the sexually transmitted infection Chlamydia trachomatis.",
+        "whyWrongByChoice": {
+          "A": "Campylobacter is a less common enteric trigger; there was no diarrheal illness.",
+          "C": "Salmonella triggers reactive arthritis after enteric infection, which this patient did not have.",
+          "D": "Shigella is a less common, gastrointestinal trigger; this patient had a sexual exposure and no diarrhea.",
+          "E": "Yersinia is an enteric trigger; the history points to a sexually transmitted cause."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "reactive arthritis",
+        "microbiology"
+      ],
+      "topicId": "msk-spondyloarthropathies",
+      "topicName": "MSK: Spondyloarthropathies",
+      "tier": "core"
+    },
+    {
+      "id": "mk34-010",
+      "stem": "A 27-year-old woman develops a swollen right knee 2 weeks after a bout of bloody diarrhea that has since resolved. Knee aspiration yields inflammatory fluid, but Gram stain and culture of the fluid are negative. Which mechanism best explains her arthritis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacteria seeding the joint through the blood"
+        },
+        {
+          "label": "B",
+          "text": "Crystals deposited in the synovial tissue"
+        },
+        {
+          "label": "C",
+          "text": "Immune reaction set off by a remote infection"
+        },
+        {
+          "label": "D",
+          "text": "Ongoing viral replication within the synovial lining"
+        },
+        {
+          "label": "E",
+          "text": "Wear and tear of articular cartilage"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Reactive arthritis is sterile, immune-mediated inflammation triggered by a prior GI or GU bacterial infection.",
+        "whyCorrect": "Reactive arthritis is an inflammatory arthropathy triggered by a prior gastrointestinal or genitourinary bacterial infection. The joint inflammation is immune mediated, which is why the joint fluid is sterile and antibiotics do not directly suppress it.",
+        "whyWrongByChoice": {
+          "A": "Direct joint infection would yield organisms on Gram stain or culture; this fluid is sterile.",
+          "B": "Crystal arthritis is not part of this post-infectious picture.",
+          "D": "Reactive arthritis follows bacterial, not viral, infections.",
+          "E": "Degenerative change does not cause an acute inflammatory effusion 2 weeks after an enteric infection."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "reactive arthritis",
+        "pathophysiology"
+      ],
+      "topicId": "msk-spondyloarthropathies",
+      "topicName": "MSK: Spondyloarthropathies",
+      "tier": "core"
+    },
+    {
+      "id": "mk34-011",
+      "stem": "A 25-year-old man has acute arthritis of the right knee and ankle, dysuria and conjunctivitis. A urine nucleic acid test is positive for Chlamydia trachomatis. In addition to an NSAID, which of the following is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Doxycycline for him and his sexual partners"
+        },
+        {
+          "label": "B",
+          "text": "Doxycycline for him, with partners only observed"
+        },
+        {
+          "label": "C",
+          "text": "Infliximab for him, given to stop joint damage"
+        },
+        {
+          "label": "D",
+          "text": "Methotrexate for him, started at the same visit"
+        },
+        {
+          "label": "E",
+          "text": "Oral prednisone for him, then a slow taper off"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In reactive arthritis with active Chlamydia infection, treat the patient and partners with doxycycline and the joints with NSAIDs.",
+        "whyCorrect": "Antibiotics are given when there is evidence of a current infection. Patients with Chlamydia trachomatis infection, and their sexual partners, should receive doxycycline; NSAIDs remain first line for the joint pain.",
+        "whyWrongByChoice": {
+          "B": "Sexual partners should also receive appropriate antimicrobial treatment.",
+          "C": "TNF inhibitors are used for ankylosing spondylitis and refractory psoriatic arthritis, not first-line reactive arthritis.",
+          "D": "A DMARD is reserved for persistent or chronic arthritis, not new-onset disease that often resolves over months.",
+          "E": "Systemic steroids are not the described treatment; an intra-articular glucocorticoid is used for a few markedly inflamed joints."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "reactive arthritis",
+        "treatment"
+      ],
+      "topicId": "msk-spondyloarthropathies",
+      "topicName": "MSK: Spondyloarthropathies",
+      "tier": "core"
+    },
+    {
+      "id": "mk34-012",
+      "stem": "A 32-year-old man with long-standing Crohn disease develops chronic low back pain that improves with exercise, and sacroiliitis is seen on x-ray. He is HLA-B27 positive. Which proposed mechanism best links his bowel disease to his spinal disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Corticosteroid therapy causing degenerative spinal disease"
+        },
+        {
+          "label": "B",
+          "text": "Direct spread of bowel bacteria into the sacroiliac joints"
+        },
+        {
+          "label": "C",
+          "text": "Gut bacteria and cytokines driving cross-reactive autoimmunity"
+        },
+        {
+          "label": "D",
+          "text": "Malabsorption of vitamin D weakening the vertebral bodies"
+        },
+        {
+          "label": "E",
+          "text": "Rheumatoid factor deposits forming within the spinal ligaments"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Inflammatory bowel disease raises the risk of ankylosing spondylitis, implicating gut bacteria, cytokines and possible molecular mimicry with HLA-B27.",
+        "whyCorrect": "Researchers suspect circulating cytokines and normal gut bacteria are involved in ankylosing spondylitis, because patients with inflammatory bowel disease are at higher risk. One theory is molecular mimicry, in which antibodies made against a prior infection attack cells carrying the structurally similar HLA-B27 antigen.",
+        "whyWrongByChoice": {
+          "A": "The lecture links bowel disease to this arthritis through the microbiome and cytokines, not drug side effects.",
+          "B": "The proposed link is an immune cross-reaction, not infection of the joints themselves.",
+          "D": "Osteopenia occurs in this disease, but malabsorption does not explain inflammatory sacroiliitis.",
+          "E": "These disorders are seronegative; rheumatoid factor is negative."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ankylosing spondylitis",
+        "pathophysiology",
+        "inflammatory bowel disease"
+      ],
+      "topicId": "msk-spondyloarthropathies",
+      "topicName": "MSK: Spondyloarthropathies",
+      "tier": "core"
+    },
+    {
+      "id": "mk35-001",
+      "stem": "A 74-year-old man with type 2 diabetes mellitus and a left knee replacement placed 3 years ago presents with 1 day of fever and a hot, swollen, painful left knee. He cannot bear weight, and passive motion is severely limited. Synovial fluid shows 92,000 WBC/mm³ with 95% neutrophils. Which of the following organisms is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Borrelia burgdorferi"
+        },
+        {
+          "label": "B",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "C",
+          "text": "Neisseria gonorrhoeae"
+        },
+        {
+          "label": "D",
+          "text": "Pasteurella multocida"
+        },
+        {
+          "label": "E",
+          "text": "Staphylococcus aureus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Staphylococcus aureus is the most common cause of septic arthritis overall, especially in older adults and patients with artificial joints.",
+        "whyCorrect": "S. aureus is the most common cause of septic arthritis overall and is typical of older adults, immunosuppressed patients, IV drug users, and patients with rheumatoid arthritis or artificial joints. This older man with diabetes and a prosthetic knee fits that profile, and his synovial fluid (>50,000 WBC with >90% neutrophils) indicates bacterial infection.",
+        "whyWrongByChoice": {
+          "A": "Borrelia burgdorferi causes Lyme arthritis, which features a large effusion with less pain, redness, and systemic toxicity.",
+          "B": "Aerobic gram-negative rods such as E. coli cause septic arthritis less often than S. aureus, gonococci, and streptococci.",
+          "C": "Gonococcal arthritis is by far most common in young, sexually active people, not an elderly man with a prosthetic joint.",
+          "D": "Pasteurella multocida is associated with dog and cat bites; there is no bite history."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "etiology",
+        "Staphylococcus aureus",
+        "prosthetic joint"
+      ],
+      "topicId": "msk-septic-arthritis",
+      "topicName": "MSK: Septic Arthritis",
+      "tier": "core"
+    },
+    {
+      "id": "mk35-002",
+      "stem": "A 21-year-old woman presents with 2 days of fever and a painful, swollen right knee. She has had several new sexual partners in the past month. Arthrocentesis yields 38,000 WBC/mm³ with neutrophil predominance; the Gram stain shows no organisms, and nothing has grown from the fluid after 48 hours. Which of the following is the most appropriate next step to identify the organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Contrast-enhanced MRI of the affected knee"
+        },
+        {
+          "label": "B",
+          "text": "Repeat arthrocentesis for a second Gram stain"
+        },
+        {
+          "label": "C",
+          "text": "Serum antinuclear antibody titer"
+        },
+        {
+          "label": "D",
+          "text": "Swab cultures of the urethra, vagina, and throat"
+        },
+        {
+          "label": "E",
+          "text": "Synovial biopsy for histopathologic study"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Synovial fluid culture is positive in only about half of gonococcal infections, so other sites (urethra, vagina, throat) should also be cultured.",
+        "whyCorrect": "Gonococcal arthritis is by far the most common septic arthritis in young, sexually active people. Only about 50% of gonococcal infections return positive synovial fluid cultures, so these patients should also be cultured at other sites such as the urethra, vagina, and throat to recover a bacterial diagnosis. Gonococcal arthritis may also have a lower synovial WBC count than other bacterial infections, as here.",
+        "whyWrongByChoice": {
+          "A": "Imaging can show swelling but cannot confirm infection or identify the organism.",
+          "B": "The Gram stain is often negative in septic arthritis; repeating it adds little toward identifying gonococci.",
+          "C": "An antinuclear antibody titer does not identify a bacterial pathogen.",
+          "E": "Synovial biopsy is not part of the lecture's diagnostic approach; the organism is sought by culture or nucleic acid testing."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "diagnosis",
+        "Neisseria gonorrhoeae",
+        "culture"
+      ],
+      "topicId": "msk-septic-arthritis",
+      "topicName": "MSK: Septic Arthritis",
+      "tier": "core"
+    },
+    {
+      "id": "mk35-003",
+      "stem": "A 58-year-old woman is hospitalized for pyelonephritis complicated by Escherichia coli bacteremia. Four days later she develops a hot, swollen, painful right knee. She has had no knee procedures, trauma, or overlying skin lesions, and imaging shows normal adjacent bone. Arthrocentesis grows E. coli. By which route did the organism most likely reach this joint?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ascending spread along tendon sheaths"
+        },
+        {
+          "label": "B",
+          "text": "Contiguous spread from bone"
+        },
+        {
+          "label": "C",
+          "text": "Direct inoculation"
+        },
+        {
+          "label": "D",
+          "text": "Hematogenous spread"
+        },
+        {
+          "label": "E",
+          "text": "Lymphatic drainage"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Hematogenous spread, from an infection elsewhere via the bloodstream, is the most common route of septic arthritis.",
+        "whyCorrect": "In hematogenous spread, an existing infection elsewhere in the body travels to the joint through the bloodstream; it is the most common route of septic arthritis. This patient had bacteremia from a urinary source and then developed knee infection with the same organism, without any adjacent infection or penetrating event.",
+        "whyWrongByChoice": {
+          "A": "Spread along tendon sheaths is not a described route, and she had no hand or soft-tissue infection.",
+          "B": "Contiguous spread requires infected bone or soft tissue next to the joint; her adjacent bone is normal and her skin is intact.",
+          "C": "Direct inoculation requires a penetrating injury, bite, or needle entering the joint; none occurred.",
+          "E": "Lymphatic spread is not one of the routes of joint infection described."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "route of infection",
+        "hematogenous",
+        "pathophysiology"
+      ],
+      "topicId": "msk-septic-arthritis",
+      "topicName": "MSK: Septic Arthritis",
+      "tier": "core"
+    },
+    {
+      "id": "mk35-004",
+      "stem": "A 6-year-old boy is brought to the clinic 3 days after a classmate bit him on the right index finger during a playground scuffle. The wound was not cleaned afterward. The proximal interphalangeal joint is now red, warm, swollen, and painful to move, and he has a low-grade fever. Which of the following organisms is most characteristically associated with this mechanism of injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Borrelia burgdorferi"
+        },
+        {
+          "label": "B",
+          "text": "Eikenella corrodens"
+        },
+        {
+          "label": "C",
+          "text": "Neisseria gonorrhoeae"
+        },
+        {
+          "label": "D",
+          "text": "Pasteurella multocida"
+        },
+        {
+          "label": "E",
+          "text": "Salmonella species"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Human bite injuries, including children biting one another, are characteristically associated with Eikenella corrodens.",
+        "whyCorrect": "Human bites can carry bacteria directly into a joint by direct inoculation. Human bite infections are commonly associated with Eikenella corrodens, usually mixed with other oral anaerobes. Children biting one another is a recognized source of human bite injuries, and prompt cleaning of the bite site mitigates some of the risk. Remember: 'I have Eikenella; animals in the pasture have Pasteurella.'",
+        "whyWrongByChoice": {
+          "A": "Borrelia burgdorferi is transmitted by Ixodes ticks and causes Lyme arthritis.",
+          "C": "Neisseria gonorrhoeae causes septic arthritis in sexually active young adults.",
+          "D": "Pasteurella multocida is the classic organism of dog and cat bites, not human bites.",
+          "E": "Salmonella is classically linked to sickle cell disease via hematogenous spread."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "etiology",
+        "bite injury",
+        "Eikenella corrodens"
+      ],
+      "topicId": "msk-septic-arthritis",
+      "topicName": "MSK: Septic Arthritis",
+      "tier": "core"
+    },
+    {
+      "id": "mk35-005",
+      "stem": "A 67-year-old man is brought to the emergency department with confusion, a temperature of 39.4°C (103°F), and a blood pressure of 78/42 mm Hg despite IV fluids. His right knee is hot, swollen, and exquisitely painful. The orthopedic team is unavailable to perform arthrocentesis for several hours. Which of the following is the most appropriate immediate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Draw blood cultures, then start IV antibiotics now"
+        },
+        {
+          "label": "B",
+          "text": "Give intra-articular antibiotics at the bedside"
+        },
+        {
+          "label": "C",
+          "text": "Obtain knee MRI before deciding on therapy"
+        },
+        {
+          "label": "D",
+          "text": "Start oral antibiotics and aspirate the knee tomorrow"
+        },
+        {
+          "label": "E",
+          "text": "Withhold antibiotics until synovial fluid is collected"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In septic shock, empiric IV antibiotics should not be delayed when joint aspiration cannot be performed promptly.",
+        "whyCorrect": "Septic arthritis is an orthopedic emergency: bacterial replication and the resulting neutrophilic inflammatory response can rapidly destroy articular cartilage. Blood cultures and synovial fluid should be obtained promptly, followed immediately by empiric IV antibiotics. In a patient with sepsis or septic shock, antibiotics should not be delayed if aspiration cannot be performed promptly.",
+        "whyWrongByChoice": {
+          "B": "Intra-articular antibiotics are not part of management; therapy is empiric IV antibiotics plus source control.",
+          "C": "Imaging cannot confirm infection or identify the organism and would only delay treatment.",
+          "D": "Oral therapy and a next-day aspiration are inappropriate for a septic, hypotensive patient.",
+          "E": "Delaying antibiotics in septic shock to wait for aspiration is specifically what should be avoided."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "management",
+        "sepsis",
+        "empiric antibiotics"
+      ],
+      "topicId": "msk-septic-arthritis",
+      "topicName": "MSK: Septic Arthritis",
+      "tier": "core"
+    },
+    {
+      "id": "mk35-006",
+      "stem": "A 69-year-old woman with diabetes mellitus has a 2-day history of fever and a red, swollen left knee with painful, limited motion. Arthrocentesis yields cloudy fluid with 86,000 WBC/mm³ and 94% neutrophils. The Gram stain shows no organisms. Which of the following is the most appropriate interpretation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A rheumatoid arthritis flare best explains the counts"
+        },
+        {
+          "label": "B",
+          "text": "Bacterial infection is likely and should be treated"
+        },
+        {
+          "label": "C",
+          "text": "Infection is ruled out because no organisms are seen"
+        },
+        {
+          "label": "D",
+          "text": "Lyme arthritis is likely given the negative smear"
+        },
+        {
+          "label": "E",
+          "text": "Synovial biopsy is required before any conclusion"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A synovial WBC count above 50,000 with more than 90% neutrophils indicates bacterial septic arthritis, even when the Gram stain is negative.",
+        "whyCorrect": "Cell count and differential indicate a bacterial cause: in bacterial septic arthritis the synovial WBC count should be over 50,000 with more than 90% PMNs. The Gram stain can help identify the organism but is often negative, so a negative stain does not exclude infection. Treatment proceeds while culture results are pending.",
+        "whyWrongByChoice": {
+          "A": "She has no rheumatoid arthritis, and these counts are the bacterial pattern described in the lecture.",
+          "C": "The Gram stain is often negative in septic arthritis, so it cannot rule infection out.",
+          "D": "A negative stain does not point to Lyme disease; her acute, red, very painful joint fits bacterial infection.",
+          "E": "Synovial fluid analysis is the gold standard; biopsy is not needed to act on these findings."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "diagnosis",
+        "synovial fluid analysis",
+        "Gram stain"
+      ],
+      "topicId": "msk-septic-arthritis",
+      "topicName": "MSK: Septic Arthritis",
+      "tier": "core"
+    },
+    {
+      "id": "mk35-007",
+      "stem": "A 45-year-old woman presents 2 days after her cat bit the back of her right hand over the third metacarpophalangeal joint. The joint is swollen, warm, and painful with motion, and her temperature is 38.3°C (100.9°F). Aspirate shows 62,000 WBC/mm³ with neutrophil predominance. She has no risk factors for methicillin-resistant organisms. In addition to drainage, which of the following is the most appropriate antibiotic?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ampicillin/sulbactam"
+        },
+        {
+          "label": "B",
+          "text": "Cefazolin"
+        },
+        {
+          "label": "C",
+          "text": "Ceftriaxone plus doxycycline"
+        },
+        {
+          "label": "D",
+          "text": "Doxycycline"
+        },
+        {
+          "label": "E",
+          "text": "Vancomycin plus cefepime"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Bite-related septic arthritis is treated with ampicillin/sulbactam, which covers Pasteurella or Eikenella plus the other aerobes and anaerobes introduced by the bite.",
+        "whyCorrect": "Cat teeth are narrow and can penetrate deep into tissue, reaching a joint or bone. Animal bites are frequently associated with Pasteurella multocida. Ampicillin/sulbactam covers Eikenella corrodens or Pasteurella multocida as well as the other aerobic and anaerobic organisms introduced by a bite; MRSA coverage is added only when indicated.",
+        "whyWrongByChoice": {
+          "B": "Cefazolin is used to narrow therapy for MSSA once susceptibilities are known; it is not the lecture's bite regimen.",
+          "C": "Ceftriaxone plus doxycycline is the gonococcal regimen.",
+          "D": "Doxycycline is added for possible Chlamydia in gonococcal arthritis.",
+          "E": "Vancomycin plus cefepime is empiric therapy when Pseudomonas risk is substantial; it is not the bite regimen."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "management",
+        "bite injury",
+        "Pasteurella multocida"
+      ],
+      "topicId": "msk-septic-arthritis",
+      "topicName": "MSK: Septic Arthritis",
+      "tier": "core"
+    },
+    {
+      "id": "mk35-008",
+      "stem": "A 57-year-old man undergoes arthroscopic irrigation and debridement of an infected right knee. Synovial fluid grows methicillin-susceptible Staphylococcus aureus, and he is started on cefazolin. MRI obtained because of persistent pain shows osteomyelitis of the tibial plateau beneath the joint. Which of the following is the most appropriate total duration of antibiotic therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2 weeks total"
+        },
+        {
+          "label": "B",
+          "text": "3–4 weeks total"
+        },
+        {
+          "label": "C",
+          "text": "6 weeks or longer"
+        },
+        {
+          "label": "D",
+          "text": "7 days total"
+        },
+        {
+          "label": "E",
+          "text": "48 hours of IV therapy"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Adjacent osteomyelitis (or persistent bacteremia, incomplete drainage, or slow response) extends septic arthritis treatment to 6 weeks or longer.",
+        "whyCorrect": "Treatment duration depends on the organism, adequacy of drainage, and clinical response. Most adults with uncomplicated nongonococcal native-joint septic arthritis receive 3–4 weeks of total therapy, but persistent bacteremia, incomplete drainage, a slow response, or adjacent osteomyelitis may require 6 weeks or longer. This patient's tibial plateau osteomyelitis is such a complication.",
+        "whyWrongByChoice": {
+          "A": "Two weeks is below the usual course for uncomplicated infection and far short for adjacent bone infection.",
+          "B": "Three to four weeks is the course for uncomplicated infection; adjacent osteomyelitis requires longer.",
+          "D": "Seven days is shorter than even the minimum courses described for septic arthritis.",
+          "E": "Forty-eight hours of IV therapy is far too short for any septic arthritis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "management",
+        "duration",
+        "osteomyelitis"
+      ],
+      "topicId": "msk-septic-arthritis",
+      "topicName": "MSK: Septic Arthritis",
+      "tier": "core"
+    },
+    {
+      "id": "mk35-009",
+      "stem": "An 8-year-old boy with sickle cell disease has had 2 days of fever and now refuses to bear weight on his right leg. The right hip is held flexed and is exquisitely painful with passive motion. Blood cultures and hip aspirate both grow gram-negative rods. He has no history of bites or trauma. Which of the following organisms is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Eikenella corrodens"
+        },
+        {
+          "label": "B",
+          "text": "Neisseria gonorrhoeae"
+        },
+        {
+          "label": "C",
+          "text": "Pasteurella multocida"
+        },
+        {
+          "label": "D",
+          "text": "Salmonella species"
+        },
+        {
+          "label": "E",
+          "text": "Staphylococcus aureus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Salmonella species, though uncommon overall, are classically associated with septic arthritis in patients with sickle cell disease.",
+        "whyCorrect": "Children with chronic conditions such as sickle cell disease are at greater risk of septic arthritis. While an uncommon cause overall, Salmonella spp. are classically associated with sickle cell disease, and infection usually occurs by hematogenous spread after bacteremia, matching the positive blood cultures here. The hip is among the joints preferentially affected in children.",
+        "whyWrongByChoice": {
+          "A": "Eikenella corrodens follows human bites, which he has not had.",
+          "B": "Gonococcal arthritis affects sexually active young adults, and gonococci are not rods.",
+          "C": "Pasteurella multocida follows dog or cat bites, which he has not had.",
+          "E": "S. aureus is the most common cause overall, but it is a gram-positive coccus, not a gram-negative rod."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "etiology",
+        "sickle cell disease",
+        "Salmonella"
+      ],
+      "topicId": "msk-septic-arthritis",
+      "topicName": "MSK: Septic Arthritis",
+      "tier": "core"
+    },
+    {
+      "id": "mk35-010",
+      "stem": "A 72-year-old woman with rheumatoid arthritis is evaluated in the emergency department for fever and a single acutely painful, hot, swollen joint with decreased range of motion. Septic arthritis is suspected. In adults with this infection, which of the following joints is most often affected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ankle"
+        },
+        {
+          "label": "B",
+          "text": "Hip"
+        },
+        {
+          "label": "C",
+          "text": "Knee"
+        },
+        {
+          "label": "D",
+          "text": "Shoulder"
+        },
+        {
+          "label": "E",
+          "text": "Wrist"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The knee is the joint most commonly affected by septic arthritis in adults.",
+        "whyCorrect": "Most patients present with a single painful, red, hot, swollen joint with decreased range of motion, often with fever. In adults the knee is most commonly affected, with the hip, shoulder, and ankle less common.",
+        "whyWrongByChoice": {
+          "A": "The ankle is a less common adult site than the knee.",
+          "B": "The hip is affected in adults, but less commonly than the knee; it is preferentially affected in children.",
+          "D": "The shoulder is a less common site in adults than the knee.",
+          "E": "The wrist is not listed among the commonly affected joints."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "clinical presentation",
+        "joint distribution"
+      ],
+      "topicId": "msk-septic-arthritis",
+      "topicName": "MSK: Septic Arthritis",
+      "tier": "core"
+    },
+    {
+      "id": "mk35-011",
+      "stem": "A 20-year-old woman has fever and a swollen, painful left knee. Nucleic acid amplification testing of the synovial fluid is positive for Neisseria gonorrhoeae. She has not yet been tested for other sexually transmitted infections. Which of the following is the most appropriate antibiotic regimen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ampicillin/sulbactam alone"
+        },
+        {
+          "label": "B",
+          "text": "Cefazolin plus vancomycin"
+        },
+        {
+          "label": "C",
+          "text": "Ceftriaxone plus doxycycline"
+        },
+        {
+          "label": "D",
+          "text": "Doxycycline plus cefazolin"
+        },
+        {
+          "label": "E",
+          "text": "Nafcillin plus vancomycin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Gonococcal arthritis is treated with ceftriaxone, adding doxycycline when concomitant Chlamydia trachomatis infection has not been excluded.",
+        "whyCorrect": "Gonococcal arthritis is treated with ceftriaxone. Because concomitant Chlamydia trachomatis infection has not been excluded in this patient, doxycycline is added.",
+        "whyWrongByChoice": {
+          "A": "Ampicillin/sulbactam is the regimen for human- or animal-bite infections.",
+          "B": "Cefazolin and vancomycin are staphylococcal agents, not the gonococcal regimen.",
+          "D": "Doxycycline covers possible Chlamydia, but ceftriaxone, not cefazolin, treats the gonococcal infection.",
+          "E": "Nafcillin and vancomycin target staphylococci (MSSA and MRSA) and are not the gonococcal regimen."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "management",
+        "Neisseria gonorrhoeae",
+        "Chlamydia"
+      ],
+      "topicId": "msk-septic-arthritis",
+      "topicName": "MSK: Septic Arthritis",
+      "tier": "core"
+    },
+    {
+      "id": "mk35-012",
+      "stem": "A 49-year-old man with diabetes mellitus has a 2-day history of fever, severe right groin pain, and refusal to bear weight. Ultrasound-guided aspiration of the right hip yields purulent fluid with 110,000 WBC/mm³ and 96% neutrophils, and Gram stain shows gram-positive cocci in clusters. Empiric IV vancomycin plus ceftriaxone is started. Which of the following is the most appropriate additional management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Arthroscopic or open irrigation and debridement"
+        },
+        {
+          "label": "B",
+          "text": "Immobilization in a spica cast with NSAIDs"
+        },
+        {
+          "label": "C",
+          "text": "Intra-articular antibiotic instillation by needle"
+        },
+        {
+          "label": "D",
+          "text": "Serial bedside needle aspiration of the hip"
+        },
+        {
+          "label": "E",
+          "text": "Switch to oral therapy with clinic follow-up"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Source control for an infected hip (or a large joint, large purulent effusion, or nonimproving infection) usually requires arthroscopic or open irrigation and debridement.",
+        "whyCorrect": "Septic arthritis requires urgent source control in addition to antibiotics. Repeated needle aspiration may be sufficient for some accessible joints, but arthroscopic or open irrigation and debridement may be needed for large joints, the hip, a large purulent effusion, or infection that does not improve. This man has a purulent hip effusion.",
+        "whyWrongByChoice": {
+          "B": "Immobilization and NSAIDs provide no source control for a bacterial joint infection.",
+          "C": "Intra-articular antibiotics are not part of the management described.",
+          "D": "Repeated needle aspiration may suffice for some accessible joints, but the deep hip with frank pus calls for surgical washout.",
+          "E": "Oral step-down is considered only after clinical improvement, not at presentation of a purulent hip."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "management",
+        "source control",
+        "hip"
+      ],
+      "topicId": "msk-septic-arthritis",
+      "topicName": "MSK: Septic Arthritis",
+      "tier": "core"
+    }
+  ]
+}

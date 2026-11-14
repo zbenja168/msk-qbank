@@ -328,7 +328,48 @@
       "week": 3,
       "weekName": "Week 3",
       "weekSubtitle": "Lower Limb, Bone Infection & Tumors"
+    },
+    {
+      "id": "w4s1",
+      "name": "Session 1",
+      "topics": [
+        {
+          "id": "msk-osteoarthritis-and-rheumatoid-arthritis",
+          "name": "MSK: Osteoarthritis and Rheumatoid Arthritis",
+          "sourceFile": "MSK Brick 32",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "msk-crystal-induced-arthritis",
+          "name": "MSK: Crystal-Induced Arthritis",
+          "sourceFile": "MSK Brick 33",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "msk-spondyloarthropathies",
+          "name": "MSK: Spondyloarthropathies",
+          "sourceFile": "MSK Brick 34",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "msk-septic-arthritis",
+          "name": "MSK: Septic Arthritis",
+          "sourceFile": "MSK Brick 35",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        }
+      ],
+      "week": 4,
+      "weekName": "Week 4",
+      "weekSubtitle": "Arthritis"
     }
   ],
-  "totalQuestions": 1116
+  "totalQuestions": 1260
 }
