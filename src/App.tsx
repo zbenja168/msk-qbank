@@ -39,7 +39,10 @@ function AppShell() {
   const { stats: topicStats, answeredIds } = useTopicProgress(topicsHook.topics, progress);
   // Keep bulk selection in step with what is finished.
   // In High Yield mode a topic is "done" once its HY picks are answered.
-  const hyMode = topicsHook.hyMode;
+  // A browser that saved High Yield on must not get empty quizzes if the
+  // data ever ships without tags, so the switch only counts when HY exists.
+  const anyHy = !!topicsHook.topics?.categories.some(c => c.topics.some(t => (t.hyCount ?? 0) > 0));
+  const hyMode = topicsHook.hyMode && anyHy;
   setHighYieldOnly(hyMode);
   setCompletedTopicIds(new Set(
     topicStats ? Array.from(topicStats)
