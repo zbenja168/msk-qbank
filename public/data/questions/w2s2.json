@@ -47,7 +47,8 @@
       ],
       "topicId": "inflammatory-myopathies",
       "topicName": "Inflammatory Myopathies",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk15-002",
@@ -94,7 +95,8 @@
       ],
       "topicId": "inflammatory-myopathies",
       "topicName": "Inflammatory Myopathies",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk15-003",
@@ -140,7 +142,8 @@
       ],
       "topicId": "inflammatory-myopathies",
       "topicName": "Inflammatory Myopathies",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk15-004",
@@ -187,7 +190,8 @@
       ],
       "topicId": "inflammatory-myopathies",
       "topicName": "Inflammatory Myopathies",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk15-005",
@@ -234,7 +238,8 @@
       ],
       "topicId": "inflammatory-myopathies",
       "topicName": "Inflammatory Myopathies",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk15-006",
@@ -280,7 +285,8 @@
       ],
       "topicId": "inflammatory-myopathies",
       "topicName": "Inflammatory Myopathies",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk15-007",
@@ -327,7 +333,8 @@
       ],
       "topicId": "inflammatory-myopathies",
       "topicName": "Inflammatory Myopathies",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk15-008",
@@ -420,7 +427,8 @@
       ],
       "topicId": "inflammatory-myopathies",
       "topicName": "Inflammatory Myopathies",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk15-010",
@@ -467,7 +475,8 @@
       ],
       "topicId": "inflammatory-myopathies",
       "topicName": "Inflammatory Myopathies",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk15-011",
@@ -514,7 +523,8 @@
       ],
       "topicId": "inflammatory-myopathies",
       "topicName": "Inflammatory Myopathies",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk15-012",
@@ -561,7 +571,8 @@
       ],
       "topicId": "inflammatory-myopathies",
       "topicName": "Inflammatory Myopathies",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk16-001",
@@ -607,7 +618,8 @@
       ],
       "topicId": "muscular-dystrophy",
       "topicName": "Muscular Dystrophy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk16-002",
@@ -654,7 +666,8 @@
       ],
       "topicId": "muscular-dystrophy",
       "topicName": "Muscular Dystrophy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk16-003",
@@ -700,7 +713,8 @@
       ],
       "topicId": "muscular-dystrophy",
       "topicName": "Muscular Dystrophy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk16-004",
@@ -746,7 +760,8 @@
       ],
       "topicId": "muscular-dystrophy",
       "topicName": "Muscular Dystrophy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk16-005",
@@ -793,7 +808,8 @@
       ],
       "topicId": "muscular-dystrophy",
       "topicName": "Muscular Dystrophy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk16-006",
@@ -839,7 +855,8 @@
       ],
       "topicId": "muscular-dystrophy",
       "topicName": "Muscular Dystrophy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk16-007",
@@ -885,7 +902,8 @@
       ],
       "topicId": "muscular-dystrophy",
       "topicName": "Muscular Dystrophy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk16-008",
@@ -1024,7 +1042,8 @@
       ],
       "topicId": "muscular-dystrophy",
       "topicName": "Muscular Dystrophy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk16-011",
@@ -1071,7 +1090,8 @@
       ],
       "topicId": "muscular-dystrophy",
       "topicName": "Muscular Dystrophy",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk16-012",
@@ -1164,7 +1184,8 @@
       ],
       "topicId": "traumatic-muscle-injury",
       "topicName": "Traumatic Muscle Injury",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk17-002",
@@ -1210,7 +1231,8 @@
       ],
       "topicId": "traumatic-muscle-injury",
       "topicName": "Traumatic Muscle Injury",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk17-003",
@@ -1257,7 +1279,8 @@
       ],
       "topicId": "traumatic-muscle-injury",
       "topicName": "Traumatic Muscle Injury",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk17-004",
@@ -1303,7 +1326,8 @@
       ],
       "topicId": "traumatic-muscle-injury",
       "topicName": "Traumatic Muscle Injury",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk17-005",
@@ -1350,7 +1374,8 @@
       ],
       "topicId": "traumatic-muscle-injury",
       "topicName": "Traumatic Muscle Injury",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk17-006",
@@ -1396,7 +1421,8 @@
       ],
       "topicId": "traumatic-muscle-injury",
       "topicName": "Traumatic Muscle Injury",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk17-007",
@@ -1442,7 +1468,8 @@
       ],
       "topicId": "traumatic-muscle-injury",
       "topicName": "Traumatic Muscle Injury",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk17-008",
@@ -1535,7 +1562,8 @@
       ],
       "topicId": "traumatic-muscle-injury",
       "topicName": "Traumatic Muscle Injury",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk17-010",
@@ -1581,7 +1609,8 @@
       ],
       "topicId": "traumatic-muscle-injury",
       "topicName": "Traumatic Muscle Injury",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk17-011",
@@ -1627,7 +1656,8 @@
       ],
       "topicId": "traumatic-muscle-injury",
       "topicName": "Traumatic Muscle Injury",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk17-012",
@@ -1673,7 +1703,8 @@
       ],
       "topicId": "traumatic-muscle-injury",
       "topicName": "Traumatic Muscle Injury",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk18-001",
@@ -1720,7 +1751,8 @@
       ],
       "topicId": "common-tendon-bursa-and-joint-capsule-disorders",
       "topicName": "Common Tendon, Bursa, and Joint Capsule Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk18-002",
@@ -1766,7 +1798,8 @@
       ],
       "topicId": "common-tendon-bursa-and-joint-capsule-disorders",
       "topicName": "Common Tendon, Bursa, and Joint Capsule Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk18-003",
@@ -1813,7 +1846,8 @@
       ],
       "topicId": "common-tendon-bursa-and-joint-capsule-disorders",
       "topicName": "Common Tendon, Bursa, and Joint Capsule Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk18-004",
@@ -1861,7 +1895,8 @@
       ],
       "topicId": "common-tendon-bursa-and-joint-capsule-disorders",
       "topicName": "Common Tendon, Bursa, and Joint Capsule Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk18-005",
@@ -1908,7 +1943,8 @@
       ],
       "topicId": "common-tendon-bursa-and-joint-capsule-disorders",
       "topicName": "Common Tendon, Bursa, and Joint Capsule Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk18-006",
@@ -2002,7 +2038,8 @@
       ],
       "topicId": "common-tendon-bursa-and-joint-capsule-disorders",
       "topicName": "Common Tendon, Bursa, and Joint Capsule Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk18-008",
@@ -2049,7 +2086,8 @@
       ],
       "topicId": "common-tendon-bursa-and-joint-capsule-disorders",
       "topicName": "Common Tendon, Bursa, and Joint Capsule Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk18-009",
@@ -2096,7 +2134,8 @@
       ],
       "topicId": "common-tendon-bursa-and-joint-capsule-disorders",
       "topicName": "Common Tendon, Bursa, and Joint Capsule Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk18-010",
@@ -2143,7 +2182,8 @@
       ],
       "topicId": "common-tendon-bursa-and-joint-capsule-disorders",
       "topicName": "Common Tendon, Bursa, and Joint Capsule Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk18-011",
@@ -2237,7 +2277,8 @@
       ],
       "topicId": "common-tendon-bursa-and-joint-capsule-disorders",
       "topicName": "Common Tendon, Bursa, and Joint Capsule Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     }
   ]
 }

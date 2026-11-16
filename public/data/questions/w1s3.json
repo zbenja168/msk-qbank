@@ -46,7 +46,8 @@
       ],
       "topicId": "mechanics-of-muscle-force-production",
       "topicName": "Mechanics of Muscle Force Production",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk09-002",
@@ -184,7 +185,8 @@
       ],
       "topicId": "mechanics-of-muscle-force-production",
       "topicName": "Mechanics of Muscle Force Production",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk09-005",
@@ -277,7 +279,8 @@
       ],
       "topicId": "mechanics-of-muscle-force-production",
       "topicName": "Mechanics of Muscle Force Production",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk09-007",
@@ -323,7 +326,8 @@
       ],
       "topicId": "mechanics-of-muscle-force-production",
       "topicName": "Mechanics of Muscle Force Production",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk09-008",
@@ -369,7 +373,8 @@
       ],
       "topicId": "mechanics-of-muscle-force-production",
       "topicName": "Mechanics of Muscle Force Production",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk09-009",
@@ -416,7 +421,8 @@
       ],
       "topicId": "mechanics-of-muscle-force-production",
       "topicName": "Mechanics of Muscle Force Production",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk09-010",
@@ -463,7 +469,8 @@
       ],
       "topicId": "mechanics-of-muscle-force-production",
       "topicName": "Mechanics of Muscle Force Production",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk09-011",
@@ -509,7 +516,8 @@
       ],
       "topicId": "mechanics-of-muscle-force-production",
       "topicName": "Mechanics of Muscle Force Production",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk09-012",
@@ -602,7 +610,8 @@
       ],
       "topicId": "neuromuscular-junction-disorders",
       "topicName": "Neuromuscular Junction Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk10-002",
@@ -648,7 +657,8 @@
       ],
       "topicId": "neuromuscular-junction-disorders",
       "topicName": "Neuromuscular Junction Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk10-003",
@@ -695,7 +705,8 @@
       ],
       "topicId": "neuromuscular-junction-disorders",
       "topicName": "Neuromuscular Junction Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk10-004",
@@ -741,7 +752,8 @@
       ],
       "topicId": "neuromuscular-junction-disorders",
       "topicName": "Neuromuscular Junction Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk10-005",
@@ -788,7 +800,8 @@
       ],
       "topicId": "neuromuscular-junction-disorders",
       "topicName": "Neuromuscular Junction Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk10-006",
@@ -834,7 +847,8 @@
       ],
       "topicId": "neuromuscular-junction-disorders",
       "topicName": "Neuromuscular Junction Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk10-007",
@@ -881,7 +895,8 @@
       ],
       "topicId": "neuromuscular-junction-disorders",
       "topicName": "Neuromuscular Junction Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk10-008",
@@ -928,7 +943,8 @@
       ],
       "topicId": "neuromuscular-junction-disorders",
       "topicName": "Neuromuscular Junction Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk10-009",
@@ -1066,7 +1082,8 @@
       ],
       "topicId": "neuromuscular-junction-disorders",
       "topicName": "Neuromuscular Junction Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk10-012",
@@ -1160,7 +1177,8 @@
       ],
       "topicId": "muscle-metabolism",
       "topicName": "Muscle Metabolism",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk11-002",
@@ -1207,7 +1225,8 @@
       ],
       "topicId": "muscle-metabolism",
       "topicName": "Muscle Metabolism",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk11-003",
@@ -1255,7 +1274,8 @@
       ],
       "topicId": "muscle-metabolism",
       "topicName": "Muscle Metabolism",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk11-004",
@@ -1302,7 +1322,8 @@
       ],
       "topicId": "muscle-metabolism",
       "topicName": "Muscle Metabolism",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk11-005",
@@ -1349,7 +1370,8 @@
       ],
       "topicId": "muscle-metabolism",
       "topicName": "Muscle Metabolism",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk11-006",
@@ -1396,7 +1418,8 @@
       ],
       "topicId": "muscle-metabolism",
       "topicName": "Muscle Metabolism",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk11-007",
@@ -1443,7 +1466,8 @@
       ],
       "topicId": "muscle-metabolism",
       "topicName": "Muscle Metabolism",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk11-008",
@@ -1490,7 +1514,8 @@
       ],
       "topicId": "muscle-metabolism",
       "topicName": "Muscle Metabolism",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk11-009",
@@ -1585,7 +1610,8 @@
       ],
       "topicId": "muscle-metabolism",
       "topicName": "Muscle Metabolism",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk11-011",
@@ -1632,7 +1658,8 @@
       ],
       "topicId": "muscle-metabolism",
       "topicName": "Muscle Metabolism",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk11-012",
@@ -1679,7 +1706,8 @@
       ],
       "topicId": "muscle-metabolism",
       "topicName": "Muscle Metabolism",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk12-001",
@@ -1726,7 +1754,8 @@
       ],
       "topicId": "skeletal-muscle-adaptations",
       "topicName": "Skeletal Muscle Adaptations",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk12-002",
@@ -1773,7 +1802,8 @@
       ],
       "topicId": "skeletal-muscle-adaptations",
       "topicName": "Skeletal Muscle Adaptations",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk12-003",
@@ -1867,7 +1897,8 @@
       ],
       "topicId": "skeletal-muscle-adaptations",
       "topicName": "Skeletal Muscle Adaptations",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk12-005",
@@ -1914,7 +1945,8 @@
       ],
       "topicId": "skeletal-muscle-adaptations",
       "topicName": "Skeletal Muscle Adaptations",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk12-006",
@@ -1962,7 +1994,8 @@
       ],
       "topicId": "skeletal-muscle-adaptations",
       "topicName": "Skeletal Muscle Adaptations",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk12-007",
@@ -2010,7 +2043,8 @@
       ],
       "topicId": "skeletal-muscle-adaptations",
       "topicName": "Skeletal Muscle Adaptations",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk12-008",
@@ -2105,7 +2139,8 @@
       ],
       "topicId": "skeletal-muscle-adaptations",
       "topicName": "Skeletal Muscle Adaptations",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk12-010",
@@ -2152,7 +2187,8 @@
       ],
       "topicId": "skeletal-muscle-adaptations",
       "topicName": "Skeletal Muscle Adaptations",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk12-011",
@@ -2198,7 +2234,8 @@
       ],
       "topicId": "skeletal-muscle-adaptations",
       "topicName": "Skeletal Muscle Adaptations",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk12-012",

@@ -47,7 +47,8 @@
       ],
       "topicId": "msk-osteomyelitis",
       "topicName": "MSK: Osteomyelitis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk27-002",
@@ -94,7 +95,8 @@
       ],
       "topicId": "msk-osteomyelitis",
       "topicName": "MSK: Osteomyelitis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk27-003",
@@ -141,7 +143,8 @@
       ],
       "topicId": "msk-osteomyelitis",
       "topicName": "MSK: Osteomyelitis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk27-004",
@@ -188,7 +191,8 @@
       ],
       "topicId": "msk-osteomyelitis",
       "topicName": "MSK: Osteomyelitis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk27-005",
@@ -235,7 +239,8 @@
       ],
       "topicId": "msk-osteomyelitis",
       "topicName": "MSK: Osteomyelitis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk27-006",
@@ -282,7 +287,8 @@
       ],
       "topicId": "msk-osteomyelitis",
       "topicName": "MSK: Osteomyelitis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk27-007",
@@ -376,7 +382,8 @@
       ],
       "topicId": "msk-osteomyelitis",
       "topicName": "MSK: Osteomyelitis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk27-009",
@@ -423,7 +430,8 @@
       ],
       "topicId": "msk-osteomyelitis",
       "topicName": "MSK: Osteomyelitis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk27-010",
@@ -470,7 +478,8 @@
       ],
       "topicId": "msk-osteomyelitis",
       "topicName": "MSK: Osteomyelitis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk27-011",
@@ -517,7 +526,8 @@
       ],
       "topicId": "msk-osteomyelitis",
       "topicName": "MSK: Osteomyelitis",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk27-012",
@@ -610,7 +620,8 @@
       ],
       "topicId": "msk-bone-tumors",
       "topicName": "MSK: Bone Tumors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk28-002",
@@ -656,7 +667,8 @@
       ],
       "topicId": "msk-bone-tumors",
       "topicName": "MSK: Bone Tumors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk28-003",
@@ -703,7 +715,8 @@
       ],
       "topicId": "msk-bone-tumors",
       "topicName": "MSK: Bone Tumors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk28-004",
@@ -750,7 +763,8 @@
       ],
       "topicId": "msk-bone-tumors",
       "topicName": "MSK: Bone Tumors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk28-005",
@@ -843,7 +857,8 @@
       ],
       "topicId": "msk-bone-tumors",
       "topicName": "MSK: Bone Tumors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk28-007",
@@ -889,7 +904,8 @@
       ],
       "topicId": "msk-bone-tumors",
       "topicName": "MSK: Bone Tumors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk28-008",
@@ -936,7 +952,8 @@
       ],
       "topicId": "msk-bone-tumors",
       "topicName": "MSK: Bone Tumors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk28-009",
@@ -982,7 +999,8 @@
       ],
       "topicId": "msk-bone-tumors",
       "topicName": "MSK: Bone Tumors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk28-010",
@@ -1028,7 +1046,8 @@
       ],
       "topicId": "msk-bone-tumors",
       "topicName": "MSK: Bone Tumors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk28-011",
@@ -1074,7 +1093,8 @@
       ],
       "topicId": "msk-bone-tumors",
       "topicName": "MSK: Bone Tumors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk28-012",

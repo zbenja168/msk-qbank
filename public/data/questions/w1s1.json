@@ -46,7 +46,8 @@
       ],
       "topicId": "regional-anatomy-of-the-posterior-abdominal-wall-back-and-posterior-neck",
       "topicName": "Regional Anatomy of the Posterior Abdominal Wall, Back, and Posterior Neck",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk01-002",
@@ -92,7 +93,8 @@
       ],
       "topicId": "regional-anatomy-of-the-posterior-abdominal-wall-back-and-posterior-neck",
       "topicName": "Regional Anatomy of the Posterior Abdominal Wall, Back, and Posterior Neck",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk01-003",
@@ -139,7 +141,8 @@
       ],
       "topicId": "regional-anatomy-of-the-posterior-abdominal-wall-back-and-posterior-neck",
       "topicName": "Regional Anatomy of the Posterior Abdominal Wall, Back, and Posterior Neck",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk01-004",
@@ -186,7 +189,8 @@
       ],
       "topicId": "regional-anatomy-of-the-posterior-abdominal-wall-back-and-posterior-neck",
       "topicName": "Regional Anatomy of the Posterior Abdominal Wall, Back, and Posterior Neck",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk01-005",
@@ -233,7 +237,8 @@
       ],
       "topicId": "regional-anatomy-of-the-posterior-abdominal-wall-back-and-posterior-neck",
       "topicName": "Regional Anatomy of the Posterior Abdominal Wall, Back, and Posterior Neck",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk01-006",
@@ -280,7 +285,8 @@
       ],
       "topicId": "regional-anatomy-of-the-posterior-abdominal-wall-back-and-posterior-neck",
       "topicName": "Regional Anatomy of the Posterior Abdominal Wall, Back, and Posterior Neck",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk01-007",
@@ -327,7 +333,8 @@
       ],
       "topicId": "regional-anatomy-of-the-posterior-abdominal-wall-back-and-posterior-neck",
       "topicName": "Regional Anatomy of the Posterior Abdominal Wall, Back, and Posterior Neck",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk01-008",
@@ -419,7 +426,8 @@
       ],
       "topicId": "regional-anatomy-of-the-posterior-abdominal-wall-back-and-posterior-neck",
       "topicName": "Regional Anatomy of the Posterior Abdominal Wall, Back, and Posterior Neck",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk01-010",
@@ -466,7 +474,8 @@
       ],
       "topicId": "regional-anatomy-of-the-posterior-abdominal-wall-back-and-posterior-neck",
       "topicName": "Regional Anatomy of the Posterior Abdominal Wall, Back, and Posterior Neck",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk01-011",
@@ -513,7 +522,8 @@
       ],
       "topicId": "regional-anatomy-of-the-posterior-abdominal-wall-back-and-posterior-neck",
       "topicName": "Regional Anatomy of the Posterior Abdominal Wall, Back, and Posterior Neck",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk01-012",
@@ -607,7 +617,8 @@
       ],
       "topicId": "anatomy-of-the-spinal-cord",
       "topicName": "Anatomy of the Spinal Cord",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk02-002",
@@ -653,7 +664,8 @@
       ],
       "topicId": "anatomy-of-the-spinal-cord",
       "topicName": "Anatomy of the Spinal Cord",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk02-003",
@@ -699,7 +711,8 @@
       ],
       "topicId": "anatomy-of-the-spinal-cord",
       "topicName": "Anatomy of the Spinal Cord",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk02-004",
@@ -745,7 +758,8 @@
       ],
       "topicId": "anatomy-of-the-spinal-cord",
       "topicName": "Anatomy of the Spinal Cord",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk02-005",
@@ -791,7 +805,8 @@
       ],
       "topicId": "anatomy-of-the-spinal-cord",
       "topicName": "Anatomy of the Spinal Cord",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk02-006",
@@ -838,7 +853,8 @@
       ],
       "topicId": "anatomy-of-the-spinal-cord",
       "topicName": "Anatomy of the Spinal Cord",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk02-007",
@@ -930,7 +946,8 @@
       ],
       "topicId": "anatomy-of-the-spinal-cord",
       "topicName": "Anatomy of the Spinal Cord",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk02-009",
@@ -1069,7 +1086,8 @@
       ],
       "topicId": "anatomy-of-the-spinal-cord",
       "topicName": "Anatomy of the Spinal Cord",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk02-012",
@@ -1162,7 +1180,8 @@
       ],
       "topicId": "histology-of-bone-and-cartilage",
       "topicName": "Histology of Bone and Cartilage",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk03-002",
@@ -1209,7 +1228,8 @@
       ],
       "topicId": "histology-of-bone-and-cartilage",
       "topicName": "Histology of Bone and Cartilage",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk03-003",
@@ -1256,7 +1276,8 @@
       ],
       "topicId": "histology-of-bone-and-cartilage",
       "topicName": "Histology of Bone and Cartilage",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk03-004",
@@ -1303,7 +1324,8 @@
       ],
       "topicId": "histology-of-bone-and-cartilage",
       "topicName": "Histology of Bone and Cartilage",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk03-005",
@@ -1397,7 +1419,8 @@
       ],
       "topicId": "histology-of-bone-and-cartilage",
       "topicName": "Histology of Bone and Cartilage",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk03-007",
@@ -1444,7 +1467,8 @@
       ],
       "topicId": "histology-of-bone-and-cartilage",
       "topicName": "Histology of Bone and Cartilage",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk03-008",
@@ -1491,7 +1515,8 @@
       ],
       "topicId": "histology-of-bone-and-cartilage",
       "topicName": "Histology of Bone and Cartilage",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk03-009",
@@ -1585,7 +1610,8 @@
       ],
       "topicId": "histology-of-bone-and-cartilage",
       "topicName": "Histology of Bone and Cartilage",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk03-011",
@@ -1679,7 +1705,8 @@
       ],
       "topicId": "histology-of-bone-and-cartilage",
       "topicName": "Histology of Bone and Cartilage",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk04-001",
@@ -1726,7 +1753,8 @@
       ],
       "topicId": "spine-disorders",
       "topicName": "Spine Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk04-002",
@@ -1773,7 +1801,8 @@
       ],
       "topicId": "spine-disorders",
       "topicName": "Spine Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk04-003",
@@ -1820,7 +1849,8 @@
       ],
       "topicId": "spine-disorders",
       "topicName": "Spine Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk04-004",
@@ -1867,7 +1897,8 @@
       ],
       "topicId": "spine-disorders",
       "topicName": "Spine Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk04-005",
@@ -1914,7 +1945,8 @@
       ],
       "topicId": "spine-disorders",
       "topicName": "Spine Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk04-006",
@@ -1960,7 +1992,8 @@
       ],
       "topicId": "spine-disorders",
       "topicName": "Spine Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk04-007",
@@ -2007,7 +2040,8 @@
       ],
       "topicId": "spine-disorders",
       "topicName": "Spine Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk04-008",
@@ -2054,7 +2088,8 @@
       ],
       "topicId": "spine-disorders",
       "topicName": "Spine Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk04-009",
@@ -2101,7 +2136,8 @@
       ],
       "topicId": "spine-disorders",
       "topicName": "Spine Disorders",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk04-010",

@@ -47,7 +47,8 @@
       ],
       "topicId": "functional-anatomy-of-the-shoulder-arm",
       "topicName": "Functional Anatomy of the Shoulder & Arm",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk13-002",
@@ -94,7 +95,8 @@
       ],
       "topicId": "functional-anatomy-of-the-shoulder-arm",
       "topicName": "Functional Anatomy of the Shoulder & Arm",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk13-003",
@@ -141,7 +143,8 @@
       ],
       "topicId": "functional-anatomy-of-the-shoulder-arm",
       "topicName": "Functional Anatomy of the Shoulder & Arm",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk13-004",
@@ -189,7 +192,8 @@
       ],
       "topicId": "functional-anatomy-of-the-shoulder-arm",
       "topicName": "Functional Anatomy of the Shoulder & Arm",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk13-005",
@@ -236,7 +240,8 @@
       ],
       "topicId": "functional-anatomy-of-the-shoulder-arm",
       "topicName": "Functional Anatomy of the Shoulder & Arm",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk13-006",
@@ -282,7 +287,8 @@
       ],
       "topicId": "functional-anatomy-of-the-shoulder-arm",
       "topicName": "Functional Anatomy of the Shoulder & Arm",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk13-007",
@@ -329,7 +335,8 @@
       ],
       "topicId": "functional-anatomy-of-the-shoulder-arm",
       "topicName": "Functional Anatomy of the Shoulder & Arm",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk13-008",
@@ -423,7 +430,8 @@
       ],
       "topicId": "functional-anatomy-of-the-shoulder-arm",
       "topicName": "Functional Anatomy of the Shoulder & Arm",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk13-010",
@@ -471,7 +479,8 @@
       ],
       "topicId": "functional-anatomy-of-the-shoulder-arm",
       "topicName": "Functional Anatomy of the Shoulder & Arm",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk13-011",
@@ -518,7 +527,8 @@
       ],
       "topicId": "functional-anatomy-of-the-shoulder-arm",
       "topicName": "Functional Anatomy of the Shoulder & Arm",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk13-012",
@@ -612,7 +622,8 @@
       ],
       "topicId": "vasculature-and-lymphatics-of-the-upper-extremities",
       "topicName": "Vasculature and Lymphatics of the Upper Extremities",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk14-002",
@@ -659,7 +670,8 @@
       ],
       "topicId": "vasculature-and-lymphatics-of-the-upper-extremities",
       "topicName": "Vasculature and Lymphatics of the Upper Extremities",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk14-003",
@@ -706,7 +718,8 @@
       ],
       "topicId": "vasculature-and-lymphatics-of-the-upper-extremities",
       "topicName": "Vasculature and Lymphatics of the Upper Extremities",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk14-004",
@@ -800,7 +813,8 @@
       ],
       "topicId": "vasculature-and-lymphatics-of-the-upper-extremities",
       "topicName": "Vasculature and Lymphatics of the Upper Extremities",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk14-006",
@@ -847,7 +861,8 @@
       ],
       "topicId": "vasculature-and-lymphatics-of-the-upper-extremities",
       "topicName": "Vasculature and Lymphatics of the Upper Extremities",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk14-007",
@@ -941,7 +956,8 @@
       ],
       "topicId": "vasculature-and-lymphatics-of-the-upper-extremities",
       "topicName": "Vasculature and Lymphatics of the Upper Extremities",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk14-009",
@@ -988,7 +1004,8 @@
       ],
       "topicId": "vasculature-and-lymphatics-of-the-upper-extremities",
       "topicName": "Vasculature and Lymphatics of the Upper Extremities",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk14-010",
@@ -1081,7 +1098,8 @@
       ],
       "topicId": "vasculature-and-lymphatics-of-the-upper-extremities",
       "topicName": "Vasculature and Lymphatics of the Upper Extremities",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mk14-012",
@@ -1128,7 +1146,8 @@
       ],
       "topicId": "vasculature-and-lymphatics-of-the-upper-extremities",
       "topicName": "Vasculature and Lymphatics of the Upper Extremities",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     }
   ]
 }
