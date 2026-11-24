@@ -439,7 +439,242 @@
       "week": 4,
       "weekName": "Week 4",
       "weekSubtitle": "Arthritis"
+    },
+    {
+      "id": "w5s1",
+      "name": "Session 1",
+      "topics": [
+        {
+          "id": "histology-of-the-skin",
+          "name": "Histology of the Skin",
+          "sourceFile": "MSK Brick 36",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
+        },
+        {
+          "id": "description-of-skin-lesions",
+          "name": "Description of Skin Lesions",
+          "sourceFile": "MSK Brick 37",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 10
+        },
+        {
+          "id": "sunlight-and-the-skin",
+          "name": "Sunlight and the Skin",
+          "sourceFile": "MSK Brick 38",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 10
+        },
+        {
+          "id": "disorders-of-pigmentation",
+          "name": "Disorders of Pigmentation",
+          "sourceFile": "MSK Brick 39",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
+        },
+        {
+          "id": "cutaneous-fungal-infections",
+          "name": "Cutaneous Fungal Infections",
+          "sourceFile": "MSK Brick 40",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 10
+        }
+      ],
+      "week": 5,
+      "weekName": "Week 5",
+      "weekSubtitle": "Skin Structure, Pigment, Fungi & Skin Tumors"
+    },
+    {
+      "id": "w5s2",
+      "name": "Session 2",
+      "topics": [
+        {
+          "id": "skin-cancer-basal-cell-carcinoma-squamous-cell-carcinoma",
+          "name": "Skin Cancer: Basal Cell Carcinoma & Squamous Cell Carcinoma",
+          "sourceFile": "MSK Brick 42",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 10
+        },
+        {
+          "id": "skin-cancer-malignant-melanoma",
+          "name": "Skin Cancer: Malignant Melanoma",
+          "sourceFile": "MSK Brick 43",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 10
+        },
+        {
+          "id": "benign-skin-lesions",
+          "name": "Benign Skin Lesions",
+          "sourceFile": "MSK Brick 44",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
+        },
+        {
+          "id": "anatomy-of-the-face-and-scalp",
+          "name": "Anatomy of the Face and Scalp",
+          "sourceFile": "MSK Brick 45",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 10
+        }
+      ],
+      "week": 5,
+      "weekName": "Week 5",
+      "weekSubtitle": "Skin Structure, Pigment, Fungi & Skin Tumors"
+    },
+    {
+      "id": "w6s1",
+      "name": "Session 1",
+      "topics": [
+        {
+          "id": "inflammatory-skin-diseases",
+          "name": "Inflammatory Skin Diseases",
+          "sourceFile": "MSK Brick 46",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
+        },
+        {
+          "id": "vesiculobullous-skin-disorders",
+          "name": "Vesiculobullous Skin Disorders",
+          "sourceFile": "MSK Brick 47",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 11
+        },
+        {
+          "id": "dermatitis",
+          "name": "Dermatitis",
+          "sourceFile": "MSK Brick 48",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 10
+        },
+        {
+          "id": "urticaria-and-pruritus",
+          "name": "Urticaria and Pruritus",
+          "sourceFile": "MSK Brick 49",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
+        }
+      ],
+      "week": 6,
+      "weekName": "Week 6",
+      "weekSubtitle": "Inflammatory, Autoimmune & Adnexal Skin Disease"
+    },
+    {
+      "id": "w6s2",
+      "name": "Session 2",
+      "topics": [
+        {
+          "id": "psoriasis-and-psoriatic-arthritis",
+          "name": "Psoriasis and Psoriatic Arthritis",
+          "sourceFile": "MSK Brick 50",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 10
+        },
+        {
+          "id": "the-skin-in-autoimmune-diseases",
+          "name": "The Skin in Autoimmune Diseases",
+          "sourceFile": "MSK Brick 51",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
+        },
+        {
+          "id": "cutaneous-t-cell-lymphoma",
+          "name": "Cutaneous T cell Lymphoma",
+          "sourceFile": "MSK Brick 52",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 9
+        }
+      ],
+      "week": 6,
+      "weekName": "Week 6",
+      "weekSubtitle": "Inflammatory, Autoimmune & Adnexal Skin Disease"
+    },
+    {
+      "id": "w6s3",
+      "name": "Session 3",
+      "topics": [
+        {
+          "id": "diseases-of-the-hair-and-nails",
+          "name": "Diseases of the Hair and Nails",
+          "sourceFile": "MSK Brick 53",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
+        },
+        {
+          "id": "acne-rosacea-and-other-follicular-disorders",
+          "name": "Acne, Rosacea, and Other Follicular Disorders",
+          "sourceFile": "MSK Brick 54",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
+        },
+        {
+          "id": "infestations-bites-stings",
+          "name": "Infestations, Bites, & Stings",
+          "sourceFile": "MSK Brick 55",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 7
+        }
+      ],
+      "week": 6,
+      "weekName": "Week 6",
+      "weekSubtitle": "Inflammatory, Autoimmune & Adnexal Skin Disease"
     }
   ],
-  "totalQuestions": 1260
+  "totalQuestions": 1944
 }

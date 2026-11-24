@@ -1,0 +1,2289 @@
+{
+  "categoryId": "w6s1",
+  "categoryName": "Session 1",
+  "questions": [
+    {
+      "id": "mk46-001",
+      "stem": "A 54-year-old woman has 2 months of intensely itchy, flat-topped, violaceous, many-sided papules on the flexor wrists, lower back, and shins. Close inspection of the papule surfaces shows fine white dots and lacy lines. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Granuloma annulare"
+        },
+        {
+          "label": "B",
+          "text": "Lichen planus"
+        },
+        {
+          "label": "C",
+          "text": "Lichen striatus"
+        },
+        {
+          "label": "D",
+          "text": "Pityriasis rosea"
+        },
+        {
+          "label": "E",
+          "text": "Sarcoidosis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Lichen planus presents as purple, pruritic, polygonal, planar papules on the wrists, lower back, and lower legs with Wickham's striae.",
+        "whyCorrect": "Lichen planus is an idiopathic lichenoid disease of adults, most often arising in the 50s. Its lesions are the classic 'purple pruritic polygonal papules' on the wrists, lower back, and lower legs, and Wickham's striae are the white dots and lines on the lesion surface.",
+        "whyWrongByChoice": {
+          "A": "Granuloma annulare forms non-scaly annular plaques with indurated borders and central clearing, not pruritic violaceous papules with surface white lines.",
+          "C": "Lichen striatus is a pediatric eruption arranged in a single linear band, not scattered papules on the wrists, back, and legs of an adult.",
+          "D": "Pityriasis rosea begins with a herald patch and spreads as scaly oval patches on the trunk of young people.",
+          "E": "Cutaneous sarcoidosis most often appears as reddish-brown papules and plaques without itch or surface white striae."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "lichen planus",
+        "lichenoid dermatoses"
+      ],
+      "topicId": "inflammatory-skin-diseases",
+      "topicName": "Inflammatory Skin Diseases",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk46-002",
+      "stem": "A 49-year-old man has painful, eroded, white net-like plaques on both buccal mucosae and the gingiva that burn when he eats spicy or acidic foods. He has no skin lesions and no dental restorations. Which of the following infections is found at increased prevalence in patients with this condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hepatitis C virus"
+        },
+        {
+          "label": "B",
+          "text": "Herpes simplex virus"
+        },
+        {
+          "label": "C",
+          "text": "Human herpesvirus 6"
+        },
+        {
+          "label": "D",
+          "text": "Mycoplasma pneumoniae"
+        },
+        {
+          "label": "E",
+          "text": "Treponema pallidum"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Hepatitis C infection is more prevalent in lichen planus, especially the oral erosive variety.",
+        "whyCorrect": "Reticulated white plaques of the buccal mucosa, tongue, and gingiva are oral lichen planus, which can occur without skin disease and can be erosive and painful with spicy or acidic foods. The lecture notes a higher prevalence of hepatitis C infection in patients with lichen planus, especially oral erosive disease.",
+        "whyWrongByChoice": {
+          "B": "HSV is a trigger of severe erythema multiforme in the SJS/TEN differential, not an association of lichen planus.",
+          "C": "HHV-6 reactivation is implicated in DRESS syndrome, and HHV-6/7 in pityriasis rosea, not oral erosive lichen planus.",
+          "D": "Mycoplasma pneumoniae classically triggers reactive infectious mucocutaneous eruption (RIME), not lichen planus.",
+          "E": "Treponema pallidum causes secondary syphilis, which is in the differential of pityriasis rosea, not linked to oral lichen planus."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "lichen planus",
+        "hepatitis C",
+        "oral lichen planus"
+      ],
+      "topicId": "inflammatory-skin-diseases",
+      "topicName": "Inflammatory Skin Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "mk46-003",
+      "stem": "A 66-year-old man started a new antihypertensive regimen 3 months ago. He now has widespread itchy, flat-topped violaceous papules covering about 40% of his body surface area. His oral mucosa is normal. Biopsy shows a lymphocytic infiltrate damaging basal keratinocytes along with scattered eosinophils. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "DRESS syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Idiopathic lichen planus"
+        },
+        {
+          "label": "C",
+          "text": "Lichen sclerosus et atrophicus"
+        },
+        {
+          "label": "D",
+          "text": "Lichenoid drug eruption"
+        },
+        {
+          "label": "E",
+          "text": "Simple drug eruption"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Lichenoid drug eruption mimics lichen planus but lacks oral involvement, covers more BSA, and may show eosinophils.",
+        "whyCorrect": "A lichenoid drug eruption looks like LP clinically and histologically but differs by its lack of oral involvement and higher BSA involved, and eosinophils may be seen on biopsy. Common causes include immune checkpoint inhibitors, beta blockers, ACE inhibitors, and hydrochlorothiazide, and it must be considered before diagnosing idiopathic LP.",
+        "whyWrongByChoice": {
+          "A": "DRESS is a morbilliform eruption with facial edema and systemic involvement such as hepatitis, starting 1-3 weeks after the drug; these papules are lichenoid without systemic signs.",
+          "B": "Idiopathic LP often involves the oral mucosa and has less body surface area involved; eosinophils and a new drug point to a drug cause, which must be excluded first.",
+          "C": "LSetA causes hypopigmented, atrophic, often genital plaques in postmenopausal women, not widespread violaceous papules.",
+          "E": "A simple drug eruption is a morbilliform exanthem starting within days of a drug, not flat-topped lichenoid papules months later."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "lichenoid drug eruption",
+        "lichen planus",
+        "medication reactions"
+      ],
+      "topicId": "inflammatory-skin-diseases",
+      "topicName": "Inflammatory Skin Diseases",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk46-004",
+      "stem": "A 63-year-old postmenopausal woman has vulvar itching, pain with intercourse, and dysuria. Examination shows white, thin, wrinkled skin with erosions and purpura, partial resorption of the labia minora, and a narrowed introitus. Which of the following is the most appropriate first-line treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oral colchicine"
+        },
+        {
+          "label": "B",
+          "text": "Oral zinc supplementation"
+        },
+        {
+          "label": "C",
+          "text": "Topical clobetasol"
+        },
+        {
+          "label": "D",
+          "text": "Topical estrogen alone"
+        },
+        {
+          "label": "E",
+          "text": "Topical hydrocortisone"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "High-potency topical corticosteroids such as clobetasol are first-line therapy for lichen sclerosus, even on genital skin.",
+        "whyCorrect": "Hypopigmentation, erosions, and petechiae/purpura of the vulva with labial resorption and introital narrowing in a postmenopausal woman are lichen sclerosus et atrophicus. First-line treatment is a high-potency topical corticosteroid such as clobetasol, which would otherwise be contraindicated on genital skin; calcineurin inhibitors, topical estrogen, and immune suppressants are other options.",
+        "whyWrongByChoice": {
+          "A": "Colchicine is one of the treatments for Behcet's disease, not this vulvar condition.",
+          "B": "Zinc supplementation treats acrodermatitis enteropathica, a zinc-absorption disorder of infants.",
+          "D": "Topical estrogen is listed among other treatments, but first line is a high-potency topical corticosteroid.",
+          "E": "A low-potency steroid is not first line; the lecture specifies a high-potency agent despite the genital location."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "lichen sclerosus et atrophicus",
+        "treatment"
+      ],
+      "topicId": "inflammatory-skin-diseases",
+      "topicName": "Inflammatory Skin Diseases",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk46-005",
+      "stem": "A 21-year-old man has a 10-day history of many oval, scaly pink patches on his trunk that followed a single larger annular patch on his chest. The physician considers both pityriasis rosea and secondary syphilis. Which of the following additional findings would most strongly favor secondary syphilis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A Christmas-tree pattern on the back"
+        },
+        {
+          "label": "B",
+          "text": "A larger initial annular scaly patch"
+        },
+        {
+          "label": "C",
+          "text": "Onset during the spring season"
+        },
+        {
+          "label": "D",
+          "text": "Scaly papules on both palms"
+        },
+        {
+          "label": "E",
+          "text": "Variable itch over the trunk lesions"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Pityriasis rosea spares the face and hands and lacks lymphadenopathy; secondary syphilis involves these areas and causes lymphadenopathy.",
+        "whyCorrect": "The lecture distinguishes the two rashes by distribution and nodes: pityriasis rosea spares the face and hands and heavily involves the trunk, whereas secondary syphilis does not spare them. Lymphadenopathy is typically seen in secondary syphilis and not in pityriasis rosea. Lesions on the palms therefore favor syphilis.",
+        "whyWrongByChoice": {
+          "A": "Patches aligned along relaxed skin tension lines of the back in a Christmas-tree pattern are typical of pityriasis rosea.",
+          "B": "The mother (herald) patch is the hallmark first lesion of pityriasis rosea.",
+          "C": "Pityriasis rosea most commonly arises in the spring and fall, so seasonality favors it.",
+          "E": "Itch is variable in pityriasis rosea, so it does not separate the two conditions."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pityriasis rosea",
+        "secondary syphilis",
+        "differential diagnosis"
+      ],
+      "topicId": "inflammatory-skin-diseases",
+      "topicName": "Inflammatory Skin Diseases",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk46-006",
+      "stem": "A 45-year-old woman has several firm-bordered, pink, ring-shaped plaques on the dorsal hands and around both elbows. They began as small papules and have slowly enlarged over months with central clearing. There is no scale. Chest x-ray is normal. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cutaneous sarcoidosis"
+        },
+        {
+          "label": "B",
+          "text": "Fixed drug eruption"
+        },
+        {
+          "label": "C",
+          "text": "Granuloma annulare"
+        },
+        {
+          "label": "D",
+          "text": "Pityriasis rosea"
+        },
+        {
+          "label": "E",
+          "text": "Tinea corporis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Granuloma annulare forms non-scaly annular plaques with indurated borders on the dorsal hands, feet, elbows, and knees.",
+        "whyCorrect": "Granuloma annulare is a benign, immune-mediated disorder of erythematous, non-scaly, annular plaques that start as small papules and slowly expand over months with central clearing and a firm border. It favors the dorsal hands and feet and the elbows and knees, and it does not involve internal organs.",
+        "whyWrongByChoice": {
+          "A": "Cutaneous sarcoidosis most commonly presents as reddish-brown papules and plaques WITHOUT central clearing (not annular).",
+          "B": "A fixed drug eruption causes round patches of skin necrosis that recur at the same site with re-exposure to a drug.",
+          "D": "Pityriasis rosea features scaly oval patches on the trunk after a herald patch and resolves in 6-8 weeks.",
+          "E": "Tinea corporis is an annular eruption with scale; these plaques are non-scaly with indurated borders."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "granuloma annulare",
+        "granulomatous diseases"
+      ],
+      "topicId": "inflammatory-skin-diseases",
+      "topicName": "Inflammatory Skin Diseases",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk46-007",
+      "stem": "A 31-year-old woman of Swedish descent has 2 weeks of painful red nodules on both shins and swelling and pain of both ankles and knees. Chest x-ray shows bilateral hilar adenopathy. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Behcet's disease"
+        },
+        {
+          "label": "B",
+          "text": "DRESS syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Granuloma annulare"
+        },
+        {
+          "label": "D",
+          "text": "Lofgren syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Secondary syphilis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Lofgren syndrome is acute sarcoidosis with erythema nodosum, bilateral hilar adenopathy, and polyarthritis in Northern Europeans.",
+        "whyCorrect": "Lofgren syndrome is an acute form of sarcoidosis affecting people of Northern European descent. Its triad is erythema nodosum, bilateral hilar adenopathy, and arthritis of multiple joints, and erythema nodosum is said to impart a better prognosis in sarcoidosis.",
+        "whyWrongByChoice": {
+          "A": "Behcet's is defined by recurrent oral ulcers, with anogenital ulcers and uveitis, in people of Mediterranean or West Asian descent.",
+          "B": "DRESS follows a culprit drug by 1-3 weeks with a morbilliform rash, facial involvement, and organ injury such as hepatitis.",
+          "C": "Granuloma annulare does not involve internal organs, so it would not explain hilar adenopathy or arthritis.",
+          "E": "Secondary syphilis causes a widespread rash with lymphadenopathy, not this triad with hilar nodes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "sarcoidosis",
+        "Lofgren syndrome",
+        "erythema nodosum"
+      ],
+      "topicId": "inflammatory-skin-diseases",
+      "topicName": "Inflammatory Skin Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "mk46-008",
+      "stem": "A 29-year-old man of Turkish descent has had painful oral ulcers recurring several times a year for 3 years, occasional scrotal ulcers, and an episode of a painful red eye that an ophthalmologist treated as uveitis. Which of the following genetic markers is most closely associated with his condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ECM-1 autoantibody"
+        },
+        {
+          "label": "B",
+          "text": "HLA-DR4"
+        },
+        {
+          "label": "C",
+          "text": "HLA-B27"
+        },
+        {
+          "label": "D",
+          "text": "SLC39A4 mutation"
+        },
+        {
+          "label": "E",
+          "text": "HLA-B51"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Behcet's disease is associated with HLA-B51 and Mediterranean or West Asian descent.",
+        "whyCorrect": "Recurrent oral ulcers with anogenital ulcers and uveitis are Behcet's disease, an uncommon chronic ulcerative disease. It most commonly affects people of Mediterranean and West Asian descent and those carrying the HLA-B51 genetic marker; recurrent oral ulcers must be documented for the diagnosis.",
+        "whyWrongByChoice": {
+          "A": "Autoantibodies to extracellular matrix protein-1 are found in lichen sclerosus et atrophicus.",
+          "B": "HLA-DR4 is not associated with this ulcerative disease in the lecture.",
+          "C": "HLA-B27 is not the marker the lecture links to this ulcerative disease; the stated marker is HLA-B51.",
+          "D": "SLC39A4 mutation impairs intestinal zinc absorption and causes acrodermatitis enteropathica in infants."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Behcet's disease",
+        "HLA-B51",
+        "periorificial dermatoses"
+      ],
+      "topicId": "inflammatory-skin-diseases",
+      "topicName": "Inflammatory Skin Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "mk46-009",
+      "stem": "A 7-month-old boy was weaned from breast milk 3 weeks ago. He now has scaly, eroded, red plaques around the mouth and anus, in the diaper folds, and on the hands and feet, along with diarrhea and patchy hair loss. Which of the following is the most appropriate treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "High-potency topical steroid"
+        },
+        {
+          "label": "B",
+          "text": "Lifelong zinc supplementation"
+        },
+        {
+          "label": "C",
+          "text": "Oral apremilast therapy"
+        },
+        {
+          "label": "D",
+          "text": "Oral fluconazole therapy"
+        },
+        {
+          "label": "E",
+          "text": "Prolonged steroid taper"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Acrodermatitis enteropathica (impaired zinc absorption) causes acral, periorificial, and skin-fold dermatitis at weaning and is treated with lifelong zinc.",
+        "whyCorrect": "Acrodermatitis enteropathica is a rare disorder of impaired intestinal zinc absorption (SLC39A4 mutation) that causes a scaly, erosive eruption of the acral areas, skin folds, and periorificial skin of infants, with diarrhea and alopecia. It typically starts when the child is weaned from breast milk and is treated with lifelong zinc supplementation.",
+        "whyWrongByChoice": {
+          "A": "Topical steroids do not correct the underlying micronutrient deficiency driving this eruption.",
+          "C": "Apremilast is a treatment for Behcet's disease, which causes oral and anogenital ulcers in adults.",
+          "D": "Candidiasis can complicate this disorder, but antifungals do not treat the cause.",
+          "E": "Prolonged systemic corticosteroid tapers treat DRESS syndrome, not this inherited absorption defect."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "acrodermatitis enteropathica",
+        "zinc deficiency"
+      ],
+      "topicId": "inflammatory-skin-diseases",
+      "topicName": "Inflammatory Skin Diseases",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk46-010",
+      "stem": "A 70-year-old man with chronic kidney disease began allopurinol for gout 7 weeks ago. He now has fever, sore throat, tender cervical lymph nodes, facial swelling, and an edematous morbilliform eruption of the face, trunk, and extremities. AST and ALT are 9 times the upper limit of normal. The eosinophil count is normal. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "DRESS syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Fixed drug eruption"
+        },
+        {
+          "label": "C",
+          "text": "Simple drug eruption"
+        },
+        {
+          "label": "D",
+          "text": "Stevens-Johnson syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Viral exanthem"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "DRESS needs a causative drug, a morbilliform rash that usually involves the face, and systemic involvement; eosinophilia is not required, and allopurinol can trigger it late.",
+        "whyCorrect": "DRESS is confirmed by a causative drug, a morbilliform exanthem typically involving the face, and systemic involvement, usually of the liver; eosinophilia is NOT essential. It begins with flu-like symptoms and lymphadenopathy that mimic a viral illness. Allopurinol-induced DRESS is more common in renal failure and can start as late as 6-8 weeks after the drug is begun.",
+        "whyWrongByChoice": {
+          "B": "A fixed drug eruption causes one or a few round patches that recur at the same site, without systemic symptoms.",
+          "C": "A simple drug eruption spares the face, starts within a few days of the drug, and lacks systemic organ involvement.",
+          "D": "SJS is a primarily mucosal reaction with targetoid lesions and epidermal necrosis, not an edematous morbilliform rash with hepatitis.",
+          "E": "The flu-like prodrome mimics a viral illness, but a culprit drug, facial involvement, and hepatitis point to a drug hypersensitivity syndrome."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "DRESS syndrome",
+        "allopurinol",
+        "medication reactions"
+      ],
+      "topicId": "inflammatory-skin-diseases",
+      "topicName": "Inflammatory Skin Diseases",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk46-011",
+      "stem": "A 52-year-old woman began lamotrigine 2 weeks ago. She now has dusky targetoid lesions that have become confluent, with sloughing of about 40% of her body surface area. She is admitted, the drug is stopped, and biopsy confirms full-thickness epidermal necrosis. Which of the following medical therapies is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "High-dose IV corticosteroids"
+        },
+        {
+          "label": "B",
+          "text": "Oral antihistamines only"
+        },
+        {
+          "label": "C",
+          "text": "Oral apremilast therapy"
+        },
+        {
+          "label": "D",
+          "text": "Oral colchicine therapy"
+        },
+        {
+          "label": "E",
+          "text": "Systemic cyclosporine"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Cyclosporine and IVIG are the main medical treatments of SJS/TEN; systemic corticosteroids are contraindicated.",
+        "whyCorrect": "Sloughing of 30% or more of the skin is toxic epidermal necrolysis. Management includes admission, biopsy, burn-unit wound care, and specialist consults; the main medical treatments are cyclosporine and intravenous immunoglobulins. Systemic corticosteroids are contraindicated in SJS/TEN because they increase the risk of sepsis, which is the most common cause of death in TEN.",
+        "whyWrongByChoice": {
+          "A": "Unlike in DRESS, systemic corticosteroids are contraindicated in SJS/TEN because they increase the risk of sepsis and death.",
+          "B": "Antihistamines are supportive care for a simple morbilliform eruption, not therapy for life-threatening necrolysis.",
+          "C": "Apremilast treats Behcet's disease, not epidermal necrolysis.",
+          "D": "Colchicine is a treatment for Behcet's disease."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "toxic epidermal necrolysis",
+        "SJS/TEN",
+        "management"
+      ],
+      "topicId": "inflammatory-skin-diseases",
+      "topicName": "Inflammatory Skin Diseases",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk46-012",
+      "stem": "A 26-year-old woman has a round, dusky violet patch with a blistered center on her lower lip. She has had a patch in this exact spot twice before, each healing with dark brown discoloration. She takes an over-the-counter pain reliever a few days each month for menstrual cramps. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fixed drug eruption"
+        },
+        {
+          "label": "B",
+          "text": "Herpes simplex recurrence"
+        },
+        {
+          "label": "C",
+          "text": "Lichenoid drug eruption"
+        },
+        {
+          "label": "D",
+          "text": "Oral lichen planus"
+        },
+        {
+          "label": "E",
+          "text": "Stevens-Johnson syndrome"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A fixed drug eruption recurs at the exact same site with each exposure to an intermittently taken drug such as naproxen and heals with hyperpigmentation.",
+        "whyCorrect": "In a fixed drug eruption, small round or oval patches of skin necrosis develop; stopping the drug lets them resolve, often with significant hyperpigmentation, and re-exposure brings them back in the exact same spot. The lip, genitals, oral cavity, and back of the hands are the most common sites, and intermittently taken drugs such as OTC naproxen are the most common causes.",
+        "whyWrongByChoice": {
+          "B": "Recurrent herpes forms grouped vesicles; the history of a necrotic patch that recurs with an intermittently taken drug and leaves hyperpigmentation points elsewhere.",
+          "C": "A lichenoid drug eruption produces widespread LP-like papules over a large BSA and lacks oral involvement.",
+          "D": "Oral lichen planus forms bilateral white reticulated plaques on the buccal mucosa, tongue, or gingiva.",
+          "E": "SJS causes widespread mucosal erosions of the eyes, mouth, and genitals, not a single recurring patch."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "fixed drug eruption",
+        "naproxen",
+        "medication reactions"
+      ],
+      "topicId": "inflammatory-skin-diseases",
+      "topicName": "Inflammatory Skin Diseases",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk47-001",
+      "stem": "A 52-year-old man has had painful oral erosions for 2 months, followed by flaccid blisters on an erythematous base over his scalp and trunk. Light rubbing of normal-appearing skin makes the epidermis slide off. His autoantibodies are most likely directed against which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "BP180 (NC16A domain) and BP230"
+        },
+        {
+          "label": "B",
+          "text": "Desmoglein 1 alone"
+        },
+        {
+          "label": "C",
+          "text": "Desmoglein 1 and desmoglein 3"
+        },
+        {
+          "label": "D",
+          "text": "Epidermal transglutaminase (transglutaminase 3)"
+        },
+        {
+          "label": "E",
+          "text": "Type VII collagen"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Mucocutaneous pemphigus vulgaris is mediated by IgG against desmoglein 1 and 3.",
+        "whyCorrect": "Oral-first erosions, flaccid skin blisters and a positive Nikolsky sign indicate pemphigus vulgaris. IgG autoantibodies target desmogleins, the desmosomal proteins that hold keratinocytes together. Mucocutaneous disease is associated with antibodies to both desmoglein 1 and 3.",
+        "whyWrongByChoice": {
+          "A": "BP180 and BP230 are hemidesmosomal targets in bullous pemphigoid, which gives tense bullae and a negative Nikolsky sign.",
+          "B": "Desmoglein 1 alone is pemphigus foliaceus, which is cutaneous only; this patient has mucosal disease too.",
+          "D": "Epidermal transglutaminase is the cross-reacting skin antigen in dermatitis herpetiformis, which gives grouped itchy vesicles.",
+          "E": "Type VII collagen is the target in epidermolysis bullosa acquisita, with trauma-induced blisters, scarring and milia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pemphigus vulgaris",
+        "desmoglein",
+        "pathogenesis"
+      ],
+      "topicId": "vesiculobullous-skin-disorders",
+      "topicName": "Vesiculobullous Skin Disorders",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk47-002",
+      "stem": "An 83-year-old woman had 2 months of itchy, edematous wheal-like plaques and now has intact, tense, 2-cm bullae on an erythematous base over the lower abdomen and inner thighs. Her mouth is spared, and rubbing adjacent skin does not separate the epidermis. Direct immunofluorescence of perilesional skin would most likely show which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Granular IgA at the tips of the dermal papillae"
+        },
+        {
+          "label": "B",
+          "text": "Granular IgG along the dermal-epidermal junction"
+        },
+        {
+          "label": "C",
+          "text": "Linear IgA along the dermal-epidermal junction"
+        },
+        {
+          "label": "D",
+          "text": "Linear IgG along the dermal-epidermal junction"
+        },
+        {
+          "label": "E",
+          "text": "Net-like intercellular IgG throughout the epidermis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Bullous pemphigoid shows linear IgG along the basement membrane on direct immunofluorescence.",
+        "whyCorrect": "An urticarial prodrome in an elderly patient followed by tense, pruritic bullae with mucosal sparing and a negative Nikolsky sign is bullous pemphigoid. IgG against hemidesmosomal proteins deposits in a continuous linear band along the basement membrane (dermal-epidermal junction).",
+        "whyWrongByChoice": {
+          "A": "Granular IgA at the dermal papillary tips is dermatitis herpetiformis.",
+          "B": "The basement-membrane IgG in bullous pemphigoid is linear, not granular.",
+          "C": "Linear IgA at the dermal-epidermal junction is linear IgA bullous dermatosis; bullous pemphigoid uses IgG.",
+          "E": "A net-like intercellular IgG pattern within the epidermis is pemphigus vulgaris."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "bullous pemphigoid",
+        "direct immunofluorescence"
+      ],
+      "topicId": "vesiculobullous-skin-disorders",
+      "topicName": "Vesiculobullous Skin Disorders",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk47-003",
+      "stem": "A 41-year-old man has intensely itchy, burning clusters of small papules and vesicles symmetrically over both elbows, knees, and buttocks, with many excoriations. He also reports months of bloating and loose stools, and labs show iron deficiency anemia. This skin disorder most strongly points to which underlying condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Celiac disease"
+        },
+        {
+          "label": "B",
+          "text": "Crohn disease"
+        },
+        {
+          "label": "C",
+          "text": "Recurrent herpes simplex virus infection"
+        },
+        {
+          "label": "D",
+          "text": "Type 2 diabetes treated with a DPP-4 inhibitor"
+        },
+        {
+          "label": "E",
+          "text": "Ulcerative colitis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Dermatitis herpetiformis is the cutaneous manifestation of celiac disease (more than 90% have it).",
+        "whyCorrect": "Grouped, intensely pruritic papulovesicles over extensor surfaces are dermatitis herpetiformis. More than 90% of patients have underlying celiac disease (gluten-sensitive enteropathy), which explains his GI symptoms and iron deficiency anemia.",
+        "whyWrongByChoice": {
+          "B": "Crohn disease is linked in the lecture to epidermolysis bullosa acquisita, not to grouped extensor vesicles.",
+          "C": "The name 'herpetiformis' refers only to the herpes-like grouping; there is no association with herpes viruses.",
+          "D": "DPP-4 inhibitors (linagliptin, vildagliptin) can cause bullous pemphigoid, which gives tense bullae in older adults.",
+          "E": "Ulcerative colitis is not the enteropathy associated with this eruption."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "dermatitis herpetiformis",
+        "celiac disease"
+      ],
+      "topicId": "vesiculobullous-skin-disorders",
+      "topicName": "Vesiculobullous Skin Disorders",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk47-004",
+      "stem": "A 47-year-old woman of Middle Eastern descent has fragile, flaccid blisters that rupture into painful, bleeding erosions and then crust. Biopsy of a fresh lesion would most likely show which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intraepidermal blister with acantholysis of keratinocytes"
+        },
+        {
+          "label": "B",
+          "text": "Intraepidermal split caused by a staphylococcal toxin"
+        },
+        {
+          "label": "C",
+          "text": "Neutrophilic microabscesses at the tips of dermal papillae"
+        },
+        {
+          "label": "D",
+          "text": "Subepidermal blister filled predominantly with eosinophils"
+        },
+        {
+          "label": "E",
+          "text": "Sublamina densa split that heals with scarring and milia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Pemphigus vulgaris histology: acantholysis producing an intraepidermal blister.",
+        "whyCorrect": "Flaccid blisters that rupture easily in a patient of Middle Eastern descent suggest pemphigus vulgaris. Anti-desmoglein IgG separates keratinocytes from one another (acantholysis), creating a thin-roofed intraepidermal blister.",
+        "whyWrongByChoice": {
+          "B": "Toxin-mediated intraepidermal blistering is bullous impetigo, which crusts quickly and is not autoimmune.",
+          "C": "Papillary neutrophilic microabscesses are dermatitis herpetiformis.",
+          "D": "A subepidermal eosinophil-rich blister is bullous pemphigoid (or linear IgA bullous dermatosis).",
+          "E": "A sublamina densa split with scarring and milia fits epidermolysis bullosa acquisita or dystrophic EB."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "pemphigus vulgaris",
+        "histology"
+      ],
+      "topicId": "vesiculobullous-skin-disorders",
+      "topicName": "Vesiculobullous Skin Disorders",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk47-005",
+      "stem": "An 86-year-old nursing-home resident has biopsy-confirmed bullous pemphigoid with scattered tense, itchy bullae on the flexor forearms. Medication review finds no likely culprit drug. In addition to good wound care, which of the following is the cornerstone of initial treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gluten-free diet"
+        },
+        {
+          "label": "B",
+          "text": "High-dose prednisone with azathioprine"
+        },
+        {
+          "label": "C",
+          "text": "Oral dapsone"
+        },
+        {
+          "label": "D",
+          "text": "Potent topical corticosteroids"
+        },
+        {
+          "label": "E",
+          "text": "Rituximab infusion"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Topical steroids are the cornerstone of bullous pemphigoid treatment and may suffice alone.",
+        "whyCorrect": "Bullous pemphigoid is far less serious than pemphigus vulgaris. Topical steroids are the cornerstone of therapy and can be sufficient on their own; oral steroids are used when topical application is impractical.",
+        "whyWrongByChoice": {
+          "A": "A gluten-free diet treats dermatitis herpetiformis.",
+          "B": "Aggressive systemic steroids with immunosuppressants is the approach for pemphigus vulgaris; in frail older BP patients these drugs cause significant side effects.",
+          "C": "Dapsone is the treatment emphasized for dermatitis herpetiformis and linear IgA bullous dermatosis.",
+          "E": "Rituximab is reserved for refractory disease."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "bullous pemphigoid",
+        "treatment"
+      ],
+      "topicId": "vesiculobullous-skin-disorders",
+      "topicName": "Vesiculobullous Skin Disorders",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk47-006",
+      "stem": "A 58-year-old man has oral erosions and flaccid trunk blisters. Biopsy shows intraepidermal acantholysis, and ELISA detects IgG against desmoglein 1 and 3. Which of the following is the first-line treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gluten-free diet"
+        },
+        {
+          "label": "B",
+          "text": "Oral dapsone"
+        },
+        {
+          "label": "C",
+          "text": "Oral doxycycline"
+        },
+        {
+          "label": "D",
+          "text": "Systemic corticosteroids"
+        },
+        {
+          "label": "E",
+          "text": "Topical corticosteroids alone"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Systemic steroids (with or without immunosuppressants) are first line for pemphigus vulgaris.",
+        "whyCorrect": "Pemphigus vulgaris is treated aggressively to gain rapid control and stop new lesions. Systemic corticosteroid therapy, with or without an immunosuppressant adjunct, is first line; untreated 1-year mortality is about 75%.",
+        "whyWrongByChoice": {
+          "A": "A gluten-free diet treats dermatitis herpetiformis.",
+          "B": "Dapsone is used for dermatitis herpetiformis and linear IgA bullous dermatosis.",
+          "C": "Tetracycline antibiotics are a steroid-sparing option for bullous pemphigoid.",
+          "E": "Topical steroids alone are the cornerstone for bullous pemphigoid, not pemphigus vulgaris."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pemphigus vulgaris",
+        "treatment"
+      ],
+      "topicId": "vesiculobullous-skin-disorders",
+      "topicName": "Vesiculobullous Skin Disorders",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk47-007",
+      "stem": "A 36-year-old woman with biopsy-confirmed dermatitis herpetiformis has started a strict gluten-free diet but is losing sleep from burning itch. She asks for a medication that will bring the eruption under control within days. Which of the following is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dapsone"
+        },
+        {
+          "label": "B",
+          "text": "Doxycycline"
+        },
+        {
+          "label": "C",
+          "text": "Dupilumab"
+        },
+        {
+          "label": "D",
+          "text": "Intravenous immunoglobulin"
+        },
+        {
+          "label": "E",
+          "text": "Rituximab"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Dapsone induces rapid (days) remission in dermatitis herpetiformis; diet alone takes months to years.",
+        "whyCorrect": "First-line therapy is a gluten-free diet with or without dapsone. Dapsone induces remission within days, while remission from diet alone takes months to years.",
+        "whyWrongByChoice": {
+          "B": "Tetracyclines such as doxycycline are steroid-sparing options for bullous pemphigoid.",
+          "C": "Dupilumab is a steroid-sparing option for bullous pemphigoid.",
+          "D": "IVIG is reserved for refractory pemphigus vulgaris or bullous pemphigoid.",
+          "E": "Rituximab is used for refractory pemphigus vulgaris or bullous pemphigoid."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "dermatitis herpetiformis",
+        "treatment"
+      ],
+      "topicId": "vesiculobullous-skin-disorders",
+      "topicName": "Vesiculobullous Skin Disorders",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk47-008",
+      "stem": "A 4-year-old boy has recurrent crops of tense, itchy bullae in annular rings resembling a string of pearls on the lower abdomen, thighs, groin, and around the mouth. Several courses of treatment for presumed impetigo have failed. The pathogenic antibody most likely has which class and target?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgA against BP180"
+        },
+        {
+          "label": "B",
+          "text": "IgA against epidermal transglutaminase"
+        },
+        {
+          "label": "C",
+          "text": "IgG against BP180"
+        },
+        {
+          "label": "D",
+          "text": "IgG against desmoglein 1"
+        },
+        {
+          "label": "E",
+          "text": "IgG against type VII collagen"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Linear IgA bullous dermatosis: IgA against the BP180 hemidesmosomal protein.",
+        "whyCorrect": "Tense annular 'string of pearls' bullae in a preschool child are linear IgA bullous dermatosis (chronic bullous disease of childhood), often mistaken for bullous impetigo. It targets BP180 as bullous pemphigoid does, but the antibody is IgA rather than IgG.",
+        "whyWrongByChoice": {
+          "B": "IgA against epidermal transglutaminase is dermatitis herpetiformis, with granular rather than linear deposits.",
+          "C": "IgG against BP180 is bullous pemphigoid, a disease of the elderly.",
+          "D": "IgG against desmoglein 1 causes pemphigus foliaceus, with superficial crusted erosions.",
+          "E": "IgG against type VII collagen is epidermolysis bullosa acquisita, in adults."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "linear IgA bullous dermatosis",
+        "pathogenesis",
+        "pediatrics"
+      ],
+      "topicId": "vesiculobullous-skin-disorders",
+      "topicName": "Vesiculobullous Skin Disorders",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk47-009",
+      "stem": "A 64-year-old man receiving intravenous therapy for methicillin-resistant Staphylococcus aureus osteomyelitis develops widespread clustered tense bullae on the trunk and extremities. Direct immunofluorescence shows continuous linear IgA at the dermal-epidermal junction. Which of his medications is the most likely trigger?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Captopril"
+        },
+        {
+          "label": "B",
+          "text": "Furosemide"
+        },
+        {
+          "label": "C",
+          "text": "Linagliptin"
+        },
+        {
+          "label": "D",
+          "text": "Penicillamine"
+        },
+        {
+          "label": "E",
+          "text": "Vancomycin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Adult linear IgA bullous dermatosis is often drug-induced, especially by vancomycin.",
+        "whyCorrect": "Linear IgA at the dermal-epidermal junction is linear IgA bullous dermatosis. In adults, medications are a major cause, vancomycin above all. Stopping the offending drug is the necessary first step, and dapsone or short-term systemic steroids help.",
+        "whyWrongByChoice": {
+          "A": "Captopril is a thiol drug linked to pemphigus vulgaris.",
+          "B": "Furosemide is a diuretic that can cause bullous pemphigoid.",
+          "C": "Linagliptin, a DPP-4 inhibitor, can cause IgG-mediated bullous pemphigoid.",
+          "D": "Penicillamine is a thiol drug linked to pemphigus vulgaris."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "linear IgA bullous dermatosis",
+        "drug-induced"
+      ],
+      "topicId": "vesiculobullous-skin-disorders",
+      "topicName": "Vesiculobullous Skin Disorders",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk47-010",
+      "stem": "A 39-year-old woman of Ashkenazi Jewish descent has had painful, nonhealing oral ulcers for 3 months but no skin lesions. Biopsy shows intraepithelial acantholysis. Serology is most likely positive for antibodies against which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Both desmoglein 1 and desmoglein 3"
+        },
+        {
+          "label": "B",
+          "text": "BP180 only"
+        },
+        {
+          "label": "C",
+          "text": "BP230 only"
+        },
+        {
+          "label": "D",
+          "text": "Desmoglein 1 only"
+        },
+        {
+          "label": "E",
+          "text": "Desmoglein 3 only"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Mucosal-dominant pemphigus vulgaris has antibodies to desmoglein 3 only.",
+        "whyCorrect": "Acantholysis in an at-risk patient means pemphigus vulgaris. The antibody profile tracks the distribution: mucosal-dominant disease has antibodies to desmoglein 3 only, while mucocutaneous disease has antibodies to both desmoglein 1 and 3.",
+        "whyWrongByChoice": {
+          "A": "Antibodies to both desmogleins go with mucocutaneous disease; she has no skin lesions.",
+          "B": "BP180 is a hemidesmosomal target in bullous pemphigoid and linear IgA disease, which cause subepidermal blisters.",
+          "C": "BP230 is a hemidesmosomal bullous pemphigoid antigen, not a cause of acantholysis.",
+          "D": "Desmoglein 1 only is pemphigus foliaceus, which is cutaneous only."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pemphigus vulgaris",
+        "desmoglein",
+        "serology"
+      ],
+      "topicId": "vesiculobullous-skin-disorders",
+      "topicName": "Vesiculobullous Skin Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk47-011",
+      "stem": "A 33-year-old man has grouped, intensely pruritic vesicles on the elbows and scalp. Perilesional direct immunofluorescence shows granular deposits at the tips of the dermal papillae. Serum tissue transglutaminase antibodies come back negative. Which additional result is most important for interpreting this serology?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antinuclear antibody titer"
+        },
+        {
+          "label": "B",
+          "text": "Indirect immunofluorescence for basement membrane antibodies"
+        },
+        {
+          "label": "C",
+          "text": "Serum anti-BP180 ELISA"
+        },
+        {
+          "label": "D",
+          "text": "Serum desmoglein 3 ELISA"
+        },
+        {
+          "label": "E",
+          "text": "Total serum IgA level"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Document total IgA in dermatitis herpetiformis workup: IgA deficiency gives false-negative IgA serology.",
+        "whyCorrect": "Granular deposits at the dermal papillary tips are IgA in dermatitis herpetiformis. The celiac serologies (tissue transglutaminase, anti-gliadin, anti-endomysial) are IgA antibodies, so total IgA must be documented; a coexisting IgA deficiency gives false-negative results.",
+        "whyWrongByChoice": {
+          "A": "Antinuclear antibodies are not part of this workup and do not explain a false-negative IgA serology.",
+          "B": "Indirect immunofluorescence for basement-membrane antibodies supports bullous pemphigoid.",
+          "C": "Anti-BP180 ELISA supports bullous pemphigoid.",
+          "D": "Desmoglein 3 ELISA is for pemphigus vulgaris."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dermatitis herpetiformis",
+        "serology",
+        "IgA deficiency"
+      ],
+      "topicId": "vesiculobullous-skin-disorders",
+      "topicName": "Vesiculobullous Skin Disorders",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk47-012",
+      "stem": "An 80-year-old man's blisters are tense and stay intact for days, whereas a 45-year-old woman's blisters rupture almost as soon as they form. Which feature best explains why the man's blisters remain intact?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Eosinophil granule proteins stiffen the overlying roof"
+        },
+        {
+          "label": "B",
+          "text": "Neutrophilic microabscesses seal the blister margins"
+        },
+        {
+          "label": "C",
+          "text": "Split lies beneath the full thickness of the epidermis"
+        },
+        {
+          "label": "D",
+          "text": "Split lies within the stratum corneum above the granular layer"
+        },
+        {
+          "label": "E",
+          "text": "Split lies within the stratum spinosum of the epidermis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Subepidermal blisters have a thick roof, so they are tense; intraepidermal blisters are flaccid.",
+        "whyCorrect": "In bullous pemphigoid the damage lies under the epidermis, so the blister roof is the whole epidermis: thicker, tense and less likely to rupture, with a negative Nikolsky sign. Intraepidermal splits such as pemphigus vulgaris leave a thin roof that ruptures easily.",
+        "whyWrongByChoice": {
+          "A": "Eosinophils fill BP blisters, but they do not explain the tenseness; the level of the split does.",
+          "B": "Neutrophilic microabscesses belong to dermatitis herpetiformis and do not make blisters tense.",
+          "D": "A very superficial split would produce an even thinner, more fragile roof.",
+          "E": "A split within the stratum spinosum is pemphigus vulgaris, which gives thin, flaccid blisters."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "bullous pemphigoid",
+        "blister level",
+        "Nikolsky sign"
+      ],
+      "topicId": "vesiculobullous-skin-disorders",
+      "topicName": "Vesiculobullous Skin Disorders",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk48-001",
+      "stem": "A 9-month-old boy has had itchy, crusted, red lesions for 3 months. His mother has asthma and his father has allergic rhinitis. Which of the following distributions is most typical of this condition at his age?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antecubital and popliteal flexural creases only"
+        },
+        {
+          "label": "B",
+          "text": "Cheeks and extensor surfaces of the limbs"
+        },
+        {
+          "label": "C",
+          "text": "Diaper area with sparing of the skin folds"
+        },
+        {
+          "label": "D",
+          "text": "Palms and soles with pinpoint vesicles"
+        },
+        {
+          "label": "E",
+          "text": "Scalp vertex with greasy yellow scale"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Infantile atopic dermatitis favors the cheeks and extensor surfaces; older patients develop flexural plaques.",
+        "whyCorrect": "This infant with a family history of the atopic triad has atopic dermatitis. The lecture states infants typically present with crusted lesions on the cheeks and extensor surfaces, whereas older children, adolescents, and adults have thickened plaques in flexor areas such as the antecubital and popliteal fossae and neck.",
+        "whyWrongByChoice": {
+          "A": "Flexural plaques are the pattern of older children, adolescents, and adults with atopic dermatitis.",
+          "C": "This pattern is not the described infantile distribution of atopic dermatitis.",
+          "D": "Vesicles on the digits suggest dyshidrotic eczema, not infantile atopic dermatitis.",
+          "E": "Greasy scale on the scalp suggests seborrheic dermatitis (cradle cap)."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "atopic dermatitis",
+        "distribution",
+        "infant"
+      ],
+      "topicId": "dermatitis",
+      "topicName": "Dermatitis",
+      "tier": "core"
+    },
+    {
+      "id": "mk48-002",
+      "stem": "A 7-year-old girl with atopic dermatitis has dry, itchy skin. Genetic testing shows a loss-of-function variant in a gene whose protein bundles keratin to flatten corneocytes and is then degraded into natural moisturizing factor. Which defect best explains her disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoantibodies against desmosomal cadherins"
+        },
+        {
+          "label": "B",
+          "text": "Defective dopamine-driven sebum regulation"
+        },
+        {
+          "label": "C",
+          "text": "Excess Th1 interferon-gamma signaling"
+        },
+        {
+          "label": "D",
+          "text": "Hapten-specific memory T-cell priming"
+        },
+        {
+          "label": "E",
+          "text": "Impaired epidermal barrier from filaggrin deficiency"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "FLG mutations cause filaggrin deficiency and epidermal barrier dysfunction in atopic dermatitis.",
+        "whyCorrect": "Filaggrin, encoded by FLG, bundles keratin to form the stratum corneum and then breaks down into natural moisturizing factor that hydrates, acidifies, and protects the barrier. FLG mutations are strongly associated with atopic dermatitis, although not everyone with a mutation develops it.",
+        "whyWrongByChoice": {
+          "A": "Antibodies against desmosomes are not part of the pathogenesis of atopic dermatitis described in the lecture.",
+          "B": "Dopamine deficiency with increased sebum is linked to seborrheic dermatitis in Parkinson disease.",
+          "C": "Atopic dermatitis is driven by a Th2 response (IL-4, IL-5, IL-13, IL-31), not Th1.",
+          "D": "Hapten-specific memory T cells underlie allergic contact dermatitis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "atopic dermatitis",
+        "filaggrin",
+        "pathogenesis"
+      ],
+      "topicId": "dermatitis",
+      "topicName": "Dermatitis",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk48-003",
+      "stem": "A 22-year-old man with lifelong eczema reports that intense nighttime pruritus keeps him awake. A new therapy under study blocks the cytokine nicknamed the 'itch cytokine' in his disease. Which cytokine is targeted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IL-1"
+        },
+        {
+          "label": "B",
+          "text": "IL-12"
+        },
+        {
+          "label": "C",
+          "text": "IL-17"
+        },
+        {
+          "label": "D",
+          "text": "IL-2"
+        },
+        {
+          "label": "E",
+          "text": "IL-31"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "IL-31, a Th2 cytokine, is the 'itch cytokine' of atopic dermatitis.",
+        "whyCorrect": "Barrier breakdown lets antigens reach dendritic cells, which induce a Th2 response producing IL-4, IL-5, IL-13, and IL-31. IL-31 plays a major role in the itch of atopic dermatitis and is called the itch cytokine.",
+        "whyWrongByChoice": {
+          "A": "IL-1 is not among the Th2 interleukins the lecture names in atopic dermatitis.",
+          "B": "IL-12 is not among the Th2 interleukins the lecture names in atopic dermatitis.",
+          "C": "IL-17 is not described in the pathogenesis of atopic dermatitis in the lecture.",
+          "D": "IL-2 is not among the Th2 cytokines named for atopic dermatitis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "atopic dermatitis",
+        "IL-31",
+        "pruritus"
+      ],
+      "topicId": "dermatitis",
+      "topicName": "Dermatitis",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk48-004",
+      "stem": "A 14-year-old girl has moderate-to-severe atopic dermatitis despite emollients, topical corticosteroids, and tacrolimus ointment. She is started on a subcutaneous monoclonal antibody that does not suppress the immune system and blocks intracellular signaling by two Th2 interleukins through a shared receptor chain. What is the drug's target?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calcineurin in T cells"
+        },
+        {
+          "label": "B",
+          "text": "Circulating IL-13 only"
+        },
+        {
+          "label": "C",
+          "text": "IL-4 receptor alpha subunit"
+        },
+        {
+          "label": "D",
+          "text": "Janus kinase enzymes"
+        },
+        {
+          "label": "E",
+          "text": "Phosphodiesterase-4 enzyme"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Dupilumab targets IL-4Rα, blocking IL-4 and IL-13 signaling.",
+        "whyCorrect": "Dupilumab is a monoclonal antibody against IL-4Rα, the IL-4 receptor alpha, so it blocks both IL-4 and IL-13 intracellular signaling. The lecture notes these biologics do not suppress the immune system, and dupilumab is FDA approved from 6 months of age.",
+        "whyWrongByChoice": {
+          "A": "Calcineurin inhibition is the mechanism of tacrolimus ointment.",
+          "B": "Binding circulating IL-13 is the mechanism of lebrikizumab, which blocks only one cytokine.",
+          "D": "JAK inhibition is the mechanism of upadacitinib, a third-line oral agent.",
+          "E": "This is not the target of the injectable biologic described; crisaborole is a topical nonsteroidal option."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "atopic dermatitis",
+        "dupilumab",
+        "pharmacology"
+      ],
+      "topicId": "dermatitis",
+      "topicName": "Dermatitis",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk48-005",
+      "stem": "A 30-year-old woman with widespread eczema since childhood visits urgent care during a flare. A clinician considers a 5-day oral prednisone burst. Which of the following is the most important concern with this plan?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "High likelihood of rebound to a worse state"
+        },
+        {
+          "label": "B",
+          "text": "Induction of hapten-specific memory T cells"
+        },
+        {
+          "label": "C",
+          "text": "Irreversible loss of filaggrin expression"
+        },
+        {
+          "label": "D",
+          "text": "Overgrowth of Malassezia on sebaceous skin"
+        },
+        {
+          "label": "E",
+          "text": "Thrombosis risk from a boxed warning"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Systemic corticosteroids should be avoided in atopic dermatitis because of severe rebound.",
+        "whyCorrect": "The lecture states systemic corticosteroids are to be strictly avoided in atopic dermatitis. They give temporary benefit, but the disease has a high probability of rebounding to a worse state, and much of the severe disease seen in clinics is iatrogenic from systemic steroids.",
+        "whyWrongByChoice": {
+          "B": "Hapten sensitization is the mechanism of allergic contact dermatitis, not a steroid risk.",
+          "C": "The lecture does not describe this effect of systemic corticosteroids.",
+          "D": "Malassezia is implicated in seborrheic dermatitis, not as a steroid complication here.",
+          "E": "Boxed warnings for thrombosis, MI, stroke, and serious infection apply to JAK inhibitors."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "atopic dermatitis",
+        "systemic corticosteroids",
+        "rebound"
+      ],
+      "topicId": "dermatitis",
+      "topicName": "Dermatitis",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk48-006",
+      "stem": "A 4-year-old boy with atopic dermatitis has worsening eczema with pustules and golden honey-colored crusts on his arms despite regular topical corticosteroid use. Which of the following best explains his susceptibility to this complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deficiency of skin antimicrobial peptides"
+        },
+        {
+          "label": "B",
+          "text": "Excess sebum production on the trunk"
+        },
+        {
+          "label": "C",
+          "text": "Lipase activity of Malassezia furfur"
+        },
+        {
+          "label": "D",
+          "text": "Overactive Th1 interferon-gamma response"
+        },
+        {
+          "label": "E",
+          "text": "Type IV reaction to topical neomycin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Atopic skin lacks antimicrobial peptides such as beta-defensin, so staph colonizes and infects it.",
+        "whyCorrect": "Antimicrobial peptides such as beta-defensin protect the skin from bacteria. Patients with atopic dermatitis are deficient in them, so staph is present at higher levels and infections are common. Treating the staph can markedly improve the eczema, while missing it can cause treatment resistance.",
+        "whyWrongByChoice": {
+          "B": "Increased sebum is the setting of seborrheic dermatitis.",
+          "C": "Malassezia lipases produce inflammatory byproducts in seborrheic dermatitis.",
+          "D": "Atopic dermatitis is Th2-driven, and this does not explain staph infection.",
+          "E": "Topical antibiotics can cause allergic contact dermatitis, but that does not explain pustules with honey crusts."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "atopic dermatitis",
+        "Staphylococcus",
+        "antimicrobial peptides"
+      ],
+      "topicId": "dermatitis",
+      "topicName": "Dermatitis",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk48-007",
+      "stem": "A 66-year-old man with Parkinson disease has erythematous plaques with greasy, flaky scale on his eyebrows, nasolabial folds, and behind his ears. Which of the following best describes the pathogenesis of his rash?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacterial colonization due to absent beta-defensin"
+        },
+        {
+          "label": "B",
+          "text": "Cumulative solvent damage to the skin barrier"
+        },
+        {
+          "label": "C",
+          "text": "Delayed T-cell response to a hapten-protein complex"
+        },
+        {
+          "label": "D",
+          "text": "Edema of the dependent extremity"
+        },
+        {
+          "label": "E",
+          "text": "Fungal lipases releasing oleic and arachidonic acid"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In seborrheic dermatitis, Malassezia lipases metabolize sebum triglycerides into inflammatory byproducts.",
+        "whyCorrect": "Seborrheic dermatitis is more common in Parkinson disease because dopamine deficiency increases sebum. Sebum favors Malassezia furfur, whose lipases metabolize triglycerides into oleic acid, arachidonic acid, and reactive oxygen species that inflame the skin.",
+        "whyWrongByChoice": {
+          "A": "Antimicrobial peptide deficiency with staph is a pillar of atopic dermatitis.",
+          "B": "Cumulative barrier damage by chemicals or water is irritant contact dermatitis.",
+          "C": "A delayed T-cell response to haptens is allergic contact dermatitis.",
+          "D": "Underlying edema of the leg causes stasis dermatitis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "seborrheic dermatitis",
+        "Malassezia",
+        "Parkinson disease"
+      ],
+      "topicId": "dermatitis",
+      "topicName": "Dermatitis",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk48-008",
+      "stem": "A 35-year-old man has itchy flaking of the scalp with salmon-colored plaques covered by yellow, greasy scale. Which of the following is the most appropriate first-line treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dupilumab injections"
+        },
+        {
+          "label": "B",
+          "text": "Ketoconazole shampoo"
+        },
+        {
+          "label": "C",
+          "text": "Oral prednisone taper"
+        },
+        {
+          "label": "D",
+          "text": "Oral upadacitinib"
+        },
+        {
+          "label": "E",
+          "text": "Topical tretinoin cream"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "First-line therapy for scalp seborrheic dermatitis is a medicated shampoo such as ketoconazole.",
+        "whyCorrect": "For the scalp, first-line treatment is a shampoo containing salicylic acid, ketoconazole, selenium sulfide, or pyrithione zinc. Liquid topical corticosteroids are added if shampoo and emollients fail.",
+        "whyWrongByChoice": {
+          "A": "Dupilumab is a biologic for moderate-to-severe atopic dermatitis.",
+          "C": "Systemic steroids are not first-line for scalp seborrheic dermatitis.",
+          "D": "JAK inhibitors are third-line systemic agents for atopic dermatitis.",
+          "E": "Topical retinoids cause irritant contact dermatitis and are not a seborrheic treatment."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "seborrheic dermatitis",
+        "treatment",
+        "scalp"
+      ],
+      "topicId": "dermatitis",
+      "topicName": "Dermatitis",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk48-009",
+      "stem": "A 28-year-old woman develops an itchy, weeping rash in linear streaks on her forearms 2 days after clearing brush from her yard. Which cell is the main effector of this reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "B lymphocyte"
+        },
+        {
+          "label": "B",
+          "text": "Eosinophil"
+        },
+        {
+          "label": "C",
+          "text": "Mast cell"
+        },
+        {
+          "label": "D",
+          "text": "Neutrophil"
+        },
+        {
+          "label": "E",
+          "text": "T lymphocyte"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Allergic contact dermatitis is a type IV, T-cell-mediated delayed hypersensitivity.",
+        "whyCorrect": "Linear streaks after brush exposure suggest poison ivy allergic contact dermatitis. It is a type IV (delayed, cell-mediated) hypersensitivity in which primed hapten-specific T cells release inflammatory mediators about 48-72 hours after re-exposure.",
+        "whyWrongByChoice": {
+          "A": "B cells are not the effector cells of this delayed, cell-mediated reaction.",
+          "B": "Eosinophils are activated by Th2 cytokines in atopic dermatitis but are not the effector of this reaction.",
+          "C": "Mast cells mediate immediate hypersensitivity, not this delayed reaction.",
+          "D": "Neutrophils are not the main effector cells of this reaction."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "allergic contact dermatitis",
+        "type IV hypersensitivity",
+        "T cells"
+      ],
+      "topicId": "dermatitis",
+      "topicName": "Dermatitis",
+      "tier": "core"
+    },
+    {
+      "id": "mk48-010",
+      "stem": "A 41-year-old hair stylist has a chronic, itchy hand dermatitis that improves on vacation. Her clinician suspects she is allergic to one or more products she handles at work. Which of the following is the best test to identify the culprit agents?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intradermal injection read at 20 minutes"
+        },
+        {
+          "label": "B",
+          "text": "Potassium hydroxide preparation of scale"
+        },
+        {
+          "label": "C",
+          "text": "Punch biopsy for spongiosis"
+        },
+        {
+          "label": "D",
+          "text": "Serum total IgE measurement"
+        },
+        {
+          "label": "E",
+          "text": "Taped-on panel read after 48 hours"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Patch testing identifies the allergens in allergic contact dermatitis.",
+        "whyCorrect": "Patch testing is done specifically to evaluate allergic contact dermatitis. Dozens of allergens are taped to the back for 48 hours, removed, and the skin under each patch is examined. The patient then avoids the allergens that caused reactions, which is especially important with occupational exposure.",
+        "whyWrongByChoice": {
+          "A": "Immediate wheal readings test for type I allergy, not delayed contact allergy.",
+          "B": "KOH examination looks for fungus and does not identify contact allergens.",
+          "C": "Spongiosis is found in many dermatitides and does not identify the allergen.",
+          "D": "Elevated IgE is seen in atopy and does not identify contact allergens."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "allergic contact dermatitis",
+        "patch testing",
+        "occupational"
+      ],
+      "topicId": "dermatitis",
+      "topicName": "Dermatitis",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk48-011",
+      "stem": "A 33-year-old nurse washes her hands dozens of times per shift. She now has dry, scaly, chapped skin with fissures over the backs of her hands and no vesicles. Patch testing is negative. Which of the following best describes the mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct barrier damage by a solvent"
+        },
+        {
+          "label": "B",
+          "text": "Hapten-triggered delayed reaction"
+        },
+        {
+          "label": "C",
+          "text": "IgE-mediated mast cell degranulation"
+        },
+        {
+          "label": "D",
+          "text": "Malassezia overgrowth in sebum"
+        },
+        {
+          "label": "E",
+          "text": "Underlying venous edema"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Irritant contact dermatitis results from cumulative barrier damage, even from water.",
+        "whyCorrect": "Irritant contact dermatitis is irritation of the skin by a chemical or solvent that disrupts the barrier through cumulative toxicity rather than a delayed immune response. Even water from frequent hand washing can cause it. It looks dry, scaly, chapped, or fissured, unlike the moist, weepy vesicles of allergic contact dermatitis.",
+        "whyWrongByChoice": {
+          "B": "A delayed hapten reaction is allergic contact dermatitis, which would give a positive patch test and moist vesicles.",
+          "C": "Immediate hypersensitivity is not the mechanism of this dermatitis.",
+          "D": "Malassezia drives seborrheic dermatitis in sebaceous areas.",
+          "E": "Edema of the extremity causes stasis dermatitis of the legs."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "irritant contact dermatitis",
+        "hand washing",
+        "mechanism"
+      ],
+      "topicId": "dermatitis",
+      "topicName": "Dermatitis",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk48-012",
+      "stem": "A 74-year-old woman with chronic leg swelling is admitted with a brightly erythematous, weepy rash on both lower legs. She has received 3 days of IV antibiotics without improvement. She is afebrile and describes the rash as more itchy than painful. Which of the following is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Broader-spectrum IV antibiotics for resistant cellulitis"
+        },
+        {
+          "label": "B",
+          "text": "Compression plus a mid-potency topical steroid"
+        },
+        {
+          "label": "C",
+          "text": "Ketoconazole cream twice daily to both lower legs"
+        },
+        {
+          "label": "D",
+          "text": "Oral prednisone taper over the next 3 weeks"
+        },
+        {
+          "label": "E",
+          "text": "Patch testing to a standard tray before therapy"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Stasis dermatitis mimics cellulitis and is treated with topical steroids, compression, and edema control.",
+        "whyCorrect": "Stasis dermatitis is a brightly erythematous, weepy rash on one or both legs caused by underlying edema, and it is often misdiagnosed as cellulitis. It is more itchy than painful and is treated with mid to high potency topical corticosteroids, compression, and edema management.",
+        "whyWrongByChoice": {
+          "A": "The rash is not infectious cellulitis; escalating antibiotics will not help.",
+          "C": "Topical ketoconazole treats seborrheic dermatitis of the face and body.",
+          "D": "Systemic steroids are not the described management of this condition.",
+          "E": "Patch testing evaluates allergic contact dermatitis, not edema-driven dermatitis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "stasis dermatitis",
+        "cellulitis mimic",
+        "treatment"
+      ],
+      "topicId": "dermatitis",
+      "topicName": "Dermatitis",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk49-001",
+      "stem": "A 26-year-old woman has had 2 days of intensely itchy, raised, red, well-circumscribed plaques on her trunk and arms. She notes that each individual plaque fades completely within several hours while new ones appear elsewhere. The lesions have no scale and leave no bruising or marks behind. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Allergic contact dermatitis"
+        },
+        {
+          "label": "B",
+          "text": "Bullous pemphigoid, urticarial phase"
+        },
+        {
+          "label": "C",
+          "text": "Psoriasis"
+        },
+        {
+          "label": "D",
+          "text": "Urticaria"
+        },
+        {
+          "label": "E",
+          "text": "Urticarial vasculitis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Transient, well-circumscribed, raised erythematous plaques without scale that last under 24 hours are wheals of urticaria.",
+        "whyCorrect": "Wheals differ from other erythematous lesions because they are transient, well-circumscribed, elevated erythematous plaques that lack scale. An individual lesion lasts less than 24 hours, typically less than 12 hours, while new lesions keep appearing. This patient's evanescent, scale-free, itchy plaques are classic hives.",
+        "whyWrongByChoice": {
+          "A": "Dermatitis produces persistent, often scaly or vesicular eczematous plaques at contact sites, not plaques that vanish within hours.",
+          "B": "The urticarial phase of pemphigoid is a differential, but its plaques are persistent rather than resolving within hours, and the patient's age and course fit simple hives.",
+          "C": "Psoriatic plaques are persistent and scaly; wheals by definition lack scale and come and go.",
+          "E": "Urticarial vasculitis lesions last more than 24 hours, are more painful than itchy, and heal with bruising."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "urticaria",
+        "morphology"
+      ],
+      "topicId": "urticaria-and-pruritus",
+      "topicName": "Urticaria and Pruritus",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk49-002",
+      "stem": "A 31-year-old man develops scattered itchy wheals on his chest along with sudden, asymmetrical, massive swelling of his lower lip after eating cashews. He has no difficulty breathing, and his blood pressure is normal. The lip swelling is best explained by fluid accumulating in which of the following locations?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dermal-epidermal junction"
+        },
+        {
+          "label": "B",
+          "text": "Epidermal intercellular spaces"
+        },
+        {
+          "label": "C",
+          "text": "Lumen of dermal blood vessels"
+        },
+        {
+          "label": "D",
+          "text": "Papillary and reticular dermis"
+        },
+        {
+          "label": "E",
+          "text": "Subcutaneous tissue"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Wheals reflect fluid in the dermis, whereas angioedema reflects fluid in the subcutaneous tissue.",
+        "whyCorrect": "Mast cell mediators (histamine and leukotrienes) increase vascular permeability and cause edema. In a wheal the fluid collects in the dermis; in angioedema the fluid accumulates deeper, in the subcutaneous tissue, producing the asymmetrical, massive swelling of sites such as the lip, eyelid, tongue or hand.",
+        "whyWrongByChoice": {
+          "A": "Fluid splitting the dermal-epidermal junction forms a blister, not angioedema.",
+          "B": "Intercellular epidermal edema is not the mechanism of urticaria or angioedema in the lecture.",
+          "C": "Edema results from fluid leaving vessels through increased permeability, not from fluid within the vessel lumen.",
+          "D": "Dermal fluid produces the wheal on his chest, not the deeper, massive swelling of angioedema."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "angioedema",
+        "pathophysiology"
+      ],
+      "topicId": "urticaria-and-pruritus",
+      "topicName": "Urticaria and Pruritus",
+      "tier": "core"
+    },
+    {
+      "id": "mk49-003",
+      "stem": "A 19-year-old woman develops widespread wheals 20 minutes after a bee sting. Biopsy of a lesion would show activated dermal mast cells that have released their preformed granule contents. Which of the following released mediators is responsible for redness, edema and itching alike?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Heparin"
+        },
+        {
+          "label": "B",
+          "text": "Histamine"
+        },
+        {
+          "label": "C",
+          "text": "Leukotriene C4"
+        },
+        {
+          "label": "D",
+          "text": "Prostaglandin D2"
+        },
+        {
+          "label": "E",
+          "text": "Tryptase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Histamine causes vasodilation (redness), increased vascular permeability (edema) and pruritus, the three components of a wheal.",
+        "whyCorrect": "When IgE activates mast cells, they degranulate and release histamine, heparin, tryptase, eosinophilic chemotactic factors, leukotriene C4 and prostaglandin D2. Histamine and prostaglandin cause vasodilation; histamine and leukotrienes increase vascular permeability; and histamine also causes pruritus. Only histamine contributes to all three features.",
+        "whyWrongByChoice": {
+          "A": "Heparin is a preformed granule component, but it is not the mediator driving the clinical features of hives.",
+          "C": "Leukotrienes increase vascular permeability (edema), but the lecture does not credit them with vasodilation or itch.",
+          "D": "Prostaglandin contributes to vasodilation and redness, but not to the permeability edema or pruritus.",
+          "E": "Tryptase is released by mast cells but is not described as producing the redness, edema and itch of wheals."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mast cell",
+        "mediators",
+        "pathophysiology"
+      ],
+      "topicId": "urticaria-and-pruritus",
+      "topicName": "Urticaria and Pruritus",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk49-004",
+      "stem": "A 22-year-old man develops generalized itchy wheals 3 days after starting amoxicillin for streptococcal pharyngitis. He has no lip or tongue swelling, no chest tightness, and normal vital signs. Each lesion resolves within hours. Which of the following is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Begin a 3-month course of oral prednisone"
+        },
+        {
+          "label": "B",
+          "text": "Begin monthly omalizumab injections"
+        },
+        {
+          "label": "C",
+          "text": "Order an anti-IgE receptor antibody test"
+        },
+        {
+          "label": "D",
+          "text": "Order CBC, ESR, ANA and a TSH level"
+        },
+        {
+          "label": "E",
+          "text": "Stop the new antibiotic and start cetirizine"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "When the cause of acute urticaria is known, remove the trigger and start a second-generation H1 antihistamine; no lab workup is needed.",
+        "whyCorrect": "The most important step in acute urticaria is to identify and remove the culprit trigger, here the new antibiotic. First-line therapy is an oral second-generation H1 antihistamine such as cetirizine. When the cause is known, a laboratory workup is neither necessary nor cost effective.",
+        "whyWrongByChoice": {
+          "A": "Steroids are only a short course in severe cases and never a replacement for antihistamines; prolonged courses are inappropriate.",
+          "B": "Omalizumab is reserved for chronic urticaria, not a first episode with a removable trigger.",
+          "C": "Anti-IgE receptor autoantibodies are relevant to autoimmune chronic urticaria, not acute drug-triggered hives.",
+          "D": "A lab workup is not necessary or cost effective when the trigger is known and the hives are acute."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "acute urticaria",
+        "management",
+        "workup"
+      ],
+      "topicId": "urticaria-and-pruritus",
+      "topicName": "Urticaria and Pruritus",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk49-005",
+      "stem": "A 41-year-old woman with Hashimoto thyroiditis has had near-daily itchy wheals for 7 months. She cannot link them to any food, drug or physical stimulus. Lesions last a few hours each and leave no bruising. Her ANA is positive. Which of the following mechanisms most likely causes her lesions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Allergen-specific IgE against a hidden dietary protein"
+        },
+        {
+          "label": "B",
+          "text": "Autoantibodies against the receptor for IgE on mast cells"
+        },
+        {
+          "label": "C",
+          "text": "Cytotoxic T cells attacking basal keratinocytes"
+        },
+        {
+          "label": "D",
+          "text": "IgG autoantibodies against basement membrane proteins"
+        },
+        {
+          "label": "E",
+          "text": "Immune complex deposition in dermal vessel walls"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Many cases of chronic urticaria are autoimmune, with autoantibodies to the IgE receptor on mast cells and basophils that trigger histamine release.",
+        "whyCorrect": "Chronic urticaria (>6 weeks) rarely has a removable cause, and many cases are autoimmune, accompanying diseases such as autoimmune thyroid disease, RA, lupus or celiac disease. Patients often have a positive ANA and/or anti-IgE receptor autoantibodies, which bind the receptor on basophils and mast cells and cause histamine release.",
+        "whyWrongByChoice": {
+          "A": "Food-specific IgE causes acute urticaria with an identifiable trigger, not an autoimmune chronic course with a positive ANA.",
+          "C": "T-cell attack on keratinocytes is not the mechanism of urticaria described in the lecture.",
+          "D": "Antibodies at the basement membrane underlie blistering disease such as pemphigoid, not chronic hives.",
+          "E": "Vasculitic lesions last more than 24 hours and heal with bruising, unlike her few-hour wheals."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "chronic urticaria",
+        "autoimmune",
+        "pathophysiology"
+      ],
+      "topicId": "urticaria-and-pruritus",
+      "topicName": "Urticaria and Pruritus",
+      "tier": "core"
+    },
+    {
+      "id": "mk49-006",
+      "stem": "A 49-year-old woman has had urticarial plaques on her legs for 5 weeks. She says they burn and hurt more than they itch. Each individual lesion persists for 3-4 days and fades leaving a bruise-like discoloration. Serum C3 and C4 levels are low. Which of the following is the best interpretation of the low complement levels?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An expected finding in acute hives"
+        },
+        {
+          "label": "B",
+          "text": "Autoimmune chronic urticaria"
+        },
+        {
+          "label": "C",
+          "text": "Cold-induced physical urticaria"
+        },
+        {
+          "label": "D",
+          "text": "Systemic involvement of a vasculitis"
+        },
+        {
+          "label": "E",
+          "text": "Urticarial phase of pemphigoid"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Urticarial vasculitis lesions are painful, last over 24 hours and heal with bruising; low complement indicates systemic involvement.",
+        "whyCorrect": "Urticarial vasculitis is vasculitis presenting with urticarial lesions rather than palpable purpura. Its lesions are more painful than itchy, last longer than 24 hours, and leave bruising as they heal. Low complement in this setting indicates systemic involvement.",
+        "whyWrongByChoice": {
+          "A": "Acute urticaria needs no labs and is not characterized by low complement or bruising lesions.",
+          "B": "Autoimmune chronic urticaria wheals itch, last under 24 hours, and do not bruise; low complement is not its marker.",
+          "C": "Physical urticaria is triggered by a stimulus and produces transient wheals, not bruising, painful, multi-day lesions.",
+          "E": "Pemphigoid is a blistering disease; low complement is not what the lecture links to it."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "urticarial vasculitis",
+        "complement",
+        "differential"
+      ],
+      "topicId": "urticaria-and-pruritus",
+      "topicName": "Urticaria and Pruritus",
+      "tier": "core"
+    },
+    {
+      "id": "mk49-007",
+      "stem": "A 35-year-old long-haul truck driver has acute urticaria after a viral illness. He must stay alert at work and wants a medication that controls his hives with the least sedation and fewest anticholinergic effects. Which of the following is the most appropriate first-line drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chlorpheniramine"
+        },
+        {
+          "label": "B",
+          "text": "Diphenhydramine"
+        },
+        {
+          "label": "C",
+          "text": "Famotidine"
+        },
+        {
+          "label": "D",
+          "text": "Loratadine"
+        },
+        {
+          "label": "E",
+          "text": "Prednisone"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Second-generation H1 blockers (loratadine, cetirizine) are first-line for urticaria because they are less sedating and less anticholinergic.",
+        "whyCorrect": "First-line treatment of urticaria is an oral H1 antihistamine. Second-generation agents such as loratadine and cetirizine are preferred over first-generation agents such as diphenhydramine and chlorpheniramine because they cause less sedation and fewer anticholinergic adverse effects.",
+        "whyWrongByChoice": {
+          "A": "Also first-generation, it carries the sedation and anticholinergic effects he wants to avoid.",
+          "B": "A first-generation H1 blocker, it is more sedating and anticholinergic, a poor choice for a driver.",
+          "C": "An H2 blocker is only an adjunct for stubborn cases, not first-line monotherapy.",
+          "E": "Steroids are reserved for a short course in severe cases and do not replace antihistamines."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "treatment",
+        "antihistamines"
+      ],
+      "topicId": "urticaria-and-pruritus",
+      "topicName": "Urticaria and Pruritus",
+      "tier": "core"
+    },
+    {
+      "id": "mk49-008",
+      "stem": "A 38-year-old woman has had recurrent wheals for 9 months. Her symptoms persist despite cetirizine at four times the usual dose plus montelukast and famotidine. Her clinician wants to add a monoclonal antibody that binds IgE and keeps it from reaching its receptor on mast cells and basophils. Which of the following drugs is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Difelikefalin"
+        },
+        {
+          "label": "B",
+          "text": "Dupilumab"
+        },
+        {
+          "label": "C",
+          "text": "Nemolizumab"
+        },
+        {
+          "label": "D",
+          "text": "Omalizumab"
+        },
+        {
+          "label": "E",
+          "text": "Remibrutinib"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Omalizumab binds IgE, preventing it from reaching its receptor on mast cells and basophils, and is used in chronic urticaria.",
+        "whyCorrect": "Chronic urticaria is treated with the same agents as acute urticaria (up-dosed H1 blockers, montelukast, H2 blockers) but not long-term steroids. Omalizumab is a monoclonal antibody that binds IgE, preventing it from reaching its receptor. Dupilumab and remibrutinib are other options.",
+        "whyWrongByChoice": {
+          "A": "Difelikefalin is a kappa opioid agonist for ESRD itch.",
+          "B": "Dupilumab is an option in chronic urticaria, but it blocks IL-4/IL-13 signaling rather than binding IgE.",
+          "C": "Nemolizumab targets IL-31 and is listed for prurigo nodularis and pruritus, not as an anti-IgE antibody.",
+          "E": "Remibrutinib is an oral BTK inhibitor, not a monoclonal antibody against IgE."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "chronic urticaria",
+        "treatment",
+        "omalizumab"
+      ],
+      "topicId": "urticaria-and-pruritus",
+      "topicName": "Urticaria and Pruritus",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk49-009",
+      "stem": "A 57-year-old woman has had 2 years of intense itching over a palm-sized area just medial to her right shoulder blade. There is no rash; she has only mild changes from rubbing. She also has chronic neck and upper back stiffness. Which of the following is the most likely source of her itch?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accumulated bile acids in the skin"
+        },
+        {
+          "label": "B",
+          "text": "Cervical/thoracic spinal nerve irritation"
+        },
+        {
+          "label": "C",
+          "text": "IgE-mediated dermal mast cell release"
+        },
+        {
+          "label": "D",
+          "text": "Lumbosacral spinal nerve irritation"
+        },
+        {
+          "label": "E",
+          "text": "Mu/kappa opioid receptor imbalance"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Localized itch without rash over the scapula (notalgia paresthetica) is neuropathic, arising from cervical/thoracic spine nerve irritation.",
+        "whyCorrect": "Localized pruritus without rash is neuropathic: the itch results from a nerve problem, not a skin problem, usually nerve root irritation or compression in the part of the spine that innervates the region. Itch over the scapula is notalgia paresthetica, whose source is the cervical/thoracic spine.",
+        "whyWrongByChoice": {
+          "A": "Cholestatic itch is generalized, especially palms and soles, not a single patch on the back.",
+          "C": "Mast cell degranulation produces wheals, and she has no rash.",
+          "D": "The lumbosacral spine is the source for scrotal, vulvar and anal pruritus, not scapular itch.",
+          "E": "Opioid receptor imbalance is the leading mechanism for uremic itch in ESRD, a generalized itch."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "localized pruritus",
+        "neuropathic itch",
+        "notalgia paresthetica"
+      ],
+      "topicId": "urticaria-and-pruritus",
+      "topicName": "Urticaria and Pruritus",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk49-010",
+      "stem": "A 54-year-old woman with primary biliary cholangitis has severe itching, worst on her palms and soles, that keeps her awake. She has no primary rash, only excoriations. Alkaline phosphatase is markedly elevated. Which of the following is the first-choice therapy for her itch?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cholestyramine"
+        },
+        {
+          "label": "B",
+          "text": "Difelikefalin"
+        },
+        {
+          "label": "C",
+          "text": "Loratadine"
+        },
+        {
+          "label": "D",
+          "text": "Montelukast"
+        },
+        {
+          "label": "E",
+          "text": "Omalizumab"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cholestyramine, a bile acid-binding resin, is first-choice therapy for cholestatic hepatic pruritus.",
+        "whyCorrect": "Cholestatic liver diseases (primary biliary cholangitis, primary sclerosing cholangitis, intrahepatic cholestasis of pregnancy) commonly cause pruritus, most often on the palms and soles. For cholestatic itch, cholestyramine, a bile acid-binding resin, is first-choice; rifampicin is used off-label because it affects bile acid synthesis. Oral antihistamines are of limited value because this itch is not histamine driven.",
+        "whyWrongByChoice": {
+          "B": "This kappa opioid agonist has shown efficacy in ESRD itch, not as first-choice for cholestatic itch.",
+          "C": "Antihistamines are of limited value in itch from organ disease, which is not histamine driven.",
+          "D": "Montelukast is an adjunct for stubborn urticaria, not therapy for hepatic itch.",
+          "E": "Omalizumab targets IgE in chronic urticaria; it has no role in cholestatic itch."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "generalized pruritus",
+        "hepatic",
+        "cholestasis",
+        "treatment"
+      ],
+      "topicId": "urticaria-and-pruritus",
+      "topicName": "Urticaria and Pruritus",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk49-011",
+      "stem": "A 63-year-old man on hemodialysis for end-stage renal disease has had generalized itch for a year. The mechanism with the most support for his symptom involves altered expression of two endogenous opioid receptor types in opposite directions. Which of the following drugs acts directly on the receptor type that is reduced in this condition, with efficacy in his itch?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Difelikefalin"
+        },
+        {
+          "label": "B",
+          "text": "Gabapentin"
+        },
+        {
+          "label": "C",
+          "text": "Naltrexone"
+        },
+        {
+          "label": "D",
+          "text": "Nemolizumab"
+        },
+        {
+          "label": "E",
+          "text": "Rifampin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "ESRD itch involves upregulated mu and downregulated kappa opioid receptors; the kappa agonist difelikefalin is effective.",
+        "whyCorrect": "Up to 60% of dialysis patients have chronic itch. The best-supported mechanism is an imbalance of the endogenous opioid system: mu-opioid receptors are upregulated and kappa-opioid receptors downregulated. Kappa opioid agonists such as difelikefalin have shown efficacy in ESRD itch.",
+        "whyWrongByChoice": {
+          "B": "Gabapentin dampens nerve signals in localized neuropathic itch; it is not an opioid receptor drug.",
+          "C": "Naltrexone is an opioid antagonist used for pruritus, but it acts at mu receptors (upregulated in ESRD), not kappa.",
+          "D": "Nemolizumab is an IL-31 inhibitor, not an opioid receptor agonist.",
+          "E": "Rifampin is a cytochrome P450 inducer used for hepatic pruritus, not an opioid receptor drug."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "generalized pruritus",
+        "renal",
+        "ESRD",
+        "opioid receptors"
+      ],
+      "topicId": "urticaria-and-pruritus",
+      "topicName": "Urticaria and Pruritus",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk49-012",
+      "stem": "A 62-year-old man reports intense generalized itching that begins within minutes of every shower or bath. His skin shows no wheals or other rash. He has a ruddy complexion, and his hemoglobin is 19.8 g/dL with a hematocrit of 60%. Which of the following is the most likely underlying cause of his itch?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aquagenic urticaria"
+        },
+        {
+          "label": "B",
+          "text": "End-stage renal disease"
+        },
+        {
+          "label": "C",
+          "text": "Hypothyroidism"
+        },
+        {
+          "label": "D",
+          "text": "Polycythemia vera"
+        },
+        {
+          "label": "E",
+          "text": "Primary biliary cholangitis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Aquagenic pruritus (itch on water exposure without rash) is a unique pattern of myeloproliferative neoplasms such as polycythemia vera.",
+        "whyCorrect": "In myeloproliferative diseases such as polycythemia vera and essential thrombocytosis, pruritus occurs in about 70% and can precede the diagnosis. Aquagenic pruritus, itch on exposure to water, is a unique pattern of these neoplasms. An elevated hemoglobin and hematocrit point to polycythemia vera.",
+        "whyWrongByChoice": {
+          "A": "Aquagenic urticaria produces wheals with water exposure; he has itch without any rash.",
+          "B": "Uremic itch is generalized but is not water-triggered and does not raise the hematocrit.",
+          "C": "Thyroid disease can cause generalized itch but not erythrocytosis or water-triggered itch.",
+          "E": "Cholestatic itch favors the palms and soles and is not triggered by water or tied to erythrocytosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "generalized pruritus",
+        "hematologic",
+        "polycythemia vera",
+        "aquagenic"
+      ],
+      "topicId": "urticaria-and-pruritus",
+      "topicName": "Urticaria and Pruritus",
+      "tier": "core",
+      "hy": true
+    }
+  ]
+}

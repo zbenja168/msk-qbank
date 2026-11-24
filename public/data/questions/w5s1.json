@@ -1,0 +1,2888 @@
+{
+  "categoryId": "w5s1",
+  "categoryName": "Session 1",
+  "questions": [
+    {
+      "id": "mk36-001",
+      "stem": "A 30-year-old man has a genetic defect that prevents keratinocytes from secreting lipid-filled lamellar bodies, and his skin shows markedly increased water loss. Light microscopy of normal skin would show the cells that secrete these organelles in which epidermal layer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stratum basale"
+        },
+        {
+          "label": "B",
+          "text": "Stratum corneum"
+        },
+        {
+          "label": "C",
+          "text": "Stratum granulosum"
+        },
+        {
+          "label": "D",
+          "text": "Stratum lucidum"
+        },
+        {
+          "label": "E",
+          "text": "Stratum spinosum"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Lamellar bodies, which build the hydrophobic water barrier, are secreted by cells of the stratum granulosum.",
+        "whyCorrect": "Cells of the stratum granulosum contain keratohyalin granules and secrete lamellar bodies. The lamellar bodies are made of lipids and proteins that form the water-tight hydrophobic barrier of the skin, so failure to secrete them increases water loss.",
+        "whyWrongByChoice": {
+          "A": "The basal layer is a single layer of dividing keratinocyte stem cells anchored by hemidesmosomes; it does not secrete lamellar bodies.",
+          "B": "The corneum is made of dead, anucleate corneocytes in a lipid matrix; it receives the barrier lipids but does not secrete lamellar bodies.",
+          "D": "The lucidum is 3-5 layers of dead keratinocytes containing eleiden, found only in thick skin.",
+          "E": "Spinosum cells are beginning keratinization and are joined by desmosomes, but the lamellar-body-secreting cells are in the granular layer above them."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "epidermis",
+        "lamellar bodies",
+        "water barrier"
+      ],
+      "topicId": "histology-of-the-skin",
+      "topicName": "Histology of the Skin",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk36-002",
+      "stem": "A 13-year-old boy has a painful plantar wart. His physician compares a biopsy of the sole with one from the back of the hand. Which feature is present in the sole sample but absent from the hand sample?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A single basal layer of stem cells"
+        },
+        {
+          "label": "B",
+          "text": "A stratum lucidum layer"
+        },
+        {
+          "label": "C",
+          "text": "Apocrine sweat glands"
+        },
+        {
+          "label": "D",
+          "text": "Hair follicles with sebaceous glands"
+        },
+        {
+          "label": "E",
+          "text": "Melanocytes among basal cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Only thick skin (palms and soles) has a stratum lucidum.",
+        "whyCorrect": "Thick skin of the palms and soles contains all five epidermal layers, whereas thin skin lacks the stratum lucidum. Thick skin is modified to withstand high shear and frictional stress.",
+        "whyWrongByChoice": {
+          "A": "Both thick and thin skin have a stratum basale of keratinocyte stem cells.",
+          "C": "Thick skin lacks apocrine sweat glands; they are found in areas such as the axillae and genital region.",
+          "D": "Thick skin lacks hair and sebaceous glands, so these would be in the hand-dorsum sample, not the sole.",
+          "E": "Melanocytes sit in the stratum basale of both thick and thin skin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "thick skin",
+        "thin skin",
+        "epidermis",
+        "case connection"
+      ],
+      "topicId": "histology-of-the-skin",
+      "topicName": "Histology of the Skin",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk36-003",
+      "stem": "Electron microscopy of an epidermal biopsy shows a cell with tennis-racket-shaped cytoplasmic organelles. The cell stains with S100 and expresses CD207 (langerin). What is the main function of this cell?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Divides to replace keratinocytes lost at the surface"
+        },
+        {
+          "label": "B",
+          "text": "Forms a fine-touch receptor with a nerve ending"
+        },
+        {
+          "label": "C",
+          "text": "Presents antigen as the epidermis's main APC"
+        },
+        {
+          "label": "D",
+          "text": "Releases histamine from its preformed granules"
+        },
+        {
+          "label": "E",
+          "text": "Transfers melanosomes to adjacent keratinocytes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Langerhans cells (Birbeck granules, S100, CD207) are the primary antigen-presenting cells of the skin.",
+        "whyCorrect": "These are Langerhans cells, identified by Birbeck granules (tennis-racket shape, seen only on EM), S100 staining and CD207/langerin. They are the only dendritic cells of the epidermis and the primary antigen-presenting cells of the skin.",
+        "whyWrongByChoice": {
+          "A": "Keratinocyte stem cells of the stratum basale divide and migrate upward.",
+          "B": "Merkel cells combine with afferent nerve endings to form Merkel discs.",
+          "D": "Mast cells, located mainly near dermal vessels, release granule mediators such as histamine.",
+          "E": "Melanocytes make melanin and transfer melanosomes to nearby keratinocytes."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Langerhans cell",
+        "Birbeck granules",
+        "antigen presentation"
+      ],
+      "topicId": "histology-of-the-skin",
+      "topicName": "Histology of the Skin",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk36-004",
+      "stem": "After activation in a draining lymph node, memory T cells return to the skin by binding endothelium through their cutaneous lymphocyte-associated antigen (CLA). To which ligand does this homing receptor bind?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "E-selectin"
+        },
+        {
+          "label": "B",
+          "text": "L-selectin"
+        },
+        {
+          "label": "C",
+          "text": "MAdCAM-1"
+        },
+        {
+          "label": "D",
+          "text": "P-selectin"
+        },
+        {
+          "label": "E",
+          "text": "VCAM-1"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "CLA on skin-homing memory T cells binds E-selectin.",
+        "whyCorrect": "Skin-resident T cells home to the skin with the receptor CLA (cutaneous lymphocyte-associated antigen), which binds E-selectin. This skin-specific homing is one of the observations behind the concept of skin-associated lymphoid tissue (SALT).",
+        "whyWrongByChoice": {
+          "B": "L-selectin is a lymphocyte molecule, not the ligand for CLA described for skin homing.",
+          "C": "MAdCAM-1 is not the skin-homing ligand; CLA binds E-selectin.",
+          "D": "The lecture identifies E-selectin, not P-selectin, as the ligand of CLA.",
+          "E": "VCAM-1 is not the ligand described for CLA-mediated skin homing."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "SALT",
+        "T-cell homing",
+        "CLA",
+        "E-selectin"
+      ],
+      "topicId": "histology-of-the-skin",
+      "topicName": "Histology of the Skin",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk36-005",
+      "stem": "In the deepest layer of the epidermis, a single row of keratinocyte stem cells must stay anchored to the basal lamina while they divide. Which structure in their basal cell membranes provides this attachment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adherens junctions"
+        },
+        {
+          "label": "B",
+          "text": "Desmosomes"
+        },
+        {
+          "label": "C",
+          "text": "Gap junctions"
+        },
+        {
+          "label": "D",
+          "text": "Hemidesmosomes"
+        },
+        {
+          "label": "E",
+          "text": "Tonofibrils"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Hemidesmosomes anchor stratum basale cells to the basal lamina; desmosomes join cells to each other.",
+        "whyCorrect": "In the stratum basale, hemidesmosomes in the basal cell membranes attach the cells to the basal lamina, while desmosomes join cells on their lateral and upper surfaces.",
+        "whyWrongByChoice": {
+          "A": "The lecture names hemidesmosomes, not adherens junctions, as the basal-lamina attachment of basal cells.",
+          "B": "Desmosomes connect basal cells to each other on their lateral and upper surfaces, not to the basal lamina.",
+          "C": "Gap junctions link the cytoplasm of neighboring cells; they are not the basal-lamina anchor described for basal cells.",
+          "E": "Tonofibrils are keratin-filament bundles that converge on desmosomes in the stratum spinosum."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "stratum basale",
+        "hemidesmosomes",
+        "desmosomes"
+      ],
+      "topicId": "histology-of-the-skin",
+      "topicName": "Histology of the Skin",
+      "tier": "core"
+    },
+    {
+      "id": "mk36-006",
+      "stem": "A 58-year-old man with a peripheral neuropathy can still feel light stroking and skin stretch, but he cannot detect a high-frequency vibrating stimulus or deep pressure. Loss of which receptor best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Langerhans cell"
+        },
+        {
+          "label": "B",
+          "text": "Meissner corpuscle"
+        },
+        {
+          "label": "C",
+          "text": "Merkel disc"
+        },
+        {
+          "label": "D",
+          "text": "Pacinian corpuscle"
+        },
+        {
+          "label": "E",
+          "text": "Ruffini ending"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Pacinian corpuscles: fast adapting, deep pressure and high-frequency vibration.",
+        "whyCorrect": "Pacinian corpuscles are fast-adapting receptors in the reticular dermis of both thick and thin skin that sense deep pressure and high-frequency vibration.",
+        "whyWrongByChoice": {
+          "A": "Langerhans cells are antigen-presenting cells, not sensory receptors.",
+          "B": "Meissner corpuscles are fast adapting but sense light touch and low-frequency vibration.",
+          "C": "Merkel discs are slowly adapting receptors for light touch and pressure.",
+          "E": "Ruffini endings are slowly adapting receptors for skin stretch and sustained pressure, which he can still feel."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "sensory receptors",
+        "Pacinian corpuscle",
+        "reticular dermis"
+      ],
+      "topicId": "histology-of-the-skin",
+      "topicName": "Histology of the Skin",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk36-007",
+      "stem": "A shave biopsy of a fingertip removes the epidermis and only the loose connective tissue that forms finger-like projections interdigitating with its underside. Which structure is most likely included in the specimen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Eccrine secretory coil"
+        },
+        {
+          "label": "B",
+          "text": "Meissner corpuscle"
+        },
+        {
+          "label": "C",
+          "text": "Pacinian corpuscle"
+        },
+        {
+          "label": "D",
+          "text": "Ruffini ending"
+        },
+        {
+          "label": "E",
+          "text": "Sebaceous gland acinus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Meissner corpuscles sit in the dermal papillae of the papillary dermis.",
+        "whyCorrect": "The removed connective tissue is the papillary dermis. Its papillae contain capillaries and Meissner corpuscles, which are abundant in thick skin, particularly the fingertips.",
+        "whyWrongByChoice": {
+          "A": "The eccrine secretory tubule is deep in the dermis or in the hypodermis.",
+          "C": "Pacinian corpuscles lie in the deeper reticular dermis.",
+          "D": "Ruffini endings are located in the reticular dermis.",
+          "E": "Sebaceous glands lie in the reticular dermis, and fingertip thick skin lacks them anyway."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "papillary dermis",
+        "Meissner corpuscle",
+        "dermis layers"
+      ],
+      "topicId": "histology-of-the-skin",
+      "topicName": "Histology of the Skin",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk36-008",
+      "stem": "The gland that empties into a hair follicle and makes the oily, waxy material that lubricates skin and hair has an acinar structure. How does it release its product?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decapitation secretion"
+        },
+        {
+          "label": "B",
+          "text": "Endocrine secretion"
+        },
+        {
+          "label": "C",
+          "text": "Holocrine secretion"
+        },
+        {
+          "label": "D",
+          "text": "Merocrine secretion"
+        },
+        {
+          "label": "E",
+          "text": "Paracrine secretion"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Sebaceous glands use holocrine (whole-cell) secretion.",
+        "whyCorrect": "Sebaceous glands release sebum by holocrine secretion, in which the whole cell is released ('think whole cell'). They have berry-like acini around a central duct that opens at the hair shaft.",
+        "whyWrongByChoice": {
+          "A": "Decapitation secretion, pinching off the apical cell portion, is used by apocrine sweat glands.",
+          "B": "Sebaceous glands secrete onto the hair follicle through a duct, not into the blood.",
+          "D": "Merocrine secretion is used by eccrine sweat glands.",
+          "E": "Paracrine signaling acts on nearby cells; it does not describe sebum release."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "sebaceous gland",
+        "holocrine secretion",
+        "pilosebaceous unit"
+      ],
+      "topicId": "histology-of-the-skin",
+      "topicName": "Histology of the Skin",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk36-009",
+      "stem": "A 14-year-old boy notices new underarm odor since puberty began. The glands responsible become active at puberty and produce an oily secretion that bacteria break down. Which additional feature characterizes these glands?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A coiled duct opens at a surface sweat pore"
+        },
+        {
+          "label": "B",
+          "text": "A straight duct empties into a hair follicle"
+        },
+        {
+          "label": "C",
+          "text": "They are abundant in palm and sole skin"
+        },
+        {
+          "label": "D",
+          "text": "They cover nearly all of the skin surface"
+        },
+        {
+          "label": "E",
+          "text": "They release product by merocrine secretion"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Apocrine glands: axilla/genitals, active at puberty, straight duct into a hair follicle.",
+        "whyCorrect": "Apocrine sweat glands, in the axillae and genital area, become active at puberty. Their oily, initially odorless secretion is broken down by bacteria to cause odor. A straight excretory duct carries it into a hair follicle, and the cells use decapitation secretion.",
+        "whyWrongByChoice": {
+          "A": "This is the eccrine sweat gland duct, which coils and opens at a sweat pore.",
+          "C": "Thick skin of the palms and soles lacks apocrine sweat glands.",
+          "D": "Eccrine glands cover nearly all skin; apocrine glands are limited to sites such as the axillae.",
+          "E": "Merocrine secretion is used by eccrine glands; apocrine glands use decapitation secretion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "apocrine sweat gland",
+        "puberty",
+        "body odor"
+      ],
+      "topicId": "histology-of-the-skin",
+      "topicName": "Histology of the Skin",
+      "tier": "core"
+    },
+    {
+      "id": "mk36-010",
+      "stem": "A 22-year-old woman has had excessive sweating of both palms and underarms since adolescence. Her mother had the same problem. Workup shows no underlying disease. How is her condition classified?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Focal anhidrosis"
+        },
+        {
+          "label": "B",
+          "text": "Primary focal hyperhidrosis"
+        },
+        {
+          "label": "C",
+          "text": "Primary generalized hyperhidrosis"
+        },
+        {
+          "label": "D",
+          "text": "Secondary focal hyperhidrosis"
+        },
+        {
+          "label": "E",
+          "text": "Secondary generalized hyperhidrosis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Localized sweating without an underlying cause and with a family history is primary focal hyperhidrosis.",
+        "whyCorrect": "Hyperhidrosis is classified as generalized or focal and as primary (no underlying cause) or secondary. Primary focal hyperhidrosis, the most common type, involves the underarms, palms, soles or head, and genetic predisposition is the main risk factor.",
+        "whyWrongByChoice": {
+          "A": "Anhidrosis is inadequate sweating, the opposite of her problem.",
+          "C": "Her sweating is limited to a few locations, so it is focal rather than generalized.",
+          "D": "Secondary hyperhidrosis has an underlying cause, and none was found.",
+          "E": "Her sweating is neither generalized nor due to an underlying cause."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "hyperhidrosis",
+        "classification"
+      ],
+      "topicId": "histology-of-the-skin",
+      "topicName": "Histology of the Skin",
+      "tier": "core"
+    },
+    {
+      "id": "mk36-011",
+      "stem": "A 74-year-old man on immunosuppression after a kidney transplant has a painless, firm, red-violet nodule on his cheek that has grown rapidly over 2 months. Biopsy shows an aggressive neuroendocrine skin cancer. Besides UV damage, which agent is present in most such tumors in the U.S. and Europe?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epstein-Barr virus"
+        },
+        {
+          "label": "B",
+          "text": "Human herpesvirus 8"
+        },
+        {
+          "label": "C",
+          "text": "Human papillomavirus"
+        },
+        {
+          "label": "D",
+          "text": "Human T-lymphotropic virus 1"
+        },
+        {
+          "label": "E",
+          "text": "Merkel cell polyomavirus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Merkel cell carcinoma is driven by UV damage and Merkel cell polyomavirus.",
+        "whyCorrect": "This is Merkel cell carcinoma (AEIOU: asymptomatic, expanding rapidly, immunosuppressed, older than 50, UV-exposed site). Its two main causes are UV damage and Merkel cell polyomavirus, which is present in most cases in the U.S. and Europe.",
+        "whyWrongByChoice": {
+          "A": "EBV is not the virus the lecture links to this tumor.",
+          "B": "HHV-8 is not the virus present in most of these tumors.",
+          "C": "HPV causes warts; it is not the virus linked to this neuroendocrine skin cancer.",
+          "D": "HTLV-1 is not the driver of this neuroendocrine skin cancer."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Merkel cell carcinoma",
+        "polyomavirus",
+        "AEIOU"
+      ],
+      "topicId": "histology-of-the-skin",
+      "topicName": "Histology of the Skin",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk36-012",
+      "stem": "Bacteria enter a small abrasion. The epidermal cells that are generally the first to contact them sense them through Toll-like and NOD-like receptors. How do these cells most directly respond?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Make antibodies to the bacteria"
+        },
+        {
+          "label": "B",
+          "text": "Migrate as naive T cells to the node"
+        },
+        {
+          "label": "C",
+          "text": "Release histamine and leukotrienes"
+        },
+        {
+          "label": "D",
+          "text": "Secrete IL-1β, IL-6 and TNF-α"
+        },
+        {
+          "label": "E",
+          "text": "Transfer melanosomes to the wound"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Keratinocytes are cytokine-producing sentinels that secrete IL-1β, IL-6 and TNF-α after PRR signaling.",
+        "whyCorrect": "Keratinocytes are usually the first cells to sense pathogens. Through PRRs such as TLRs and NOD-like receptors, they induce inflammation by secreting IL-1β, IL-6 and TNF-α (and anti-inflammatory IL-10 and TGF-β, depending on the infection). They are immunologically active, cytokine-producing cells.",
+        "whyWrongByChoice": {
+          "A": "Keratinocytes do not make antibodies, and B cells are essentially absent from the skin.",
+          "B": "Keratinocytes are not T cells; skin T cells are memory cells that home back via CLA.",
+          "C": "Preformed granule mediators are released by mast cells, not keratinocytes.",
+          "E": "Melanosome transfer is a melanocyte function related to pigmentation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "keratinocytes",
+        "pattern-recognition receptors",
+        "cytokines",
+        "innate immunity"
+      ],
+      "topicId": "histology-of-the-skin",
+      "topicName": "Histology of the Skin",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk37-001",
+      "stem": "A medical student documents a new rash in a 34-year-old woman as: \"4 mm, erythematous, scaly papules on the extensor elbows.\" Her attending says the note is missing one of the six standard categories of descriptive terms. Which category was omitted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Arrangement (configuration)"
+        },
+        {
+          "label": "B",
+          "text": "Associated symptoms such as itch"
+        },
+        {
+          "label": "C",
+          "text": "Duration of the eruption"
+        },
+        {
+          "label": "D",
+          "text": "Palpable warmth of the lesions"
+        },
+        {
+          "label": "E",
+          "text": "Specialized descriptive terms"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The six categories are size, color, primary lesions, secondary lesions, arrangement (configuration), and distribution.",
+        "whyCorrect": "The note gives size (4 mm), color (erythematous), a secondary change (scaly), the primary lesion (papules), and distribution (extensor elbows). It never says how the lesions relate to one another (for example discrete, confluent, linear, or grouped), so arrangement, also called configuration, is missing.",
+        "whyWrongByChoice": {
+          "B": "Symptoms like pruritus are history, not one of the six lesion descriptors.",
+          "C": "Duration belongs in the history; it is not one of the six descriptive categories of a lesion.",
+          "D": "Temperature is not one of the six descriptive categories.",
+          "E": "Specialized terms are optional add-ons used only for certain unique lesions, not one of the six core categories."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "six categories",
+        "description"
+      ],
+      "topicId": "description-of-skin-lesions",
+      "topicName": "Description of Skin Lesions",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk37-002",
+      "stem": "A 22-year-old man has a cluster of small fluid-filled lesions on his lower lip that have dried over. Which of the following written descriptions lists the descriptive terms in their traditional order?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "3 mm erythematous crusted grouped vesicles on the lower lip"
+        },
+        {
+          "label": "B",
+          "text": "3 mm erythematous grouped crusted vesicles on the lower lip"
+        },
+        {
+          "label": "C",
+          "text": "3 mm erythematous vesicles, grouped, crusted, on the lower lip"
+        },
+        {
+          "label": "D",
+          "text": "Erythematous 3 mm crusted grouped vesicles on the lower lip"
+        },
+        {
+          "label": "E",
+          "text": "Grouped 3 mm erythematous crusted vesicles on the lower lip"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Traditional order: size, color, arrangement, secondary changes, primary changes, distribution.",
+        "whyCorrect": "The six components are written as size (3 mm), color (erythematous), arrangement (grouped), secondary changes (crusted), primary changes (vesicles), then distribution (on the lower lip). Note that the primary lesion is the noun near the end, with the secondary change placed just before it.",
+        "whyWrongByChoice": {
+          "A": "The secondary change (crusted) precedes the arrangement (grouped); arrangement comes first.",
+          "C": "The arrangement and secondary change are placed after the primary lesion; both should precede it.",
+          "D": "Color is placed before size and the secondary change before the arrangement; the order starts with size, then color.",
+          "E": "Arrangement is placed first; the traditional order begins with size and color."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "order of terms",
+        "description"
+      ],
+      "topicId": "description-of-skin-lesions",
+      "topicName": "Description of Skin Lesions",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk37-003",
+      "stem": "A 40-year-old man has a well-defined red, inflamed area on his cheek. When a glass slide is pressed firmly on it, the redness temporarily disappears. Which of the following best explains why this color fades with pressure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Darkening of skin beyond its baseline tone"
+        },
+        {
+          "label": "B",
+          "text": "Dilated capillaries carrying increased blood flow"
+        },
+        {
+          "label": "C",
+          "text": "Loss of melanin from the overlying epidermis"
+        },
+        {
+          "label": "D",
+          "text": "Red cells that have leaked out of the vessels"
+        },
+        {
+          "label": "E",
+          "text": "Vasospasm that stops blood flow to the area"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Erythema is redness from hyperemia (capillary dilation), and it blanches because pressure temporarily disrupts blood flow.",
+        "whyCorrect": "Erythema is reddening caused by hyperemia related to dilation of capillaries, usually from inflammation. Because the blood is still inside the vessels, pressure temporarily disrupts the flow and the red color fades. This is one of the most commonly used color terms in dermatology.",
+        "whyWrongByChoice": {
+          "A": "Hyperpigmentation is a pigment change, not a blood-flow change, and does not fade with pressure.",
+          "C": "Loss of pigment is a pigmentary change (hypo- or depigmentation) and is not altered by pressure.",
+          "D": "Extravasated red cells (purpura) do not blanch, because the blood is no longer inside vessels that pressure can empty.",
+          "E": "Loss of blood flow produces a blanched (pale) area, as in Raynaud phenomenon, not redness."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "color",
+        "erythema",
+        "blanching"
+      ],
+      "topicId": "description-of-skin-lesions",
+      "topicName": "Description of Skin Lesions",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk37-004",
+      "stem": "A 58-year-old woman has multiple dark red-purple lesions, 5-9 mm across, on her lower legs. They do not fade with pressure, they are raised and can be felt on palpation, and their borders are round rather than branched. Which of the following processes do these features most suggest?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A coagulation factor problem"
+        },
+        {
+          "label": "B",
+          "text": "A pigmentary system disorder"
+        },
+        {
+          "label": "C",
+          "text": "A vasculitis process"
+        },
+        {
+          "label": "D",
+          "text": "A vaso-occlusive process"
+        },
+        {
+          "label": "E",
+          "text": "Capillary dilation from inflammation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Palpable, round purpura suggest vasculitis; flat, retiform purpura suggest a vaso-occlusive process.",
+        "whyCorrect": "Purpuric lesions are dark red to purple from hemorrhage in the skin and do not blanch because the red cells have extravasated. Clinically they are classified as palpable or flat and round or retiform. Palpable, round purpura typically suggest a vasculitis process.",
+        "whyWrongByChoice": {
+          "A": "A coagulation factor problem classically gives ecchymoses (hemorrhagic lesions larger than 1 cm).",
+          "B": "Pigmentary disorders change melanin, not blood in the skin; these lesions are hemorrhagic.",
+          "D": "Vaso-occlusive processes classically produce flat, retiform (branched or stellate) purpura.",
+          "E": "Capillary dilation produces erythema, which blanches with pressure."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "color",
+        "purpura",
+        "clinical reasoning"
+      ],
+      "topicId": "description-of-skin-lesions",
+      "topicName": "Description of Skin Lesions",
+      "tier": "core"
+    },
+    {
+      "id": "mk37-005",
+      "stem": "A 25-year-old man has several flat, non-palpable, lighter-than-normal areas measuring 2-4 cm on his upper back, each with a fine surface scale. Which term best describes the primary lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Macules"
+        },
+        {
+          "label": "B",
+          "text": "Papules"
+        },
+        {
+          "label": "C",
+          "text": "Patches"
+        },
+        {
+          "label": "D",
+          "text": "Plaques"
+        },
+        {
+          "label": "E",
+          "text": "Wheals"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A patch is a flat, non-palpable lesion larger than 1 cm; a macule is the same but smaller than 1 cm.",
+        "whyCorrect": "Flat, non-palpable lesions over 1 cm are patches. This picture (hypopigmented areas with fine scale) is the lecture's tinea versicolor example. The fine scale is a secondary change; the primary lesion is still the patch.",
+        "whyWrongByChoice": {
+          "A": "Macules are also flat and non-palpable but measure less than 1 cm.",
+          "B": "Papules are elevated, dome-shaped, and smaller than 1 cm.",
+          "D": "Plaques are elevated or indurated; these lesions are flat and cannot be felt.",
+          "E": "Wheals are elevated, edematous, plateau-shaped, and non-scaly."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "primary lesions",
+        "patch",
+        "macule"
+      ],
+      "topicId": "description-of-skin-lesions",
+      "topicName": "Description of Skin Lesions",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk37-006",
+      "stem": "An 81-year-old man has multiple tense, intact, dome-shaped lesions on his thighs, each 2-4 cm across and filled with clear fluid. Which term best describes these primary lesions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bullae"
+        },
+        {
+          "label": "B",
+          "text": "Nodules"
+        },
+        {
+          "label": "C",
+          "text": "Plaques"
+        },
+        {
+          "label": "D",
+          "text": "Pustules"
+        },
+        {
+          "label": "E",
+          "text": "Vesicles"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A bulla is an elevated, dome-shaped, fluid-filled lesion larger than 1 cm.",
+        "whyCorrect": "Fluid-filled dome-shaped lesions are vesicles when under 1 cm and bullae when over 1 cm. These clear, tense, 2-4 cm lesions are bullae, as in the lecture's bullous pemphigoid image of intact, tense bullae.",
+        "whyWrongByChoice": {
+          "B": "Nodules are solid throughout, not fluid-filled.",
+          "C": "Plaques are elevated or indurated lesions without a fluid-filled cavity.",
+          "D": "Pustules contain pus, not clear fluid.",
+          "E": "Vesicles are fluid-filled but measure less than 1 cm."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "primary lesions",
+        "bulla",
+        "vesicle"
+      ],
+      "topicId": "description-of-skin-lesions",
+      "topicName": "Description of Skin Lesions",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk37-007",
+      "stem": "A 30-year-old woman has raised, pink, edematous, plateau-topped lesions scattered on her trunk. They range from 5 mm to over 6 cm, have no surface scale, and some are surrounded by a flare of redness. Which term best describes these lesions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nodules"
+        },
+        {
+          "label": "B",
+          "text": "Papules"
+        },
+        {
+          "label": "C",
+          "text": "Patches"
+        },
+        {
+          "label": "D",
+          "text": "Plaques"
+        },
+        {
+          "label": "E",
+          "text": "Wheals"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A wheal is an elevated, plateau-shaped, edematous, erythematous, non-scaly lesion of any size (urticaria).",
+        "whyCorrect": "Wheals are elevated, plateau-shaped lesions of any size that are edematous, erythematous, and non-scaly. The lack of scale is a key to the diagnosis of hives, and surrounding areas of erythema (flares) may be present.",
+        "whyWrongByChoice": {
+          "A": "Nodules are solid, dome-shaped lesions over 1 cm, not edematous plateaus.",
+          "B": "Papules are dome-shaped and less than 1 cm; these lesions are plateau-shaped and reach several centimeters.",
+          "C": "Patches are flat and non-palpable; these lesions are raised.",
+          "D": "Plaques are elevated or indurated and more than 1 cm; these lesions span sizes below 1 cm and are edematous and non-scaly."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "primary lesions",
+        "wheal",
+        "urticaria"
+      ],
+      "topicId": "description-of-skin-lesions",
+      "topicName": "Description of Skin Lesions",
+      "tier": "core"
+    },
+    {
+      "id": "mk37-008",
+      "stem": "A 19-year-old man has a rash he has been scratching for a week. His exam note lists several findings. Which of the following findings is a primary lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Crusts"
+        },
+        {
+          "label": "B",
+          "text": "Erosions"
+        },
+        {
+          "label": "C",
+          "text": "Excoriations"
+        },
+        {
+          "label": "D",
+          "text": "Lichenification"
+        },
+        {
+          "label": "E",
+          "text": "Pustules"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Primary lesions are the initial, elemental form of a lesion before scratching or evolution; pustules are primary.",
+        "whyCorrect": "Primary lesions are the initial elemental forms (macule, patch, plaque, wheal, papule, nodule, cyst, vesicle, bulla, pustule). Secondary lesions reflect evolution of a primary lesion or external forces such as scratching (crust, scale, erosion, ulcer, eschar, slough, fissure, excoriation, scar, lichenification).",
+        "whyWrongByChoice": {
+          "A": "Crusts are dried serum, blood, or pus that follow a vesicle, bulla, or pustule; they are secondary.",
+          "B": "Erosions are partial loss of epidermis, a secondary change.",
+          "C": "Excoriations are erosions induced by scratching, a secondary change caused by external force.",
+          "D": "Lichenification results from chronic rubbing or scratching, a secondary change."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "primary vs secondary",
+        "classification"
+      ],
+      "topicId": "description-of-skin-lesions",
+      "topicName": "Description of Skin Lesions",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk37-009",
+      "stem": "A 47-year-old woman has a lesion on her shin with a violaceous border and a purulent base. Examination shows full-thickness loss of the epidermis extending into part of the dermis. Which term describes this lesion, which is expected to heal with scarring?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erosion"
+        },
+        {
+          "label": "B",
+          "text": "Excoriation"
+        },
+        {
+          "label": "C",
+          "text": "Fissure"
+        },
+        {
+          "label": "D",
+          "text": "Slough"
+        },
+        {
+          "label": "E",
+          "text": "Ulcer"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "An ulcer is full-thickness loss of epidermis plus a portion of dermis and heals with scarring; an erosion is partial epidermal loss and heals without a scar.",
+        "whyCorrect": "Depth separates these secondary lesions. An ulcer removes the full thickness of the epidermis and part of the dermis, so it heals with scarring, as in the lecture's pyoderma gangrenosum image (violaceous border, purulent dermal base). Scars form when new connective tissue is generated after injury to the dermis.",
+        "whyWrongByChoice": {
+          "A": "An erosion is partial loss of epidermis and heals without scarring.",
+          "B": "An excoriation is an erosion induced by scratching; it does not extend into the dermis.",
+          "C": "A fissure is a vertical crack with sharply defined walls, not a broad area of tissue loss.",
+          "D": "Slough is moist yellow-white dead tissue in a wound bed, not the tissue defect itself."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "secondary lesions",
+        "ulcer",
+        "erosion"
+      ],
+      "topicId": "description-of-skin-lesions",
+      "topicName": "Description of Skin Lesions",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk37-010",
+      "stem": "A resident's note on a patient with several rashes uses the following terms. Which of these terms describes where on the body the lesions are found rather than how they are configured?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Annular"
+        },
+        {
+          "label": "B",
+          "text": "Grouped"
+        },
+        {
+          "label": "C",
+          "text": "Intertriginous"
+        },
+        {
+          "label": "D",
+          "text": "Serpiginous"
+        },
+        {
+          "label": "E",
+          "text": "Targetoid"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Arrangement is how lesions are configured relative to one another; distribution is where on the body they occur (intertriginous = body folds).",
+        "whyCorrect": "Intertriginous, also called inverse, means involving the folds of the body, so it is a distribution term. Annular, grouped, serpiginous, and targetoid all describe the arrangement or configuration of lesions on the skin surface.",
+        "whyWrongByChoice": {
+          "A": "Annular (ring-shaped with central clearing) is an arrangement term.",
+          "B": "Grouped (clustered together) is an arrangement term.",
+          "D": "Serpiginous (snake-like) is an arrangement term.",
+          "E": "Targetoid (bullseye with alternating colors) is an arrangement term."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "arrangement vs distribution",
+        "distribution"
+      ],
+      "topicId": "description-of-skin-lesions",
+      "topicName": "Description of Skin Lesions",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk37-011",
+      "stem": "A 16-year-old girl has numerous non-blanching, pinpoint red-purple hemorrhagic spots, each 1-3 mm, scattered over her lower legs. These lesions are classically suggestive of which kind of underlying problem?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A blood vessel problem"
+        },
+        {
+          "label": "B",
+          "text": "A capillary dilation problem"
+        },
+        {
+          "label": "C",
+          "text": "A coagulation factor problem"
+        },
+        {
+          "label": "D",
+          "text": "A pigment production problem"
+        },
+        {
+          "label": "E",
+          "text": "A platelet problem"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Petechiae (<5 mm), purpura (5-9 mm), and ecchymoses (>1 cm) classically suggest a platelet, blood vessel, and coagulation factor problem, respectively.",
+        "whyCorrect": "Hemorrhagic skin lesions are named by size: petechiae are less than 5 mm, purpura 5-9 mm, and ecchymoses greater than 1 cm. These 1-3 mm spots are petechiae, which classically suggest a platelet problem.",
+        "whyWrongByChoice": {
+          "A": "Purpura (5-9 mm) are classically suggestive of a blood vessel problem.",
+          "B": "Capillary dilation causes erythema, which blanches; these lesions do not.",
+          "C": "Ecchymoses (greater than 1 cm) are classically suggestive of a coagulation factor problem.",
+          "D": "Pigment changes do not produce hemorrhagic, non-blanching spots."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "specialized terms",
+        "petechiae",
+        "hemorrhagic lesions"
+      ],
+      "topicId": "description-of-skin-lesions",
+      "topicName": "Description of Skin Lesions",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk37-012",
+      "stem": "A 27-year-old wrestler has a tight cluster of small fluid-filled lesions on his neck. The lesions sit close together in a bunch and have not merged. Which arrangement term best describes them?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Annular"
+        },
+        {
+          "label": "B",
+          "text": "Dermatomal"
+        },
+        {
+          "label": "C",
+          "text": "Discrete"
+        },
+        {
+          "label": "D",
+          "text": "Grouped"
+        },
+        {
+          "label": "E",
+          "text": "Reticular"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Grouped means lesions cluster together; grouping of vesicles is the key to diagnosing herpes.",
+        "whyCorrect": "Grouped describes the tendency of lesions to cluster together, as in herpes or zoster (the lecture's example is herpes gladiatorum). The grouping of the vesicles is the key to the diagnosis of herpes; if the lesions are discrete or separated from one another, it is not herpes.",
+        "whyWrongByChoice": {
+          "A": "Annular lesions are ring-shaped with central clearing.",
+          "B": "Dermatomal lesions follow the skin territory of a single spinal nerve root.",
+          "C": "Discrete means each lesion is separate from the others; these lesions are clustered.",
+          "E": "Reticular means a net-like arrangement."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "arrangement",
+        "grouped",
+        "herpes"
+      ],
+      "topicId": "description-of-skin-lesions",
+      "topicName": "Description of Skin Lesions",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk38-001",
+      "stem": "A 19-year-old woman with fair skin spends 6 hours at an outdoor music festival without sun protection. That evening, her shoulders and face are bright red and painful, and over the next week the affected skin peels. Which of the following components of sunlight is chiefly responsible for the toxic injury to her epidermal keratinocytes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Radiation of 100-200 nm"
+        },
+        {
+          "label": "B",
+          "text": "Radiation of 280-315 nm"
+        },
+        {
+          "label": "C",
+          "text": "Radiation of 315-400 nm"
+        },
+        {
+          "label": "D",
+          "text": "Radiation of 400-700 nm"
+        },
+        {
+          "label": "E",
+          "text": "Radiation of 700-1000 nm"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "UVB (280-315 nm) is the spectrum that injures epidermal keratinocytes and causes sunburn.",
+        "whyCorrect": "Sunburn is the acute toxic reaction of the epidermis to an intense dose of sunlight, and it is specifically UVB (280-315 nm) that is toxic to epidermal keratinocytes. Fair-skinned people are at higher risk. The erythema fades and the epidermis desquamates as the burn resolves.",
+        "whyWrongByChoice": {
+          "A": "This short wavelength is not the spectrum the lecture names for sunburn; UVB at 280-315 nm is.",
+          "C": "This is UVA. UVA penetrates more deeply into the dermis and drives photoaging and immediate pigment darkening, not sunburn.",
+          "D": "This is visible light. The lecture attributes sunburn to UVB, not visible light.",
+          "E": "This is infrared light, which the lecture does not implicate in sunburn; the keratinocyte toxicity is from UVB."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "sunburn",
+        "UVB",
+        "LO1"
+      ],
+      "topicId": "sunlight-and-the-skin",
+      "topicName": "Sunlight and the Skin",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk38-002",
+      "stem": "A 24-year-old man uses a tanning booth whose lamps emit mainly long-wavelength ultraviolet light. Within minutes of finishing a session, his skin appears noticeably darker. Which of the following best explains this rapid change in color?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased blood flow in dermal capillaries"
+        },
+        {
+          "label": "B",
+          "text": "Necrosis of keratinocytes in the epidermis"
+        },
+        {
+          "label": "C",
+          "text": "New melanin synthesis within melanosomes"
+        },
+        {
+          "label": "D",
+          "text": "Oxidation of melanin that was already present"
+        },
+        {
+          "label": "E",
+          "text": "Proliferation of melanocytes at the basal layer"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Immediate pigment darkening after UVA is oxidation of pre-existing melanin.",
+        "whyCorrect": "Within minutes of UVA exposure, immediate pigment darkening occurs: pre-existing melanin is chemically modified by oxidation. No new pigment is made in that time frame. Delayed tanning, from UVB, takes 2-3 days and involves new melanin synthesis.",
+        "whyWrongByChoice": {
+          "A": "Vasodilation causes the erythema of sunburn; it does not explain pigment darkening.",
+          "B": "Necrotic keratinocytes are the histologic finding of sunburn, which causes redness rather than darkening within minutes.",
+          "C": "Up-regulated melanin synthesis is the UVB-driven delayed tan that appears 2-3 days after exposure, not within minutes.",
+          "E": "Melanocyte proliferation is not the mechanism of rapid darkening; pre-existing melanin is oxidized."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tanning",
+        "UVA",
+        "immediate pigment darkening",
+        "LO1"
+      ],
+      "topicId": "sunlight-and-the-skin",
+      "topicName": "Sunlight and the Skin",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk38-003",
+      "stem": "A 70-year-old retired rancher who worked outdoors his entire life has deep wrinkles, thin skin and loss of elasticity on his face and forearms. The ultraviolet wavelength most responsible for these changes reaches the dermis. Which of the following is the principal mechanism of his skin changes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Delayed-type hypersensitivity in the dermis"
+        },
+        {
+          "label": "B",
+          "text": "Free radical destruction of collagen-producing cells"
+        },
+        {
+          "label": "C",
+          "text": "Oxidation of pre-existing epidermal melanin"
+        },
+        {
+          "label": "D",
+          "text": "Porphyrin accumulation in dermal tissues"
+        },
+        {
+          "label": "E",
+          "text": "Pyrimidine dimers forming in basal keratinocytes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Photoaging is UVA-generated free radicals destroying dermal fibroblasts, so collagen and elasticity are lost.",
+        "whyCorrect": "UVA, with its longer 315-400 nm wavelength, penetrates into the dermis and generates destructive free radicals that destroy fibroblasts, the collagen-producing cells of the skin. Without these collagen factories the skin loses elasticity, wrinkles (rhytides) form and the skin thins.",
+        "whyWrongByChoice": {
+          "A": "Delayed-type hypersensitivity is the mechanism of drug photoallergy, which presents as an itchy dermatitis.",
+          "C": "Melanin oxidation is immediate pigment darkening, a transient color change rather than structural aging.",
+          "D": "Porphyrin buildup underlies porphyria cutanea tarda, which causes blisters and fragility, not photoaging.",
+          "E": "Pyrimidine dimers drive UV signature mutations and skin cancer, not loss of dermal collagen and wrinkling."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "photoaging",
+        "UVA",
+        "fibroblasts",
+        "wrinkles",
+        "LO2"
+      ],
+      "topicId": "sunlight-and-the-skin",
+      "topicName": "Sunlight and the Skin",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk38-004",
+      "stem": "A 66-year-old fisherman has a rough, scaly precancerous lesion removed from his sun-exposed forehead. Sequencing of the lesional keratinocytes shows the pattern of point mutations that characterizes ultraviolet damage. Which of the following changes is most typical of this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adenine replaced by guanine at AA sites"
+        },
+        {
+          "label": "B",
+          "text": "Cytosine replaced by guanine at CG sites"
+        },
+        {
+          "label": "C",
+          "text": "Cytosine replaced by thymine at CC sites"
+        },
+        {
+          "label": "D",
+          "text": "Guanine replaced by thymine at GG sites"
+        },
+        {
+          "label": "E",
+          "text": "Thymine replaced by cytosine at TT sites"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "UV signature mutations are C to T (CC to TT) substitutions arising from pyrimidine dimers.",
+        "whyCorrect": "UV radiation causes adjacent thymine or cytosine nucleotides to bind each other, forming pyrimidine dimers. During replication these dimers lead to cytosine being replaced with thymine (C to T, or CC to TT), the UV signature mutations. Actinic keratoses are precancerous lesions that arise from these UV-related DNA mutations.",
+        "whyWrongByChoice": {
+          "A": "Adenine is a purine and is not part of the pyrimidine dimers that create the UV signature.",
+          "B": "C to G is not the UV signature; dimers cause cytosine to be replaced by thymine.",
+          "D": "G to T changes are not the UV signature described; the signature is C to T.",
+          "E": "This reverses the direction of the signature. Cytosine is replaced by thymine, not the other way around."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pyrimidine dimer",
+        "UV signature mutation",
+        "carcinogenesis",
+        "LO2"
+      ],
+      "topicId": "sunlight-and-the-skin",
+      "topicName": "Sunlight and the Skin",
+      "tier": "core"
+    },
+    {
+      "id": "mk38-005",
+      "stem": "A 58-year-old woman who has gardened outdoors for decades is concerned about discoloration of her upper chest and the sides of her neck. Examination shows a V-shaped, red-brown hyperpigmented patch on the chest that extends onto the lateral neck, with a striking area of normal skin over the central neck just under the chin. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cutis rhomboidalis nuchae"
+        },
+        {
+          "label": "B",
+          "text": "Favre-Racouchot syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Poikiloderma of Civatte"
+        },
+        {
+          "label": "D",
+          "text": "Polymorphous light eruption"
+        },
+        {
+          "label": "E",
+          "text": "Solar lentigines"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "V-shaped red-brown chest and neck pigmentation sparing the central neck is poikiloderma of Civatte.",
+        "whyCorrect": "Poikiloderma of Civatte is the V-shaped red-brown hyperpigmentation of the chest and neck in people with long-term sun exposure. Sparing of the central neck is a characteristic sign.",
+        "whyWrongByChoice": {
+          "A": "This is solar elastosis on the neck producing geometric wrinkles, not a V-shaped red-brown patch.",
+          "B": "This refers to comedonal lesions over the zygomatic cheeks.",
+          "D": "PMLE is an itchy papular eruption after intense spring sun on previously covered skin, not chronic pigmentation.",
+          "E": "Solar lentigines are discrete brown macules on the hands, forearms, chest and face, not a confluent V-shaped patch with central sparing."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "poikiloderma of Civatte",
+        "chronic sun exposure",
+        "LO2"
+      ],
+      "topicId": "sunlight-and-the-skin",
+      "topicName": "Sunlight and the Skin",
+      "tier": "core"
+    },
+    {
+      "id": "mk38-006",
+      "stem": "A medical student argues that sunlight is not purely harmful because it supports bone health. Ultraviolet exposure acts on a precursor in the epidermis to begin vitamin D production. Which of the following epidermal molecules is converted by sunlight in this pathway?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "7-Dehydrocholesterol"
+        },
+        {
+          "label": "B",
+          "text": "Beta-endorphin"
+        },
+        {
+          "label": "C",
+          "text": "Dihydroxyphenylalanine"
+        },
+        {
+          "label": "D",
+          "text": "Previtamin D3"
+        },
+        {
+          "label": "E",
+          "text": "Uroporphyrinogen"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Sunlight converts epidermal 7-dehydrocholesterol to previtamin D3.",
+        "whyCorrect": "Sunlight converts epidermal 7-dehydrocholesterol to previtamin D3. Even so, supplementation and dietary sources are generally recommended over sun exposure as the means of raising vitamin D levels.",
+        "whyWrongByChoice": {
+          "B": "Beta-endorphin is produced by keratinocytes after UV exposure and explains the addictive quality of tanning, not vitamin D synthesis.",
+          "C": "Dihydroxyphenylalanine (DOPA) relates to melanin pigment, not to vitamin D. The lecture names 7-dehydrocholesterol as the converted precursor.",
+          "D": "Previtamin D3 is the product of the reaction, not the epidermal molecule that sunlight converts.",
+          "E": "Uroporphyrinogen is a heme pathway intermediate whose decarboxylase is deficient in PCT; it is not a vitamin D precursor."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vitamin D",
+        "7-dehydrocholesterol",
+        "health benefits",
+        "LO3"
+      ],
+      "topicId": "sunlight-and-the-skin",
+      "topicName": "Sunlight and the Skin",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk38-007",
+      "stem": "A 30-year-old man spends the first warm weekend of April working in his yard without a shirt. The following evening he develops intensely itchy, tiny red papules densely clustered on his forearms and chest; his face is spared. He had an identical rash last spring that cleared and did not return until now. He takes no medications. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Drug-induced photoallergy"
+        },
+        {
+          "label": "B",
+          "text": "Drug-induced phototoxicity"
+        },
+        {
+          "label": "C",
+          "text": "Poikiloderma of Civatte"
+        },
+        {
+          "label": "D",
+          "text": "Polymorphous light eruption"
+        },
+        {
+          "label": "E",
+          "text": "Porphyria cutanea tarda"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Itchy spring papules on winter-covered skin after intense sun, recurring yearly, is PMLE.",
+        "whyCorrect": "PMLE is an idiopathic sun sensitivity that classically occurs in spring when intense sun hits skin covered all winter. The forearms and trunk are most affected while the face, uncovered all winter, is spared. It appears the night after exposure or within a day or two as dense, minute, itchy papules, and typically recurs the next year.",
+        "whyWrongByChoice": {
+          "A": "Photoallergy requires a photosensitizing drug such as hydrochlorothiazide or a sulfa antibiotic; he takes none.",
+          "B": "Phototoxicity requires a photosensitizing medication and looks like a sunburn that is more painful than itchy; he takes no drugs.",
+          "C": "This is chronic red-brown pigmentation of the chest and neck, not an acute recurring itchy papular eruption.",
+          "E": "PCT presents with fragile blisters, erosions and scars on the dorsal hands and forearms, not itchy papules."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "polymorphous light eruption",
+        "PMLE",
+        "LO4"
+      ],
+      "topicId": "sunlight-and-the-skin",
+      "topicName": "Sunlight and the Skin",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk38-008",
+      "stem": "A 17-year-old boy started a daily oral medication for acne 3 weeks ago. After an afternoon of baseball he develops painful, bright red skin on his face, neck and arms that looks like a severe sunburn, far worse than his teammates' skin. Several fingernails are lifting away from the nail bed. Which of the following medications is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amiodarone"
+        },
+        {
+          "label": "B",
+          "text": "Doxycycline"
+        },
+        {
+          "label": "C",
+          "text": "Hydrochlorothiazide"
+        },
+        {
+          "label": "D",
+          "text": "Hydroxychloroquine"
+        },
+        {
+          "label": "E",
+          "text": "Sulfamethoxazole"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Doxycycline causes phototoxicity: an exaggerated, painful sunburn, sometimes with photo-onycholysis.",
+        "whyCorrect": "Phototoxicity lowers the threshold for sunburn and looks like a sunburn that is more painful than itchy. Doxycycline, given orally for acne, is a classic cause. Photo-onycholysis, separation of the nails, occurs in the setting of phototoxicity.",
+        "whyWrongByChoice": {
+          "A": "Amiodarone is a photoallergy cause listed in the lecture and is not used for acne.",
+          "C": "Hydrochlorothiazide causes photoallergy, an itchy papular dermatitis, and is not an acne treatment.",
+          "D": "Hydroxychloroquine is an alternative PCT therapy in the lecture, not a listed phototoxic acne drug.",
+          "E": "Sulfa antibiotics are listed as causes of photoallergic, itchy dermatitis rather than a sunburn-like reaction."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "phototoxicity",
+        "doxycycline",
+        "photo-onycholysis",
+        "LO4"
+      ],
+      "topicId": "sunlight-and-the-skin",
+      "topicName": "Sunlight and the Skin",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk38-009",
+      "stem": "A 62-year-old woman began a thiazide diuretic for hypertension 2 months ago. She now has an intensely itchy, papular, eczema-like rash on her face, the backs of her hands, her forearms and her upper chest. Skin under her watch band and clothing is unaffected. Which of the following is the mechanism of her rash?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deficient uroporphyrinogen decarboxylase"
+        },
+        {
+          "label": "B",
+          "text": "Free radical loss of dermal fibroblasts"
+        },
+        {
+          "label": "C",
+          "text": "Idiopathic reaction of winter-covered skin"
+        },
+        {
+          "label": "D",
+          "text": "Lowered threshold for direct UV injury"
+        },
+        {
+          "label": "E",
+          "text": "T cell-mediated delayed hypersensitivity"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Photoallergy (for example from hydrochlorothiazide) is a delayed-type hypersensitivity reaction in sun-exposed skin.",
+        "whyCorrect": "Photoallergy is caused by delayed-type hypersensitivity in the skin of patients taking photosensitizing drugs. It looks like an acute papular dermatitis in sun-exposed areas and is more itchy than painful. Hydrochlorothiazide is a common cause, and treatment is stopping the drug.",
+        "whyWrongByChoice": {
+          "A": "This enzyme defect causes PCT, which produces blisters and scars on the dorsal hands, not itchy dermatitis.",
+          "B": "This is the mechanism of UVA photoaging, a chronic structural change rather than an acute rash.",
+          "C": "That describes PMLE, which is not drug-related and affects areas covered all winter.",
+          "D": "A lowered sunburn threshold is phototoxicity, which looks like a painful sunburn rather than an itchy dermatitis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "photoallergy",
+        "hydrochlorothiazide",
+        "delayed-type hypersensitivity",
+        "LO4"
+      ],
+      "topicId": "sunlight-and-the-skin",
+      "topicName": "Sunlight and the Skin",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk38-010",
+      "stem": "A 49-year-old man with chronic hepatitis C and heavy alcohol use reports blisters on the backs of his hands after being outdoors. Examination shows tense and ruptured bullae, non-healing erosions and small scars on the dorsal hands, and increased hair growth on his upper cheeks. A 24-hour urine collection shows markedly elevated porphyrins. Deficient activity of which of the following enzymes is responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aminolevulinic acid synthase"
+        },
+        {
+          "label": "B",
+          "text": "Coproporphyrinogen oxidase"
+        },
+        {
+          "label": "C",
+          "text": "Porphobilinogen deaminase"
+        },
+        {
+          "label": "D",
+          "text": "Protoporphyrinogen oxidase"
+        },
+        {
+          "label": "E",
+          "text": "Uroporphyrinogen decarboxylase"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "PCT is due to deficient uroporphyrinogen decarboxylase activity.",
+        "whyCorrect": "PCT, the most common porphyria, results from deficiency of uroporphyrinogen decarboxylase, acquired in about 80% of cases or familial. Hepatitis C and excessive alcohol are acquired risk factors, along with hemochromatosis, HIV and estrogen. Fragile bullae, erosions and scars on the dorsal hands, plus facial hypertrichosis, are classic.",
+        "whyWrongByChoice": {
+          "A": "This is the first heme-pathway enzyme, not the one deficient in PCT.",
+          "B": "This heme-pathway enzyme is not the one deficient in PCT per the lecture.",
+          "C": "This is a different heme-pathway enzyme; the lecture ties PCT to uroporphyrinogen decarboxylase.",
+          "D": "This is a later heme-pathway enzyme, not the one the lecture ties to PCT."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "porphyria cutanea tarda",
+        "uroporphyrinogen decarboxylase",
+        "hepatitis C",
+        "LO4"
+      ],
+      "topicId": "sunlight-and-the-skin",
+      "topicName": "Sunlight and the Skin",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk38-011",
+      "stem": "A 41-year-old woman has taken an over-the-counter NSAID daily for a year for knee pain. She develops fragile blisters, erosions and small scars on the backs of her hands and forearms after sun exposure. Her clinician suspects the most common inherited or acquired heme-pathway photodermatosis, and a skin biopsy shows identical findings, yet a 24-hour urine collection shows normal levels of the photosensitizing heme precursors. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Drug-induced photoallergy"
+        },
+        {
+          "label": "B",
+          "text": "Polymorphous light eruption"
+        },
+        {
+          "label": "C",
+          "text": "Porphyria cutanea tarda"
+        },
+        {
+          "label": "D",
+          "text": "Pseudoporphyria"
+        },
+        {
+          "label": "E",
+          "text": "Solar purpura"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "PCT look-alike with normal 24-hour urine porphyrins after a photosensitizing drug is pseudoporphyria.",
+        "whyCorrect": "Pseudoporphyria is a phototoxic drug reaction that mimics PCT in every clinical and biopsy feature but has negative 24-hour urine porphyrin studies. Naproxen, voriconazole and doxycycline are causes, and it can also occur in hemodialysis patients.",
+        "whyWrongByChoice": {
+          "A": "Photoallergy is an itchy papular dermatitis, not blisters and scars that mimic PCT on biopsy.",
+          "B": "PMLE presents as itchy papules on winter-covered skin and does not mimic PCT.",
+          "C": "PCT would show elevated, often markedly elevated, urine porphyrins.",
+          "E": "Solar purpura is bruising from chronic sun damage, not blistering with PCT histology."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pseudoporphyria",
+        "naproxen",
+        "24-hour urine porphyrins",
+        "LO4"
+      ],
+      "topicId": "sunlight-and-the-skin",
+      "topicName": "Sunlight and the Skin",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk38-012",
+      "stem": "A dermatologist recommends a mineral product containing zinc oxide to a patient with a history of sun sensitivity. Compared with chemical agents such as octinoxate, which of the following best describes how this product protects the skin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Absorbs UV radiation and inactivates it"
+        },
+        {
+          "label": "B",
+          "text": "Blocks only UVB and transmits all UVA"
+        },
+        {
+          "label": "C",
+          "text": "Is consumed by sunlight within two hours"
+        },
+        {
+          "label": "D",
+          "text": "Reflects both UVA and UVB away from the skin"
+        },
+        {
+          "label": "E",
+          "text": "Rubs in invisibly and absorbs into the body"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Physical sunscreens (zinc oxide, titanium dioxide) reflect UVA and UVB; chemical sunscreens absorb UV.",
+        "whyCorrect": "Physical (mineral) sunscreens contain zinc oxide or titanium dioxide and form a barrier that reflects UVB and UVA away from the skin. They are not consumed by sunlight and keep working as long as they stay on the skin, but they are more opaque and messy. Chemical sunscreens instead absorb UV radiation.",
+        "whyWrongByChoice": {
+          "A": "Absorbing and inactivating UV is how chemical sunscreens work, not mineral ones.",
+          "B": "Mineral sunscreens reflect both UVB and UVA.",
+          "C": "Chemical sunscreens are consumed quickly; mineral agents are not consumed by sunlight.",
+          "E": "Mineral sunscreens are more opaque and messy; systemic absorption is the oxybenzone concern."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physical sunscreen",
+        "zinc oxide",
+        "mechanism",
+        "LO5"
+      ],
+      "topicId": "sunlight-and-the-skin",
+      "topicName": "Sunlight and the Skin",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk39-001",
+      "stem": "A 34-year-old man has had enlarging, chalk-white, sharply demarcated patches around his mouth and on the backs of both hands for 6 months. The patches do not itch or scale, and his skin color was normal through childhood. His mother has pernicious anemia. Which of the following is the most likely mechanism of his skin findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Congenital absence of melanocytes at fixed body sites"
+        },
+        {
+          "label": "B",
+          "text": "Lymphocyte-mediated destruction of epidermal melanocytes"
+        },
+        {
+          "label": "C",
+          "text": "Melanocytes arrested in the dermis during neural crest migration"
+        },
+        {
+          "label": "D",
+          "text": "Post-inflammatory melanin loss after prior eczema"
+        },
+        {
+          "label": "E",
+          "text": "Recessive loss of tyrosinase activity in melanocytes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Vitiligo is an acquired autoimmune destruction of epidermal melanocytes that produces depigmented macules and patches.",
+        "whyCorrect": "Acquired, asymptomatic, well-demarcated depigmented patches on the face and hands in a patient with a family history of autoimmune disease are classic for vitiligo. The lecture describes vitiligo as dysregulated immunity leading to autoimmune destruction of melanocytes; in the case, lymphocytes attack the pigment-producing cells.",
+        "whyWrongByChoice": {
+          "A": "That describes piebaldism, which is present from birth; this man's patches are acquired and enlarging.",
+          "C": "Dermal melanocytosis produces blue-gray patches, not depigmentation.",
+          "D": "Post-inflammatory hypopigmentation follows an inflammatory dermatosis; there is no preceding rash and the patches are completely white.",
+          "E": "Tyrosinase loss causes OCA1 albinism, a generalized congenital hypopigmentation of skin, hair, and eyes."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "vitiligo",
+        "pathophysiology",
+        "hypopigmentation"
+      ],
+      "topicId": "disorders-of-pigmentation",
+      "topicName": "Disorders of Pigmentation",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk39-002",
+      "stem": "A 29-year-old woman is diagnosed with vitiligo after depigmented patches appear on her face and genitals. She asks whether the condition is linked to any other illness. Screening for which of the following conditions is most appropriate because it is the most common association?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoimmune thyroid disease"
+        },
+        {
+          "label": "B",
+          "text": "Gastric adenocarcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Pernicious anemia"
+        },
+        {
+          "label": "D",
+          "text": "Primary adrenal insufficiency"
+        },
+        {
+          "label": "E",
+          "text": "Type 1 diabetes mellitus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Autoimmune thyroid disease (hypo- or hyperthyroidism) is the most common autoimmune association of vitiligo.",
+        "whyCorrect": "Vitiligo is associated with autoimmune endocrine diseases including autoimmune thyroid disease, type 1 diabetes, pernicious anemia, and primary adrenal insufficiency. The lecture states that thyroid disease is the most common of these, which is why symptoms of thyroid imbalance prompt blood testing.",
+        "whyWrongByChoice": {
+          "B": "Gastric adenocarcinoma is the malignancy most linked to paraneoplastic acanthosis nigricans, not vitiligo.",
+          "C": "Pernicious anemia is an associated autoimmune disease, but thyroid disease is the most common association.",
+          "D": "Addison disease is associated with vitiligo, but less commonly than thyroid disease.",
+          "E": "Type 1 diabetes is associated with vitiligo, but it is not the most common association."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vitiligo",
+        "autoimmune associations",
+        "thyroid"
+      ],
+      "topicId": "disorders-of-pigmentation",
+      "topicName": "Disorders of Pigmentation",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk39-003",
+      "stem": "A 6-month-old boy has white hair, very pale skin over the entire body, light irides, and roving eye movements with poor visual tracking. Both parents have typical pigmentation for their family. A skin biopsy shows a normal number of melanocytes along the basal layer. Which of the following best explains his findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Arrest of melanocyte migration within the dermis"
+        },
+        {
+          "label": "B",
+          "text": "Defective melanin synthesis by intact melanocytes"
+        },
+        {
+          "label": "C",
+          "text": "Excess cytokine release after cutaneous inflammation"
+        },
+        {
+          "label": "D",
+          "text": "Localized congenital absence of melanocytes"
+        },
+        {
+          "label": "E",
+          "text": "Postnatal autoimmune destruction of melanocytes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Albinism is a genetic defect in melanin synthesis or transport, with normal melanocyte numbers, causing diffuse hypopigmentation of skin, hair, and eyes.",
+        "whyCorrect": "Generalized hypopigmentation of skin, hair, and eyes with impaired vision in an infant of unaffected parents fits autosomal recessive oculocutaneous albinism. The lecture defines albinism as a defect in the normal synthesis or transport of melanin; melanocyte numbers are normal, which distinguishes it from piebaldism.",
+        "whyWrongByChoice": {
+          "A": "Dermal melanocytosis causes blue-gray patches, typically over the sacrum, not diffuse hypopigmentation.",
+          "C": "Post-inflammatory change is localized to sites of prior inflammation and does not affect the eyes.",
+          "D": "Piebaldism causes localized patches from absent melanocytes, not generalized loss with normal melanocyte numbers.",
+          "E": "Vitiligo is acquired and patchy, and melanocytes would be lost rather than present in normal numbers."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "albinism",
+        "pathophysiology",
+        "hypopigmentation"
+      ],
+      "topicId": "disorders-of-pigmentation",
+      "topicName": "Disorders of Pigmentation",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk39-004",
+      "stem": "A 3-year-old girl has had a triangular white patch of hair at the midline frontal hairline and a sharply bordered depigmented patch on the upper forehead since birth. The patches have not changed in size. Hearing is normal, and both irides are the same color. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oculocutaneous albinism"
+        },
+        {
+          "label": "B",
+          "text": "Piebaldism"
+        },
+        {
+          "label": "C",
+          "text": "Pityriasis alba"
+        },
+        {
+          "label": "D",
+          "text": "Vitiligo"
+        },
+        {
+          "label": "E",
+          "text": "Waardenburg syndrome"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Piebaldism is congenital, localized absence of melanocytes, classically a white forelock at the frontal hairline.",
+        "whyCorrect": "The lecture describes piebaldism as congenital absence of melanocytes in sites such as the upper forehead and frontal hairline, producing a white forelock. The key clinical difference from albinism is that piebaldism is localized while albinism is generalized, and unlike vitiligo it is present from birth.",
+        "whyWrongByChoice": {
+          "A": "Albinism causes generalized loss of pigment in skin, hair, and eyes, not a single localized patch.",
+          "C": "Pityriasis alba is finely scaled hypopigmentation in children with dry skin, not a congenital white forelock.",
+          "D": "Vitiligo is acquired and tends to progress; this lesion has been stable since birth.",
+          "E": "Waardenburg syndrome adds hearing loss, heterochromia iridis, and dystopia canthorum, which are absent here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "piebaldism",
+        "white forelock",
+        "differential diagnosis"
+      ],
+      "topicId": "disorders-of-pigmentation",
+      "topicName": "Disorders of Pigmentation",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk39-005",
+      "stem": "A 2-day-old boy has a white forelock, a broad nasal root, one blue and one brown iris, and failed his newborn hearing screen bilaterally. He has not yet passed meconium, and his abdomen is distended. Which of the following conditions best accounts for his abdominal findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chédiak-Higashi syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Gastric adenocarcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Hirschsprung disease"
+        },
+        {
+          "label": "D",
+          "text": "Neurofibromatosis type 1"
+        },
+        {
+          "label": "E",
+          "text": "Ocular albinism"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Waardenburg syndrome is piebaldism with hearing loss, heterochromia iridis, dystopia canthorum, and sometimes Hirschsprung disease.",
+        "whyCorrect": "This infant has Waardenburg syndrome: piebaldism (white forelock) with hearing loss, heterochromia iridis, and dystopia canthorum (a broad nasal root). In some cases it is associated with Hirschsprung disease, a disorder of colonic innervation that causes constipation, which explains the delayed meconium and distension.",
+        "whyWrongByChoice": {
+          "A": "Chédiak-Higashi syndrome pairs albinism with neurodegeneration and recurrent pyogenic infections, not a forelock with deafness.",
+          "B": "Gastric adenocarcinoma is linked to paraneoplastic acanthosis nigricans in adults.",
+          "D": "NF1 presents with café-au-lait macules, freckling, and neurofibromas, not a white forelock or heterochromia.",
+          "E": "Ocular albinism is limited to the eyes and does not cause a white forelock, deafness, or bowel obstruction."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Waardenburg syndrome",
+        "piebaldism",
+        "Hirschsprung disease"
+      ],
+      "topicId": "disorders-of-pigmentation",
+      "topicName": "Disorders of Pigmentation",
+      "tier": "core"
+    },
+    {
+      "id": "mk39-006",
+      "stem": "A 15-year-old boy with a BMI of 36 kg/m2 has dark, thickened, velvety plaques on the back of his neck and in both axillae. His fasting glucose is 118 mg/dL. Which of the following is most directly responsible for the skin findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytokine release from prior skin injury"
+        },
+        {
+          "label": "B",
+          "text": "Estrogen excess from adipose tissue"
+        },
+        {
+          "label": "C",
+          "text": "Excess pituitary ACTH from low cortisol"
+        },
+        {
+          "label": "D",
+          "text": "Hyperinsulinemia from insulin resistance"
+        },
+        {
+          "label": "E",
+          "text": "Iron deposition in the dermis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Acanthosis nigricans in obesity and type 2 diabetes is driven by high insulin levels from insulin resistance.",
+        "whyCorrect": "Velvety hyperpigmented plaques on the posterior neck and axillae are acanthosis nigricans. It is most commonly associated with obesity and type 2 diabetes (metabolic syndrome), and insulin resistance with consequently high insulin levels is theorized to cause the skin findings.",
+        "whyWrongByChoice": {
+          "A": "Cytokines drive post-inflammatory hyperpigmentation, which follows an inflammatory episode and is flat.",
+          "B": "Female hormones are implicated in melasma, which is flat facial patches, not velvety plaques.",
+          "C": "ACTH and MSH excess in Addison disease causes diffuse darkening, including creases and mucosa, not velvety plaques.",
+          "E": "Hemochromatosis causes diffuse hyperpigmentation, not localized velvety plaques in skin folds."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "acanthosis nigricans",
+        "insulin resistance",
+        "metabolic syndrome"
+      ],
+      "topicId": "disorders-of-pigmentation",
+      "topicName": "Disorders of Pigmentation",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk39-007",
+      "stem": "A 63-year-old man has lost 9 kg over 4 months and reports early satiety. Over the past 6 weeks, dark velvety plaques have appeared rapidly in both axillae and on his neck. His BMI is 21 kg/m2, and his hemoglobin A1c is 5.2%. Which of the following underlying conditions is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gastric adenocarcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Hereditary hemochromatosis"
+        },
+        {
+          "label": "C",
+          "text": "Malignant melanoma"
+        },
+        {
+          "label": "D",
+          "text": "Mycosis fungoides"
+        },
+        {
+          "label": "E",
+          "text": "Primary adrenal insufficiency"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Paraneoplastic acanthosis nigricans is rare; gastric adenocarcinoma is the most commonly associated malignancy.",
+        "whyCorrect": "Acanthosis nigricans in a thin patient without insulin resistance, appearing rapidly with weight loss and early satiety, suggests a paraneoplastic syndrome. The lecture states that gastric adenocarcinoma is the most common malignancy associated with acanthosis nigricans.",
+        "whyWrongByChoice": {
+          "B": "Hemochromatosis causes diffuse hyperpigmentation and would not explain early satiety with rapidly appearing plaques.",
+          "C": "Melanoma is a hyperpigmented skin cancer itself, not the classic malignancy behind paraneoplastic acanthosis nigricans.",
+          "D": "Cutaneous T-cell lymphoma is listed as a cause of hypopigmentation, not velvety hyperpigmented plaques.",
+          "E": "Addison disease causes diffuse darkening of sun-exposed and friction areas and mucosa, not velvety plaques."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "acanthosis nigricans",
+        "paraneoplastic",
+        "gastric adenocarcinoma"
+      ],
+      "topicId": "disorders-of-pigmentation",
+      "topicName": "Disorders of Pigmentation",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk39-008",
+      "stem": "A 28-year-old woman began a combined oral contraceptive 8 months ago. Since then, she has developed symmetric, flat, tan-brown patches on both cheeks, her forehead, and her upper lip that darken each summer. She has no history of acne or rash in these areas. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acanthosis nigricans"
+        },
+        {
+          "label": "B",
+          "text": "Erythema ab igne"
+        },
+        {
+          "label": "C",
+          "text": "Melasma"
+        },
+        {
+          "label": "D",
+          "text": "Post-inflammatory hyperpigmentation"
+        },
+        {
+          "label": "E",
+          "text": "Solar lentigines"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Melasma is facial brown macules and patches in women, worsened by sun and linked to pregnancy and hormonal contraception.",
+        "whyCorrect": "Melasma causes brown or tan macules and patches, primarily on the face. Women are affected far more often than men, it rarely occurs before puberty, and about half of cases are attributed to pregnancy or hormonal contraception. Sun exposure stimulates melanocytes and worsens it.",
+        "whyWrongByChoice": {
+          "A": "Acanthosis nigricans forms velvety plaques in the axillae and on the posterior neck, not flat facial patches.",
+          "B": "Erythema ab igne is reticular pigmentation at a site of chronic heat exposure.",
+          "D": "Post-inflammatory hyperpigmentation requires a prior inflammatory episode such as acne, which she has not had.",
+          "E": "Solar lentigines are discrete small macules in older patients, not confluent symmetric patches linked to hormones."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "melasma",
+        "hormonal contraception",
+        "hyperpigmentation"
+      ],
+      "topicId": "disorders-of-pigmentation",
+      "topicName": "Disorders of Pigmentation",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk39-009",
+      "stem": "A 41-year-old woman has 3 months of fatigue, salt craving, and light-headedness on standing. Her blood pressure is 88/56 mm Hg. Her palmar creases and knuckles are darkened, and there are patchy brown-black macules on her buccal mucosa and gums. Which of the following best explains her skin and mucosal findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased dermal melanocytes from failed migration"
+        },
+        {
+          "label": "B",
+          "text": "Increased estrogen acting on facial melanocytes"
+        },
+        {
+          "label": "C",
+          "text": "Increased insulin acting on keratinocytes"
+        },
+        {
+          "label": "D",
+          "text": "Increased iron deposition in the skin"
+        },
+        {
+          "label": "E",
+          "text": "Increased MSH and ACTH secretion"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In Addison disease, low cortisol drives pituitary overproduction of ACTH and MSH, which stimulates excess melanin production.",
+        "whyCorrect": "Fatigue, salt craving, and hypotension with darkening of palmar creases, knuckles, and oral mucosa indicate primary adrenal insufficiency. Low cortisol causes the pituitary to overproduce ACTH and MSH, triggering excess melanin production, most visible in sun-exposed and friction areas, creases, and mucosa.",
+        "whyWrongByChoice": {
+          "A": "Dermal melanocytosis is a congenital blue-gray patch, not acquired diffuse darkening.",
+          "B": "Female hormones underlie melasma, which is limited to the face.",
+          "C": "High insulin from insulin resistance causes velvety acanthosis nigricans, not mucosal or crease pigmentation.",
+          "D": "Hemochromatosis can cause diffuse hyperpigmentation but would not explain hypotension and salt craving."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Addison disease",
+        "diffuse hyperpigmentation",
+        "ACTH",
+        "MSH"
+      ],
+      "topicId": "disorders-of-pigmentation",
+      "topicName": "Disorders of Pigmentation",
+      "tier": "core"
+    },
+    {
+      "id": "mk39-010",
+      "stem": "A 22-year-old man with darkly pigmented skin had several thick plaques of psoriasis on his elbows and trunk that cleared with treatment 2 months ago. Flat brown patches now occupy the exact sites of the former plaques. They do not itch or scale. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acanthosis nigricans"
+        },
+        {
+          "label": "B",
+          "text": "Congenital dermal melanocytosis"
+        },
+        {
+          "label": "C",
+          "text": "Erythema ab igne"
+        },
+        {
+          "label": "D",
+          "text": "Post-inflammatory hyperpigmentation"
+        },
+        {
+          "label": "E",
+          "text": "Solar lentigines"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Post-inflammatory hyperpigmentation follows inflammation such as acne, psoriasis, burns, or trauma, and is more common in darker skin.",
+        "whyCorrect": "Brown patches at the exact sites of resolved psoriasis plaques are post-inflammatory hyperpigmentation. Cytokines released during inflammation are believed to drive excess melanin deposition in the epidermis, and people with darker skin are at higher risk because of their higher melanin content.",
+        "whyWrongByChoice": {
+          "A": "Acanthosis nigricans forms velvety plaques in skin folds, independent of prior plaques.",
+          "B": "Dermal melanocytosis is a congenital blue-gray patch, not acquired brown patches at old plaque sites.",
+          "C": "Erythema ab igne is reticular pigmentation from chronic heat exposure.",
+          "E": "Solar lentigines are small macules on sun-exposed skin of older patients, not patches mapping to old plaques."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "post-inflammatory hyperpigmentation",
+        "psoriasis",
+        "skin of color"
+      ],
+      "topicId": "disorders-of-pigmentation",
+      "topicName": "Disorders of Pigmentation",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk39-011",
+      "stem": "In melanocytes of the basal epidermis, which of the following enzymes catalyzes the rate-limiting step in the synthesis of melanin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "DOPA decarboxylase"
+        },
+        {
+          "label": "B",
+          "text": "Membrane-associated transporter protein"
+        },
+        {
+          "label": "C",
+          "text": "Phenylalanine hydroxylase"
+        },
+        {
+          "label": "D",
+          "text": "Tyrosinase"
+        },
+        {
+          "label": "E",
+          "text": "Tyrosinase-related protein 1"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Tyrosinase oxidizes tyrosine to DOPA, the rate-limiting step of melanin synthesis (phenylalanine to tyrosine to DOPA to melanin).",
+        "whyCorrect": "Melanin is made from phenylalanine, which is converted to tyrosine; tyrosinase then oxidizes tyrosine to DOPA, the rate-limiting step. DOPA is converted to melanin through multiple steps that include TYRP1. Tyrosinase is the enzyme mutated in OCA1.",
+        "whyWrongByChoice": {
+          "A": "DOPA decarboxylase is not part of the melanin pathway described; DOPA proceeds to melanin through steps including TYRP1.",
+          "B": "This transporter is defective in OCA4; it is not the enzyme that oxidizes tyrosine.",
+          "C": "This enzyme makes tyrosine from phenylalanine, the precursor step, but it is not the rate-limiting step of melanin synthesis.",
+          "E": "TYRP1 acts later, in the multistep conversion of DOPA to melanin; its mutation causes OCA3."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "melanin synthesis",
+        "tyrosinase",
+        "rate-limiting step"
+      ],
+      "topicId": "disorders-of-pigmentation",
+      "topicName": "Disorders of Pigmentation",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk39-012",
+      "stem": "A 7-year-old boy has seven uniformly tan-brown, well-demarcated macules on his trunk, each 8-12 mm across. Neither parent has a genetic disorder, and he has no other known findings. Which of the following additional findings would establish a diagnosis of neurofibromatosis type 1?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Freckling in both axillae"
+        },
+        {
+          "label": "B",
+          "text": "Heterochromia of the irides"
+        },
+        {
+          "label": "C",
+          "text": "Sacral blue-gray patch"
+        },
+        {
+          "label": "D",
+          "text": "Sensorineural hearing loss in both ears"
+        },
+        {
+          "label": "E",
+          "text": "Widened nasal root"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "NF1 needs two or more 2021 criteria; six or more café-au-lait macules plus axillary or inguinal freckling suffices.",
+        "whyCorrect": "The revised 2021 NF1 criteria require two or more features, including six or more café-au-lait macules (>5 mm prepubertal, >15 mm postpubertal) and axillary or inguinal freckling. This boy already meets the macule criterion, so axillary freckling supplies the second. One to three café-au-lait macules are common in healthy people.",
+        "whyWrongByChoice": {
+          "B": "Different-colored irises occur in Waardenburg syndrome; the NF1 eye criterion is Lisch nodules or choroidal abnormalities.",
+          "C": "A sacral blue-gray patch is congenital dermal melanocytosis, which is benign and unrelated to NF1.",
+          "D": "Hearing loss accompanies piebaldism in Waardenburg syndrome, not NF1.",
+          "E": "Dystopia canthorum is a feature of Waardenburg syndrome, not an NF1 criterion."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "café-au-lait macules",
+        "neurofibromatosis type 1",
+        "diagnostic criteria"
+      ],
+      "topicId": "disorders-of-pigmentation",
+      "topicName": "Disorders of Pigmentation",
+      "tier": "core"
+    },
+    {
+      "id": "mk40-001",
+      "stem": "A 24-year-old man who recently moved to a hot, humid coastal city notices multiple oval, finely scaling, light-colored patches on his upper chest and back. They are not itchy. A potassium hydroxide preparation of skin scrapings is examined. Which of the following microscopic findings is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Branching septate hyphae without any yeast cells"
+        },
+        {
+          "label": "B",
+          "text": "Broad-based budding yeast cells within the dermis"
+        },
+        {
+          "label": "C",
+          "text": "Pseudohyphae bearing small attached blastospores"
+        },
+        {
+          "label": "D",
+          "text": "Short hyphal segments mixed with round yeast cells"
+        },
+        {
+          "label": "E",
+          "text": "Spores packed inside the shafts of the broken hairs"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Pityriasis versicolor (Malassezia furfur) shows round yeasts plus short hyphae (\"spaghetti and meatballs\") on KOH prep.",
+        "whyCorrect": "This is pityriasis versicolor, caused by Malassezia furfur. A KOH prep of the scale shows round yeast forms together with short hyphal forms, the classic \"spaghetti and meatballs\" appearance.",
+        "whyWrongByChoice": {
+          "A": "Branching septate hyphae are the KOH finding of dermatophyte (tinea) infections, not Malassezia.",
+          "B": "Deep fungal infections are diagnosed by biopsy; Malassezia stays in the stratum corneum.",
+          "C": "Pseudohyphae with blastospores are the KOH finding of Candida infection.",
+          "E": "Spores inside the hair shaft describe an endothrix tinea capitis (Trichophyton tonsurans)."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "pityriasis versicolor",
+        "Malassezia furfur",
+        "KOH prep"
+      ],
+      "topicId": "cutaneous-fungal-infections",
+      "topicName": "Cutaneous Fungal Infections",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk40-002",
+      "stem": "A 7-year-old boy has 3 weeks of an itchy, flaky scalp and two round patches of hair loss with broken-off hairs. Examination shows enlarged occipital lymph nodes. Under a Wood's lamp the patches do not glow. Microscopy of a plucked hair shows spores inside the shaft. Which of the following organisms is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "B",
+          "text": "Epidermophyton floccosum"
+        },
+        {
+          "label": "C",
+          "text": "Malassezia furfur"
+        },
+        {
+          "label": "D",
+          "text": "Microsporum canis"
+        },
+        {
+          "label": "E",
+          "text": "Trichophyton tonsurans"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Tinea capitis is most often due to Trichophyton tonsurans, an endothrix infection that does not fluoresce under a Wood's lamp.",
+        "whyCorrect": "Trichophyton tonsurans is the most common cause of tinea capitis. It causes an endothrix infection, with spores inside the hair shaft, and endothrix infections do not fluoresce under a Wood's lamp.",
+        "whyWrongByChoice": {
+          "A": "Candida infects moist intertriginous skin, mucosa and genitals, not the hair shaft.",
+          "B": "Epidermophyton is a dermatophyte genus, but the lecture names T. tonsurans and M. canis as the causes of tinea capitis.",
+          "C": "Malassezia causes pityriasis versicolor and folliculitis, not patchy alopecia with broken hairs.",
+          "D": "Microsporum canis causes an ectothrix infection (outside the shaft), which does fluoresce under a Wood's lamp."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tinea capitis",
+        "Trichophyton tonsurans",
+        "endothrix",
+        "Wood's lamp"
+      ],
+      "topicId": "cutaneous-fungal-infections",
+      "topicName": "Cutaneous Fungal Infections",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk40-003",
+      "stem": "A 6-year-old girl is diagnosed with tinea capitis after a KOH preparation of plucked hairs from a scaly patch of alopecia confirms a dermatophyte. Her parents ask whether a cream will be enough. Which of the following is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Observation, since the patches resolve within weeks"
+        },
+        {
+          "label": "B",
+          "text": "Oral terbinafine or griseofulvin for several weeks"
+        },
+        {
+          "label": "C",
+          "text": "Selenium sulfide shampoo as the only therapy"
+        },
+        {
+          "label": "D",
+          "text": "Topical clotrimazole cream twice daily for 2 weeks"
+        },
+        {
+          "label": "E",
+          "text": "Topical nystatin to the scalp for 4 weeks"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Tinea capitis requires oral antifungal therapy (terbinafine or griseofulvin) for weeks; topical treatment recurs.",
+        "whyCorrect": "Tinea involving hair follicles (scalp and face) must be treated orally because topical agents have a high recurrence rate there; the fungus is hard to eliminate from the hair shaft. Oral terbinafine or micronized griseofulvin for weeks (4-8) is first line in children.",
+        "whyWrongByChoice": {
+          "A": "Tinea capitis should be identified and treated quickly to prevent permanent scarring and hair loss.",
+          "C": "Topical selenium sulfide treats pityriasis versicolor; it cannot clear a dermatophyte from the hair shaft.",
+          "D": "Topical azoles suit tinea corporis, cruris and pedis; scalp infection recurs with topical therapy.",
+          "E": "Nystatin is only effective against Candida and has no activity against dermatophytes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tinea capitis",
+        "treatment",
+        "oral antifungal"
+      ],
+      "topicId": "cutaneous-fungal-infections",
+      "topicName": "Cutaneous Fungal Infections",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk40-004",
+      "stem": "A 40-year-old man starts an oral antifungal for a dermatophyte infection. The drug inhibits squalene epoxidase, lowering ergosterol in the fungal cell membrane, and it kills the fungus rather than merely halting its growth. Which of the following drugs was prescribed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fluconazole"
+        },
+        {
+          "label": "B",
+          "text": "Griseofulvin"
+        },
+        {
+          "label": "C",
+          "text": "Nystatin"
+        },
+        {
+          "label": "D",
+          "text": "Selenium sulfide"
+        },
+        {
+          "label": "E",
+          "text": "Terbinafine"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Terbinafine is a fungicidal squalene epoxidase inhibitor that lowers ergosterol.",
+        "whyCorrect": "Terbinafine inhibits fungal squalene epoxidase, which decreases ergosterol and destabilizes the fungal membrane. It is fungicidal and comes as a cream or tablets.",
+        "whyWrongByChoice": {
+          "A": "Fluconazole is an azole; azoles inhibit fungal cytochrome P450 and are fungistatic.",
+          "B": "Griseofulvin interferes with fungal microtubules to disrupt mitosis and is fungistatic.",
+          "C": "Nystatin is a topical anti-candidal agent with no activity against dermatophytes.",
+          "D": "Selenium sulfide is a topical agent used for pityriasis versicolor."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "terbinafine",
+        "mechanism",
+        "pharmacology"
+      ],
+      "topicId": "cutaneous-fungal-infections",
+      "topicName": "Cutaneous Fungal Infections",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk40-005",
+      "stem": "A 17-year-old girl develops many intensely itchy, red, ring-shaped plaques on her arms and neck over 1 week. Several lesions are edematous with small blisters. Two weeks earlier she began fostering a stray kitten. Which of the following organisms is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hortaea werneckii"
+        },
+        {
+          "label": "B",
+          "text": "Malassezia furfur"
+        },
+        {
+          "label": "C",
+          "text": "Microsporum canis"
+        },
+        {
+          "label": "D",
+          "text": "Trichophyton rubrum"
+        },
+        {
+          "label": "E",
+          "text": "Trichophyton tonsurans"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Zoophilic Microsporum canis (kitten contact) causes numerous, inflammatory, blistering tinea corporis lesions.",
+        "whyCorrect": "Microsporum canis is zoophilic and spreads from animals to humans; contact with a stray cat or kitten is a classic risk factor. Compared with routine Trichophyton tinea corporis, it causes more numerous, more inflammatory, blistery and edematous lesions, and is extremely contagious and itchy.",
+        "whyWrongByChoice": {
+          "A": "Hortaea werneckii causes tinea nigra, a brown-black palmar macule, not inflamed annular plaques.",
+          "B": "Malassezia causes finely scaling, discolored patches that are mostly asymptomatic.",
+          "D": "T. rubrum is the most common cause of tinea corporis but is spread from human to human, not from animals.",
+          "E": "T. tonsurans is an anthropophilic species best known as the main cause of tinea capitis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tinea corporis",
+        "Microsporum canis",
+        "zoophilic"
+      ],
+      "topicId": "cutaneous-fungal-infections",
+      "topicName": "Cutaneous Fungal Infections",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk40-006",
+      "stem": "A 52-year-old man with poorly controlled diabetes mellitus has a 2-week rash in both groin folds. Examination shows bright red, moist plaques with a white exudate that extend onto the scrotum, with scattered small papules and pustules beyond the main border. Which of the following is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "B",
+          "text": "Epidermophyton floccosum"
+        },
+        {
+          "label": "C",
+          "text": "Malassezia furfur"
+        },
+        {
+          "label": "D",
+          "text": "Microsporum canis"
+        },
+        {
+          "label": "E",
+          "text": "Trichophyton rubrum"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Scrotal involvement, satellite pustules and white exudate distinguish candidal intertrigo from tinea cruris.",
+        "whyCorrect": "Candida produces brightly erythematous patches with satellite papules and pustules and a white exudate, favoring intertriginous areas. Unlike dermatophytes, Candida can infect genital skin, so scrotal involvement points to candidiasis. Diabetes is a risk factor.",
+        "whyWrongByChoice": {
+          "B": "Epidermophyton is a dermatophyte; dermatophytes cannot thrive on scrotal, penile or vulvar skin.",
+          "C": "Malassezia favors oily areas (chest, back, neck, face) and causes finely scaling discolored patches.",
+          "D": "M. canis is a zoophilic dermatophyte causing inflamed tinea corporis or ectothrix tinea capitis.",
+          "E": "T. rubrum causes tinea cruris, which spares scrotal skin as a rule and shows an advancing scaly border with central clearing."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "candidiasis",
+        "intertrigo",
+        "tinea cruris differential"
+      ],
+      "topicId": "cutaneous-fungal-infections",
+      "topicName": "Cutaneous Fungal Infections",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk40-007",
+      "stem": "A 26-year-old woman has had recurrent yeast infections of the inframammary folds and perianal skin over the past year. She also reports intermittent crampy right lower quadrant pain, diarrhea and weight loss, and colonoscopy shows inflammation confined to the terminal ileum. Which of the following best explains her susceptibility to the skin infections?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Excess skin surface lipid"
+        },
+        {
+          "label": "B",
+          "text": "Impaired copper absorption"
+        },
+        {
+          "label": "C",
+          "text": "Impaired vitamin K absorption"
+        },
+        {
+          "label": "D",
+          "text": "Impaired zinc absorption"
+        },
+        {
+          "label": "E",
+          "text": "Loss of epidermal keratin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Crohn's disease of the ileum causes zinc deficiency, a risk factor for Candida infection.",
+        "whyCorrect": "Zinc deficiency predisposes to Candida infection. Zinc is absorbed primarily in the ileum, a site of Crohn's disease activity, so Crohn's disease causes acquired zinc deficiency.",
+        "whyWrongByChoice": {
+          "A": "Skin lipids support Malassezia growth, not Candida.",
+          "B": "The lecture links Candida susceptibility to zinc, not copper, deficiency.",
+          "C": "Vitamin K deficiency causes bleeding, not a predisposition to Candida.",
+          "E": "Keratin is what dermatophytes require for growth; it does not explain recurrent candidiasis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "candidiasis",
+        "zinc deficiency",
+        "Crohn's disease",
+        "risk factors"
+      ],
+      "topicId": "cutaneous-fungal-infections",
+      "topicName": "Cutaneous Fungal Infections",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk40-008",
+      "stem": "A 3-month-old infant has a bright red rash in the diaper area with small red papules and pustules at its periphery. A potassium hydroxide preparation of a scraping is examined. Which of the following findings is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pseudohyphae with attached blastospores"
+        },
+        {
+          "label": "B",
+          "text": "Round yeast cells mixed with short hyphae"
+        },
+        {
+          "label": "C",
+          "text": "Septate branching hyphae without yeast cells"
+        },
+        {
+          "label": "D",
+          "text": "Spores coating the outer hair shaft"
+        },
+        {
+          "label": "E",
+          "text": "Thick-walled pigmented hyphae of a mold"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Candida shows pseudohyphae and budding blastospores on KOH prep.",
+        "whyCorrect": "Diaper candidiasis is diagnosed by KOH prep or culture showing pseudohyphae (elongated cells forming a filament with constrictions where cells join) and small attached budding blastospores.",
+        "whyWrongByChoice": {
+          "B": "Round yeasts with short hyphae (spaghetti and meatballs) indicate Malassezia.",
+          "C": "Branching septate hyphae are seen in dermatophyte (tinea) infections.",
+          "D": "Spores outside the hair shaft describe ectothrix tinea capitis.",
+          "E": "A pigmented (dematiaceous) mold, Hortaea werneckii, causes tinea nigra."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "candidiasis",
+        "diaper candidiasis",
+        "KOH prep"
+      ],
+      "topicId": "cutaneous-fungal-infections",
+      "topicName": "Cutaneous Fungal Infections",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk40-009",
+      "stem": "A 35-year-old man has itchy, macerated, scaly skin between his fourth and fifth toes. KOH preparation shows branching septate hyphae. He applied a nystatin cream left over from his daughter's diaper rash for 3 weeks without any improvement. Which of the following best explains the treatment failure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Its activity is limited to Candida species"
+        },
+        {
+          "label": "B",
+          "text": "Nystatin is only fungistatic, not fungicidal"
+        },
+        {
+          "label": "C",
+          "text": "The dermatophyte resists all ergosterol-targeting drugs"
+        },
+        {
+          "label": "D",
+          "text": "The infection lies in the dermal and subcutaneous layers"
+        },
+        {
+          "label": "E",
+          "text": "Topical agents cannot treat any type of tinea pedis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Nystatin works only against Candida; it does not treat dermatophyte infections.",
+        "whyCorrect": "This is interdigital tinea pedis, a dermatophyte infection. Nystatin is only effective against Candida, not the other fungal organisms that infect the skin, so it does nothing for tinea.",
+        "whyWrongByChoice": {
+          "B": "Fungistatic azoles still treat tinea; the problem is nystatin's narrow spectrum.",
+          "C": "Terbinafine and azoles both lower ergosterol and treat tinea.",
+          "D": "Tinea pedis is a cutaneous infection; deep infection of dermis and subcutis describes systemic fungi like blastomycosis.",
+          "E": "Topical antifungals are helpful for tinea pedis, corporis and cruris; oral therapy is required for scalp, face and nails."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "nystatin",
+        "tinea pedis",
+        "antifungal spectrum"
+      ],
+      "topicId": "cutaneous-fungal-infections",
+      "topicName": "Cutaneous Fungal Infections",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk40-010",
+      "stem": "A 61-year-old woman who runs 40 miles a week is bothered by a thickened, discolored right great toenail. Her other nails are normal. She asks for an oral prescription so she can wear sandals by summer. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Examine the nail under a Wood's lamp for fluorescence"
+        },
+        {
+          "label": "B",
+          "text": "Send nail clippings for KOH prep or fungal culture"
+        },
+        {
+          "label": "C",
+          "text": "Start oral griseofulvin for 6 weeks without testing"
+        },
+        {
+          "label": "D",
+          "text": "Start oral terbinafine for 12 weeks without testing"
+        },
+        {
+          "label": "E",
+          "text": "Treat with topical nystatin to the nail plate daily"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Confirm suspected nail fungus with KOH prep or culture before treating; many nail dystrophies are not fungal.",
+        "whyCorrect": "Not all nail dystrophy is fungal; wear and tear from exercise or tight shoes, psoriasis and pedicure trauma also cause it. A confirmatory KOH prep or fungal culture should be done before prescribing treatment for nail fungus.",
+        "whyWrongByChoice": {
+          "A": "Wood's lamp aids pityriasis versicolor and ectothrix tinea capitis; it does not confirm nail fungus.",
+          "C": "Treatment requires a confirmed fungal infection first, and 6 weeks is the fingernail course.",
+          "D": "Treating without confirmation risks giving a long oral course for nondermatophyte nail dystrophy.",
+          "E": "Nystatin treats only Candida, and nail tinea needs oral therapy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tinea unguium",
+        "onychomycosis",
+        "nail dystrophy",
+        "diagnosis"
+      ],
+      "topicId": "cutaneous-fungal-infections",
+      "topicName": "Cutaneous Fungal Infections",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk40-011",
+      "stem": "Two children are evaluated for scaly patches of hair loss. In the first child, the patches glow under a Wood's lamp; in the second, they do not. Which of the following best explains why only the first child's infection fluoresces?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fungal elements have spread into the dermis and subcutis"
+        },
+        {
+          "label": "B",
+          "text": "Scalp sebum lipids are feeding the yeast"
+        },
+        {
+          "label": "C",
+          "text": "Spores coat the outside of the hair shaft"
+        },
+        {
+          "label": "D",
+          "text": "Spores fill the inside of the hair shaft"
+        },
+        {
+          "label": "E",
+          "text": "The infection is from a human-to-human species"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Ectothrix tinea capitis (Microsporum canis) fluoresces under Wood's lamp; endothrix (Trichophyton tonsurans) does not.",
+        "whyCorrect": "Microsporum canis causes an ectothrix infection, with spores outside the hair shaft, and therefore fluoresces under a Wood's lamp. Trichophyton tonsurans causes an endothrix infection with spores inside the shaft, which does not fluoresce.",
+        "whyWrongByChoice": {
+          "A": "Dermal and subcutaneous spread defines deep fungal infections, not tinea capitis, and is diagnosed by biopsy.",
+          "B": "Lipid dependence is a feature of Malassezia, not of tinea capitis organisms.",
+          "D": "Spores inside the shaft (endothrix, T. tonsurans) do not fluoresce.",
+          "E": "The fluorescing species, M. canis, is zoophilic; the anthropophilic T. tonsurans does not fluoresce."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "tinea capitis",
+        "ectothrix",
+        "endothrix",
+        "Wood's lamp"
+      ],
+      "topicId": "cutaneous-fungal-infections",
+      "topicName": "Cutaneous Fungal Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mk40-012",
+      "stem": "An 8-year-old girl who adopted a cat 2 months ago has a scaly patch of scalp alopecia that glows under a Wood's lamp. Oral therapy is planned. Which of the following agents is expected to be more effective than terbinafine against the most likely organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clotrimazole"
+        },
+        {
+          "label": "B",
+          "text": "Griseofulvin"
+        },
+        {
+          "label": "C",
+          "text": "Ketoconazole cream"
+        },
+        {
+          "label": "D",
+          "text": "Nystatin"
+        },
+        {
+          "label": "E",
+          "text": "Selenium sulfide"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Griseofulvin beats terbinafine against Microsporum; terbinafine beats griseofulvin against Trichophyton and Epidermophyton.",
+        "whyCorrect": "A fluorescing (ectothrix) scalp infection after cat contact suggests Microsporum canis. Griseofulvin is more effective against Microsporum species than terbinafine, whereas terbinafine is more effective against Trichophyton and Epidermophyton.",
+        "whyWrongByChoice": {
+          "A": "Clotrimazole is a topical azole; scalp tinea requires an oral agent.",
+          "C": "A topical azole cream is not adequate for scalp tinea, which requires an oral agent.",
+          "D": "Nystatin is topical and only treats Candida.",
+          "E": "Selenium sulfide is a topical treatment for pityriasis versicolor."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "tinea capitis",
+        "Microsporum canis",
+        "griseofulvin",
+        "terbinafine"
+      ],
+      "topicId": "cutaneous-fungal-infections",
+      "topicName": "Cutaneous Fungal Infections",
+      "tier": "core"
+    }
+  ]
+}

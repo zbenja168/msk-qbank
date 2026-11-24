@@ -1,0 +1,1725 @@
+{
+  "categoryId": "w6s3",
+  "categoryName": "Session 3",
+  "questions": [
+    {
+      "id": "mk53-001",
+      "stem": "A 29-year-old woman reports large amounts of hair in her brush, on her pillow, and in the shower drain beginning 3 months after the delivery of her first child. Examination shows diffuse thinning that is equal over the crown and the sides of the scalp. Follicular openings are visible, and there is no erythema, scale, or patch of complete loss. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alopecia areata"
+        },
+        {
+          "label": "B",
+          "text": "Anagen effluvium"
+        },
+        {
+          "label": "C",
+          "text": "Female pattern hair loss"
+        },
+        {
+          "label": "D",
+          "text": "Lichen planopilaris"
+        },
+        {
+          "label": "E",
+          "text": "Telogen effluvium"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Diffuse, patternless, non-scarring shedding after a physiologic stress such as delivery is telogen effluvium.",
+        "whyCorrect": "Telogen effluvium is a reactive, non-scarring shedding that affects all scalp hairs equally, so there is no pattern to the loss. Postpartum hormonal change, particularly the fall in estrogen, is a classic trigger, and patients typically describe hair collecting in the brush, drain, and pillow.",
+        "whyWrongByChoice": {
+          "A": "Alopecia areata produces smooth, coin-shaped patches of complete loss rather than diffuse thinning.",
+          "B": "Anagen effluvium follows an insult to follicle mitosis, such as chemotherapy, not delivery.",
+          "C": "Female pattern hair loss preserves the hairline and thins the crown with a widened part; it does not shed equally over the sides.",
+          "D": "Lichen planopilaris is scarring, with violet perifollicular papules and lost follicular openings."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "telogen effluvium",
+        "non-scarring alopecia",
+        "postpartum"
+      ],
+      "topicId": "diseases-of-the-hair-and-nails",
+      "topicName": "Diseases of the Hair and Nails",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk53-002",
+      "stem": "A 19-year-old man notices a smooth, round, coin-sized bald patch on his occipital scalp that appeared over a few days. The skin in the patch is not red or scaly, and follicular openings are visible. At the edge of the patch are several short hairs whose shafts narrow as they approach the scalp. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alopecia areata"
+        },
+        {
+          "label": "B",
+          "text": "Discoid lupus erythematosus"
+        },
+        {
+          "label": "C",
+          "text": "Tinea capitis"
+        },
+        {
+          "label": "D",
+          "text": "Traction alopecia"
+        },
+        {
+          "label": "E",
+          "text": "Trichotillomania"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Sudden coin-shaped non-scarring patches with exclamation point hairs and no scale indicate alopecia areata.",
+        "whyCorrect": "Alopecia areata is an autoimmune non-scarring alopecia presenting with sudden smooth, oval or round patches. Exclamation point hairs, whose shafts narrow proximally, are characteristic, and the absence of scale separates it from tinea capitis.",
+        "whyWrongByChoice": {
+          "B": "Discoid lupus is scarring, with erythema, hypopigmentation, scale, and lost follicular openings.",
+          "C": "Tinea capitis is distinguished from this disease by the presence of scale, which is absent here.",
+          "D": "Traction alopecia follows tight styling and favors the temporal hairline, not a sudden occipital patch.",
+          "E": "Trichotillomania gives geometric patches with hairs of varying length and signs of trauma such as excoriation."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "alopecia areata",
+        "exclamation point hair",
+        "non-scarring alopecia"
+      ],
+      "topicId": "diseases-of-the-hair-and-nails",
+      "topicName": "Diseases of the Hair and Nails",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk53-003",
+      "stem": "A physician examines a patch of hair loss to decide whether it is likely to be permanent. Which of the following findings most reliably indicates a scarring rather than a non-scarring alopecia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Absence of visible follicular openings"
+        },
+        {
+          "label": "B",
+          "text": "Diffuse thinning that involves the whole scalp"
+        },
+        {
+          "label": "C",
+          "text": "Fine scale overlying the area of hair loss"
+        },
+        {
+          "label": "D",
+          "text": "Hairs of many different lengths within the patch"
+        },
+        {
+          "label": "E",
+          "text": "Short hairs that taper toward the scalp surface"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Loss of follicular openings marks scarring alopecia, in which fibrosis replaces the follicular epithelium.",
+        "whyCorrect": "Scarring alopecias replace the follicular epithelium with fibrosis, so the follicular openings are permanently lost and regrowth is not possible. In non-scarring alopecia the openings can still be identified, and the loss is potentially reversible.",
+        "whyWrongByChoice": {
+          "B": "Diffuse, patternless thinning describes telogen effluvium, a non-scarring process.",
+          "C": "Scale is seen in tinea capitis and in discoid lupus, so it does not by itself establish scarring.",
+          "D": "Hairs of variable length within a patch suggest trichotillomania, which is usually non-scarring.",
+          "E": "Hairs narrowing proximally are exclamation point hairs of alopecia areata, a non-scarring disease."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "scarring alopecia",
+        "non-scarring alopecia",
+        "follicular openings"
+      ],
+      "topicId": "diseases-of-the-hair-and-nails",
+      "topicName": "Diseases of the Hair and Nails",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk53-004",
+      "stem": "A 24-year-old woman has three well-demarcated oval patches of smooth, non-scaly hair loss on her scalp that appeared suddenly over 2 weeks. Exclamation point hairs are seen at the margins. She has no other medical problems and wants treatment. Which of the following is the most appropriate first-line therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Daily oral finasteride"
+        },
+        {
+          "label": "B",
+          "text": "Intralesional glucocorticoid injections"
+        },
+        {
+          "label": "C",
+          "text": "Oral baricitinib (a JAK inhibitor)"
+        },
+        {
+          "label": "D",
+          "text": "Oral hydroxychloroquine"
+        },
+        {
+          "label": "E",
+          "text": "Tapering course of oral prednisone"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Intralesional or topical glucocorticoids are first-line for alopecia areata.",
+        "whyCorrect": "First-line treatment for alopecia areata is intralesional or topical glucocorticoids, which block transcription of proinflammatory genes and suppress the immune attack within the patches. Systemic glucocorticoids and JAK inhibitors are reserved as second-line options because of their greater adverse effects.",
+        "whyWrongByChoice": {
+          "A": "Finasteride lowers DHT for androgenetic alopecia in men and has no role in autoimmune patch loss.",
+          "C": "Oral JAK inhibitors are second-line agents and carry black box warnings for thrombosis and serious infection.",
+          "D": "Hydroxychloroquine is used for scarring diseases such as discoid lupus and lichen planopilaris.",
+          "E": "Systemic glucocorticoids are second-line because of mood swings, hyperglycemia, weight gain, and osteoporosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "alopecia areata",
+        "treatment",
+        "glucocorticoids"
+      ],
+      "topicId": "diseases-of-the-hair-and-nails",
+      "topicName": "Diseases of the Hair and Nails",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk53-005",
+      "stem": "A 27-year-old man has bitemporal recession of the hairline and thinning over the vertex that has progressed slowly for 5 years. His father had the same pattern. Serum testosterone and dihydrotestosterone (DHT) concentrations are within the reference range. Which of the following best explains his hair loss?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Excess 5-alpha reductase activity raising DHT levels"
+        },
+        {
+          "label": "B",
+          "text": "Impaired mitosis of hair matrix keratinocytes"
+        },
+        {
+          "label": "C",
+          "text": "Inherited follicular hypersensitivity to normal DHT levels"
+        },
+        {
+          "label": "D",
+          "text": "Synchronized premature shift of follicles into telogen"
+        },
+        {
+          "label": "E",
+          "text": "T lymphocytes attacking hair bulbs during anagen"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Androgenetic alopecia reflects a genetically determined follicular hypersensitivity to normal DHT, causing miniaturization.",
+        "whyCorrect": "In androgenetic alopecia, DHT binds hair follicles and activates genes for follicular miniaturization, producing progressively shorter hairs. Patients do not necessarily have high DHT; rather, their follicles are genetically hypersensitive to normal levels, which fits his normal hormone values and family history.",
+        "whyWrongByChoice": {
+          "A": "His DHT level is normal; excess androgen states cause what is termed androgenic, not androgenetic, alopecia.",
+          "B": "Impaired matrix mitosis is the mechanism of chemotherapy-related anagen effluvium.",
+          "D": "A shift into telogen after a stressor causes diffuse shedding in telogen effluvium, not a slow patterned loss.",
+          "E": "T-cell attack on anagen bulbs is the proposed mechanism of alopecia areata, which causes sudden patches."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "androgenetic alopecia",
+        "DHT",
+        "pathophysiology"
+      ],
+      "topicId": "diseases-of-the-hair-and-nails",
+      "topicName": "Diseases of the Hair and Nails",
+      "tier": "core"
+    },
+    {
+      "id": "mk53-006",
+      "stem": "A 52-year-old woman receiving cytotoxic chemotherapy for breast cancer notices diffuse hair loss over a few days. Examination of the shed hairs shows that they broke off at a narrowed point near their base rather than coming out at the root. Which of the following is the underlying mechanism of her hair loss?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "DHT-driven miniaturization of the follicles"
+        },
+        {
+          "label": "B",
+          "text": "Fibrotic replacement of the follicular epithelium"
+        },
+        {
+          "label": "C",
+          "text": "Impaired cell division in the hair matrix"
+        },
+        {
+          "label": "D",
+          "text": "Lymphocytic attack on bulbs in the growth phase"
+        },
+        {
+          "label": "E",
+          "text": "Premature shift of follicles into the resting phase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Anagen effluvium results from an insult that impairs mitosis of hair matrix keratinocytes.",
+        "whyCorrect": "Anagen effluvium is chemotherapy-related non-scarring hair loss. Any insult that impairs mitosis of hair follicle keratinocytes disrupts division in the hair matrix, narrowing the hair at its base so that it breaks off at the tapered point rather than falling out by the root.",
+        "whyWrongByChoice": {
+          "A": "DHT-driven miniaturization is androgenetic alopecia, a slow patterned process over years.",
+          "B": "Fibrosis of the follicular epithelium defines the scarring alopecias, which are permanent.",
+          "D": "Lymphocytes around anagen bulbs characterize alopecia areata, which forms patches rather than diffuse loss over days.",
+          "E": "A premature shift into telogen is telogen effluvium, in which whole hairs shed months after a trigger."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "anagen effluvium",
+        "chemotherapy",
+        "pathophysiology"
+      ],
+      "topicId": "diseases-of-the-hair-and-nails",
+      "topicName": "Diseases of the Hair and Nails",
+      "tier": "core"
+    },
+    {
+      "id": "mk53-007",
+      "stem": "A 14-year-old girl is brought to the physician by her mother because of a triangular patch of hair loss on the left parietal scalp. Within the patch are hairs of many different lengths, along with several excoriations and small hemorrhagic crusts. There is no scale, and follicular openings are visible. The girl appears anxious and admits she has tried unsuccessfully to stop a habit. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alopecia areata"
+        },
+        {
+          "label": "B",
+          "text": "Lichen planopilaris"
+        },
+        {
+          "label": "C",
+          "text": "Tinea capitis"
+        },
+        {
+          "label": "D",
+          "text": "Traction alopecia"
+        },
+        {
+          "label": "E",
+          "text": "Trichotillomania"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A geometric patch with hairs of variable length and signs of trauma is the hallmark of trichotillomania.",
+        "whyCorrect": "Trichotillomania is repeated hair pulling that the patient cannot stop despite repeated attempts. The hallmark features are a geometrically shaped (often triangular) zone of loss, hairs of variable length within it, and excoriations or hemorrhage from trauma.",
+        "whyWrongByChoice": {
+          "A": "Alopecia areata gives smooth coin-shaped patches without excoriation or hairs of many lengths.",
+          "B": "Lichen planopilaris is scarring, with violet perifollicular papules and loss of follicular openings.",
+          "C": "Tinea capitis is marked by scale, which is absent.",
+          "D": "Traction alopecia follows tight braids or ponytails and favors the temporal hairline."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "trichotillomania",
+        "non-scarring alopecia"
+      ],
+      "topicId": "diseases-of-the-hair-and-nails",
+      "topicName": "Diseases of the Hair and Nails",
+      "tier": "core"
+    },
+    {
+      "id": "mk53-008",
+      "stem": "A 46-year-old Black woman has an area of permanent hair loss that began on the top of her head and has expanded slowly outward over several years. Follicular openings are absent in the affected area. There are no violet perifollicular papules, no red scaly plaques, and no boggy nodules. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Central centrifugal cicatricial alopecia"
+        },
+        {
+          "label": "B",
+          "text": "Discoid lupus erythematosus"
+        },
+        {
+          "label": "C",
+          "text": "Dissecting cellulitis of the scalp"
+        },
+        {
+          "label": "D",
+          "text": "Female pattern androgenetic alopecia"
+        },
+        {
+          "label": "E",
+          "text": "Frontal fibrosing alopecia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A scarring alopecia starting at the top of the head and spreading outward in a Black woman is CCCA.",
+        "whyCorrect": "Central centrifugal cicatricial alopecia is a scarring alopecia that starts on the top of the head and expands slowly and centrifugally. Its cause is unknown, but there is a genetic predisposition, and it predominantly affects Black women.",
+        "whyWrongByChoice": {
+          "B": "Discoid lupus shows erythema, hypopigmentation, and scale along with the alopecia.",
+          "C": "Dissecting cellulitis features boggy abscesses with interconnecting sinus tracts, which are absent.",
+          "D": "Female pattern hair loss is non-scarring, so follicular openings would be preserved.",
+          "E": "Frontal fibrosing alopecia is the lichen planopilaris variant that affects the hairline, not the top of the head."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CCCA",
+        "scarring alopecia"
+      ],
+      "topicId": "diseases-of-the-hair-and-nails",
+      "topicName": "Diseases of the Hair and Nails",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk53-009",
+      "stem": "A 38-year-old woman has scarring plaques of hair loss on her scalp with erythema, hypopigmentation, and scale; follicular openings are lost within them. Similar lesions are present in the conchal bowls of both ears. In addition to intralesional corticosteroids, she is started on an oral antimalarial agent. Which of the following patient factors most reduces the effectiveness of this oral agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coexisting atopic dermatitis"
+        },
+        {
+          "label": "B",
+          "text": "Coexisting hypothyroidism"
+        },
+        {
+          "label": "C",
+          "text": "Concurrent use of combined oral contraceptives"
+        },
+        {
+          "label": "D",
+          "text": "Current tobacco smoking"
+        },
+        {
+          "label": "E",
+          "text": "Low dietary protein intake"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Hydroxychloroquine, used for discoid lupus, is less effective in patients who smoke tobacco.",
+        "whyCorrect": "Scarring scalp plaques with erythema, hypopigmentation, scale, and conchal bowl involvement indicate discoid lupus erythematosus. DLE is treated with intralesional corticosteroids, high-potency topical corticosteroids, and hydroxychloroquine, and hydroxychloroquine is less effective for DLE in patients who smoke tobacco.",
+        "whyWrongByChoice": {
+          "A": "Atopic dermatitis is the most frequent comorbidity of alopecia areata, not a factor in DLE treatment.",
+          "B": "Hypothyroidism can trigger telogen effluvium but does not blunt hydroxychloroquine in DLE.",
+          "C": "Oral contraceptive use is not described as reducing the response of discoid lupus to hydroxychloroquine.",
+          "E": "Low protein intake is a trigger for telogen effluvium, not a modifier of antimalarial response."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "discoid lupus erythematosus",
+        "hydroxychloroquine",
+        "scarring alopecia"
+      ],
+      "topicId": "diseases-of-the-hair-and-nails",
+      "topicName": "Diseases of the Hair and Nails",
+      "tier": "core"
+    },
+    {
+      "id": "mk53-010",
+      "stem": "A 61-year-old man is noted to have abnormal fingernails on all ten digits. In each nail, the proximal three-quarters is pale white, and the distal one-quarter has a normal pink color. Which of the following underlying conditions is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic kidney disease"
+        },
+        {
+          "label": "B",
+          "text": "Chronic liver disease"
+        },
+        {
+          "label": "C",
+          "text": "Infective endocarditis"
+        },
+        {
+          "label": "D",
+          "text": "Iron deficiency anemia"
+        },
+        {
+          "label": "E",
+          "text": "Lung cancer"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Terry's nails (pale proximal 3/4, normal distal 1/4) point to liver disease.",
+        "whyCorrect": "Terry's nails are multiple nails in which the proximal three-quarters or more is pale and the distal one-quarter is normal. The underlying cause of Terry's nails is liver disease.",
+        "whyWrongByChoice": {
+          "A": "Renal disease causes half and half nails, with the proximal half pale and the distal half normal.",
+          "C": "Endocarditis is the main systemic cause of splinter hemorrhages in multiple digits.",
+          "D": "Iron deficiency anemia causes spoon-shaped koilonychia rather than a color change.",
+          "E": "Lung cancer is the classic association of clubbing, not a pale proximal nail."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "nails",
+        "Terry's nails",
+        "liver disease"
+      ],
+      "topicId": "diseases-of-the-hair-and-nails",
+      "topicName": "Diseases of the Hair and Nails",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk53-011",
+      "stem": "A 58-year-old man has 4 months of cough and a 7-kg weight loss. His distal fingers appear wide and rounded like upside-down spoons. Viewed from the side, the angle formed between the nail plate and the proximal nail fold of each finger exceeds 180 degrees. Which of the following conditions is most classically associated with this nail finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic kidney disease"
+        },
+        {
+          "label": "B",
+          "text": "Chronic liver disease"
+        },
+        {
+          "label": "C",
+          "text": "Infective endocarditis"
+        },
+        {
+          "label": "D",
+          "text": "Iron deficiency anemia"
+        },
+        {
+          "label": "E",
+          "text": "Lung cancer"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Clubbing (Lovibond's angle >180 degrees) is associated especially with lung cancer.",
+        "whyCorrect": "Clubbing is defined by a hyponychial (Lovibond's) angle greater than 180 degrees, with a wider distal digit shaped like an upside-down spoon. Pulmonary conditions are associated with clubbing, especially lung cancer, and also cystic fibrosis, bronchiectasis, and interstitial lung disease.",
+        "whyWrongByChoice": {
+          "A": "Renal disease causes half and half nails.",
+          "B": "Liver disease causes Terry's nails with a pale proximal three-quarters.",
+          "C": "Endocarditis is linked to splinter hemorrhages in multiple nails.",
+          "D": "Iron deficiency anemia causes a concave spoon nail (koilonychia), not an increased hyponychial angle."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "nails",
+        "clubbing",
+        "lung cancer"
+      ],
+      "topicId": "diseases-of-the-hair-and-nails",
+      "topicName": "Diseases of the Hair and Nails",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk53-012",
+      "stem": "A 34-year-old man struck his right thumbnail with a hammer 6 hours ago. He now has severe throbbing pain, and dark red-purple discoloration fills about half of the area beneath the nail plate. The nail plate is intact. Which of the following is the most appropriate next step in management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Avulse the entire nail plate"
+        },
+        {
+          "label": "B",
+          "text": "Biopsy the nail matrix to exclude melanoma"
+        },
+        {
+          "label": "C",
+          "text": "Make an opening in the nail plate over the blood"
+        },
+        {
+          "label": "D",
+          "text": "Reassure him and reexamine in 4 weeks"
+        },
+        {
+          "label": "E",
+          "text": "Start oral antistaphylococcal antibiotics"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A subungual hematoma covering 25% or more of the nail or causing significant pain is evacuated through an opening in the nail plate.",
+        "whyCorrect": "Bleeding under the nail after trauma is a subungual hematoma. When 25% or more of the nail is affected, or there is significant pain, the hematoma is evacuated by making an opening in the nail plate overlying it, which relieves the pressure.",
+        "whyWrongByChoice": {
+          "A": "Complete removal of the nail is unnecessary; a small opening drains the blood.",
+          "B": "A clear history of acute trauma with immediate discoloration indicates hematoma, so biopsy is not indicated.",
+          "D": "Reassurance alone is inappropriate when the hematoma is this large and painful.",
+          "E": "There is no infection, and antibiotics do not relieve the pressure of trapped blood."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "nails",
+        "subungual hematoma",
+        "management"
+      ],
+      "topicId": "diseases-of-the-hair-and-nails",
+      "topicName": "Diseases of the Hair and Nails",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk54-001",
+      "stem": "A 15-year-old boy has many small, flat-topped follicular plugs across his forehead and nose. Most have a dark center where the debris-filled pore is exposed to air; a few are skin-colored bumps with skin covering the pore. There are no red or tender lesions. Which of the following best describes the dark-centered lesions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Closed comedones"
+        },
+        {
+          "label": "B",
+          "text": "Inflammatory papules"
+        },
+        {
+          "label": "C",
+          "text": "Nodulocystic lesions"
+        },
+        {
+          "label": "D",
+          "text": "Open comedones"
+        },
+        {
+          "label": "E",
+          "text": "Pinpoint pustules"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "An open comedo (blackhead) is a debris-filled follicle open to the air; a closed comedo (whitehead) has skin covering the pore.",
+        "whyCorrect": "A comedo is a hair follicle clogged with skin debris and sebum because of hyperkeratosis. When the debris-filled follicle is open to the air it is an open comedo, or blackhead. Comedones are the noninflammatory lesions of acne vulgaris.",
+        "whyWrongByChoice": {
+          "A": "Closed comedones (whiteheads) have a covering of skin over the affected pore, matching only the few skin-colored bumps.",
+          "B": "Papules are inflammatory lesions; this boy has no red or tender lesions.",
+          "C": "Nodules and cysts are deep inflammatory lesions, not superficial follicular plugs.",
+          "E": "Pustules contain neutrophils from follicular rupture and inflammation, which is absent here."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "acne vulgaris",
+        "comedones",
+        "lesion morphology"
+      ],
+      "topicId": "acne-rosacea-and-other-follicular-disorders",
+      "topicName": "Acne, Rosacea, and Other Follicular Disorders",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk54-002",
+      "stem": "A researcher studies monocytes from inflamed acne lesions. Proliferation of the gram-positive skin bacterium in the follicles activates an intracellular sensor that cleaves a pro-cytokine into its active form, which then amplifies the pain, redness, and swelling of the lesions. Which of the following is this activated cytokine?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Interleukin-12"
+        },
+        {
+          "label": "B",
+          "text": "Interleukin-17A"
+        },
+        {
+          "label": "C",
+          "text": "Interleukin-1β"
+        },
+        {
+          "label": "D",
+          "text": "Interleukin-8"
+        },
+        {
+          "label": "E",
+          "text": "Tumor necrosis factor-α"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "C. acnes activates the NLRP3 inflammasome, which cleaves and activates IL-1β to drive acne pain, redness, and swelling.",
+        "whyCorrect": "Proliferation of C. acnes activates the NOD-like receptor P3 (NLRP3) inflammasome in skin cells and monocytes. NLRP3 cleaves and activates IL-1β, a proinflammatory cytokine that amplifies the inflammatory process to cause the pain, redness, and swelling of acne.",
+        "whyWrongByChoice": {
+          "A": "IL-12 is released with IL-8 after macrophage toll-like receptor activation, not produced by inflammasome cleavage.",
+          "B": "IL-17A/F is made by Th17 cells under IL-23 drive in hidradenitis suppurativa, not by inflammasome cleavage.",
+          "D": "IL-8 is released after toll-like receptor activation on macrophages and recruits neutrophils; it is not the cytokine cleaved by the inflammasome.",
+          "E": "TNF-α is a key cytokine of hidradenitis suppurativa; the inflammasome in acne cleaves and activates a different cytokine."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "acne vulgaris",
+        "pathogenesis",
+        "NLRP3 inflammasome",
+        "IL-1β"
+      ],
+      "topicId": "acne-rosacea-and-other-follicular-disorders",
+      "topicName": "Acne, Rosacea, and Other Follicular Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk54-003",
+      "stem": "A 17-year-old girl with severe nodulocystic acne and early scarring has failed topical therapy and oral antibiotics. Her dermatologist starts an oral vitamin A derivative reserved for the most severe cases. Which of the following is the principal way this drug reduces her acne?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blocking androgen receptors in the sebaceous gland"
+        },
+        {
+          "label": "B",
+          "text": "Feedback inhibition of ovarian androgen production"
+        },
+        {
+          "label": "C",
+          "text": "Inhibiting bacterial protein synthesis in the follicle"
+        },
+        {
+          "label": "D",
+          "text": "Shrinking the sebaceous glands to lower oil output"
+        },
+        {
+          "label": "E",
+          "text": "Vasoconstriction of the dermal blood vessels"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Oral isotretinoin shrinks sebaceous glands and decreases sebum production; it is used for the most severe acne.",
+        "whyCorrect": "Oral retinoids (isotretinoin) help shrink sebaceous glands, decreasing sebum production. They are used for the most severe cases of acne, and results can be very impressive, but they carry many side effects.",
+        "whyWrongByChoice": {
+          "A": "Androgen blockade is how spironolactone works; it is used for adult hormonal acne in women.",
+          "B": "This is the mechanism of oral contraceptive pills for hormonal cystic acne.",
+          "C": "Reducing C. acnes is the action of antibiotics such as doxycycline and minocycline.",
+          "E": "Vasoconstriction is how topical α-agonists such as brimonidine reduce rosacea erythema."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "acne vulgaris",
+        "isotretinoin",
+        "treatment"
+      ],
+      "topicId": "acne-rosacea-and-other-follicular-disorders",
+      "topicName": "Acne, Rosacea, and Other Follicular Disorders",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk54-004",
+      "stem": "A 16-year-old boy taking oral isotretinoin for severe acne is also started on a second oral acne drug by an urgent care physician. Two weeks later he has a severe daily headache and blurred vision, and funduscopic examination shows bilateral papilledema. Which class of drug most likely caused this complication when combined with his isotretinoin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lincosamide antibiotics"
+        },
+        {
+          "label": "B",
+          "text": "Macrolide antibiotics"
+        },
+        {
+          "label": "C",
+          "text": "Potassium-sparing diuretics"
+        },
+        {
+          "label": "D",
+          "text": "Rifamycin antibiotics"
+        },
+        {
+          "label": "E",
+          "text": "Tetracycline antibiotics"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Isotretinoin combined with a tetracycline antibiotic can cause pseudotumor cerebri (intracranial hypertension).",
+        "whyCorrect": "Concomitant use of isotretinoin and tetracycline antibiotics such as doxycycline or minocycline can lead to pseudotumor cerebri, or idiopathic intracranial hypertension. Headache, blurred vision, and papilledema are its features.",
+        "whyWrongByChoice": {
+          "A": "Clindamycin is used topically for acne and orally for hidradenitis; it is not the class linked to this interaction.",
+          "B": "Oral macrolides are a mainstay of acne treatment in pregnancy; the interaction described with isotretinoin involves another class.",
+          "C": "Spironolactone is an anti-androgen for adult hormonal acne in women; its risks are birth defects, low blood pressure, and irregular menses.",
+          "D": "Rifampin is paired with clindamycin for hidradenitis and speeds the metabolism of oral contraceptives."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "acne vulgaris",
+        "isotretinoin",
+        "pseudotumor cerebri",
+        "drug interaction"
+      ],
+      "topicId": "acne-rosacea-and-other-follicular-disorders",
+      "topicName": "Acne, Rosacea, and Other Follicular Disorders",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk54-005",
+      "stem": "A 29-year-old woman has tender, small cystic lesions along her jawline and lower cheeks that flare before each menstrual period. Her forehead and nose are largely clear, and she has few comedones. She is not planning a pregnancy and uses reliable contraception. She would like an oral long-term suppressive therapy that targets the hormonal drive of her lesions. Which of the following is the most appropriate choice?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ivermectin"
+        },
+        {
+          "label": "B",
+          "text": "Metronidazole"
+        },
+        {
+          "label": "C",
+          "text": "Minocycline"
+        },
+        {
+          "label": "D",
+          "text": "Oxymetazoline"
+        },
+        {
+          "label": "E",
+          "text": "Spironolactone"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Spironolactone, an oral anti-androgen, is a highly effective long-term treatment for adult hormonal (U-zone) acne in women.",
+        "whyCorrect": "Adult hormonal cystic acne in women affects the U-zone (mandible and cheeks), and the small cyst is its predominant lesion. Spironolactone is an oral anti-androgen and diuretic that blocks the androgens promoting oil production and inflammation. Its side effects include birth defects, low blood pressure, and irregular menstrual cycles.",
+        "whyWrongByChoice": {
+          "A": "Oral ivermectin is reserved for stubborn Demodex infestation in rosacea.",
+          "B": "Topical metronidazole treats rosacea and acts against Demodex mites; it does not block androgens.",
+          "C": "Minocycline reduces C. acnes and inflammation but does not target the androgen drive, and it is not a long-term hormonal suppressant.",
+          "D": "Topical oxymetazoline is an α-agonist that reduces rosacea erythema by vasoconstriction."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "acne vulgaris",
+        "hormonal acne",
+        "spironolactone",
+        "U-zone"
+      ],
+      "topicId": "acne-rosacea-and-other-follicular-disorders",
+      "topicName": "Acne, Rosacea, and Other Follicular Disorders",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk54-006",
+      "stem": "A 27-year-old woman at 18 weeks' gestation has a flare of inflamed papules and pustules on her cheeks and chin. She asks for a treatment that is safe to use during the pregnancy. Which of the following is the most appropriate option?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oral doxycycline"
+        },
+        {
+          "label": "B",
+          "text": "Oral isotretinoin"
+        },
+        {
+          "label": "C",
+          "text": "Oral minocycline"
+        },
+        {
+          "label": "D",
+          "text": "Oral spironolactone"
+        },
+        {
+          "label": "E",
+          "text": "Topical azelaic acid"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Topical clindamycin, topical azelaic acid, and oral macrolides are the mainstays of acne treatment during pregnancy.",
+        "whyCorrect": "Most prescription acne treatments are not safe in pregnancy. The mainstays of treatment for acne in pregnancy are topical clindamycin, topical azelaic acid, and oral macrolide antibiotics. Isotretinoin and spironolactone both cause birth defects.",
+        "whyWrongByChoice": {
+          "A": "Tetracyclines such as doxycycline are not among the acne therapies considered safe in pregnancy.",
+          "B": "Isotretinoin causes birth defects; persons at risk for pregnancy must use two forms of birth control.",
+          "C": "Minocycline is a tetracycline and is not a mainstay of acne treatment in pregnancy.",
+          "D": "Spironolactone is an anti-androgen that can cause birth defects."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "acne vulgaris",
+        "pregnancy",
+        "treatment safety"
+      ],
+      "topicId": "acne-rosacea-and-other-follicular-disorders",
+      "topicName": "Acne, Rosacea, and Other Follicular Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk54-007",
+      "stem": "A 44-year-old fair-skinned woman of northern European descent has persistent central facial redness with telangiectases. Over the past months she has also developed scattered inflamed papules and pustules on her cheeks, with no comedones. Which subtype of her disorder is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erythematotelangiectatic"
+        },
+        {
+          "label": "B",
+          "text": "Hormonal cystic"
+        },
+        {
+          "label": "C",
+          "text": "Ocular"
+        },
+        {
+          "label": "D",
+          "text": "Papulopustular"
+        },
+        {
+          "label": "E",
+          "text": "Phymatous"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Papulopustular rosacea, the classic presentation, adds papules and pustules to the erythema and telangiectases.",
+        "whyCorrect": "All four rosacea subtypes share redness or flushing. The papulopustular subtype is the classic presentation and is set apart by papules or pustules on a background of facial erythema and telangiectases. Rosacea never forms comedones.",
+        "whyWrongByChoice": {
+          "A": "This subtype has flushing and facial erythema, sometimes with roughness or scaling, but lacks the papules and pustules that define her presentation.",
+          "B": "Hormonal cystic disease is a form of adult acne along the jawline, with small cysts rather than central facial redness.",
+          "C": "Ocular rosacea involves the eyelid margins and eyes; no eye findings are described.",
+          "E": "Phymatous rosacea features skin thickening and irregular nodules, usually of the nose and chin."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "rosacea",
+        "subtypes",
+        "papulopustular"
+      ],
+      "topicId": "acne-rosacea-and-other-follicular-disorders",
+      "topicName": "Acne, Rosacea, and Other Follicular Disorders",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk54-008",
+      "stem": "Skin biopsies from patients with rosacea show increased toll-like receptor 2 on keratinocytes and increased activity of a serine protease. This protease cleaves an 18-kDa precursor protein into LL-37 and related fragments with vasoactive and proinflammatory effects. Which of the following is the overexpressed protease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Caspase-1"
+        },
+        {
+          "label": "B",
+          "text": "Cathepsin G"
+        },
+        {
+          "label": "C",
+          "text": "Kallikrein-5"
+        },
+        {
+          "label": "D",
+          "text": "Matrix metalloproteinase-9"
+        },
+        {
+          "label": "E",
+          "text": "Neutrophil elastase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In rosacea, TLR2 overexpression raises kallikrein-5 (KLK5) activity, which cleaves hCAP18 into the cathelicidin LL-37.",
+        "whyCorrect": "Rosacea skin has more cathelicidin than normal skin because kallikrein-5 (KLK5) is overexpressed. Keratinocytes overexpress TLR2, raising KLK5 activity, and KLK5 cleaves the precursor hCAP18 into LL-37 and related fragments. Triggers such as UV, heat, and Demodex signal through this pathway.",
+        "whyWrongByChoice": {
+          "A": "Caspase-1 is not the protease that cleaves hCAP18 in rosacea skin.",
+          "B": "Cathepsin G is not part of the rosacea cathelicidin pathway described.",
+          "D": "This enzyme is not the one that processes hCAP18 in rosacea skin.",
+          "E": "Neutrophil elastase is not the overexpressed enzyme upstream of LL-37 in rosacea."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "rosacea",
+        "pathogenesis",
+        "cathelicidin",
+        "KLK5"
+      ],
+      "topicId": "acne-rosacea-and-other-follicular-disorders",
+      "topicName": "Acne, Rosacea, and Other Follicular Disorders",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk54-009",
+      "stem": "A 38-year-old woman is referred for facial redness, flushing after hot drinks, and inflamed papules over her nose and cheeks. The referring physician wrote 'adult acne.' Which examination finding would most strongly favor rosacea over acne vulgaris?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lesions concentrated on the central face"
+        },
+        {
+          "label": "B",
+          "text": "No comedones anywhere on the face"
+        },
+        {
+          "label": "C",
+          "text": "Papules that are tender to palpation"
+        },
+        {
+          "label": "D",
+          "text": "Pustules mixed in with the papules"
+        },
+        {
+          "label": "E",
+          "text": "Scarring over both cheeks"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Rosacea does not form comedones and can extend beyond the follicular unit, which separates it from acne vulgaris.",
+        "whyCorrect": "Early rosacea can be confused with acne vulgaris. Rosacea has perifollicular inflammation without overt clogging of the follicle, so comedones do not form. Acne, by contrast, starts with the comedo.",
+        "whyWrongByChoice": {
+          "A": "Both acne and rosacea commonly involve the central face, so location does not separate them.",
+          "C": "Both disorders can produce tender inflammatory papules.",
+          "D": "Pustules occur in both papulopustular rosacea and inflammatory acne.",
+          "E": "Scarring is a common consequence of acne and only rarely occurs in severe untreated rosacea."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "rosacea",
+        "acne vulgaris",
+        "differential diagnosis"
+      ],
+      "topicId": "acne-rosacea-and-other-follicular-disorders",
+      "topicName": "Acne, Rosacea, and Other Follicular Disorders",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk54-010",
+      "stem": "A 41-year-old man has persistent redness of the cheeks and nose with frequent flushing but no papules or pustules. He wants a topical agent that will quickly reduce the redness itself. His physician prescribes a gel that is an α-receptor agonist. Which of the following is the mechanism by which this drug improves his erythema?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blockade of androgen receptors in skin"
+        },
+        {
+          "label": "B",
+          "text": "Inhibition of cathelicidin production"
+        },
+        {
+          "label": "C",
+          "text": "Killing of Demodex mites in the follicles"
+        },
+        {
+          "label": "D",
+          "text": "Reduction of sebum by gland shrinkage"
+        },
+        {
+          "label": "E",
+          "text": "Vasoconstriction of cutaneous vessels"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Topical brimonidine and oxymetazoline are α-receptor agonists that decrease rosacea erythema by vasoconstriction.",
+        "whyCorrect": "Topical brimonidine and oxymetazoline are α-receptor agonists. Applied to the skin, they decrease the erythema of rosacea by vasoconstriction, countering the exaggerated cutaneous vasodilation that causes flushing and redness.",
+        "whyWrongByChoice": {
+          "A": "Androgen blockade is the mechanism of spironolactone.",
+          "B": "The α-agonists are not described as acting on cathelicidin; they act on vascular tone.",
+          "C": "This is how ivermectin and metronidazole act; α-agonists act on blood vessels.",
+          "D": "Sebaceous gland shrinkage is the action of oral isotretinoin in acne."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "rosacea",
+        "treatment",
+        "brimonidine",
+        "oxymetazoline"
+      ],
+      "topicId": "acne-rosacea-and-other-follicular-disorders",
+      "topicName": "Acne, Rosacea, and Other Follicular Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk54-011",
+      "stem": "A 24-year-old woman with obesity has had recurrent painful nodules and draining lesions in both armpits and the groin for 4 years. Examination shows comedones, tender nodules, scarring, and a few connected tracts that discharge pus. A bacterial culture of the drainage is negative. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acne vulgaris"
+        },
+        {
+          "label": "B",
+          "text": "Bacterial folliculitis"
+        },
+        {
+          "label": "C",
+          "text": "Hidradenitis suppurativa"
+        },
+        {
+          "label": "D",
+          "text": "Papulopustular rosacea"
+        },
+        {
+          "label": "E",
+          "text": "Staphylococcal abscess"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Hidradenitis suppurativa is a non-infectious follicular occlusion disorder of skin folds; a negative culture supports it.",
+        "whyCorrect": "Hidradenitis suppurativa is a chronic, non-infectious inflammatory disorder of occluded follicles in skin folds such as the axilla, groin, perineum, and inframammary region. It presents with comedones, papules, pustules, nodules, and cysts, and severe cases form sinuses and tunnels with scarring. A negative bacterial culture can confirm the diagnosis.",
+        "whyWrongByChoice": {
+          "A": "Acne affects the face and trunk; deep nodules and tracts in the axillae and groin point elsewhere.",
+          "B": "Folliculitis is an infection, so a negative culture argues against it.",
+          "D": "Rosacea affects the central face and does not form comedones.",
+          "E": "A staphylococcal infection is confirmed by a positive bacterial culture, not a negative one."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "hidradenitis suppurativa",
+        "diagnosis",
+        "culture-negative"
+      ],
+      "topicId": "acne-rosacea-and-other-follicular-disorders",
+      "topicName": "Acne, Rosacea, and Other Follicular Disorders",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk54-012",
+      "stem": "A 34-year-old woman has refractory hidradenitis suppurativa with multiple draining tunnels despite oral antibiotics and hormonal therapy. Her physician selects a biologic that neutralizes the cytokine Th17 cells produce under IL-23 drive in this disease. Which of the following agents was most likely chosen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adalimumab"
+        },
+        {
+          "label": "B",
+          "text": "Cyclosporine"
+        },
+        {
+          "label": "C",
+          "text": "Infliximab"
+        },
+        {
+          "label": "D",
+          "text": "Rifampin"
+        },
+        {
+          "label": "E",
+          "text": "Secukinumab"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In hidradenitis, IL-23 drives Th17 cells to make IL-17A/F; secukinumab and bimekizumab target this pathway in refractory cases.",
+        "whyCorrect": "In hidradenitis suppurativa, IL-23 drives Th17 cells to produce IL-17A/F, which together with TNF-α, IL-1β, and IL-36 recruits neutrophils and drives tunnel formation. Secukinumab and bimekizumab are the biologics in the lecture's list that target IL-17; adalimumab and infliximab target TNF-α.",
+        "whyWrongByChoice": {
+          "A": "Adalimumab is a biologic used in refractory hidradenitis, but it targets TNF-α, not the Th17 cytokine.",
+          "B": "Cyclosporine drops are used for ocular rosacea; it is not the biologic described.",
+          "C": "Infliximab is also used in refractory hidradenitis but blocks TNF-α.",
+          "D": "Rifampin is an antibiotic combined with oral clindamycin for more severe hidradenitis, not a biologic."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "hidradenitis suppurativa",
+        "biologic therapy",
+        "IL-17",
+        "Th17"
+      ],
+      "topicId": "acne-rosacea-and-other-follicular-disorders",
+      "topicName": "Acne, Rosacea, and Other Follicular Disorders",
+      "tier": "core"
+    },
+    {
+      "id": "mk55-001",
+      "stem": "A 34-year-old woman who works at a nursing home has 3 weeks of intense pruritus that is worst at night. Examination shows red papules and short linear tracks in the web spaces of her fingers, papules on the volar wrists and periumbilical skin, and itchy nodules on the vulva. Her face and scalp are clear. Which organism is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cimex lectularius"
+        },
+        {
+          "label": "B",
+          "text": "Pediculus humanus corporis"
+        },
+        {
+          "label": "C",
+          "text": "Pthirus pubis"
+        },
+        {
+          "label": "D",
+          "text": "Sarcoptes scabiei"
+        },
+        {
+          "label": "E",
+          "text": "Trombiculid mite (chigger)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Nocturnal itch with papules and burrows in the finger webs, wrists, periumbilical area and genitals, sparing the face, is scabies.",
+        "whyCorrect": "The female Sarcoptes scabiei mite burrows and lays eggs in the webs between fingers and toes, producing red papules and burrows. Lesions also occur on the wrists, axillae, breasts, periumbilical area and groin (Circle of Hebra), with genital nodules. The face and scalp are spared in adults, and the itch is worse at night.",
+        "whyWrongByChoice": {
+          "A": "Bed bug bites appear in lines or clusters on the face, neck, arms and hands and do not form burrows.",
+          "B": "The body louse causes pinpoint lesions on the torso and underarms and lives in clothing seams, not burrows in the web spaces.",
+          "C": "The pubic louse causes pinpoint bite marks in the pubic region and can reach the eyelashes; it does not make finger-web burrows.",
+          "E": "Chiggers bite in grassy areas near water and do not burrow under the skin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "scabies",
+        "Sarcoptes scabiei",
+        "distribution"
+      ],
+      "topicId": "infestations-bites-stings",
+      "topicName": "Infestations, Bites, & Stings",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk55-002",
+      "stem": "A 19-year-old college student living in a dormitory has nocturnal itching and finger-web papules. A mineral oil preparation of a scraping shows the causative mites and their eggs. Which regimen is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Narrowband phototherapy three times weekly for 6 weeks"
+        },
+        {
+          "label": "B",
+          "text": "Oral albendazole as a single dose, repeated in 2 weeks"
+        },
+        {
+          "label": "C",
+          "text": "Oral doxycycline twice daily for a 10-day course of therapy"
+        },
+        {
+          "label": "D",
+          "text": "Permethrin to the entire body for about 10 hours, repeated in 1 week"
+        },
+        {
+          "label": "E",
+          "text": "Topical hydrocortisone to the lesions twice daily for 2 weeks"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Scabies is treated with whole-body permethrin left on about 10 hours and repeated in 1 week; oral ivermectin is an alternative.",
+        "whyCorrect": "Typical treatment of scabies is permethrin applied across the entire body for around 10 hours, repeated 1 week later. Oral ivermectin is another option.",
+        "whyWrongByChoice": {
+          "A": "Light therapy does not eradicate the mite; failure of 'eczema' therapy is a clue to missed scabies.",
+          "B": "Albendazole is a treatment for cutaneous larva migrans, not scabies.",
+          "C": "Doxycycline treats most tick-borne bacterial diseases, not a mite infestation.",
+          "E": "A corticosteroid treats eczema but does not kill the mite; scabies is often mistreated this way after misdiagnosis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "scabies",
+        "permethrin",
+        "treatment"
+      ],
+      "topicId": "infestations-bites-stings",
+      "topicName": "Infestations, Bites, & Stings",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk55-003",
+      "stem": "A 46-year-old woman is bitten on the dorsum of the hand by her pet cat. Two hours later there are two small, deep puncture wounds over the third metacarpophalangeal joint with minimal bleeding. Her tetanus immunization is current and the cat is vaccinated against rabies. She asks whether wounds this small need more than a bandage. Which is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A simple bandage alone, because small puncture wounds rarely become infected"
+        },
+        {
+          "label": "B",
+          "text": "Primary suture closure, withholding any antibiotic unless fever develops"
+        },
+        {
+          "label": "C",
+          "text": "Rabies immune globulin and the full vaccine series started today"
+        },
+        {
+          "label": "D",
+          "text": "Topical mupirocin only, with a return visit if the redness spreads"
+        },
+        {
+          "label": "E",
+          "text": "Wound irrigation, prophylactic amoxicillin-clavulanate and close follow-up"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Cat bites are deep punctures with a 30-50% infection risk (Pasteurella multocida); irrigate and give prophylactic amoxicillin-clavulanate.",
+        "whyCorrect": "All bites need irrigation and review of tetanus and rabies status, with consideration of prophylactic amoxicillin-clavulanate. Cat bites are puncture wounds that inoculate Pasteurella multocida deep near joints and tendons, so their infection risk is high, and cat and hand bites have lower thresholds for prophylaxis and closer follow-up.",
+        "whyWrongByChoice": {
+          "A": "Cat punctures carry a deceptively high infection risk (about 30-50%) because of deep inoculation near joints and tendons.",
+          "B": "Antibiotic prophylaxis thresholds are lower for cat and hand bites; waiting for fever is inappropriate.",
+          "C": "The cat is vaccinated; rabies status should be assessed, but the pressing issue is infection prevention.",
+          "D": "A topical agent does not address deep inoculation of Pasteurella multocida near the joint."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cat bite",
+        "Pasteurella multocida",
+        "amoxicillin-clavulanate"
+      ],
+      "topicId": "infestations-bites-stings",
+      "topicName": "Infestations, Bites, & Stings",
+      "tier": "core"
+    },
+    {
+      "id": "mk55-004",
+      "stem": "A 7-year-old girl is brought in for an itchy scalp. Several small white specks are seen along her hair shafts, and her father thinks it is dandruff. Which examination finding most strongly indicates that the specks are lice eggs?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They are found mainly in the seams of her clothing"
+        },
+        {
+          "label": "B",
+          "text": "They are glued firmly to the shaft and do not move"
+        },
+        {
+          "label": "C",
+          "text": "They can be identified only under light microscopy"
+        },
+        {
+          "label": "D",
+          "text": "They glide freely up and down the shaft with a fingertip"
+        },
+        {
+          "label": "E",
+          "text": "They lie beside tiny burrows in the finger web spaces"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "True nits are cemented to the hair shaft; pseudonits of dandruff slide freely along it.",
+        "whyCorrect": "Nits can be mistaken for dandruff. The pseudonits of dandruff move freely along the hair shaft, whereas true nits are glued in place and do not move. The louse must secure its nits to the shaft for the infestation to take hold, and dermoscopy can help.",
+        "whyWrongByChoice": {
+          "A": "Clothing seams are where body lice and their eggs are found, not head lice.",
+          "C": "Lice and nits can usually be seen without a microscope; lice are 2-3 mm, flesh-colored bugs.",
+          "D": "Freely mobile casts are pseudonits from dandruff, not true nits.",
+          "E": "Burrows in the finger webs are a sign of scabies."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "head lice",
+        "nits",
+        "pseudonits"
+      ],
+      "topicId": "infestations-bites-stings",
+      "topicName": "Infestations, Bites, & Stings",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk55-005",
+      "stem": "A 50-year-old man who is experiencing homelessness and has no access to laundry facilities has itching with red pinpoint lesions on his torso and under his arms. Insects slightly larger than 3 mm are found along the seams of his shirt. This insect is a known vector of trench fever. Which organism causes that illness?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bartonella quintana"
+        },
+        {
+          "label": "B",
+          "text": "Borrelia burgdorferi"
+        },
+        {
+          "label": "C",
+          "text": "Eikenella corrodens"
+        },
+        {
+          "label": "D",
+          "text": "Pasteurella multocida"
+        },
+        {
+          "label": "E",
+          "text": "Rickettsia rickettsii"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Body lice transmit Bartonella quintana (trench fever), Rickettsia prowazekii (typhus) and Borrelia recurrentis (recurrent fever).",
+        "whyCorrect": "Body lice (Pediculus humanus corporis) thrive with overcrowding and lack of clean clothes and are found in clothing seams. They are vectors for Rickettsia prowazekii (typhus), Borrelia recurrentis (recurrent fever) and Bartonella quintana (trench fever).",
+        "whyWrongByChoice": {
+          "B": "Borrelia burgdorferi causes Lyme disease and is tick-borne.",
+          "C": "Eikenella corrodens is associated with human bite wounds.",
+          "D": "Pasteurella multocida is the dominant organism in cat bite infections.",
+          "E": "Rickettsia rickettsii causes Rocky Mountain spotted fever and is tick-borne."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "body lice",
+        "Bartonella quintana",
+        "vector"
+      ],
+      "topicId": "infestations-bites-stings",
+      "topicName": "Infestations, Bites, & Stings",
+      "tier": "core"
+    },
+    {
+      "id": "mk55-006",
+      "stem": "A 28-year-old man has itching in the pubic region with red pinpoint bite marks. Small insects, smaller than head lice, are attached to the pubic hairs, and a few are seen on his eyelashes. Which route most likely transmitted this infestation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sexual contact with an infested partner"
+        },
+        {
+          "label": "B",
+          "text": "Sharing hats or hairbrushes with classmates"
+        },
+        {
+          "label": "C",
+          "text": "Sleeping on a mattress in a hotel room"
+        },
+        {
+          "label": "D",
+          "text": "Walking barefoot on contaminated beach sand"
+        },
+        {
+          "label": "E",
+          "text": "Wearing the same unwashed clothes for weeks"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Pubic lice (Pthirus pubis) spread by sexual contact and can infest the eyelashes and eyebrows.",
+        "whyCorrect": "Pthirus pubis is associated with sexual contact. It causes itching and red pinpoint bite marks around the genitalia and pubic region, is smaller than the head louse, and is known for also infesting the eyelashes and eyebrows.",
+        "whyWrongByChoice": {
+          "B": "Sharing hats or brushes spreads head lice.",
+          "C": "Mattress tufts harbor bed bugs, which bite at night in lines or clusters.",
+          "D": "Barefoot exposure to sand spreads hookworm larvae (cutaneous larva migrans).",
+          "E": "Lack of clean clothes is the setting for body lice."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "pubic lice",
+        "Pthirus pubis",
+        "transmission"
+      ],
+      "topicId": "infestations-bites-stings",
+      "topicName": "Infestations, Bites, & Stings",
+      "tier": "core"
+    },
+    {
+      "id": "mk55-007",
+      "stem": "A 40-year-old man who grew up in Southeast Asia reports recurring episodes of an itchy linear eruption over the buttocks and perianal skin. Each streak has a raised hive-like border and advances quickly, moving far within hours. He also has intermittent abdominal pain and diarrhea. Which organism is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ancylostoma species"
+        },
+        {
+          "label": "B",
+          "text": "Dermatobia hominis"
+        },
+        {
+          "label": "C",
+          "text": "Leishmania species"
+        },
+        {
+          "label": "D",
+          "text": "Pediculus humanus corporis"
+        },
+        {
+          "label": "E",
+          "text": "Strongyloides stercoralis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Larva currens of strongyloidiasis migrates faster than larva migrans, has an urticarial border and favors the perianal area.",
+        "whyCorrect": "Strongyloides stercoralis is a nematode acquired through exposed skin in tropical regions such as Southeast Asia. It can cause abdominal pain, diarrhea, pulmonary complaints and rashes. Its larva currens lesions differ from larva migrans by faster migration, an urticarial border and a tendency to involve the perianal area.",
+        "whyWrongByChoice": {
+          "A": "Animal hookworms cause cutaneous larva migrans, which migrates more slowly, lacks an urticarial border and typically affects the feet.",
+          "B": "The human botfly causes a boil-like nodule with a punctum, not a migrating track.",
+          "C": "Cutaneous leishmaniasis presents as nonhealing ulcers or crusts.",
+          "D": "Body lice cause pinpoint bite lesions on the torso and live in clothing seams; they do not migrate in the skin."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "strongyloidiasis",
+        "larva currens",
+        "cutaneous larva migrans"
+      ],
+      "topicId": "infestations-bites-stings",
+      "topicName": "Infestations, Bites, & Stings",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk55-008",
+      "stem": "A 30-year-old woman who grew up in rural South America recalls that as a child she had painless swelling of one eye after an insect bit her near the eyelid while she slept. She has now been infected for many years. Which complication is this chronic infection most associated with?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Destructive lesions of the nasal midline"
+        },
+        {
+          "label": "B",
+          "text": "Dilated cardiomyopathy"
+        },
+        {
+          "label": "C",
+          "text": "Expanding erythema migrans rash"
+        },
+        {
+          "label": "D",
+          "text": "Hemoglobinuria and acute kidney injury"
+        },
+        {
+          "label": "E",
+          "text": "Periumbilical thumbprint purpura"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Chagas disease (Trypanosoma cruzi) causes Romana sign acutely and cardiac or GI disease chronically.",
+        "whyCorrect": "American trypanosomiasis is caused by Trypanosoma cruzi, transmitted by the reduviid bug, which releases trypomastigotes in its feces near the bite. A chagoma near the eye causes unilateral periorbital edema (Romana sign). Chronic complications include megaesophagus, megacolon and dilated cardiomyopathy.",
+        "whyWrongByChoice": {
+          "A": "Nasal midline destruction is mucocutaneous leishmaniasis, transmitted by sandflies.",
+          "C": "Erythema migrans is the rash of Lyme disease after a tick bite.",
+          "D": "Hemolysis with hemoglobinuria and kidney injury is a systemic complication of brown recluse venom.",
+          "E": "This is the cutaneous sign of disseminated strongyloidiasis in immunocompromised patients."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Chagas disease",
+        "Romana sign",
+        "Trypanosoma cruzi"
+      ],
+      "topicId": "infestations-bites-stings",
+      "topicName": "Infestations, Bites, & Stings",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk55-009",
+      "stem": "A 24-year-old man returns from a day hike in Massachusetts and finds a tick on his thigh, which he removes within a few hours. He has no rash, fever or headache. He asks why he is not being given antibiotics. Which fact best supports watchful waiting?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Doxycycline is ineffective against tick-borne bacterial disease"
+        },
+        {
+          "label": "B",
+          "text": "Lyme disease is not reported in the northeastern United States"
+        },
+        {
+          "label": "C",
+          "text": "Only bites from the Lone Star tick are able to spread disease"
+        },
+        {
+          "label": "D",
+          "text": "The risk of illness after a tick bite is effectively zero"
+        },
+        {
+          "label": "E",
+          "text": "Transmission typically requires 24-36 hours of tick attachment"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A tick must be attached about 24-36 hours to transmit diseases such as Lyme; watch for rash or fever.",
+        "whyCorrect": "The risk of a tick-borne illness after a bite is very low (under 1%) but not zero, and the tick must be attached for 24-36 hours before diseases such as Lyme can be transmitted. A rash such as erythema migrans, or fever and headache, prompts evaluation and treatment.",
+        "whyWrongByChoice": {
+          "A": "Doxycycline treats most tick-borne diseases.",
+          "B": "The northeastern U.S. is a higher-risk region for Lyme disease.",
+          "C": "Many ticks transmit disease; the Lone Star tick is simply the most common biter in Arkansas.",
+          "D": "The risk is very low (under 1%) but not zero."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tick bite",
+        "Lyme disease",
+        "transmission"
+      ],
+      "topicId": "infestations-bites-stings",
+      "topicName": "Infestations, Bites, & Stings",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk55-010",
+      "stem": "A 9-year-old boy from Arkansas develops fever and severe headache a week after a camping trip. Two days later, petechiae appear on his wrists and ankles and then spread toward his trunk. Which is the most appropriate treatment to begin now?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amoxicillin-clavulanate"
+        },
+        {
+          "label": "B",
+          "text": "Await serologic confirmation"
+        },
+        {
+          "label": "C",
+          "text": "Benznidazole"
+        },
+        {
+          "label": "D",
+          "text": "Doxycycline"
+        },
+        {
+          "label": "E",
+          "text": "Permethrin cream"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Rocky Mountain spotted fever (centripetal petechial rash, fever, headache) needs prompt doxycycline.",
+        "whyCorrect": "Rocky Mountain spotted fever, caused by Rickettsia rickettsii, presents with fever, headache and a centripetal petechial rash that starts distally and spreads proximally. It can be fatal if not promptly diagnosed and treated, and doxycycline treats most tick-borne diseases.",
+        "whyWrongByChoice": {
+          "A": "Amoxicillin-clavulanate is prophylaxis for animal and human bites.",
+          "B": "Rocky Mountain spotted fever can be fatal if not promptly treated; therapy should not be delayed.",
+          "C": "Benznidazole treats Chagas disease.",
+          "E": "Permethrin treats scabies and lice, not a rickettsial infection."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Rocky Mountain spotted fever",
+        "doxycycline",
+        "tick-borne"
+      ],
+      "topicId": "infestations-bites-stings",
+      "topicName": "Infestations, Bites, & Stings",
+      "tier": "core"
+    },
+    {
+      "id": "mk55-011",
+      "stem": "A 38-year-old man in Oklahoma felt a sting while reaching into a box of stored clothes in his garage. Six hours later a small purpuric blister with surrounding swelling became intensely painful, and over several days the center turned dusky and necrotic. Which venom component is chiefly responsible for the tissue destruction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha-latrotoxin"
+        },
+        {
+          "label": "B",
+          "text": "Melittin"
+        },
+        {
+          "label": "C",
+          "text": "Sphingomyelinase D"
+        },
+        {
+          "label": "D",
+          "text": "Streptolysin O"
+        },
+        {
+          "label": "E",
+          "text": "Tetrodotoxin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Brown recluse (Loxosceles reclusa) venom sphingomyelinase D causes dermonecrosis.",
+        "whyCorrect": "The brown recluse spider bite has the most dermatologic significance of spider bites. Its enzyme sphingomyelinase D is responsible for necrosis. A small purpuric blister with swelling and pain appears 2-8 hours later and can progress to necrosis that exposes tendon or muscle.",
+        "whyWrongByChoice": {
+          "A": "This is the black widow neurotoxin; black widow bites have no cutaneous findings beyond the bite mark and sweating.",
+          "B": "Melittin is a bee venom peptide; bee stings cause swelling that peaks at 48 hours, not necrosis.",
+          "D": "Streptolysin O is a streptococcal toxin, not a spider venom component.",
+          "E": "Tetrodotoxin is a sodium-channel neurotoxin and does not cause cutaneous necrosis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "brown recluse",
+        "sphingomyelinase D",
+        "necrosis"
+      ],
+      "topicId": "infestations-bites-stings",
+      "topicName": "Infestations, Bites, & Stings",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk55-012",
+      "stem": "A 33-year-old woman has been waking in her new apartment with itchy red papules on her neck and forearms. The lesions are arranged in rows of three and each has a palpable central point. She has never noticed being bitten. Which measure is most likely needed for new lesions to stop appearing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A course of doxycycline for the household"
+        },
+        {
+          "label": "B",
+          "text": "Nightly nit combing of the scalp for 2 weeks"
+        },
+        {
+          "label": "C",
+          "text": "Oral ivermectin for everyone in the household"
+        },
+        {
+          "label": "D",
+          "text": "Permethrin cream applied over her whole body"
+        },
+        {
+          "label": "E",
+          "text": "Professional extermination of the residence"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Bed bug bites in a line of three ('breakfast, lunch, and dinner') stop only with professional extermination.",
+        "whyCorrect": "Bed bugs (Cimex lectularius) hide by day in furniture cracks and mattresses and feed at night, guided by CO2. Victims rarely wake and find pruritic lesions in lines or clusters with a palpable central apex; three or more in a row is the breakfast, lunch, and dinner sign. Professional extermination is typically necessary for the lesions to stop.",
+        "whyWrongByChoice": {
+          "A": "Doxycycline treats tick-borne infections.",
+          "B": "Nit combing is for head lice.",
+          "C": "Ivermectin treats scabies and lice, which live on the host.",
+          "D": "Permethrin treats scabies; bed bugs live in the home, not on the patient."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "bed bugs",
+        "breakfast lunch and dinner sign",
+        "Cimex lectularius"
+      ],
+      "topicId": "infestations-bites-stings",
+      "topicName": "Infestations, Bites, & Stings",
+      "tier": "core"
+    }
+  ]
+}

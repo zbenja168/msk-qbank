@@ -1,0 +1,1710 @@
+{
+  "categoryId": "w6s2",
+  "categoryName": "Session 2",
+  "questions": [
+    {
+      "id": "mk50-001",
+      "stem": "A 42-year-old woman has well-demarcated, salmon-colored plaques with silvery scale on both elbows and knees. The clinician gently picks the scale off one plaque. Which of the following findings, if seen, best distinguishes her condition from other scaly skin disorders?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Central clearing with an active border"
+        },
+        {
+          "label": "B",
+          "text": "Dry white flakes with no bleeding"
+        },
+        {
+          "label": "C",
+          "text": "Greasy yellow scale beneath the plaque"
+        },
+        {
+          "label": "D",
+          "text": "Pinpoint bleeding points on the base"
+        },
+        {
+          "label": "E",
+          "text": "Pus-filled streaks along the base"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Pinpoint bleeding when psoriatic scale is removed (Auspitz sign) distinguishes psoriasis from other scaly disorders.",
+        "whyCorrect": "This is the Auspitz sign: small pinpoint bleeding areas appear when psoriatic scales are picked off. The lecture notes it helps separate psoriasis from other scaly disorders, which do not bleed when picked.",
+        "whyWrongByChoice": {
+          "A": "Central clearing is not a psoriasis sign; psoriatic plaques are uniformly scaly with a well-defined border.",
+          "B": "A dry, non-bleeding base is what other scaly diseases show; psoriasis bleeds at pinpoint sites.",
+          "C": "Greasy scale is not the finding the lecture describes on removing psoriatic scale; psoriatic scale is silvery.",
+          "E": "Pus streaks are not seen when ordinary plaque scale is removed."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "plaque psoriasis",
+        "Auspitz sign"
+      ],
+      "topicId": "psoriasis-and-psoriatic-arthritis",
+      "topicName": "Psoriasis and Psoriatic Arthritis",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk50-002",
+      "stem": "A 19-year-old man with no prior skin disease develops, over 3 days, dozens of 3-8 mm pink scaly papules scattered over his trunk and upper arms. Three weeks earlier he had fever and a painful throat with tonsillar exudate. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erythrodermic psoriasis"
+        },
+        {
+          "label": "B",
+          "text": "Generalized pustular psoriasis"
+        },
+        {
+          "label": "C",
+          "text": "Guttate psoriasis"
+        },
+        {
+          "label": "D",
+          "text": "Inverse psoriasis"
+        },
+        {
+          "label": "E",
+          "text": "Plaque psoriasis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A sudden eruption of many sub-centimeter scaly papules on the trunk after strep pharyngitis is guttate psoriasis.",
+        "whyCorrect": "Guttate psoriasis is the sudden appearance of many small papules and plaques under 1 cm, mostly on the trunk and proximal extremities, in young adults with no psoriasis history. It is typically associated with a prior streptococcal pharyngitis.",
+        "whyWrongByChoice": {
+          "A": "Erythrodermic psoriasis covers the entire skin surface, red and scaly from head to toe.",
+          "B": "Generalized pustular psoriasis presents with sheets of erythema and superficial pustules with systemic toxicity.",
+          "D": "Inverse psoriasis involves intertriginous areas such as the groin and axillae.",
+          "E": "Plaque psoriasis forms 1-10 cm plaques on extensor surfaces, not a sudden shower of sub-centimeter papules."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "guttate psoriasis",
+        "streptococcal pharyngitis"
+      ],
+      "topicId": "psoriasis-and-psoriatic-arthritis",
+      "topicName": "Psoriasis and Psoriatic Arthritis",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk50-003",
+      "stem": "A 47-year-old woman with long-standing psoriasis completed a 10-day course of oral prednisone for an asthma flare. Four days after the last dose she develops fever, chills, and myalgias, with abrupt widespread erythema studded with superficial pustules. Which of the following agents is the targeted therapy for this condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Apremilast"
+        },
+        {
+          "label": "B",
+          "text": "Methylprednisolone"
+        },
+        {
+          "label": "C",
+          "text": "Secukinumab"
+        },
+        {
+          "label": "D",
+          "text": "Spesolimab"
+        },
+        {
+          "label": "E",
+          "text": "Ustekinumab"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Generalized pustular psoriasis, often after systemic steroid withdrawal, is treated with the IL-36 receptor antibody spesolimab.",
+        "whyCorrect": "Withdrawal of systemic corticosteroids can trigger generalized pustular psoriasis (von Zumbusch), a life-threatening acute form. The lecture states it is treated with spesolimab, a monoclonal antibody antagonistic to the IL-36 receptor.",
+        "whyWrongByChoice": {
+          "A": "Apremilast is an oral phosphodiesterase inhibitor and not the treatment the lecture gives for this emergency.",
+          "B": "Systemic corticosteroids are contraindicated in psoriasis; their withdrawal caused this flare.",
+          "C": "Secukinumab is an IL-17 antibody for plaque psoriasis; the lecture names spesolimab for pustular psoriasis.",
+          "E": "Ustekinumab blocks IL-12/23 and is used for psoriasis generally, not as the targeted pustular agent."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "generalized pustular psoriasis",
+        "spesolimab",
+        "IL-36"
+      ],
+      "topicId": "psoriasis-and-psoriatic-arthritis",
+      "topicName": "Psoriasis and Psoriatic Arthritis",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk50-004",
+      "stem": "A 30-year-old man asks why his plaques form. His dermatologist explains that activated dendritic cells in his skin release a cytokine that drives the differentiation and maintenance of a T-helper subset, which then releases cytokines that make keratinocytes proliferate. Which cytokine do the dendritic cells release?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Interleukin-4"
+        },
+        {
+          "label": "B",
+          "text": "Interleukin-5"
+        },
+        {
+          "label": "C",
+          "text": "Interleukin-10"
+        },
+        {
+          "label": "D",
+          "text": "Interleukin-13"
+        },
+        {
+          "label": "E",
+          "text": "Interleukin-23"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Dendritic cells make IL-23, which sustains Th17 cells, the central axis of psoriasis.",
+        "whyCorrect": "Psoriasis is driven primarily by dendritic cell activation and the IL-23/Th17 axis. Dendritic cells produce IL-23, which promotes the differentiation and maintenance of Th17 cells; Th17 cells then release IL-17 and IL-22.",
+        "whyWrongByChoice": {
+          "A": "IL-4 is not part of the IL-23/Th17 axis that the lecture describes as driving psoriasis.",
+          "B": "IL-5 is not among the cytokines the lecture names in psoriasis pathogenesis.",
+          "C": "IL-10 is not described as driving psoriatic inflammation.",
+          "D": "IL-13 is not part of the dendritic cell-Th17 pathway of psoriasis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pathogenesis",
+        "IL-23",
+        "dendritic cells"
+      ],
+      "topicId": "psoriasis-and-psoriatic-arthritis",
+      "topicName": "Psoriasis and Psoriatic Arthritis",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk50-005",
+      "stem": "A 50-year-old man has scaly plaques over the lumbosacral area and intergluteal cleft. Because seborrheic dermatitis and cutaneous lupus are on the differential, a biopsy is done. It shows epidermal thickening, nuclei retained in the stratum corneum, elongated rete pegs, and clusters of neutrophils in the upper epidermis. Which epidermal layer is characteristically absent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stratum basale"
+        },
+        {
+          "label": "B",
+          "text": "Stratum corneum"
+        },
+        {
+          "label": "C",
+          "text": "Stratum granulosum"
+        },
+        {
+          "label": "D",
+          "text": "Stratum lucidum"
+        },
+        {
+          "label": "E",
+          "text": "Stratum spinosum"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Psoriasis histology shows absence of the stratum granulosum along with parakeratosis and acanthosis.",
+        "whyCorrect": "The epidermal changes of psoriasis include parakeratosis, acanthosis, absence of the stratum granulosum, and thickening of the stratum spinosum that elongates the rete pegs, with Munro microabscesses of neutrophils.",
+        "whyWrongByChoice": {
+          "A": "The basal layer is present in psoriasis; its loss is not part of the described histology.",
+          "B": "The stratum corneum is present and parakeratotic, retaining nuclei.",
+          "D": "Loss of this layer is not one of the psoriasis findings the lecture lists.",
+          "E": "The stratum spinosum is thickened in psoriasis, not absent."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "histopathology",
+        "stratum granulosum",
+        "differential diagnosis"
+      ],
+      "topicId": "psoriasis-and-psoriatic-arthritis",
+      "topicName": "Psoriasis and Psoriatic Arthritis",
+      "tier": "core"
+    },
+    {
+      "id": "mk50-006",
+      "stem": "A 44-year-old man has 3 months of a painful, swollen right knee and left ankle with morning stiffness. He has active scaly plaques on his elbows. His nails, digits, and hand radiographs are normal, and no relative has skin disease. Which additional finding would, by itself, allow him to meet the CASPAR classification for psoriatic arthritis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A negative rheumatoid factor test"
+        },
+        {
+          "label": "B",
+          "text": "Additional itchy plaques on the scalp"
+        },
+        {
+          "label": "C",
+          "text": "An elevated C-reactive protein level"
+        },
+        {
+          "label": "D",
+          "text": "Inflammatory low back stiffness"
+        },
+        {
+          "label": "E",
+          "text": "Pain at the Achilles tendon insertion"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Under CASPAR, current psoriasis (2 points) plus a negative rheumatoid factor (1 point) meets the 3-point threshold.",
+        "whyCorrect": "CASPAR requires inflammatory articular disease plus at least 3 points. Current psoriasis scores 2 points; a negative rheumatoid factor adds 1, reaching 3. Nail dystrophy, dactylitis, family history, and juxta-articular new bone are excluded by the stem.",
+        "whyWrongByChoice": {
+          "B": "More current psoriasis does not add beyond the 2 points he already has.",
+          "C": "Inflammatory markers are not a CASPAR criterion and add no points.",
+          "D": "Spinal disease is another form of the entry articular disease, not a scoring item.",
+          "E": "Enthesitis counts as the required inflammatory articular disease, which he already has; it scores no points."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "CASPAR criteria",
+        "psoriatic arthritis",
+        "rheumatoid factor"
+      ],
+      "topicId": "psoriasis-and-psoriatic-arthritis",
+      "topicName": "Psoriasis and Psoriatic Arthritis",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk50-007",
+      "stem": "A 38-year-old woman has psoriasis covering 12% of her body surface, swollen distal finger joints, and a sausage-shaped toe. She also has ulcerative colitis with recurrent flares. She wants one systemic agent that will help her skin, joints, and gut. Which of the following is the best choice?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acitretin"
+        },
+        {
+          "label": "B",
+          "text": "Brodalumab"
+        },
+        {
+          "label": "C",
+          "text": "Guselkumab"
+        },
+        {
+          "label": "D",
+          "text": "Ixekizumab"
+        },
+        {
+          "label": "E",
+          "text": "Secukinumab"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In psoriasis with IBD, choose an IL-23 inhibitor; avoid IL-17 inhibitors, which list IBD as an adverse event.",
+        "whyCorrect": "Psoriasis and IBD share IL-23-mediated pathways, and the IL-23 inhibitors treat both psoriasis and IBD. Guselkumab is an IL-23 monoclonal antibody, a reasonable single agent for psoriasis with arthritis and colitis.",
+        "whyWrongByChoice": {
+          "A": "Acitretin is an oral retinoid that does not treat inflammatory bowel disease.",
+          "B": "Brodalumab is an IL-17 antibody, and IBD is among its listed adverse events.",
+          "D": "Ixekizumab is an IL-17 antibody, a class that can cause or worsen inflammatory bowel disease.",
+          "E": "Secukinumab is an IL-17 antibody; inflammatory bowel disease is a listed adverse event of IL-17 blockade."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "treatment selection",
+        "IL-23 inhibitor",
+        "inflammatory bowel disease"
+      ],
+      "topicId": "psoriasis-and-psoriatic-arthritis",
+      "topicName": "Psoriasis and Psoriatic Arthritis",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk50-008",
+      "stem": "A 26-year-old man has three well-demarcated plaques with silvery scale on his elbows and one knee; together they cover an area about the size of two of his palms. He has no joint symptoms or nail changes. Which of the following is the most appropriate initial treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A tapering oral prednisone course"
+        },
+        {
+          "label": "B",
+          "text": "Daily oral cyclosporine"
+        },
+        {
+          "label": "C",
+          "text": "Subcutaneous adalimumab injections"
+        },
+        {
+          "label": "D",
+          "text": "Topical steroid with calcipotriene"
+        },
+        {
+          "label": "E",
+          "text": "Weekly oral methotrexate dosing"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Psoriasis covering 5% or less of BSA (1 palm = 1%) is limited and is treated topically.",
+        "whyCorrect": "One palm is about 1% of body surface area, so he has about 2% BSA, which is limited disease (moderate-to-severe is greater than 5%). Limited disease is treated topically, such as a topical corticosteroid with or without a vitamin D analog like calcipotriene.",
+        "whyWrongByChoice": {
+          "A": "Systemic corticosteroids are contraindicated in psoriasis because withdrawal can trigger pustular psoriasis.",
+          "B": "Cyclosporine is an oral systemic agent with renal and blood pressure toxicity, not for limited disease.",
+          "C": "Biologics are for moderate-to-severe disease or psoriatic arthritis, neither of which he has.",
+          "E": "Methotrexate is a systemic agent for moderate-to-severe disease, with organ toxicity risks."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "limited disease",
+        "topical therapy",
+        "body surface area"
+      ],
+      "topicId": "psoriasis-and-psoriatic-arthritis",
+      "topicName": "Psoriasis and Psoriatic Arthritis",
+      "tier": "core"
+    },
+    {
+      "id": "mk50-009",
+      "stem": "A 52-year-old woman with moderate-to-severe psoriasis and psoriatic arthritis is about to begin adalimumab. Which of the following must be done before the first dose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Baseline transthoracic echocardiogram"
+        },
+        {
+          "label": "B",
+          "text": "Hand radiographs for erosions"
+        },
+        {
+          "label": "C",
+          "text": "Screening for latent tuberculosis"
+        },
+        {
+          "label": "D",
+          "text": "Serum antinuclear antibody titer"
+        },
+        {
+          "label": "E",
+          "text": "Skin biopsy of a plaque"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Screen for tuberculosis before starting biologic or other targeted systemic psoriasis therapy.",
+        "whyCorrect": "Screening for tuberculosis is necessary before starting systemic biologic treatment. TNF antibodies such as adalimumab list tuberculosis activation among their adverse events.",
+        "whyWrongByChoice": {
+          "A": "An echocardiogram is not the pre-treatment screening the lecture requires.",
+          "B": "Radiographs help evaluate arthritis but are not the safety screen required before a biologic.",
+          "D": "An ANA is not a required screen before starting a psoriasis biologic.",
+          "E": "Psoriasis is usually diagnosed clinically; a biopsy is not required before treatment."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "biologic screening",
+        "tuberculosis",
+        "TNF inhibitor"
+      ],
+      "topicId": "psoriasis-and-psoriatic-arthritis",
+      "topicName": "Psoriasis and Psoriatic Arthritis",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk50-010",
+      "stem": "A 40-year-old man has a bright red, sharply bordered eruption with very little scale in both inguinal folds that extends onto the scrotum. He has similar patches in one axilla and the intergluteal cleft. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Guttate psoriasis"
+        },
+        {
+          "label": "B",
+          "text": "Inverse psoriasis"
+        },
+        {
+          "label": "C",
+          "text": "Nummular eczema"
+        },
+        {
+          "label": "D",
+          "text": "Seborrheic dermatitis"
+        },
+        {
+          "label": "E",
+          "text": "Tinea cruris"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Psoriasis of the skin folds with scrotal involvement and a sharp border is inverse psoriasis, not tinea cruris.",
+        "whyCorrect": "Inverse psoriasis affects intertriginous areas (inguinal, genital, intergluteal, axillary), with less scale and more erythema. Its well-defined border and involvement of the scrotum or vulva distinguish it from tinea cruris, which spares the genitalia.",
+        "whyWrongByChoice": {
+          "A": "Guttate psoriasis is a shower of small papules on the trunk and proximal limbs.",
+          "C": "Nummular eczema forms coin-shaped patches, not this intertriginous pattern.",
+          "D": "Seborrheic dermatitis is on the differential, but sharply bordered fold-and-scrotal disease fits the psoriasis variant.",
+          "E": "Tinea cruris spares the genitalia; involvement of the scrotum argues against it."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "inverse psoriasis",
+        "tinea cruris"
+      ],
+      "topicId": "psoriasis-and-psoriatic-arthritis",
+      "topicName": "Psoriasis and Psoriatic Arthritis",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk50-011",
+      "stem": "A 58-year-old man with long-standing plaque psoriasis had applied high-potency clobetasol ointment over most of his body for years and stopped abruptly when his supply ran out. Two weeks later his skin is red and scaly from scalp to feet, and he feels chilled. No pustules are present, and he has started no new medications. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cutaneous T-cell lymphoma"
+        },
+        {
+          "label": "B",
+          "text": "Erythrodermic psoriasis"
+        },
+        {
+          "label": "C",
+          "text": "Generalized pustular psoriasis"
+        },
+        {
+          "label": "D",
+          "text": "Guttate psoriasis"
+        },
+        {
+          "label": "E",
+          "text": "Sulfonamide drug eruption"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Whole-body red, scaly skin after stopping topical steroids in a psoriatic is erythrodermic psoriasis.",
+        "whyCorrect": "Erythrodermic psoriasis covers the entire skin surface, red and scaly from head to toe. The lecture names withdrawal of topical corticosteroids as a cause; it can be life-threatening with sepsis, respiratory distress, and heart failure.",
+        "whyWrongByChoice": {
+          "A": "Lymphoma is in the erythroderma differential, but the steroid withdrawal history points to psoriasis.",
+          "C": "Pustular psoriasis features superficial pustules, which are absent; it follows systemic steroid withdrawal.",
+          "D": "Guttate psoriasis is many small papules, not confluent whole-body redness.",
+          "E": "Drug-induced erythroderma needs a culprit drug, and he has started none."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "erythrodermic psoriasis",
+        "topical corticosteroid withdrawal"
+      ],
+      "topicId": "psoriasis-and-psoriatic-arthritis",
+      "topicName": "Psoriasis and Psoriatic Arthritis",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk50-012",
+      "stem": "A 45-year-old woman with psoriasis plaques on her elbows and knees asks which features of her disease make joint involvement more likely. Which of the following findings most increases her risk of developing psoriatic arthritis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bleeding points when scale is lifted"
+        },
+        {
+          "label": "B",
+          "text": "Lesions at a recent sunburn site"
+        },
+        {
+          "label": "C",
+          "text": "Pitting of several fingernails"
+        },
+        {
+          "label": "D",
+          "text": "Plaques larger than 5 cm across"
+        },
+        {
+          "label": "E",
+          "text": "Plaques on both extensor elbows"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Nail psoriasis (along with scalp and gluteal cleft disease) raises the risk of psoriatic arthritis.",
+        "whyCorrect": "Patients with nail changes have a greater chance of psoriatic arthritis than those without. The lecture also lists scalp and gluteal cleft involvement as raising PsA risk.",
+        "whyWrongByChoice": {
+          "A": "The Auspitz sign aids diagnosis but does not predict arthritis.",
+          "B": "This is the Koebner phenomenon, not a stated predictor of arthritis.",
+          "D": "Plaque size is not given as a PsA risk factor.",
+          "E": "Extensor plaques are the typical distribution of plaque psoriasis and are not a stated PsA risk factor."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "nail psoriasis",
+        "psoriatic arthritis risk"
+      ],
+      "topicId": "psoriasis-and-psoriatic-arthritis",
+      "topicName": "Psoriasis and Psoriatic Arthritis",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk51-001",
+      "stem": "A 24-year-old woman has 3 months of fatigue, joint pain, and a red, sunburn-like eruption across both cheeks and the bridge of the nose that spares the nasolabial folds and eyelids. It worsens after time outdoors. ANA and anti-dsDNA tests are positive. Which of the following best describes this eruption?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute cutaneous lupus erythematosus"
+        },
+        {
+          "label": "B",
+          "text": "Discoid lupus erythematosus"
+        },
+        {
+          "label": "C",
+          "text": "Heliotrope erythema"
+        },
+        {
+          "label": "D",
+          "text": "Neonatal lupus erythematosus"
+        },
+        {
+          "label": "E",
+          "text": "Subacute cutaneous lupus erythematosus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The malar (butterfly) rash sparing the nasolabial folds is acute cutaneous LE, which nearly always signals SLE.",
+        "whyCorrect": "Acute cutaneous LE is a sunburn-like, photo-distributed rash classically shaped like a butterfly over the cheeks (malar rash) that spares the nasolabial folds and eyelids. Nearly all patients with it have or will develop SLE, and ANA and dsDNA are positive.",
+        "whyWrongByChoice": {
+          "B": "Discoid LE produces chronic, scarred, scaly plaques on the face, scalp and ears, not a transient sunburn-like malar rash.",
+          "C": "The heliotrope rash of dermatomyositis is a lilac eruption of the upper eyelids, which this rash spares.",
+          "D": "Neonatal lupus affects infants exposed to maternal anti-Ro/La antibodies, not a 24-year-old.",
+          "E": "SCLE forms annular scaly patches on the V of the chest, back and forearms rather than a butterfly rash on the cheeks."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "cutaneous lupus",
+        "malar rash",
+        "SLE"
+      ],
+      "topicId": "the-skin-in-autoimmune-diseases",
+      "topicName": "The Skin in Autoimmune Diseases",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk51-002",
+      "stem": "A 47-year-old woman has several weeks of red, ring-shaped, scaly patches on the V of the chest, upper back, and dorsal forearms. Her physician initially suspected tinea corporis, but a KOH preparation was negative. She has no scarring. Which of the following serum antibodies is most likely to be present?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-centromere"
+        },
+        {
+          "label": "B",
+          "text": "Anti-Ro (SS-A)"
+        },
+        {
+          "label": "C",
+          "text": "Anti-Scl-70"
+        },
+        {
+          "label": "D",
+          "text": "Anti-TIF1-gamma"
+        },
+        {
+          "label": "E",
+          "text": "Anticardiolipin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Subacute cutaneous LE (annular scaly patches on sun-exposed skin) carries anti-Ro/SS-A in up to 90% of patients.",
+        "whyCorrect": "Annular, scaly, non-scarring patches on the V of the chest, back and dorsal forearms that mimic tinea or psoriasis are subacute cutaneous LE. Up to 90% of SCLE patients have Ro (SS-A) antibodies, making it the most likely antibody.",
+        "whyWrongByChoice": {
+          "A": "Anti-centromere antibodies mark limited scleroderma (CREST), which causes telangiectasias and sclerodactyly, not annular scaly patches.",
+          "C": "Anti-Scl-70 is associated with diffuse scleroderma, which causes widespread skin thickening.",
+          "D": "Anti-TIF1-gamma marks malignancy-associated dermatomyositis.",
+          "E": "Anticardiolipin antibodies screen for antiphospholipid antibody syndrome, which causes livedo and clots."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "subacute cutaneous lupus",
+        "anti-Ro",
+        "autoantibodies"
+      ],
+      "topicId": "the-skin-in-autoimmune-diseases",
+      "topicName": "The Skin in Autoimmune Diseases",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk51-003",
+      "stem": "A 38-year-old woman who smokes a pack of cigarettes daily has had scaly plaques on her ears and scalp for 2 years. Older plaques are atrophic and hypopigmented, and the scalp lesions have left patches of permanent hair loss. She has no joint pain, oral ulcers, or systemic symptoms. Which of the following best describes her relationship to systemic lupus erythematosus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "About half of patients with this form meet SLE criteria"
+        },
+        {
+          "label": "B",
+          "text": "Nearly all patients with this form have or will develop SLE"
+        },
+        {
+          "label": "C",
+          "text": "Only 10-20% of patients with this form go on to develop SLE"
+        },
+        {
+          "label": "D",
+          "text": "This form develops only after SLE has been diagnosed"
+        },
+        {
+          "label": "E",
+          "text": "This form is unrelated to SLE and never progresses"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Most patients with discoid LE never have SLE; only 10-20% develop it and only about 20% are ANA-positive.",
+        "whyCorrect": "Chronic, scarred, scaly plaques of the face, scalp and ears with hypopigmentation and scarring alopecia in a smoker are discoid lupus erythematosus. The majority of DLE patients do not have SLE: only about 20% have a positive ANA and 10-20% develop SLE at some point.",
+        "whyWrongByChoice": {
+          "A": "About 50% of patients with subacute cutaneous LE, not discoid LE, meet SLE criteria.",
+          "B": "Near-universal SLE describes acute cutaneous (malar) LE, not discoid LE.",
+          "D": "Most DLE patients never have SLE, so DLE clearly does not require prior SLE.",
+          "E": "Discoid LE can progress: 10-20% of patients develop SLE, and 25% of SLE patients have discoid lesions."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "discoid lupus",
+        "chronic cutaneous lupus",
+        "scarring alopecia"
+      ],
+      "topicId": "the-skin-in-autoimmune-diseases",
+      "topicName": "The Skin in Autoimmune Diseases",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk51-004",
+      "stem": "A 31-year-old woman has a net-like, violaceous mottling of the skin of both thighs and painful, dusky, necrotic patches on the tips of two toes. She has had a deep vein thrombosis and three unexplained first-trimester pregnancy losses. Which of the following tests is most appropriate to screen for the underlying condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-centromere antibody test"
+        },
+        {
+          "label": "B",
+          "text": "Anti-Jo-1 antibody test"
+        },
+        {
+          "label": "C",
+          "text": "Antistreptolysin O titer"
+        },
+        {
+          "label": "D",
+          "text": "Lupus anticoagulant test"
+        },
+        {
+          "label": "E",
+          "text": "Serum aldolase level"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Livedo reticularis, acral necrosis, clots and recurrent miscarriage indicate antiphospholipid antibody syndrome, screened with lupus anticoagulant, anticardiolipin and anti-B2-glycoprotein 1 tests.",
+        "whyCorrect": "Antiphospholipid antibody (APLA) syndrome predisposes to venous and arterial clots and obstetric complications; it is often recognized in young women with multiple unexplained miscarriages. Its skin signs are livedo reticularis and acral purpura with necrosis. Screening includes ANA, anticardiolipin antibody, lupus anticoagulant and anti-B2-glycoprotein 1 tests.",
+        "whyWrongByChoice": {
+          "A": "Anti-centromere antibodies screen for CREST syndrome, which does not cause clots or miscarriages.",
+          "B": "Jo-1 marks antisynthetase syndrome (dermatomyositis with interstitial lung disease).",
+          "C": "Streptococcal infection is a trigger of leukocytoclastic vasculitis, not of thrombosis with livedo and miscarriage.",
+          "E": "Aldolase is a muscle enzyme used in dermatomyositis workup."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "antiphospholipid antibody syndrome",
+        "livedo reticularis",
+        "SLE"
+      ],
+      "topicId": "the-skin-in-autoimmune-diseases",
+      "topicName": "The Skin in Autoimmune Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "mk51-005",
+      "stem": "A newborn girl has a heart rate of 70/min and erythematous annular macules with raised margins on the scalp and around the eyes. ECG shows complete heart block. Her mother is healthy, has no diagnosed autoimmune disease, and is found to carry anti-Ro/SSA antibodies. Which of the following best explains the cardiac finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibody blockade of acetylcholine receptors in the sinoatrial node"
+        },
+        {
+          "label": "B",
+          "text": "Antibody injury and secondary fibrosis of the atrioventricular node"
+        },
+        {
+          "label": "C",
+          "text": "Calcium deposition within the fetal cardiac conduction system"
+        },
+        {
+          "label": "D",
+          "text": "Immune complex deposition in fetal post-capillary venules"
+        },
+        {
+          "label": "E",
+          "text": "Thrombotic occlusion of fetal coronary arteries by antiphospholipid antibodies"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In neonatal lupus, transferred maternal anti-Ro/La bind apoptotic fetal cardiac cells, causing autoimmune injury and fibrosis of the AV node (heart block).",
+        "whyCorrect": "Neonatal lupus results from maternal transfer of anti-Ro/SSA and anti-La/SSB antibodies; the mother need not have SLE. The antibodies bind fetal cardiac cells that have undergone physiologic apoptosis during remodeling, causing autoimmune injury and secondary fibrosis of the atrioventricular node and surrounding tissue, which produces heart block that may require permanent pacing.",
+        "whyWrongByChoice": {
+          "A": "The antibodies cause structural injury and fibrosis, not receptor blockade.",
+          "C": "Calcium deposition (calcinosis) is a feature of CREST and juvenile dermatomyositis skin, not neonatal heart block.",
+          "D": "Immune complexes in post-capillary venules describe leukocytoclastic vasculitis.",
+          "E": "The responsible antibodies are anti-Ro/La, and the lesion is conduction-system fibrosis, not thrombosis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "neonatal lupus",
+        "anti-Ro",
+        "heart block"
+      ],
+      "topicId": "the-skin-in-autoimmune-diseases",
+      "topicName": "The Skin in Autoimmune Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "mk51-006",
+      "stem": "A 61-year-old woman has 2 months of difficulty rising from a chair and combing her hair. Examination shows a lilac eruption of both upper eyelids, scaly violaceous papules over the knuckles, and ragged cuticles. Creatine kinase is elevated. In addition to mammography and chest radiography, which of the following studies is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Colonoscopy"
+        },
+        {
+          "label": "B",
+          "text": "Echocardiography"
+        },
+        {
+          "label": "C",
+          "text": "Hand radiography"
+        },
+        {
+          "label": "D",
+          "text": "Nerve conduction studies"
+        },
+        {
+          "label": "E",
+          "text": "Sinus CT"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Dermatomyositis is paraneoplastic in 20-30% of patients, so everyone diagnosed is screened for cancer, including mammography, colonoscopy and chest radiography.",
+        "whyCorrect": "Heliotrope rash, Gottron's papules and proximal muscle weakness establish dermatomyositis. Because 20%-30% of patients develop cancer, all patients are screened by history and physical for breast, lung, GI, ovarian, pancreatic, bladder and throat cancer and receive mammography, colonoscopy and chest radiography. Treating the malignancy is essential to clearing the DM.",
+        "whyWrongByChoice": {
+          "B": "Echocardiography is not part of the malignancy screen recommended for dermatomyositis.",
+          "C": "Gottron's papules are a skin finding; hand films add nothing to the cancer screen.",
+          "D": "The weakness is myopathic; muscle enzymes, biopsy or MRI confirm it, not nerve studies.",
+          "E": "Sinus imaging is not part of the dermatomyositis malignancy screen."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "dermatomyositis",
+        "paraneoplastic",
+        "malignancy screening"
+      ],
+      "topicId": "the-skin-in-autoimmune-diseases",
+      "topicName": "The Skin in Autoimmune Diseases",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk51-007",
+      "stem": "A 52-year-old man with proximal muscle weakness and a violaceous eruption over his upper back has progressive dyspnea on exertion. His fingers and palms are thickened, scaly, and fissured, and chest CT shows interstitial lung disease. Which of the following antibodies is most likely positive?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-centromere"
+        },
+        {
+          "label": "B",
+          "text": "Anti-dsDNA"
+        },
+        {
+          "label": "C",
+          "text": "Anti-Jo-1"
+        },
+        {
+          "label": "D",
+          "text": "Anti-Ro (SS-A)"
+        },
+        {
+          "label": "E",
+          "text": "Anti-TIF1-gamma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Anti-Jo-1 marks the antisynthetase syndrome: dermatomyositis plus interstitial lung disease and mechanic's hands.",
+        "whyCorrect": "Dermatomyositis patients with interstitial lung disease have Jo-1 antibodies, markers of the antisynthetase syndrome, which combines DM, ILD and mechanic's hands (thickened, scaly, fissured digits and palms).",
+        "whyWrongByChoice": {
+          "A": "Anti-centromere antibodies mark limited scleroderma (CREST).",
+          "B": "Anti-dsDNA is positive in SLE with acute cutaneous lupus.",
+          "D": "Anti-Ro is the antibody of subacute cutaneous lupus and neonatal lupus.",
+          "E": "TIF1-gamma antibodies mark malignancy-associated dermatomyositis, not lung disease with mechanic's hands."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "dermatomyositis",
+        "antisynthetase syndrome",
+        "interstitial lung disease"
+      ],
+      "topicId": "the-skin-in-autoimmune-diseases",
+      "topicName": "The Skin in Autoimmune Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "mk51-008",
+      "stem": "A 44-year-old woman has 8 months of progressive skin thickening that began in the hands and now involves the arms, trunk, and thighs. Her face appears mask-like, with a beaked nose and narrowed oral aperture. She now has new hypertension and a rising serum creatinine. Which of the following antibodies is most often associated with her condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-centromere"
+        },
+        {
+          "label": "B",
+          "text": "Anti-Jo-1"
+        },
+        {
+          "label": "C",
+          "text": "Anti-La (SS-B)"
+        },
+        {
+          "label": "D",
+          "text": "Anti-Scl-70"
+        },
+        {
+          "label": "E",
+          "text": "Anti-TIF1-gamma"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Diffuse (systemic) scleroderma, with widespread skin thickening and early organ involvement, is associated with anti-Scl-70.",
+        "whyCorrect": "Widespread skin thickening, a mask-like face with beaked nose and narrowed mouth, and early kidney involvement describe diffuse (systemic) scleroderma, which progresses early to internal organs (most significantly lungs and kidneys). Anti-Scl-70 autoantibodies are often associated with the diffuse form.",
+        "whyWrongByChoice": {
+          "A": "Anti-centromere antibodies are found in limited scleroderma (CREST), where skin involvement stays on the hands, face and neck.",
+          "B": "Jo-1 marks the antisynthetase syndrome of dermatomyositis.",
+          "C": "La antibodies are seen in subacute cutaneous and neonatal lupus.",
+          "E": "TIF1-gamma marks malignancy-associated dermatomyositis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "scleroderma",
+        "systemic sclerosis",
+        "anti-Scl-70"
+      ],
+      "topicId": "the-skin-in-autoimmune-diseases",
+      "topicName": "The Skin in Autoimmune Diseases",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk51-009",
+      "stem": "A 9-year-old girl has a single firm, smooth, ivory-white plaque on her abdomen with a lilac-colored border. The skin cannot be pinched into wrinkles. She has no Raynaud symptoms, no difficulty swallowing, and normal skin on her hands and face. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CREST syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Diffuse systemic sclerosis"
+        },
+        {
+          "label": "C",
+          "text": "Discoid lupus erythematosus"
+        },
+        {
+          "label": "D",
+          "text": "Gottron's sign"
+        },
+        {
+          "label": "E",
+          "text": "Morphea"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Morphea is localized scleroderma: a few circumscribed indurated, ivory-white plaques, sometimes with a violaceous border.",
+        "whyCorrect": "The localized form of scleroderma, morphea, presents as a few small to medium plaques of cutaneous sclerosis with circumscribed induration (firm skin that cannot wrinkle), ivory-white hypopigmentation and sometimes a lilac border, without the Raynaud phenomenon or organ involvement of the other forms.",
+        "whyWrongByChoice": {
+          "A": "Limited scleroderma (CREST) involves the hands, face and neck with Raynaud phenomenon and esophageal dysmotility.",
+          "B": "Diffuse scleroderma thickens skin all over the body with early organ involvement.",
+          "C": "Discoid LE forms scaly, scarred plaques on the face, scalp and ears rather than a smooth indurated plaque.",
+          "D": "Gottron's sign is violaceous change over the elbows and knees in dermatomyositis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "scleroderma",
+        "morphea",
+        "localized scleroderma"
+      ],
+      "topicId": "the-skin-in-autoimmune-diseases",
+      "topicName": "The Skin in Autoimmune Diseases",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk51-010",
+      "stem": "A 35-year-old woman with limited scleroderma has episodes in which one or two fingers turn white, then blue, then red after exposure to cold. Warming measures have not prevented the attacks. Which of the following oral medications is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hydroxychloroquine"
+        },
+        {
+          "label": "B",
+          "text": "Methotrexate"
+        },
+        {
+          "label": "C",
+          "text": "Nifedipine"
+        },
+        {
+          "label": "D",
+          "text": "Rituximab"
+        },
+        {
+          "label": "E",
+          "text": "Terbinafine"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Raynaud phenomenon is treated with warming, topical nitroglycerin and oral calcium channel blockers such as nifedipine.",
+        "whyCorrect": "Raynaud phenomenon is a heightened vasoconstrictive response to cold or stress causing white (vasoconstriction), blue (cyanosis) and red (reperfusion) phases in one or a few digits. It is treated with warming measures, topical nitroglycerin, and oral calcium channel blockers such as nifedipine.",
+        "whyWrongByChoice": {
+          "A": "Hydroxychloroquine is a first-line treatment for cutaneous lupus, not vasospasm.",
+          "B": "Methotrexate is a treatment for morphea, not for Raynaud attacks.",
+          "D": "Rituximab is used in dermatomyositis, not for digital vasospasm.",
+          "E": "Terbinafine is an antifungal and a common cause of drug-induced SCLE."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Raynaud phenomenon",
+        "scleroderma",
+        "treatment"
+      ],
+      "topicId": "the-skin-in-autoimmune-diseases",
+      "topicName": "The Skin in Autoimmune Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "mk51-011",
+      "stem": "A 55-year-old man develops many round, 2-4 mm, non-blanching, raised purple papules on his lower legs and buttocks 2 weeks after starting a sulfa antibiotic. His face is spared and the lesions do not itch. A punch biopsy shows neutrophils, nuclear dust, and fibrin in small vessel walls. At which of the following sites are immune complexes deposited?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Basement membrane zone"
+        },
+        {
+          "label": "B",
+          "text": "Dermal arterioles of the face"
+        },
+        {
+          "label": "C",
+          "text": "Medium-sized muscular arteries"
+        },
+        {
+          "label": "D",
+          "text": "Nail fold capillary loops"
+        },
+        {
+          "label": "E",
+          "text": "Post-capillary venules"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Leukocytoclastic vasculitis is caused by immune complexes depositing in post-capillary venules of dependent skin, producing palpable purpura.",
+        "whyCorrect": "Drug-induced leukocytoclastic vasculitis (onset 1-3 weeks after beta-lactams, sulfa or NSAIDs) presents as round, non-blanching palpable purpura in dependent areas. IgG, IgM or IgA immune complexes collect along the walls of post-capillary venules in slow-flow areas, and histology shows necrotic venule walls with neutrophils, nuclear dust and fibrin.",
+        "whyWrongByChoice": {
+          "A": "The deposits in LCV are in vessel walls, not along the epidermal basement membrane.",
+          "B": "LCV favors dependent, slow-flow areas, and the face is typically spared.",
+          "C": "Medium-vessel involvement brings necrosis and gangrene, which this patient lacks.",
+          "D": "Dilated nail fold capillary loops are a sign of SLE, not the site of LCV."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "leukocytoclastic vasculitis",
+        "palpable purpura",
+        "drug reaction"
+      ],
+      "topicId": "the-skin-in-autoimmune-diseases",
+      "topicName": "The Skin in Autoimmune Diseases",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk51-012",
+      "stem": "A 6-year-old girl has crops of raised, non-blanching purpura on her buttocks and legs, colicky abdominal pain, and a swollen, painful knee. Skin biopsy with direct immunofluorescence shows granular IgA deposits in dermal vessel walls. Her purpura is expected to fade within weeks. Which of the following tests are most important for establishing her prognosis, even after the rash resolves?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ANA and anti-dsDNA"
+        },
+        {
+          "label": "B",
+          "text": "ANCA and ESR"
+        },
+        {
+          "label": "C",
+          "text": "Creatine kinase and aldolase"
+        },
+        {
+          "label": "D",
+          "text": "Lupus anticoagulant and anticardiolipin"
+        },
+        {
+          "label": "E",
+          "text": "Serum creatinine and urinalysis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In Henoch-Schonlein purpura, creatinine and urinalysis screen for IgA nephritis, which can appear with the purpura or months later.",
+        "whyCorrect": "IgA immune complex deposition with palpable purpura, abdominal pain and arthritis in a child is Henoch-Schonlein purpura. Its prognosis depends on the kidney: a creatinine and urinalysis evaluate for renal failure and nephritis (such as blood in the urine), and the nephropathy may appear concomitantly or be delayed several months after the purpura.",
+        "whyWrongByChoice": {
+          "A": "ANA and dsDNA evaluate for SLE, which this IgA-mediated syndrome is not.",
+          "B": "ANCA-associated vasculitis is independent of immune complexes, unlike this IgA-deposition disease.",
+          "C": "Muscle enzymes are used to evaluate dermatomyositis.",
+          "D": "These screen for antiphospholipid antibody syndrome."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Henoch-Schonlein purpura",
+        "IgA vasculitis",
+        "nephritis"
+      ],
+      "topicId": "the-skin-in-autoimmune-diseases",
+      "topicName": "The Skin in Autoimmune Diseases",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk52-001",
+      "stem": "A 64-year-old man has had slowly enlarging, erythematous, scaly plaques on his buttocks and thighs for 6 years. Biopsy shows atypical lymphocytes in the upper dermis and epidermis, and the diagnosis is mycosis fungoides. From which cell are the neoplastic cells most likely derived?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CD4+ helper T lymphocyte"
+        },
+        {
+          "label": "B",
+          "text": "CD8+ cytotoxic T lymphocyte"
+        },
+        {
+          "label": "C",
+          "text": "Epidermal Langerhans cell"
+        },
+        {
+          "label": "D",
+          "text": "Mature B lymphocyte (plasma cell precursor)"
+        },
+        {
+          "label": "E",
+          "text": "Natural killer cell"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Mycosis fungoides is a neoplasm of mature, skin-resident CD4+ helper T cells.",
+        "whyCorrect": "Cutaneous T cell lymphoma arises from the mature T cells that are part of the skin's resident immune system. In mycosis fungoides the neoplastic cells are thought to derive from CD4+ helper T cells; CD8+ forms exist but are less common.",
+        "whyWrongByChoice": {
+          "B": "CD8+ forms of CTCL exist but are less common; typical MF derives from CD4+ helper cells.",
+          "C": "Langerhans cells are antigen-presenting cells, not the lymphoid cell of origin of CTCL.",
+          "D": "MF is a T-cell neoplasm, not a B-cell neoplasm.",
+          "E": "MF is a neoplasm of mature T cells, not NK cells."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "pathophysiology",
+        "cell of origin"
+      ],
+      "topicId": "cutaneous-t-cell-lymphoma",
+      "topicName": "Cutaneous T cell Lymphoma",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk52-002",
+      "stem": "A skin biopsy from a 59-year-old woman with a long-standing annular, scaly patch on the hip shows small, discrete collections of atypical lymphoid cells sitting within the epidermis, with no neutrophils present. What is the name of this histologic finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Civatte (colloid) bodies"
+        },
+        {
+          "label": "B",
+          "text": "Kogoj spongiform pustules"
+        },
+        {
+          "label": "C",
+          "text": "Munro microabscesses"
+        },
+        {
+          "label": "D",
+          "text": "Pautrier microabscesses"
+        },
+        {
+          "label": "E",
+          "text": "Spongiotic vesicles"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Intraepidermal clusters of lymphoma cells in MF are called Pautrier microabscesses.",
+        "whyCorrect": "In MF, malignant lymphoma cells sometimes invade the epidermis in small clusters, termed Pautrier microabscesses. The name is misleading: true abscesses are collections of neutrophils, whereas these clusters are made of lymphoma cells. They are a unique feature of MF.",
+        "whyWrongByChoice": {
+          "A": "Civatte bodies are apoptotic keratinocytes, not collections of atypical lymphocytes.",
+          "B": "Spongiform pustules are neutrophilic, unlike the lymphoid clusters described.",
+          "C": "Munro microabscesses are neutrophil collections in the stratum corneum of psoriasis, not lymphoid clusters.",
+          "E": "Spongiotic vesicles are fluid collections of eczematous dermatitis, not clusters of atypical lymphocytes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "histopathology",
+        "Pautrier microabscess"
+      ],
+      "topicId": "cutaneous-t-cell-lymphoma",
+      "topicName": "Cutaneous T cell Lymphoma",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk52-003",
+      "stem": "A pathologist examining a biopsy from a scaly plaque on a 70-year-old man's back notes atypical lymphocytes whose nuclear outlines are deeply folded and indented, resembling the sulci and gyri of the brain. This nuclear appearance is most closely associated with which diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atopic dermatitis"
+        },
+        {
+          "label": "B",
+          "text": "Classic Hodgkin lymphoma"
+        },
+        {
+          "label": "C",
+          "text": "Mycosis fungoides"
+        },
+        {
+          "label": "D",
+          "text": "Plaque psoriasis"
+        },
+        {
+          "label": "E",
+          "text": "Tinea corporis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Cerebriform (brain-like, convoluted) nuclei point to mycosis fungoides.",
+        "whyCorrect": "The unique feature of MF lymphoma cells is their extremely convoluted nuclear contours, called cerebriform nuclei because the indentations resemble the sulci and gyri of the brain. The term is used almost exclusively with this lymphoma.",
+        "whyWrongByChoice": {
+          "A": "Atopic dermatitis shows a reactive, not atypical, lymphocytic infiltrate.",
+          "B": "Hodgkin lymphoma is not characterized by cerebriform nuclei; the term is used almost exclusively for MF.",
+          "D": "Psoriasis is an inflammatory dermatosis without atypical lymphocytes bearing convoluted nuclei.",
+          "E": "Tinea is a dermatophyte infection; biopsy shows fungal hyphae, not atypical lymphocytes."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "histopathology",
+        "cerebriform nuclei"
+      ],
+      "topicId": "cutaneous-t-cell-lymphoma",
+      "topicName": "Cutaneous T cell Lymphoma",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk52-004",
+      "stem": "A 67-year-old man has had itchy, red, scaly patches on his buttocks, lower trunk, and upper thighs for 7 years. Several clinicians diagnosed psoriasis, and topical psoriasis therapies have not helped. Examination shows several thick, scaly, erythematous plaques in these areas. Which of the following is the most appropriate next step to establish the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Patch testing for contact allergens"
+        },
+        {
+          "label": "B",
+          "text": "Potassium hydroxide scraping only"
+        },
+        {
+          "label": "C",
+          "text": "Skin biopsy of a plaque"
+        },
+        {
+          "label": "D",
+          "text": "Switch to a stronger psoriasis biologic"
+        },
+        {
+          "label": "E",
+          "text": "Whole-body PET scan before any biopsy"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Suspected MF (refractory scaly plaques in covered areas) is confirmed by skin biopsy.",
+        "whyCorrect": "MF is a great imitator that is often misdiagnosed for 5-10 years as eczema, tinea or psoriasis. Long-standing scaly plaques in a bathing suit distribution that fail standard therapy should be biopsied; diagnosis rests on recognizing the lesions followed by skin biopsy.",
+        "whyWrongByChoice": {
+          "A": "Patch testing evaluates allergic contact dermatitis, not a suspected cutaneous lymphoma.",
+          "B": "A KOH scraping looks for fungus; it cannot diagnose a lymphoma that merely mimics tinea.",
+          "D": "Escalating psoriasis therapy delays the diagnosis; years of failed therapy call for tissue diagnosis.",
+          "E": "Imaging is not the diagnostic step; the diagnosis is made by skin biopsy first."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "diagnosis",
+        "mimics",
+        "case"
+      ],
+      "topicId": "cutaneous-t-cell-lymphoma",
+      "topicName": "Cutaneous T cell Lymphoma",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk52-005",
+      "stem": "A 72-year-old man with mycosis fungoides diagnosed 12 years ago initially had flat, scaly, red lesions on his buttocks. Over the years some became raised and thick. He now has several dome-shaped nodules on his trunk. If his disease continues to progress through the classic clinical sequence, what stage would come next?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erythrodermic stage"
+        },
+        {
+          "label": "B",
+          "text": "Hypopigmented stage"
+        },
+        {
+          "label": "C",
+          "text": "Patch stage"
+        },
+        {
+          "label": "D",
+          "text": "Plaque stage"
+        },
+        {
+          "label": "E",
+          "text": "Vesiculobullous stage"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "MF stages run patch, plaque, tumor, then erythrodermic.",
+        "whyCorrect": "MF progresses through patch, plaque, tumor and then erythrodermic stages. This patient has moved from patches to plaques to tumors; next, the malignant cells can take over the entire skin surface, producing red, scaly skin from head to toe.",
+        "whyWrongByChoice": {
+          "B": "Hypopigmented MF is a clinical variant, not a stage in the progression sequence.",
+          "C": "The patch stage is the earliest stage; he has already passed it.",
+          "D": "Plaques precede tumors; he has already progressed beyond plaques.",
+          "E": "Blistering is not one of the classic MF stages."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "clinical stages",
+        "progression"
+      ],
+      "topicId": "cutaneous-t-cell-lymphoma",
+      "topicName": "Cutaneous T cell Lymphoma",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk52-006",
+      "stem": "A 61-year-old woman has a persistent scaly patch on her flank. Biopsy shows a lymphocytic infiltrate, but histology alone cannot distinguish an inflammatory dermatitis from early mycosis fungoides. Which additional result would most strongly support a neoplastic process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A predominance of neutrophils in the epidermis"
+        },
+        {
+          "label": "B",
+          "text": "A single dominant T-cell receptor clone"
+        },
+        {
+          "label": "C",
+          "text": "Many distinct T-cell receptor clones"
+        },
+        {
+          "label": "D",
+          "text": "Mixed polyclonal B-cell and T-cell populations"
+        },
+        {
+          "label": "E",
+          "text": "Positive fungal hyphae on periodic acid-Schiff stain"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A monoclonal TCR gene rearrangement supports CTCL over a reactive infiltrate.",
+        "whyCorrect": "When histology is uncertain, the T-cell receptor gene rearrangement test determines whether the infiltrate is polyclonal (many lineages, as in a reactive process) or monoclonal (one lineage, as in a neoplasm). In CTCL the test often reveals a monoclonal infiltrate.",
+        "whyWrongByChoice": {
+          "A": "Neutrophilic collections are not the lymphoid clusters of MF; MF microabscesses contain lymphoma cells.",
+          "C": "A polyclonal infiltrate of many lineages indicates a reactive process.",
+          "D": "A mixed, polyclonal infiltrate points to a reactive process, not a monoclonal neoplasm.",
+          "E": "Hyphae indicate tinea, a mimic of MF, not a lymphoma."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "diagnosis",
+        "TCR gene rearrangement"
+      ],
+      "topicId": "cutaneous-t-cell-lymphoma",
+      "topicName": "Cutaneous T cell Lymphoma",
+      "tier": "core"
+    },
+    {
+      "id": "mk52-007",
+      "stem": "A 57-year-old man is newly diagnosed with patch-stage mycosis fungoides involving 4% of his body surface area. Blood counts and lymph node examination are normal. He asks what this diagnosis means for his life span. Which of the following is most accurate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "He most likely has a normal life expectancy"
+        },
+        {
+          "label": "B",
+          "text": "He will likely develop pancytopenia within a decade"
+        },
+        {
+          "label": "C",
+          "text": "He will likely progress to internal disease"
+        },
+        {
+          "label": "D",
+          "text": "His 5-year survival is roughly 20-60%"
+        },
+        {
+          "label": "E",
+          "text": "His disease is curable with a single course of therapy"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Limited cutaneous MF usually carries a normal life expectancy.",
+        "whyCorrect": "Although incurable, MF is usually indolent; most patients control it for years, and most people with limited cutaneous involvement have a normal life expectancy. Follow-up over the years is crucial to monitor for progression in the minority who progress.",
+        "whyWrongByChoice": {
+          "B": "Marrow failure is a feature of advanced disease, not the expected course of limited MF.",
+          "C": "Progression to internal disease is uncommon; MF stays a skin condition for most patients.",
+          "D": "A 20-60% 5-year survival describes Sezary syndrome, not limited patch-stage MF.",
+          "E": "MF is incurable, although it is usually controllable for years."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "prognosis",
+        "limited disease"
+      ],
+      "topicId": "cutaneous-t-cell-lymphoma",
+      "topicName": "Cutaneous T cell Lymphoma",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk52-008",
+      "stem": "A 63-year-old woman is newly diagnosed with mycosis fungoides. She has a few scaly patches on her buttocks and thighs covering about 5% of her skin surface, with no lymphadenopathy and a normal blood count. Which of the following is the most appropriate initial treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "High-potency topical corticosteroid"
+        },
+        {
+          "label": "B",
+          "text": "Multiagent intravenous systemic chemotherapy"
+        },
+        {
+          "label": "C",
+          "text": "Oral antifungal therapy for 6 weeks"
+        },
+        {
+          "label": "D",
+          "text": "Referral for allogeneic stem cell transplantation"
+        },
+        {
+          "label": "E",
+          "text": "Total skin electron beam radiotherapy"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Limited patch MF is treated first with high-potency topical corticosteroids (with or without topical nitrogen mustard).",
+        "whyCorrect": "Mild MF confined to a limited area of skin, which describes most cases, is treated with high-potency topical corticosteroids to minimize inflammation, along with topical chemotherapy such as nitrogen mustard. UVB is used for more stubborn or widespread patches.",
+        "whyWrongByChoice": {
+          "B": "Systemic chemotherapy is reserved for disseminated disease.",
+          "C": "MF is not a fungal infection despite its name and its resemblance to tinea.",
+          "D": "Limited skin-confined MF is managed with skin-directed therapy, usually by dermatologists.",
+          "E": "Electron beam radiation is considered for thicker plaques and tumors, not a few limited patches."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "treatment",
+        "limited disease"
+      ],
+      "topicId": "cutaneous-t-cell-lymphoma",
+      "topicName": "Cutaneous T cell Lymphoma",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk52-009",
+      "stem": "A 69-year-old man with patch-stage mycosis fungoides has used high-potency topical corticosteroids twice daily for several months. His patches persist and now cover his trunk, buttocks, and thighs. There are no plaques, tumors, or internal findings. Which of the following is the most appropriate next treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Observation until tumors develop"
+        },
+        {
+          "label": "B",
+          "text": "Oral terbinafine"
+        },
+        {
+          "label": "C",
+          "text": "Systemic chemotherapy"
+        },
+        {
+          "label": "D",
+          "text": "Targeted radiation therapy"
+        },
+        {
+          "label": "E",
+          "text": "Ultraviolet B therapy"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Stubborn or widespread patch-stage MF responds to UVB phototherapy.",
+        "whyCorrect": "UVB light therapy is a highly effective treatment for more stubborn or widespread patch-stage MF. Radiation is reserved for thicker plaques and tumors, and systemic therapy for disseminated disease.",
+        "whyWrongByChoice": {
+          "A": "Persistent widespread patches warrant escalation to an effective skin-directed therapy now.",
+          "B": "Antifungals have no role; MF is a lymphoma that only mimics tinea.",
+          "C": "Systemic chemotherapy is considered only for disseminated disease, which he does not have.",
+          "D": "Radiation is considered for thicker plaques and tumors, not flat patches."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "treatment",
+        "phototherapy"
+      ],
+      "topicId": "cutaneous-t-cell-lymphoma",
+      "topicName": "Cutaneous T cell Lymphoma",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk52-010",
+      "stem": "A 71-year-old man has had 2 months of red, peeling, itchy, painful skin covering nearly his entire body, with shaking chills. He had no rash before this, takes no new medications, and has no history of psoriasis or atopic dermatitis. He has diffuse lymphadenopathy. Which finding would best establish the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A monoclonal IgG spike on electrophoresis"
+        },
+        {
+          "label": "B",
+          "text": "A polyclonal T-cell population on flow cytometry"
+        },
+        {
+          "label": "C",
+          "text": "Eosinophilia with a recent drug exposure"
+        },
+        {
+          "label": "D",
+          "text": "Intraepidermal neutrophilic collections on biopsy"
+        },
+        {
+          "label": "E",
+          "text": "Over 1000 malignant T cells per mL on smear"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Sezary syndrome is defined by circulating malignant T cells (>1000 Sezary cells per mL).",
+        "whyCorrect": "Sezary syndrome is a rare, aggressive, leukemic form of CTCL. It differs from MF in that the blood contains malignant T cells (Sezary cells), with more than 1000 per mL on peripheral smear. Erythroderma covering more than 80% of the body is common, and chills reflect disturbed temperature regulation. Most cases arise de novo, without preceding MF.",
+        "whyWrongByChoice": {
+          "A": "A paraprotein points to a plasma-cell disorder, not a T-cell neoplasm.",
+          "B": "A polyclonal population indicates a reactive process, not a T-cell leukemia.",
+          "C": "That suggests DRESS, but he has no new medications.",
+          "D": "Neutrophilic collections suggest psoriasis, which he has no history of."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Sezary syndrome",
+        "diagnosis",
+        "erythroderma"
+      ],
+      "topicId": "cutaneous-t-cell-lymphoma",
+      "topicName": "Cutaneous T cell Lymphoma",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk52-011",
+      "stem": "A 58-year-old woman has newly diagnosed patch-stage mycosis fungoides affecting about 6% of her body surface area. She has no palpable lymph nodes or organomegaly, and her white blood cell count is normal. Which of the following best describes the role of CT imaging in her staging?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is needed because marrow involvement is common early"
+        },
+        {
+          "label": "B",
+          "text": "It is not needed because it is predicted to be negative"
+        },
+        {
+          "label": "C",
+          "text": "It is required before any topical therapy is started"
+        },
+        {
+          "label": "D",
+          "text": "It is the test that confirms the diagnosis of lymphoma"
+        },
+        {
+          "label": "E",
+          "text": "It should be repeated every 3 months for life"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "MF with <10% BSA involvement does not need staging imaging.",
+        "whyCorrect": "Patients presenting with limited body surface area (<10%) do not need imaging for staging, because the tests are predicted to be negative. CT is used when body surface area is high or disease is advanced, to look for lymphadenopathy and hepatosplenomegaly.",
+        "whyWrongByChoice": {
+          "A": "Early disease is confined to the skin; marrow failure is a feature of advanced disease.",
+          "C": "Imaging is unnecessary at <10% BSA; topical therapy can begin without it.",
+          "D": "The diagnosis is made by skin biopsy, not imaging.",
+          "E": "Imaging is not part of routine monitoring of limited disease; follow-up skin exams are."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "staging",
+        "imaging"
+      ],
+      "topicId": "cutaneous-t-cell-lymphoma",
+      "topicName": "Cutaneous T cell Lymphoma",
+      "tier": "core"
+    },
+    {
+      "id": "mk52-012",
+      "stem": "A 74-year-old woman with long-standing mycosis fungoides now has numerous thick plaques and several nodular tumors scattered over her skin. Staging shows no lymph node, blood, or visceral involvement. Which of the following is the most appropriate treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "High-potency topical corticosteroid alone"
+        },
+        {
+          "label": "B",
+          "text": "Systemic multiagent chemotherapy"
+        },
+        {
+          "label": "C",
+          "text": "Topical antifungal cream to all lesions"
+        },
+        {
+          "label": "D",
+          "text": "Total skin electron beam radiotherapy"
+        },
+        {
+          "label": "E",
+          "text": "Twice-daily emollient and observation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Thick plaques and tumors of MF are treated with radiation, such as total skin electron beam therapy.",
+        "whyCorrect": "Total skin electron beam radiotherapy or targeted radiation therapy is considered for thicker plaques and tumors. Topical agents and UVB treat patches, and systemic chemotherapy is reserved for disseminated disease, which she does not have.",
+        "whyWrongByChoice": {
+          "A": "Topical steroids suit mild, limited patches, not numerous thick plaques and tumors.",
+          "B": "Systemic chemotherapy is reserved for disseminated disease; hers is skin-confined.",
+          "C": "MF is not a fungal infection; antifungals have no role.",
+          "E": "Tumor-stage disease needs active, effective skin-directed therapy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "treatment",
+        "radiation"
+      ],
+      "topicId": "cutaneous-t-cell-lymphoma",
+      "topicName": "Cutaneous T cell Lymphoma",
+      "tier": "core"
+    }
+  ]
+}

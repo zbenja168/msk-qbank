@@ -1,0 +1,2286 @@
+{
+  "categoryId": "w5s2",
+  "categoryName": "Session 2",
+  "questions": [
+    {
+      "id": "mk42-001",
+      "stem": "A 63-year-old fair-skinned man who worked outdoors for decades has a slowly enlarging, translucent pink papule with an elevated border and tree-like surface vessels on his nasal ala. A shave biopsy confirms the most common skin malignancy. From which cell type does this tumor arise?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dermal fibroblasts"
+        },
+        {
+          "label": "B",
+          "text": "Keratinocytes"
+        },
+        {
+          "label": "C",
+          "text": "Langerhans cells"
+        },
+        {
+          "label": "D",
+          "text": "Melanocytes"
+        },
+        {
+          "label": "E",
+          "text": "Merkel cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Basal cell and squamous cell carcinomas arise from keratinocytes; melanoma arises from melanocytes.",
+        "whyCorrect": "BCC and SCC are grouped as keratinocyte carcinomas (nonmelanoma skin cancer) because both arise from keratinocytes. The lesion described is a classic BCC, the most common skin malignancy, on a sun-exposed site of a fair-skinned patient.",
+        "whyWrongByChoice": {
+          "A": "BCC is an epidermal keratinocyte tumor, not a tumor of dermal fibroblasts.",
+          "C": "Langerhans cells are epidermal antigen-presenting cells and are not a cell of origin for BCC, SCC, or melanoma in this lecture.",
+          "D": "Melanocytes give rise to melanoma, not to basal cell carcinoma.",
+          "E": "Merkel cells are not the origin of basal cell carcinoma."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "cell of origin",
+        "keratinocyte carcinoma",
+        "BCC"
+      ],
+      "topicId": "skin-cancer-basal-cell-carcinoma-squamous-cell-carcinoma",
+      "topicName": "Skin Cancer: Basal Cell Carcinoma & Squamous Cell Carcinoma",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk42-002",
+      "stem": "A 70-year-old woman has a 1-cm, pearly, pink papule on the side of her nose that she says has slowly grown over a year and bleeds when she dries her face. It is nontender. Examination shows a rolled perimeter, central umbilication, and arborizing telangiectasias. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Actinic keratosis"
+        },
+        {
+          "label": "B",
+          "text": "Bowen disease"
+        },
+        {
+          "label": "C",
+          "text": "Keratoacanthoma"
+        },
+        {
+          "label": "D",
+          "text": "Nodular basal cell carcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Superficial spreading melanoma"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A slow-growing, pearly pink papule with arborizing telangiectasias, rolled border, and central umbilication is nodular BCC.",
+        "whyCorrect": "The lecture lists translucency, arborizing telangiectasias, an elevated perimeter, and central umbilication or ulceration as features of BCC, which is usually nontender and bleeds easily. Nodular BCC, the most common subtype, appears as a pearly pink papule with telangiectasias, most often on the face.",
+        "whyWrongByChoice": {
+          "A": "An actinic keratosis is a flat, erythematous scaly papule with yellow scale-crust and no pearly, translucent quality.",
+          "B": "Bowen disease is an enlarging, well-demarcated red plaque with crusting and scaling, not a pearly papule.",
+          "C": "Keratoacanthoma erupts quickly as a cup-shaped lesion with a keratin-filled center, not a slow, pearly papule.",
+          "E": "Melanoma is a melanocytic, pigmented tumor; the translucent pink papule with arborizing vessels is typical of BCC."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "BCC",
+        "nodular",
+        "clinical presentation"
+      ],
+      "topicId": "skin-cancer-basal-cell-carcinoma-squamous-cell-carcinoma",
+      "topicName": "Skin Cancer: Basal Cell Carcinoma & Squamous Cell Carcinoma",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk42-003",
+      "stem": "Molecular analysis of a sporadic basal cell carcinoma shows loss of function of a tumor suppressor receptor in the sonic hedgehog pathway. As a result, Smoothened signals constitutively even without ligand, and GLI enters the nucleus to drive transcription. Which gene is most likely mutated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "BRAF"
+        },
+        {
+          "label": "B",
+          "text": "KRAS"
+        },
+        {
+          "label": "C",
+          "text": "PTCH (Patched)"
+        },
+        {
+          "label": "D",
+          "text": "TP53"
+        },
+        {
+          "label": "E",
+          "text": "XPA (an NER gene)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Almost all BCCs have hedgehog-pathway activation, classically from loss of the tumor suppressor PTCH, which releases SMO.",
+        "whyCorrect": "Normally Patched inhibits Smoothened until sonic hedgehog binds Patched. In BCC, PTC (Patched) is a mutated tumor suppressor, so SMO is active with or without sonic hedgehog and GLI enters the nucleus to start transcription and cell division.",
+        "whyWrongByChoice": {
+          "A": "BRAF is not part of the sonic hedgehog-Patched-Smoothened pathway described for BCC.",
+          "B": "KRAS is a proto-oncogene, not the hedgehog-pathway tumor suppressor that restrains Smoothened.",
+          "D": "p53 mutation is the most common UV-induced mutation in squamous cell carcinoma, not the hedgehog-pathway defect described.",
+          "E": "Nucleotide excision repair genes are defective in xeroderma pigmentosum, not the receptor that restrains Smoothened."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "BCC",
+        "pathogenesis",
+        "sonic hedgehog",
+        "PTCH"
+      ],
+      "topicId": "skin-cancer-basal-cell-carcinoma-squamous-cell-carcinoma",
+      "topicName": "Skin Cancer: Basal Cell Carcinoma & Squamous Cell Carcinoma",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk42-004",
+      "stem": "An 82-year-old man has a large, long-standing basal cell carcinoma of the scalp that has eroded into the cranium and is judged inoperable. He is started on an oral agent approved for this situation. At which step of the sonic hedgehog pathway does this drug act?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It activates p53 to trigger apoptosis of the tumor cells"
+        },
+        {
+          "label": "B",
+          "text": "It binds sonic hedgehog ligand to stop it reaching Patched"
+        },
+        {
+          "label": "C",
+          "text": "It blocks Smoothened, the receptor that releases GLI"
+        },
+        {
+          "label": "D",
+          "text": "It inhibits topoisomerase in rapidly dividing basaloid cells"
+        },
+        {
+          "label": "E",
+          "text": "It restores the function of the mutated Patched protein"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Vismodegib and sonidegib are oral Smoothened (SMO) inhibitors approved for inoperable BCC.",
+        "whyCorrect": "In BCC, Patched mutation leaves SMO constitutively active, driving GLI into the nucleus. SMO inhibitors such as vismodegib and sonidegib block SMO and prevent GLI-driven transcription and cell division; they are FDA approved for inoperable basal cell carcinoma.",
+        "whyWrongByChoice": {
+          "A": "p53 is the key mutated gene in SCC, and these drugs do not act through it.",
+          "B": "Vismodegib and sonidegib do not bind the ligand; in BCC the pathway runs even without sonic hedgehog.",
+          "D": "Topoisomerase inhibition is not the mechanism of the oral hedgehog-pathway drugs for BCC.",
+          "E": "These drugs do not repair or replace Patched; they act downstream of it."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "BCC",
+        "treatment",
+        "vismodegib",
+        "smoothened"
+      ],
+      "topicId": "skin-cancer-basal-cell-carcinoma-squamous-cell-carcinoma",
+      "topicName": "Skin Cancer: Basal Cell Carcinoma & Squamous Cell Carcinoma",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk42-005",
+      "stem": "A shave biopsy of a pink papule on a 66-year-old man's cheek shows dermal nests of small cells with scant cytoplasm and a high nuclear-to-cytoplasmic ratio. The outer layer of each nest lines up in a picket-fence pattern, a space separates the nests from the stroma, and frothy material sits at the nest edges. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Actinic keratosis"
+        },
+        {
+          "label": "B",
+          "text": "Basal cell carcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Invasive squamous cell carcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Melanoma"
+        },
+        {
+          "label": "E",
+          "text": "Squamous cell carcinoma in situ"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "BCC histology: basaloid nests, peripheral palisading, retraction clefting from stroma, and mucin at the nest edge.",
+        "whyCorrect": "The lecture's classic histology of BCC is nests of small blue basaloid cells with scanty cytoplasm, peripheral palisading at the edge of the nests, clefting or retraction from the surrounding stroma, and light, frothy mucin at the nest edge.",
+        "whyWrongByChoice": {
+          "A": "AK shows partial-thickness atypia limited to the lower epidermis, not dermal tumor nests.",
+          "C": "Invasive SCC shows nests of enlarged eosinophilic atypical keratinocytes, often with keratin pearls, not small basaloid cells with palisading.",
+          "D": "Melanoma arises from melanocytes; peripheral palisading with retraction clefts and mucin is the classic BCC pattern.",
+          "E": "SCCIS shows full-thickness epidermal atypia confined to the epidermis, without dermal basaloid nests."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "BCC",
+        "histopathology",
+        "peripheral palisading"
+      ],
+      "topicId": "skin-cancer-basal-cell-carcinoma-squamous-cell-carcinoma",
+      "topicName": "Skin Cancer: Basal Cell Carcinoma & Squamous Cell Carcinoma",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk42-006",
+      "stem": "A 74-year-old man asks what the main danger is from the basal cell carcinoma just diagnosed on his temple. Which of the following best describes the most common complication of this tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Early spread to regional lymph nodes"
+        },
+        {
+          "label": "B",
+          "text": "Hematogenous metastasis to the lungs"
+        },
+        {
+          "label": "C",
+          "text": "Local invasion and tissue destruction"
+        },
+        {
+          "label": "D",
+          "text": "Paraneoplastic hypercalcemia"
+        },
+        {
+          "label": "E",
+          "text": "Transformation into invasive melanoma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "BCC rarely metastasizes (0.1%) but invades and destroys local structures, even bone.",
+        "whyCorrect": "The lecture states that BCC lesions have very low metastatic potential (0.1%) but invade and can destroy local structures. Neglected, long-standing tumors can involve bone, the orbit, and other vital structures.",
+        "whyWrongByChoice": {
+          "A": "BCC has very low metastatic potential (about 0.1%), so nodal spread is not its usual complication.",
+          "B": "Distant metastasis is rare in BCC; its morbidity comes from local invasion.",
+          "D": "Paraneoplastic syndromes are not a complication of BCC described in the lecture.",
+          "E": "BCC does not transform into melanoma, which arises from melanocytes."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "BCC",
+        "prognosis",
+        "local invasion"
+      ],
+      "topicId": "skin-cancer-basal-cell-carcinoma-squamous-cell-carcinoma",
+      "topicName": "Skin Cancer: Basal Cell Carcinoma & Squamous Cell Carcinoma",
+      "tier": "core"
+    },
+    {
+      "id": "mk42-007",
+      "stem": "A 51-year-old man who takes immunosuppressants after a kidney transplant has a lesion on his ear that appeared 5 weeks ago and has grown quickly. It hurts when he lies on that side. Examination shows a hyperkeratotic pink papule with a crusted surface and a projecting horn of keratin. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lentigo maligna melanoma"
+        },
+        {
+          "label": "B",
+          "text": "Morpheaform basal cell carcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Nodular basal cell carcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Pigmented basal cell carcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Squamous cell carcinoma"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A rapidly growing, tender, crusted or hyperkeratotic papule with a keratin horn in an immunosuppressed patient is SCC.",
+        "whyCorrect": "SCC presents as a hyperkeratotic pink papule or plaque with crusting, scale or a verrucous surface and can grow keratin horns, which BCC lacks. It grows faster than BCC, is frequently tender, and is more common in patients on transplant immunosuppression.",
+        "whyWrongByChoice": {
+          "A": "A melanoma is a pigmented melanocytic tumor, not a hyperkeratotic pink papule with a horn.",
+          "B": "Morpheaform BCC is a firm, white, scar-like plaque, not a rapidly growing crusted papule.",
+          "C": "Nodular BCC is slow-growing, pearly and usually nontender, and BCC does not form keratin horns.",
+          "D": "Pigmented BCC contains melanin and mimics melanoma; it is not a tender, scaly, horn-forming lesion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "SCC",
+        "clinical presentation",
+        "immunosuppression"
+      ],
+      "topicId": "skin-cancer-basal-cell-carcinoma-squamous-cell-carcinoma",
+      "topicName": "Skin Cancer: Basal Cell Carcinoma & Squamous Cell Carcinoma",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk42-008",
+      "stem": "A 69-year-old woman has a flat, erythematous, scaly papule with a yellow scale-crust on the back of her hand. There is no nodularity or thickness beneath the crust. A biopsy is performed. Which histologic finding is expected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atypical keratinocyte nests in the dermis with keratin pearls"
+        },
+        {
+          "label": "B",
+          "text": "Atypical keratinocytes confined to the lower part of the epidermis"
+        },
+        {
+          "label": "C",
+          "text": "Atypical keratinocytes spanning the whole thickness of the epidermis"
+        },
+        {
+          "label": "D",
+          "text": "Atypical melanocytes scattered upward through the epidermis"
+        },
+        {
+          "label": "E",
+          "text": "Basaloid dermal nests with palisading and retraction clefts"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Actinic keratosis shows partial-thickness keratinocyte atypia limited to the bottom of the epidermis.",
+        "whyCorrect": "A scaly papule with yellow scale-crust on sun-exposed skin without thickness at its base is an actinic keratosis. Histologically AK shows partial-thickness keratinocyte atypia, usually limited to the bottom of the epidermis, with enlarged nuclei and a higher nuclear-to-cytoplasmic ratio.",
+        "whyWrongByChoice": {
+          "A": "Dermal nests with keratin pearls indicate invasive squamous cell carcinoma.",
+          "C": "Full-thickness epidermal atypia defines squamous cell carcinoma in situ (Bowen disease), not this lesion.",
+          "D": "This lesion is a keratinocyte lesion; melanocytic atypia is not the expected finding.",
+          "E": "These are the features of basal cell carcinoma."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "actinic keratosis",
+        "histopathology",
+        "precursor lesion"
+      ],
+      "topicId": "skin-cancer-basal-cell-carcinoma-squamous-cell-carcinoma",
+      "topicName": "Skin Cancer: Basal Cell Carcinoma & Squamous Cell Carcinoma",
+      "tier": "core"
+    },
+    {
+      "id": "mk42-009",
+      "stem": "A 72-year-old man has an enlarging, sharply demarcated, irregularly shaped red plaque on his shin with surface scale and crust. Biopsy shows pleomorphic keratinocytes with enlarged nuclei and mitoses throughout every layer of the epidermis; the basement membrane is intact and the dermis contains no tumor. Which of the following is the most accurate diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Actinic keratosis"
+        },
+        {
+          "label": "B",
+          "text": "Invasive squamous cell carcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Keratoacanthoma"
+        },
+        {
+          "label": "D",
+          "text": "Squamous cell carcinoma in situ"
+        },
+        {
+          "label": "E",
+          "text": "Superficial basal cell carcinoma"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Bowen disease (SCC in situ) shows full-thickness epidermal atypia confined to the epidermis.",
+        "whyCorrect": "Bowen disease, also called squamous cell carcinoma in situ, is SCC confined to the epidermis. It presents as an enlarging, well-demarcated, irregular red plaque with crusting and scaling, and histology shows full-thickness keratinocyte atypia occupying the entire epidermis.",
+        "whyWrongByChoice": {
+          "A": "AK shows only partial-thickness atypia in the bottom part of the epidermis, not atypia through every layer.",
+          "B": "Invasive SCC requires malignant keratinocytes in the dermis, which is absent here.",
+          "C": "Keratoacanthoma is a rapidly erupting, cup-shaped low-grade SCC, not a slowly enlarging plaque confined to the epidermis.",
+          "E": "Superficial BCC is a basaloid tumor; atypical pleomorphic keratinocytes in every layer are not its histology."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Bowen disease",
+        "SCC in situ",
+        "histopathology"
+      ],
+      "topicId": "skin-cancer-basal-cell-carcinoma-squamous-cell-carcinoma",
+      "topicName": "Skin Cancer: Basal Cell Carcinoma & Squamous Cell Carcinoma",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk42-010",
+      "stem": "Sequencing of a cutaneous squamous cell carcinoma from a 77-year-old farmer's forearm shows UV-signature mutations. Which gene is most commonly affected by UV-induced mutation in this tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "GLI1"
+        },
+        {
+          "label": "B",
+          "text": "PTCH1"
+        },
+        {
+          "label": "C",
+          "text": "SHH"
+        },
+        {
+          "label": "D",
+          "text": "SMO"
+        },
+        {
+          "label": "E",
+          "text": "TP53"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The most common UV-induced mutation in SCC affects the p53 tumor suppressor gene.",
+        "whyCorrect": "SCC has the strongest correlation with chronic sun exposure of the three major skin cancers, and its most common UV-induced mutation is in the gene encoding the p53 tumor suppressor. Other mutations affect differentiation, apoptosis, cell-cycle control and DNA repair.",
+        "whyWrongByChoice": {
+          "A": "GLI is the transcription factor activated in the BCC hedgehog pathway, not the main SCC mutation.",
+          "B": "Patched mutation drives the hedgehog pathway in basal cell carcinoma, not the typical UV mutation in SCC.",
+          "C": "Sonic hedgehog ligand is part of the BCC pathway; BCC runs with or without it.",
+          "D": "Smoothened activation is the downstream event in BCC and the target of vismodegib, not the main SCC mutation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "SCC",
+        "pathogenesis",
+        "p53"
+      ],
+      "topicId": "skin-cancer-basal-cell-carcinoma-squamous-cell-carcinoma",
+      "topicName": "Skin Cancer: Basal Cell Carcinoma & Squamous Cell Carcinoma",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk42-011",
+      "stem": "Four immunocompetent patients each have a newly biopsied cutaneous squamous cell carcinoma less than 2 cm across with a depth of invasion under 4 mm, and none arose in a scar. Which tumor location carries the highest risk of metastasis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anterior shin"
+        },
+        {
+          "label": "B",
+          "text": "Dorsal hand"
+        },
+        {
+          "label": "C",
+          "text": "Extensor forearm"
+        },
+        {
+          "label": "D",
+          "text": "Helix of the ear"
+        },
+        {
+          "label": "E",
+          "text": "Upper back"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "SCC on the ears, lips or genitals is high risk for metastasis even when small.",
+        "whyCorrect": "Only a fraction of SCCs metastasize (3%-7%). High-risk features are size over 2 cm on the head and neck, depth of invasion of at least 4 mm, location on the ears, lips or genitals, origin in significant scars such as burn scars, and immunosuppression. With size, depth, scar and immune status equal, the ear location confers the highest risk.",
+        "whyWrongByChoice": {
+          "A": "The shin is not among the high-risk locations named for SCC.",
+          "B": "The dorsal hand is a common sun-exposed site but is not one of the listed high-risk locations.",
+          "C": "The forearm is not among the high-risk locations (ears, lips, genitals) listed for SCC.",
+          "E": "The trunk is not a high-risk location for SCC metastasis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "SCC",
+        "high-risk features",
+        "metastasis"
+      ],
+      "topicId": "skin-cancer-basal-cell-carcinoma-squamous-cell-carcinoma",
+      "topicName": "Skin Cancer: Basal Cell Carcinoma & Squamous Cell Carcinoma",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk42-012",
+      "stem": "A 58-year-old man has a nonhealing, enlarging lesion within a large scar on his thigh left by a house fire 33 years ago. Biopsy shows nests of atypical squamous keratinocytes invading the dermis. Which term describes this tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Actinic cheilitis"
+        },
+        {
+          "label": "B",
+          "text": "Bowen disease"
+        },
+        {
+          "label": "C",
+          "text": "Keratoacanthoma"
+        },
+        {
+          "label": "D",
+          "text": "Marjolin ulcer"
+        },
+        {
+          "label": "E",
+          "text": "Morpheaform carcinoma"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "An SCC arising in a long-standing scar such as a burn scar is a Marjolin ulcer.",
+        "whyCorrect": "Chronic inflammation from scars, burns, chronic ulcers and sinus tracts is a specific risk factor for SCC. An SCC arising in a scar is called a Marjolin ulcer and arises in scars present for 30-35 years on average; tumors in significant scars are also a high-risk feature for metastasis.",
+        "whyWrongByChoice": {
+          "A": "Actinic cheilitis is an actinic keratosis of the lip.",
+          "B": "Bowen disease is SCC confined to the epidermis, whereas this tumor invades the dermis.",
+          "C": "Keratoacanthoma is a rapidly erupting, cup-shaped low-grade SCC, not defined by origin in an old scar.",
+          "E": "Morpheaform is a scar-like subtype of basal cell carcinoma, not an SCC arising in a burn scar."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "SCC",
+        "Marjolin ulcer",
+        "risk factors"
+      ],
+      "topicId": "skin-cancer-basal-cell-carcinoma-squamous-cell-carcinoma",
+      "topicName": "Skin Cancer: Basal Cell Carcinoma & Squamous Cell Carcinoma",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk43-001",
+      "stem": "A 47-year-old man undergoes excisional biopsy of an irregular pigmented lesion on his back. The pathology report confirms invasive melanoma and lists several histologic measurements. Which of the following findings on the report is the single most important determinant of his prognosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deepest anatomic skin layer reached by the tumor cells"
+        },
+        {
+          "label": "B",
+          "text": "Distance from the basal layer to the deepest tumor cells"
+        },
+        {
+          "label": "C",
+          "text": "Distance from the granular layer to the deepest tumor cells"
+        },
+        {
+          "label": "D",
+          "text": "Number of differently colored zones within the lesion"
+        },
+        {
+          "label": "E",
+          "text": "Presence of ulceration across the tumor surface"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Breslow thickness (granular layer to tumor base) is the single most important prognostic factor in invasive melanoma.",
+        "whyCorrect": "This is the Breslow thickness, measured from the granular layer of the epidermis to the base of the tumor. It is the single most important prognostic factor in invasive melanoma, because deeper tumors are more likely to invade lymphatics and vessels and metastasize.",
+        "whyWrongByChoice": {
+          "A": "That is the Clark level; it is prognostic, but Breslow thickness is the one most used for decisions and is the single most important factor.",
+          "B": "Breslow thickness is measured from the granular layer, not the basal layer.",
+          "D": "Color variability is a clinical screening clue (the C of ABCDE), not the key pathologic prognostic factor.",
+          "E": "Ulceration is an important, worrisome feature, but it is secondary to Breslow thickness."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "prognosis",
+        "Breslow thickness"
+      ],
+      "topicId": "skin-cancer-malignant-melanoma",
+      "topicName": "Skin Cancer: Malignant Melanoma",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk43-002",
+      "stem": "A 44-year-old woman with dark skin notices a flat, tan-to-brown patch on her right palm that has slowly enlarged over the past year. The patch has irregular borders and uneven pigmentation. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acral lentiginous melanoma"
+        },
+        {
+          "label": "B",
+          "text": "Amelanotic melanoma"
+        },
+        {
+          "label": "C",
+          "text": "Lentigo maligna melanoma"
+        },
+        {
+          "label": "D",
+          "text": "Nodular melanoma"
+        },
+        {
+          "label": "E",
+          "text": "Superficial spreading melanoma"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Acral lentiginous melanoma (palms, soles, nail unit) is the predominant melanoma subtype in dark-skinned patients.",
+        "whyCorrect": "Acral lentiginous melanoma appears on the palms or soles as flat tan or brown macules or patches with irregular borders. It accounts for only 2%-8% of melanoma in white people but 35%-60% in dark-skinned people, so dark-skinned patients typically present with melanoma on the hands and feet.",
+        "whyWrongByChoice": {
+          "B": "Amelanotic melanoma lacks appreciable pigment and appears red or pink, not tan to brown.",
+          "C": "Lentigo maligna melanoma begins as a freckle-like lesion on heavily sun-damaged skin, not the palm.",
+          "D": "Nodular melanoma is a rapidly growing dark nodule that often ulcerates and bleeds, not a flat patch.",
+          "E": "Superficial spreading melanoma is most common overall but tends to arise on the back in men and legs in women, not the palm of a dark-skinned patient."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "subtypes",
+        "acral lentiginous melanoma",
+        "skin of color"
+      ],
+      "topicId": "skin-cancer-malignant-melanoma",
+      "topicName": "Skin Cancer: Malignant Melanoma",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk43-003",
+      "stem": "A 61-year-old man reports a dark lump on his upper back that appeared 2 months ago and has grown quickly. Examination shows a 9-mm raised blue-black nodule with an ulcerated, bleeding surface. Compared with the other primary cutaneous subtypes, which feature of this tumor best explains why it carries the worst prognosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It grows deeper into the skin rather than wider across it"
+        },
+        {
+          "label": "B",
+          "text": "It is limited to chronically sun-damaged facial skin"
+        },
+        {
+          "label": "C",
+          "text": "It lacks pigment, so recognition is often delayed"
+        },
+        {
+          "label": "D",
+          "text": "It spreads horizontally for years before it invades"
+        },
+        {
+          "label": "E",
+          "text": "It usually arises within a preexisting benign nevus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Nodular melanoma has the worst prognosis of the main subtypes because it grows vertically (deep) rather than radially.",
+        "whyCorrect": "This is nodular melanoma: a rapidly growing dark brown to black nodule in which ulceration and bleeding are common. It is aggressive and tends to grow deeper rather than wider, so it reaches greater depth quickly; depth of invasion drives lymphovascular spread, giving it the worst prognosis of the main subtypes.",
+        "whyWrongByChoice": {
+          "B": "A predilection for heavily sun-damaged skin describes lentigo maligna melanoma, a slow-growing subtype.",
+          "C": "Delayed recognition from lack of pigment is the problem in amelanotic melanoma; this nodule is blue-black.",
+          "D": "A long horizontal (radial) growth phase describes superficial spreading melanoma, which has a better prognosis.",
+          "E": "Most melanomas arise de novo, and origin from a nevus is not what makes this subtype aggressive."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "subtypes",
+        "nodular melanoma",
+        "prognosis"
+      ],
+      "topicId": "skin-cancer-malignant-melanoma",
+      "topicName": "Skin Cancer: Malignant Melanoma",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk43-004",
+      "stem": "During a routine full-skin examination of a 39-year-old woman, several pigmented lesions are evaluated using a screening rule for melanoma. Which of the following lesion findings would most raise concern for melanoma?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diameter of 3 mm and unchanged for two years"
+        },
+        {
+          "label": "B",
+          "text": "Mixed black, brown, and red areas within one lesion"
+        },
+        {
+          "label": "C",
+          "text": "Sharp, smooth border around the entire lesion"
+        },
+        {
+          "label": "D",
+          "text": "Two halves that mirror each other along any axis"
+        },
+        {
+          "label": "E",
+          "text": "Uniform tan color throughout a small round lesion"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Multiple colors within one lesion (especially black) is the C of the ABCDE melanoma screening rule.",
+        "whyCorrect": "Color variability (the C of the ABCDE rule) is a classic melanoma feature: melanomas tend to show two or more colors such as black, brown, red, pink, blue, tan or white, and black in particular is worrisome.",
+        "whyWrongByChoice": {
+          "A": "Melanomas are usually 6 mm or larger and evolve; a small stable lesion can typically be monitored.",
+          "C": "Melanomas have irregular borders; a sharp, regular border is a benign feature.",
+          "D": "Symmetry is reassuring; asymmetry (the A of ABCDE) is the worrisome finding.",
+          "E": "A single uniform color in a small round lesion is reassuring, not a melanoma feature."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ABCDE rule",
+        "clinical features"
+      ],
+      "topicId": "skin-cancer-malignant-melanoma",
+      "topicName": "Skin Cancer: Malignant Melanoma",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk43-005",
+      "stem": "A 36-year-old woman has a flat, smooth, non-scaly pigmented lesion on her calf with variegated brown and black color and a notched edge. Biopsy shows the most common subtype of melanoma. Which of the following best describes the typical growth behavior of this subtype?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A long phase of horizontal expansion before inward invasion"
+        },
+        {
+          "label": "B",
+          "text": "Decades of slow evolution confined to sun-damaged faces"
+        },
+        {
+          "label": "C",
+          "text": "Early spread through the skin along lymphatic channels"
+        },
+        {
+          "label": "D",
+          "text": "Origin from melanocytes of the nail matrix under the plate"
+        },
+        {
+          "label": "E",
+          "text": "Rapid vertical growth from onset with early ulceration"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Superficial spreading melanoma (about 70%) has a long radial growth phase before vertical growth.",
+        "whyCorrect": "This is superficial spreading melanoma, about 70% of cases, which tends to arise on the back in men and on the leg in women. It has a long period of radial (horizontal) growth before it begins vertical growth into the dermis, which is part of why it has a better prognosis than nodular and acral lentiginous melanoma.",
+        "whyWrongByChoice": {
+          "B": "Very slow evolution on heavily sun-damaged skin describes lentigo maligna melanoma.",
+          "C": "Spread within the skin toward the nodal basin describes in-transit metastatic disease, not a primary subtype's growth pattern.",
+          "D": "Origin in the nail matrix describes subungual melanoma, a form of acral lentiginous melanoma.",
+          "E": "Early vertical growth with ulceration and bleeding describes nodular melanoma."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "subtypes",
+        "superficial spreading melanoma",
+        "growth phase"
+      ],
+      "topicId": "skin-cancer-malignant-melanoma",
+      "topicName": "Skin Cancer: Malignant Melanoma",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk43-006",
+      "stem": "A 52-year-old man has a deep shave biopsy of a changing mole on his back. Pathology shows superficial spreading melanoma with a Breslow depth of 0.7 mm and no ulceration; examination shows no adenopathy. Which of the following is the most appropriate next step in management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Observation, because the biopsy already sampled the lesion"
+        },
+        {
+          "label": "B",
+          "text": "Vemurafenib therapy once a BRAF V600E mutation is confirmed"
+        },
+        {
+          "label": "C",
+          "text": "Wide local excision combined with a sentinel lymph node biopsy"
+        },
+        {
+          "label": "D",
+          "text": "Wide local excision followed by adjuvant ipilimumab therapy"
+        },
+        {
+          "label": "E",
+          "text": "Wide local excision with a 1 cm margin of normal skin alone"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Melanoma under 1 mm Breslow thickness is treated with wide local excision with a 1 cm margin alone.",
+        "whyCorrect": "For melanoma less than 1 mm in Breslow thickness, wide local excision alone with a 1 cm margin of normal skin is sufficient treatment. Such thin melanomas carry an excellent prognosis and generally do not require a workup for nodal or distant metastasis.",
+        "whyWrongByChoice": {
+          "A": "Confirmed invasive melanoma still requires definitive wide local excision with margins.",
+          "B": "BRAF inhibitors are targeted therapy for advanced-stage melanoma, not a thin localized tumor.",
+          "C": "Sentinel lymph node biopsy is often recommended for lesions 1 mm or thicker, not a 0.7 mm melanoma.",
+          "D": "Checkpoint inhibitors are for advanced or high-risk melanoma, not a thin stage I lesion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "treatment",
+        "Breslow thickness",
+        "wide local excision"
+      ],
+      "topicId": "skin-cancer-malignant-melanoma",
+      "topicName": "Skin Cancer: Malignant Melanoma",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk43-007",
+      "stem": "A 58-year-old woman has an excisional biopsy of a nodule on her thigh. Pathology shows nodular melanoma with a Breslow thickness of 1.6 mm. She has no palpable adenopathy and no symptoms of distant disease. Which of the following is the most appropriate next step in management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clinical observation with a repeat skin exam in 3 months"
+        },
+        {
+          "label": "B",
+          "text": "Repeat deep shave biopsy to confirm the measured depth"
+        },
+        {
+          "label": "C",
+          "text": "Trametinib monotherapy begun before any surgical treatment"
+        },
+        {
+          "label": "D",
+          "text": "Wide local excision together with sentinel lymph node biopsy"
+        },
+        {
+          "label": "E",
+          "text": "Wide local excision with a 1 cm margin and no further staging"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Melanoma 1 mm or thicker: wide local excision plus sentinel lymph node biopsy, with oncology referral.",
+        "whyCorrect": "In lesions 1 mm or more in Breslow thickness, a wide local excision plus sentinel lymph node biopsy to evaluate for metastatic spread is often recommended, and these patients should be referred to oncology to evaluate the need for adjuvant therapy. Deeper melanomas are more likely to have invaded lymphovascular channels.",
+        "whyWrongByChoice": {
+          "A": "An invasive 1.6 mm melanoma requires definitive excision and nodal staging, not observation.",
+          "B": "The excisional biopsy already gave the full lesion for an accurate depth; repeating it adds nothing.",
+          "C": "MEK inhibitors are targeted therapy for advanced BRAF-mutant disease, not a substitute for surgical staging.",
+          "E": "Excision alone is reserved for melanoma under 1 mm thick; a 1.6 mm tumor needs nodal evaluation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "treatment",
+        "sentinel lymph node biopsy",
+        "staging"
+      ],
+      "topicId": "skin-cancer-malignant-melanoma",
+      "topicName": "Skin Cancer: Malignant Melanoma",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk43-008",
+      "stem": "A 64-year-old woman has metastatic melanoma, and tumor sequencing shows a V600E mutation. Her oncologist plans dabrafenib combined with a second agent that inhibits the kinase immediately downstream of the mutated protein in the same signaling cascade. Which of the following drugs is the second agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atezolizumab"
+        },
+        {
+          "label": "B",
+          "text": "Encorafenib"
+        },
+        {
+          "label": "C",
+          "text": "Ipilimumab"
+        },
+        {
+          "label": "D",
+          "text": "Trametinib"
+        },
+        {
+          "label": "E",
+          "text": "Vemurafenib"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "BRAF V600E melanoma is treated with a BRAF inhibitor plus a MEK inhibitor (trametinib or binimetinib).",
+        "whyCorrect": "About 50% of melanomas carry a BRAF mutation, most commonly V600E. Advanced BRAF-mutant melanoma is treated with a BRAF inhibitor (dabrafenib) alone or combined with a MEK inhibitor; MEK lies directly downstream of BRAF in the Ras-Raf-MEK-ERK pathway, and trametinib is a MEK inhibitor.",
+        "whyWrongByChoice": {
+          "A": "Atezolizumab is an immune checkpoint inhibitor targeting PD-L1, not a kinase in the Ras-Raf-MEK-ERK pathway.",
+          "B": "Encorafenib is also a BRAF inhibitor, so it would duplicate dabrafenib rather than block MEK.",
+          "C": "Ipilimumab is an immune checkpoint inhibitor targeting CTLA-4, not a kinase inhibitor.",
+          "E": "Vemurafenib is another BRAF inhibitor; it acts on the same mutated protein as dabrafenib, not the downstream kinase."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "targeted therapy",
+        "BRAF",
+        "MEK inhibitor"
+      ],
+      "topicId": "skin-cancer-malignant-melanoma",
+      "topicName": "Skin Cancer: Malignant Melanoma",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk43-009",
+      "stem": "A 57-year-old man with unresectable stage IV melanoma begins treatment with ipilimumab. By which of the following mechanisms does this drug enhance his antitumor immune response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blocking CTLA-4, an inhibitory receptor on T cells"
+        },
+        {
+          "label": "B",
+          "text": "Blocking PD-1, a separate inhibitory receptor on T cells"
+        },
+        {
+          "label": "C",
+          "text": "Blocking PD-L1, a ligand expressed on tumor cells"
+        },
+        {
+          "label": "D",
+          "text": "Inhibiting MEK within the tumor cell signaling cascade"
+        },
+        {
+          "label": "E",
+          "text": "Inhibiting mutant BRAF kinase inside the tumor cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Ipilimumab blocks CTLA-4, releasing an inhibitory brake on T cells.",
+        "whyCorrect": "Ipilimumab targets CTLA-4. CTLA-4 is an inhibitor of T-cell activation, so blocking it increases the cell-mediated (T cell) immune response against melanoma cells.",
+        "whyWrongByChoice": {
+          "B": "Blocking PD-1 is the mechanism of nivolumab and pembrolizumab.",
+          "C": "Blocking PD-L1 is the mechanism of atezolizumab.",
+          "D": "MEK inhibition is the mechanism of trametinib and binimetinib.",
+          "E": "BRAF inhibition is the mechanism of dabrafenib, vemurafenib and encorafenib."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "immunotherapy",
+        "checkpoint inhibitors",
+        "CTLA-4"
+      ],
+      "topicId": "skin-cancer-malignant-melanoma",
+      "topicName": "Skin Cancer: Malignant Melanoma",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk43-010",
+      "stem": "A 29-year-old woman with red hair and more than 60 nevi has a mother and maternal aunt who both had melanoma. She is referred for germline testing for a tumor suppressor gene linked to inherited melanoma risk. Which of the following genes is most likely to be tested?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "BRAF"
+        },
+        {
+          "label": "B",
+          "text": "CDKN2A"
+        },
+        {
+          "label": "C",
+          "text": "ERK2"
+        },
+        {
+          "label": "D",
+          "text": "KRAS"
+        },
+        {
+          "label": "E",
+          "text": "MEK1"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "CDKN2A is the tumor suppressor gene associated with inherited melanoma risk.",
+        "whyCorrect": "Genetic risk factors for melanoma include the CDKN2A tumor suppressor gene. Her family history, red hair and high nevus count (50 or more) are additional recognized risk factors.",
+        "whyWrongByChoice": {
+          "A": "BRAF is a kinase in the Ras-Raf-MEK-ERK growth pathway whose mutation drives tumors; it is not a tumor suppressor.",
+          "C": "ERK is the terminal growth-pathway kinase of the cascade, not a tumor suppressor gene.",
+          "D": "KRAS is a growth-promoting RAS protein upstream of RAF, not the familial tumor suppressor gene for melanoma.",
+          "E": "MEK is a growth-pathway kinase targeted by trametinib, not a tumor suppressor gene."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "risk factors",
+        "genetics",
+        "CDKN2A"
+      ],
+      "topicId": "skin-cancer-malignant-melanoma",
+      "topicName": "Skin Cancer: Malignant Melanoma",
+      "tier": "core"
+    },
+    {
+      "id": "mk43-011",
+      "stem": "Biopsy of an irregular pigmented lesion from the back of a 45-year-old man shows large atypical melanocytes, bigger than the surrounding keratinocytes, forming nests of varying size and shape. Which additional histologic finding most strongly favors melanoma over a benign junctional nevus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A single row of melanocytes confined to the basal layer"
+        },
+        {
+          "label": "B",
+          "text": "Melanocytes and nests scattered through all epidermal levels"
+        },
+        {
+          "label": "C",
+          "text": "Nests sitting evenly at the tips of the rete ridges"
+        },
+        {
+          "label": "D",
+          "text": "Small, regular melanocytes that resemble one another"
+        },
+        {
+          "label": "E",
+          "text": "Symmetric, sharply circumscribed melanocytic aggregates"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pagetoid spread (atypical melanocytes at all epidermal levels) distinguishes melanoma from a benign nevus.",
+        "whyCorrect": "Melanoma shows asymmetric, poorly circumscribed aggregates of enlarged atypical melanocytes in nests of variable size and shape distributed at all levels of the epidermis, a feature called pagetoid spread. Benign nevi keep their nests at the bottom of the epidermis.",
+        "whyWrongByChoice": {
+          "A": "Melanocytes normally reside in the stratum basale; this is the normal arrangement.",
+          "C": "Even nests at the bottom of each rete ridge are the pattern of a benign melanocytic nevus.",
+          "D": "Small, regular melanocytes characterize a benign nevus, not melanoma.",
+          "E": "Melanoma aggregates are asymmetric and poorly circumscribed; symmetry and sharp circumscription favor a benign lesion."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "histopathology",
+        "pagetoid spread"
+      ],
+      "topicId": "skin-cancer-malignant-melanoma",
+      "topicName": "Skin Cancer: Malignant Melanoma",
+      "tier": "core"
+    },
+    {
+      "id": "mk43-012",
+      "stem": "A 66-year-old man has a single brown-black band running the length of his right thumbnail. The band is broad, asymmetric and irregular in color, and pigment extends from the band onto the adjacent proximal nail fold. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Benign nevus of the nail matrix"
+        },
+        {
+          "label": "B",
+          "text": "Lentigo maligna melanoma"
+        },
+        {
+          "label": "C",
+          "text": "Melanocyte activation of the nail unit"
+        },
+        {
+          "label": "D",
+          "text": "Nodular melanoma"
+        },
+        {
+          "label": "E",
+          "text": "Subungual acral lentiginous melanoma"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A broad, irregular single-digit nail streak with pigment on the nail fold (Hutchinson's sign) indicates subungual melanoma.",
+        "whyCorrect": "Longitudinal melanonychia from melanoma typically affects a single digit with a broad, asymmetric, irregular streak that involves the nail fold (Hutchinson's sign). Subungual melanoma arises from nail-matrix melanocytes and is classified as acral lentiginous melanoma.",
+        "whyWrongByChoice": {
+          "A": "A nail-matrix nevus gives a narrow, single-colored, symmetric, regular streak with a clear nail fold.",
+          "B": "Lentigo maligna melanoma arises on heavily sun-damaged skin from a freckle-like lesion, not the nail unit.",
+          "C": "Melanocyte activation affects multiple digits with narrow streaks and is benign, common in darker skin tones.",
+          "D": "Nodular melanoma is a rapidly growing, often ulcerated nodule, not a pigmented nail band."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "subtypes",
+        "longitudinal melanonychia",
+        "Hutchinson's sign"
+      ],
+      "topicId": "skin-cancer-malignant-melanoma",
+      "topicName": "Skin Cancer: Malignant Melanoma",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk44-001",
+      "stem": "A 9-year-old girl has several small, flat, light-brown spots across her nose and cheeks that her parents say get darker every summer. Her 35-year-old mother has a dozen small brown papules on her back that have been present since adolescence. Which of the following histologic features is present in the mother's lesions but absent from the daughter's facial spots?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A local increase in epidermal melanin"
+        },
+        {
+          "label": "B",
+          "text": "An increased number of melanocytes"
+        },
+        {
+          "label": "C",
+          "text": "Lymphocytes surrounding the lesion"
+        },
+        {
+          "label": "D",
+          "text": "Melanin deposition in dermal macrophages"
+        },
+        {
+          "label": "E",
+          "text": "Proliferation of basal keratinocytes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Melanocytic nevi have an increased number of melanocytes, whereas freckles have more melanin with normal melanocyte numbers.",
+        "whyCorrect": "The daughter has freckles: benign pigmented macules on the face that darken with sun and represent a local increase in melanin with a normal number of melanocytes. The mother's moles are acquired melanocytic nevi, benign tumors of melanocytes, so they contain an increased number of melanocytes. This is the key feature separating nevi from freckles, cafe-au-lait macules, and lentigines.",
+        "whyWrongByChoice": {
+          "A": "Freckles are themselves a small, local increase in melanin, so this is present in the daughter's spots too.",
+          "C": "A lymphocytic attack on a mole produces the halo phenomenon; it does not define ordinary nevi.",
+          "D": "Dermal melanophages are not the feature the lecture uses to separate nevi from freckles; the difference is melanocyte number.",
+          "E": "Keratinocyte proliferation characterizes seborrheic keratosis, not melanocytic nevi."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "melanocytic nevus",
+        "freckle",
+        "LO1"
+      ],
+      "topicId": "benign-skin-lesions",
+      "topicName": "Benign Skin Lesions",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk44-002",
+      "stem": "A 52-year-old woman has a long-standing lesion removed from her cheek for cosmetic reasons. Biopsy shows a benign acquired melanocytic nevus with nests of nevus cells confined to the dermis and none at the epidermal-dermal junction. Which of the following best describes how this lesion most likely appeared clinically?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Flat and not pigmented"
+        },
+        {
+          "label": "B",
+          "text": "Flat and pigmented"
+        },
+        {
+          "label": "C",
+          "text": "Raised and not pigmented"
+        },
+        {
+          "label": "D",
+          "text": "Raised and pigmented"
+        },
+        {
+          "label": "E",
+          "text": "Stalked (pedunculated) growth"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Intradermal nevi have nevus cells only in the dermis and are elevated but not pigmented.",
+        "whyCorrect": "Acquired nevi are classified by where their nests of nevus cells sit. Intradermal nevi have nevus cells in the dermis only and are elevated but not pigmented, matching this skin-colored dome-shaped papule.",
+        "whyWrongByChoice": {
+          "A": "Nevi with nevus cells in the dermis are elevated, not flat.",
+          "B": "Flat, pigmented lesions are junctional nevi, with nests at the epidermal-dermal junction.",
+          "D": "Raised and pigmented describes a compound nevus, which has junctional plus dermal nests.",
+          "E": "A pedunculated growth of normal skin on a stalk is an acrochordon (skin tag)."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "intradermal nevus",
+        "acquired nevi",
+        "LO2"
+      ],
+      "topicId": "benign-skin-lesions",
+      "topicName": "Benign Skin Lesions",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk44-003",
+      "stem": "A newborn has a 25-cm brown-black plaque covering most of the lower back and buttocks with a cobblestone surface and dense hair growth. Besides an increased lifetime risk of melanoma, this child should be evaluated for which of the following associated conditions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Germline CDKN2A tumor suppressor mutation"
+        },
+        {
+          "label": "B",
+          "text": "Hypoglycemia and bradycardia in infancy"
+        },
+        {
+          "label": "C",
+          "text": "Leptomeningeal angiomatosis with glaucoma"
+        },
+        {
+          "label": "D",
+          "text": "Multiple neurofibromas with six cafe-au-lait macules"
+        },
+        {
+          "label": "E",
+          "text": "Spread of melanocytes into the central nervous system"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Large and giant congenital nevi can be associated with neurocutaneous melanosis.",
+        "whyCorrect": "Congenital nevi are present at birth and are bigger than acquired nevi; large ones may be cobblestoned and hairy. Melanoma risk rises with size, and large and giant congenital nevi can also be associated with neurocutaneous melanosis, the spread of melanocytes into the central nervous system.",
+        "whyWrongByChoice": {
+          "A": "CDKN2A mutation underlies FAMMM syndrome with many atypical moles, not giant congenital nevi.",
+          "B": "These are side effects of propranolol for infantile hemangioma, not complications of a congenital nevus.",
+          "C": "Leptomeningeal angiomatosis and glaucoma are features of Sturge-Weber syndrome, linked to V1 capillary malformations.",
+          "D": "Cafe-au-lait macules are not melanocytic nevi; six or more are a criterion for neurofibromatosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "congenital nevus",
+        "neurocutaneous melanosis",
+        "LO2"
+      ],
+      "topicId": "benign-skin-lesions",
+      "topicName": "Benign Skin Lesions",
+      "tier": "core"
+    },
+    {
+      "id": "mk44-004",
+      "stem": "A 41-year-old man has a 7-mm asymmetric brown-black mole with an irregular border on his back. Shave biopsy is read as a melanocytic nevus with severe cytologic and architectural atypia; melanoma is not present. Which of the following is the most appropriate next step in management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cryosurgery of the residual pigment"
+        },
+        {
+          "label": "B",
+          "text": "Photographic monitoring for recurrence only"
+        },
+        {
+          "label": "C",
+          "text": "Re-excision of the biopsy site to clear margins"
+        },
+        {
+          "label": "D",
+          "text": "Reassurance with no further follow-up"
+        },
+        {
+          "label": "E",
+          "text": "Topical timolol applied to the biopsy site"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Moderately and severely atypical nevi are re-excised to ensure clear margins; mild ones can be monitored.",
+        "whyCorrect": "Atypical nevi are graded mild, moderate, or severe, and melanoma risk is greatest with severe atypia. Moderately and severely atypical moles are typically re-excised to ensure the margins are clear of nevus cells, while mildly atypical moles can be monitored for recurrence.",
+        "whyWrongByChoice": {
+          "A": "Cryosurgery is used for seborrheic keratoses, not for clearing atypical melanocytic lesions.",
+          "B": "Monitoring for recurrence is reserved for mildly atypical nevi.",
+          "D": "Severely atypical nevi sit one step from melanoma on the spectrum, so they are not simply dismissed.",
+          "E": "Topical timolol is used for small infantile hemangiomas."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "atypical nevus",
+        "management",
+        "LO3"
+      ],
+      "topicId": "benign-skin-lesions",
+      "topicName": "Benign Skin Lesions",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk44-005",
+      "stem": "A 30-year-old woman has more than 100 moles, many of them large with irregular borders and variegated color. Her father and aunt both had melanoma. Genetic testing reveals a mutation in the gene encoding cyclin-dependent kinase inhibitor 2A. Besides melanoma, her relatives with this mutation are at increased risk for which of the following malignancies?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Breast carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Colon adenocarcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Gastric adenocarcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Lung carcinoma (small cell)"
+        },
+        {
+          "label": "E",
+          "text": "Pancreatic adenocarcinoma"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "FAMMM syndrome (CDKN2A mutation) raises the risk of melanoma and pancreatic cancer.",
+        "whyCorrect": "Familial atypical multiple mole-melanoma (FAMMM) syndrome features large numbers of atypical moles and is associated with mutation of CDKN2A, a tumor suppressor that regulates cell division. Family members with the mutation have a higher risk of melanoma and also pancreatic cancer.",
+        "whyWrongByChoice": {
+          "A": "Breast cancer is not the associated malignancy in FAMMM families.",
+          "B": "Colon cancer is not the associated malignancy in FAMMM families.",
+          "C": "Gastric cancer is not the extracutaneous cancer the lecture links to CDKN2A mutation.",
+          "D": "Lung malignancy is mentioned with the Leser-Trelat sign, not with CDKN2A."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "FAMMM",
+        "CDKN2A",
+        "LO3"
+      ],
+      "topicId": "benign-skin-lesions",
+      "topicName": "Benign Skin Lesions",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk44-006",
+      "stem": "A 58-year-old man notices that a single brown mole on his upper back has developed a sharply demarcated ring of white skin around it over the past few months. He has no other similar lesions and no history of depigmenting skin disease. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Biopsy of the central lesion"
+        },
+        {
+          "label": "B",
+          "text": "Electrosurgical destruction without histology"
+        },
+        {
+          "label": "C",
+          "text": "Observation, since the ring signals regression"
+        },
+        {
+          "label": "D",
+          "text": "Reassurance that this is common in older adults"
+        },
+        {
+          "label": "E",
+          "text": "Topical corticosteroid to the depigmented ring"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A solitary halo nevus in an adult deserves a biopsy to rule out melanoma.",
+        "whyCorrect": "A halo nevus is a mole with a ring of depigmentation caused by lymphocytes attacking the mole and destroying surrounding bystander melanocytes. Both benign moles and melanoma can do this. It is less concerning in children, with vitiligo, or when multiple nevi are affected, but a solitary halo nevus in an adult warrants biopsy to rule out melanoma.",
+        "whyWrongByChoice": {
+          "B": "Destroying the lesion without histology would prevent ruling out melanoma.",
+          "C": "Melanoma can also show this phenomenon, so observation alone is not appropriate.",
+          "D": "The halo phenomenon is more common in children; a solitary one in an adult is concerning.",
+          "E": "Treating the depigmentation ignores the need to exclude melanoma in the central mole."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "halo nevus",
+        "management",
+        "LO3"
+      ],
+      "topicId": "benign-skin-lesions",
+      "topicName": "Benign Skin Lesions",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk44-007",
+      "stem": "A 67-year-old man reports that over the past 2 months, dozens of waxy, sharply demarcated, rough, stuck-on brown papules have erupted over his trunk. He has also had early satiety and a 7-kg weight loss. Which of the following is the most important next step suggested by this skin finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Brain MRI to look for melanocytic spread"
+        },
+        {
+          "label": "B",
+          "text": "Dilated eye exam to screen for glaucoma"
+        },
+        {
+          "label": "C",
+          "text": "Evaluation for a gastrointestinal malignancy"
+        },
+        {
+          "label": "D",
+          "text": "Germline testing for a CDKN2A mutation"
+        },
+        {
+          "label": "E",
+          "text": "Screening for type 2 diabetes mellitus"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The sudden appearance of countless seborrheic keratoses (Leser-Trelat sign) is a paraneoplastic sign of GI and lung cancers.",
+        "whyCorrect": "Waxy, rough, sharply demarcated stuck-on papules are seborrheic keratoses. When countless seborrheic keratoses appear suddenly, the clinician must consider the paraneoplastic Leser-Trelat sign, which is associated with cancers including gastrointestinal and lung malignancies; his early satiety and weight loss reinforce the need for a GI work-up.",
+        "whyWrongByChoice": {
+          "A": "Neurocutaneous melanosis is associated with giant congenital nevi.",
+          "B": "Glaucoma is a feature of Sturge-Weber syndrome.",
+          "D": "CDKN2A testing applies to FAMMM syndrome, with many atypical moles.",
+          "E": "Diabetes is associated with skin tags, not with eruptive seborrheic keratoses."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "seborrheic keratosis",
+        "Leser-Trelat",
+        "paraneoplastic"
+      ],
+      "topicId": "benign-skin-lesions",
+      "topicName": "Benign Skin Lesions",
+      "tier": "core"
+    },
+    {
+      "id": "mk44-008",
+      "stem": "A 45-year-old man has a 3-cm firm nodule on his upper back that has been present for years and has a small central pore. Over the past week it has become red, swollen, and painful, and pus drains from the skin surface. He is afebrile. Which of the following is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cryosurgery of the overlying skin and central pore"
+        },
+        {
+          "label": "B",
+          "text": "Incision and drainage, steroid injection, or complete excision"
+        },
+        {
+          "label": "C",
+          "text": "Needle aspiration of the contents as the definitive treatment"
+        },
+        {
+          "label": "D",
+          "text": "Oral dicloxacillin targeting Staphylococcus aureus with incision"
+        },
+        {
+          "label": "E",
+          "text": "Oral isotretinoin to shrink the sebaceous glands involved"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A ruptured epidermal inclusion cyst causes sterile inflammation treated with I&D, intralesional steroids, or excision, not anti-staphylococcal antibiotics.",
+        "whyCorrect": "This is a ruptured epidermal inclusion cyst: a nodule with a central punctum whose keratinous contents, once exposed to dermal immune cells, trigger a massive inflammatory response with pain, redness, and pus. It looks like a bacterial abscess but is sterile. It is treated with incision and drainage, intralesional steroid injections, or removal of the cyst in its entirety; doxycycline or minocycline may help through anti-inflammatory effects.",
+        "whyWrongByChoice": {
+          "A": "Cryosurgery is used for seborrheic keratoses and does not remove a cyst lining.",
+          "C": "Draining the material does not resolve the lesion; the lining keeps producing keratin.",
+          "D": "There is no role for anti-staphylococcal antibiotics; the inflammation is sterile.",
+          "E": "These cysts have nothing to do with sebum or sebaceous glands."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "epidermal inclusion cyst",
+        "rupture",
+        "LO4"
+      ],
+      "topicId": "benign-skin-lesions",
+      "topicName": "Benign Skin Lesions",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk44-009",
+      "stem": "A 38-year-old woman has four firm, smooth, mobile nodules on her scalp. Her mother had similar lesions removed. None of the nodules has an overlying opening, and none has ever become inflamed. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epidermal inclusion cysts"
+        },
+        {
+          "label": "B",
+          "text": "Hidrocystomas"
+        },
+        {
+          "label": "C",
+          "text": "Lipomas"
+        },
+        {
+          "label": "D",
+          "text": "Nevus sebaceus"
+        },
+        {
+          "label": "E",
+          "text": "Pilar cysts"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Pilar cysts occur on the scalp, run in families, lack a punctum, and rarely rupture.",
+        "whyCorrect": "Pilar cysts occur on the scalp, often with a family history, and patients may have one to a couple dozen. Unlike epidermal cysts there is no overlying punctum, meaning they are not connected to the epidermis, and they are much less likely to rupture. They can be removed with simple surgical excision.",
+        "whyWrongByChoice": {
+          "A": "Epidermal inclusion cysts typically have a central punctum and rupture more readily.",
+          "B": "Hidrocystomas are clear, fluid-filled sweat gland cysts on the eyelid.",
+          "C": "Lipomas are soft, compressible tumors of fat rather than firm cysts clustered in families on the scalp.",
+          "D": "Nevus sebaceus is a congenital yellow-orange alopecic plaque, not multiple nodules."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "pilar cyst",
+        "LO4"
+      ],
+      "topicId": "benign-skin-lesions",
+      "topicName": "Benign Skin Lesions",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk44-010",
+      "stem": "A 7-week-old girl has a bright red, raised nodule on her forearm. Her parents say the skin there was normal at birth, became a faint pink patch at 2 weeks of age, and has steadily grown thicker and redder since. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cafe-au-lait macule"
+        },
+        {
+          "label": "B",
+          "text": "Capillary malformation"
+        },
+        {
+          "label": "C",
+          "text": "Cherry angioma"
+        },
+        {
+          "label": "D",
+          "text": "Congenital melanocytic nevus"
+        },
+        {
+          "label": "E",
+          "text": "Infantile hemangioma"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Infantile hemangiomas are absent at birth, arise in the first weeks, and grow over about six months.",
+        "whyCorrect": "Infantile hemangiomas are the most common benign tumor of infancy. They are not present at birth but arise in the first few weeks of life as a pink or red patch that becomes redder and more elevated over the next six months until a stable nodule, plaque, or mass forms.",
+        "whyWrongByChoice": {
+          "A": "Cafe-au-lait macules are flat tan patches of increased melanin, not red vascular nodules.",
+          "B": "Capillary malformations are typically congenital flat red patches that do not grow into nodules over weeks.",
+          "C": "Cherry angiomas are small red papules that accumulate with aging in adults.",
+          "D": "Congenital nevi are brown pigmented lesions present at birth."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "infantile hemangioma",
+        "natural history",
+        "LO5"
+      ],
+      "topicId": "benign-skin-lesions",
+      "topicName": "Benign Skin Lesions",
+      "tier": "core"
+    },
+    {
+      "id": "mk44-011",
+      "stem": "A newborn has a flat, sharply demarcated red-purple patch over the right forehead and upper eyelid. The patch does not blanch completely and has not changed since delivery. If this child has the associated syndrome, which of the following findings is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cafe-au-lait macules and neurofibromas"
+        },
+        {
+          "label": "B",
+          "text": "Ipsilateral leptomeningeal angiomatosis"
+        },
+        {
+          "label": "C",
+          "text": "Melanocytes infiltrating the meninges"
+        },
+        {
+          "label": "D",
+          "text": "Pancreatic adenocarcinoma in adulthood"
+        },
+        {
+          "label": "E",
+          "text": "Renal anomalies on ultrasound"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A capillary malformation in the V1 distribution suggests Sturge-Weber syndrome with ipsilateral leptomeningeal angiomatosis.",
+        "whyCorrect": "A congenital flat red patch is a capillary malformation (port wine stain). Involvement of the V1 distribution of the trigeminal nerve may indicate Sturge-Weber syndrome, characterized by ipsilateral leptomeningeal angiomatosis, glaucoma, seizures, and stroke-like episodes.",
+        "whyWrongByChoice": {
+          "A": "These are features of neurofibromatosis.",
+          "C": "Neurocutaneous melanosis accompanies large or giant congenital nevi.",
+          "D": "Pancreatic cancer is associated with CDKN2A mutation in FAMMM syndrome.",
+          "E": "A renal association has been raised for accessory nipples and is inconsistent."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "capillary malformation",
+        "Sturge-Weber",
+        "LO5"
+      ],
+      "topicId": "benign-skin-lesions",
+      "topicName": "Benign Skin Lesions",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk44-012",
+      "stem": "A 3-month-old boy has a rapidly growing red plaque on his upper eyelid that now partly covers the pupil. Oral treatment with the most commonly used agent for this lesion is started. Which of the following adverse effects should the parents be counseled to watch for?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Agranulocytosis"
+        },
+        {
+          "label": "B",
+          "text": "Gingival overgrowth"
+        },
+        {
+          "label": "C",
+          "text": "Hyperkalemia"
+        },
+        {
+          "label": "D",
+          "text": "Hypertension"
+        },
+        {
+          "label": "E",
+          "text": "Hypoglycemia"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Propranolol for infantile hemangioma can cause sleep disturbance, bradycardia, and hypoglycemia.",
+        "whyCorrect": "An infantile hemangioma interfering with vision needs treatment. The most common treatment is the beta blocker propranolol, which works best during the proliferative phase (first six months). Potential side effects are sleep disturbance, bradycardia, and hypoglycemia.",
+        "whyWrongByChoice": {
+          "A": "Agranulocytosis is not among the listed side effects of this treatment.",
+          "B": "Gingival overgrowth is not a listed side effect of this treatment.",
+          "C": "Hyperkalemia is not among the side effects the lecture lists for this treatment.",
+          "D": "Blood pressure elevation is not a listed side effect; beta blockade lowers heart rate."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "infantile hemangioma",
+        "propranolol",
+        "adverse effects",
+        "LO5"
+      ],
+      "topicId": "benign-skin-lesions",
+      "topicName": "Benign Skin Lesions",
+      "tier": "core"
+    },
+    {
+      "id": "mk45-001",
+      "stem": "A 58-year-old woman reports 3 months of brief, electric, shooting pains in her right cheek and upper lip, each lasting seconds. Episodes are set off by chewing, brushing her teeth, or a cold breeze. Neurologic examination, including facial and jaw strength, is normal. Which of the following is the most appropriate first-line pharmacotherapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acyclovir"
+        },
+        {
+          "label": "B",
+          "text": "Carbamazepine"
+        },
+        {
+          "label": "C",
+          "text": "Ibuprofen"
+        },
+        {
+          "label": "D",
+          "text": "Prednisone"
+        },
+        {
+          "label": "E",
+          "text": "Sumatriptan"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Trigeminal neuralgia (triggered, electric V2/V3 pain without motor deficit) is treated first-line with carbamazepine.",
+        "whyCorrect": "Brief, electric, shooting pain in the V2 or V3 territory triggered by light touch, chewing, or a breeze is the hallmark of trigeminal neuralgia. There is no motor deficit. A blood vessel compressing the nerve root near the pons is a common cause; carbamazepine is first-line, and microvascular decompression is used if refractory.",
+        "whyWrongByChoice": {
+          "A": "An antiviral does not treat this pain syndrome; herpes simplex reactivation is linked to Bell's palsy, a motor disorder, not to triggered facial pain.",
+          "C": "A simple analgesic is not the first-line therapy taught for trigeminal neuralgia; carbamazepine is.",
+          "D": "Early corticosteroids improve outcomes in Bell's palsy, which causes facial weakness, not brief triggered pain with normal strength.",
+          "E": "This pattern of seconds-long electric pain in a V2/V3 territory triggered by touch or chewing is trigeminal neuralgia, not a migraine; carbamazepine is first-line."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Trigeminal nerve",
+        "Trigeminal neuralgia"
+      ],
+      "topicId": "anatomy-of-the-face-and-scalp",
+      "topicName": "Anatomy of the Face and Scalp",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk45-002",
+      "stem": "A 34-year-old man wakes with drooping of the left side of his face that worsens over the day. He cannot wrinkle the left side of his forehead, cannot fully close his left eye, and cannot raise the left corner of his mouth when smiling. Sensation over the face is intact, and limb strength is normal. Where is the lesion most likely located?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Left cranial nerve III, within the orbit (lower motor neuron)"
+        },
+        {
+          "label": "B",
+          "text": "Left cranial nerve VII, peripheral (lower motor neuron)"
+        },
+        {
+          "label": "C",
+          "text": "Left mandibular division of cranial nerve V (lower motor neuron)"
+        },
+        {
+          "label": "D",
+          "text": "Right cranial nerve VII, peripheral (lower motor neuron)"
+        },
+        {
+          "label": "E",
+          "text": "Right motor cortex, above the facial nucleus (upper motor neuron)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Weakness of the whole ipsilateral face, including the forehead, localizes to the facial nerve itself (LMN), as in Bell's palsy.",
+        "whyCorrect": "A lesion of the facial nerve itself paralyzes the whole ipsilateral face, including the forehead, so the patient cannot raise the eyebrow or close the eye. Onset over hours with intact sensation and limbs is typical of Bell's palsy, the most common cause of acute peripheral facial palsy.",
+        "whyWrongByChoice": {
+          "A": "An oculomotor lesion causes inability to open the eye (ptosis), not inability to close it, and does not affect the forehead or mouth.",
+          "C": "V3 supplies the muscles of mastication and sensation of the lower face, not the muscles of facial expression.",
+          "D": "A peripheral facial nerve lesion paralyzes the ipsilateral face; a right-sided lesion would cause right-sided weakness.",
+          "E": "A central lesion above the facial nucleus weakens the contralateral lower face but spares the forehead; this patient's forehead is paralyzed."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Facial nerve",
+        "Bell's palsy"
+      ],
+      "topicId": "anatomy-of-the-face-and-scalp",
+      "topicName": "Anatomy of the Face and Scalp",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk45-003",
+      "stem": "A 71-year-old woman with atrial fibrillation develops sudden weakness of the right arm and right lower face. She raises both eyebrows and wrinkles her forehead symmetrically, but the right corner of her mouth droops. Which of the following best explains the preserved forehead movement?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The forehead muscles are supplied by the mandibular division of CN V"
+        },
+        {
+          "label": "B",
+          "text": "The frontalis muscle is supplied by the oculomotor nerve"
+        },
+        {
+          "label": "C",
+          "text": "The lesion is in the right facial nerve, distal to the temporal branch"
+        },
+        {
+          "label": "D",
+          "text": "The upper face motor neurons receive input from both hemispheres"
+        },
+        {
+          "label": "E",
+          "text": "The upper face receives input only from the contralateral hemisphere"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A stroke above the facial nucleus spares the forehead because the upper face receives input from both hemispheres.",
+        "whyCorrect": "A stroke above the facial nucleus weakens the contralateral lower face but spares the forehead, because the upper face receives input from both hemispheres. Forehead involvement instead indicates a lower motor neuron lesion such as Bell's palsy.",
+        "whyWrongByChoice": {
+          "A": "All muscles of facial expression, including the frontalis, are supplied by the facial nerve; V3 supplies the muscles of mastication.",
+          "B": "The oculomotor nerve supplies the levator palpebrae superioris, which raises the eyelid; the frontalis is supplied by the facial nerve.",
+          "C": "A peripheral facial nerve lesion would not explain the accompanying right arm weakness; the pattern points to a central stroke.",
+          "E": "If the upper face received only contralateral input, a stroke would weaken the forehead too; sparing occurs because the input is bilateral."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Facial nerve",
+        "UMN vs LMN"
+      ],
+      "topicId": "anatomy-of-the-face-and-scalp",
+      "topicName": "Anatomy of the Face and Scalp",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk45-004",
+      "stem": "A 23-year-old man squeezed an inflamed pustule beside his nose 4 days ago. He now has fever, severe headache, and swelling around both eyes. When asked to look to his left, his left eye does not move outward past the midline. Which nerve is most likely responsible for this gaze finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Abducens nerve (CN VI)"
+        },
+        {
+          "label": "B",
+          "text": "Facial nerve (CN VII)"
+        },
+        {
+          "label": "C",
+          "text": "Oculomotor nerve (CN III)"
+        },
+        {
+          "label": "D",
+          "text": "Ophthalmic nerve (V1)"
+        },
+        {
+          "label": "E",
+          "text": "Trochlear nerve (CN IV)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In cavernous sinus thrombosis from danger-triangle infection, CN VI runs through the sinus itself and is often affected first, causing failure of lateral gaze.",
+        "whyCorrect": "Infection in the danger triangle can travel along valveless veins to the cavernous sinus, producing fever, headache, periorbital swelling, and ophthalmoplegia. The abducens nerve runs through the sinus itself and is often affected first, causing failure of lateral gaze; CN III, IV, V1, and V2 lie in the lateral wall.",
+        "whyWrongByChoice": {
+          "B": "The facial nerve supplies the muscles of facial expression and does not pass through the cavernous sinus or move the eye.",
+          "C": "CN III lies in the lateral wall of the sinus and can be involved, but it does not produce isolated failure of lateral gaze; the nerve running through the sinus itself is affected first.",
+          "D": "V1 lies in the lateral wall of the sinus and is sensory; it does not move the eye.",
+          "E": "CN IV lies in the lateral wall of the sinus; its loss does not cause failure of lateral gaze."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Venous drainage",
+        "Cavernous sinus thrombosis",
+        "Danger triangle"
+      ],
+      "topicId": "anatomy-of-the-face-and-scalp",
+      "topicName": "Anatomy of the Face and Scalp",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk45-005",
+      "stem": "A 30-year-old man sustains a deep scalp laceration in a fall. Two days later, blood has tracked widely beneath the scalp, spreading from the forehead back toward the occiput rather than staying over a single skull bone. The surgeon notes this is also the plane through which scalp infection spreads. In which layer has the blood most likely spread?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Areolar tissue between the galea and the pericranium"
+        },
+        {
+          "label": "B",
+          "text": "Dense, vascular connective tissue bound to the skin"
+        },
+        {
+          "label": "C",
+          "text": "Space between the pericranium and the outer skull"
+        },
+        {
+          "label": "D",
+          "text": "Superficial fat compartments divided by fibrous septa"
+        },
+        {
+          "label": "E",
+          "text": "Within the aponeurosis joining the two occipitofrontalis bellies"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The loose areolar layer of the scalp is the 'danger zone' for spread of infection and hematoma.",
+        "whyCorrect": "The fourth scalp layer, loose areolar connective tissue, is a relatively avascular plane that is good for surgical undermining. Because it is loose and continuous across the vault, it is the 'danger zone' through which infection and hematoma spread. Subperiosteal collections, by contrast, are confined at suture lines.",
+        "whyWrongByChoice": {
+          "B": "The dense connective tissue layer is tightly bound to the skin, and the two move as a single unit; it does not allow wide tracking of blood.",
+          "C": "Subperiosteal collections are limited by the pericranium's firm attachment at suture lines, so they stay over one bone.",
+          "D": "Septated fat compartments describe the face, and septa divide rather than open a plane for wide spread.",
+          "E": "The galea is a tough aponeurotic sheet; collections spread in the layer just deep to it, not within it."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Scalp layers"
+      ],
+      "topicId": "anatomy-of-the-face-and-scalp",
+      "topicName": "Anatomy of the Face and Scalp",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk45-006",
+      "stem": "A 62-year-old man has a drooping right upper eyelid that he cannot lift. He can squeeze both eyes shut tightly and symmetrically, and he can raise both eyebrows. Which nerve most likely supplies the weak muscle?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Abducens nerve (CN VI)"
+        },
+        {
+          "label": "B",
+          "text": "Facial nerve (CN VII)"
+        },
+        {
+          "label": "C",
+          "text": "Oculomotor nerve (CN III)"
+        },
+        {
+          "label": "D",
+          "text": "Ophthalmic division of CN V (V1)"
+        },
+        {
+          "label": "E",
+          "text": "Trochlear nerve (CN IV)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Inability to open the eye (ptosis) points to the oculomotor nerve; inability to close it points to the facial nerve.",
+        "whyCorrect": "The levator palpebrae superioris, which raises the upper eyelid, is not a muscle of facial expression; it is supplied by the oculomotor nerve (CN III). A patient who cannot open the eye has ptosis and an oculomotor problem, while a patient who cannot close the eye has a facial nerve problem.",
+        "whyWrongByChoice": {
+          "A": "The abducens nerve moves the eye laterally; it does not raise the eyelid.",
+          "B": "A facial nerve problem causes inability to close the eye; this patient closes his eyes normally.",
+          "D": "V1 is sensory to the upper eyelid skin and forehead; it has no motor fibers.",
+          "E": "The trochlear nerve moves the eye and does not supply the muscle that raises the lid."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Eyelid",
+        "Oculomotor nerve"
+      ],
+      "topicId": "anatomy-of-the-face-and-scalp",
+      "topicName": "Anatomy of the Face and Scalp",
+      "tier": "core"
+    },
+    {
+      "id": "mk45-007",
+      "stem": "A 66-year-old man undergoes excision of a skin cancer along the lower border of his left jaw, just in front of its angle. Afterward he cannot pull the left corner of his mouth downward or draw his left lower lip down. Facial sensation is intact. Injury to which nerve branch is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Buccal branch of CN VII"
+        },
+        {
+          "label": "B",
+          "text": "Cervical branch of CN VII"
+        },
+        {
+          "label": "C",
+          "text": "Marginal mandibular branch of CN VII"
+        },
+        {
+          "label": "D",
+          "text": "Mental nerve (branch of V3)"
+        },
+        {
+          "label": "E",
+          "text": "Zygomatic branch of CN VII"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The marginal mandibular branch runs superficially along the lower border of the mandible and supplies the depressors of the mouth and lower lip.",
+        "whyCorrect": "The marginal mandibular branch is one of the two facial nerve danger zones; it is exposed along the lower border of the mandible. It supplies the depressor anguli oris, depressor labii inferioris, and mentalis, so injury prevents pulling down the corner of the mouth and lowering the lip.",
+        "whyWrongByChoice": {
+          "A": "The buccal branch supplies the buccinator, orbicularis oris, and levator labii superioris (puffing cheeks, showing teeth), not the lip depressors.",
+          "B": "The cervical branch supplies the platysma, which tenses the neck skin.",
+          "D": "The mental nerve is sensory to the lower lip and chin; sensation here is intact and it has no motor role.",
+          "E": "The zygomatic branch supplies the lower orbicularis oculi, zygomaticus, and nasal muscles (tight eye closure)."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Facial nerve branches",
+        "Danger zones"
+      ],
+      "topicId": "anatomy-of-the-face-and-scalp",
+      "topicName": "Anatomy of the Face and Scalp",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk45-008",
+      "stem": "During a facelift, a surgeon elevates the skin and subcutaneous fat off the fibromuscular sheet that envelops the muscles of facial expression and is continuous with the platysma below. Facial movement is normal afterward. Which anatomic fact best explains why this superficial dissection spared facial motion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The expression muscles are supplied by the trigeminal nerve"
+        },
+        {
+          "label": "B",
+          "text": "The expression muscles insert on bone rather than on skin"
+        },
+        {
+          "label": "C",
+          "text": "The motor branches pass deep to that layer"
+        },
+        {
+          "label": "D",
+          "text": "The motor branches run in the superficial fat compartments"
+        },
+        {
+          "label": "E",
+          "text": "The motor branches travel within the retaining ligaments"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Facial nerve branches run deep to the SMAS, so procedures superficial to it usually spare them.",
+        "whyCorrect": "The SMAS is a fibromuscular layer that envelops and links the muscles of facial expression and is continuous with the platysma and temporoparietal fascia. The branches of the facial nerve run deep to the SMAS, while the muscles they supply lie in that layer, so superficial procedures usually spare them.",
+        "whyWrongByChoice": {
+          "A": "All muscles of facial expression are supplied by the facial nerve; the trigeminal V3 supplies the muscles of mastication.",
+          "B": "Muscles of facial expression insert into skin, which is why their contraction moves the skin directly.",
+          "D": "If the branches ran in the superficial fat, a subcutaneous dissection would endanger them rather than spare them.",
+          "E": "Retaining ligaments anchor the skin and SMAS to bone at fixed points; they are not described as carrying the motor branches."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Layers of the face",
+        "SMAS"
+      ],
+      "topicId": "anatomy-of-the-face-and-scalp",
+      "topicName": "Anatomy of the Face and Scalp",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk45-009",
+      "stem": "A clinician planning a filler injection into the central forehead warns a trainee that an intravascular injection here can be dangerous because these vessels connect with the circulation of the orbit and the internal carotid system. The supratrochlear and supraorbital arteries arise most directly from which vessel?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Facial artery"
+        },
+        {
+          "label": "B",
+          "text": "Maxillary artery"
+        },
+        {
+          "label": "C",
+          "text": "Occipital artery"
+        },
+        {
+          "label": "D",
+          "text": "Ophthalmic artery"
+        },
+        {
+          "label": "E",
+          "text": "Superficial temporal artery"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The central forehead is supplied by the ICA via the ophthalmic artery's supratrochlear and supraorbital branches.",
+        "whyCorrect": "The ophthalmic artery, a branch of the internal carotid, gives off the supraorbital and supratrochlear arteries to the forehead and frontal scalp and the dorsal nasal artery to the nose. These anastomose with facial and superficial temporal branches, which explains both rapid wound healing and the danger of some injections.",
+        "whyWrongByChoice": {
+          "A": "The facial artery ends as the angular artery at the medial canthus; it anastomoses with, but does not give rise to, the forehead arteries.",
+          "B": "The maxillary artery gives the infraorbital, buccal, and mental arteries and supplies the muscles of mastication.",
+          "C": "The occipital artery, from the external carotid, supplies the occipital scalp.",
+          "E": "The superficial temporal artery supplies the temporal and parietal scalp via its frontal and parietal branches."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Blood supply",
+        "Carotid anastomoses"
+      ],
+      "topicId": "anatomy-of-the-face-and-scalp",
+      "topicName": "Anatomy of the Face and Scalp",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk45-010",
+      "stem": "A 70-year-old man has a skin cancer on the center of his lower lip. Which lymph node group is the first to receive lymph from this site?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mastoid (postauricular) nodes"
+        },
+        {
+          "label": "B",
+          "text": "Occipital nodes"
+        },
+        {
+          "label": "C",
+          "text": "Preauricular and parotid nodes"
+        },
+        {
+          "label": "D",
+          "text": "Submandibular nodes"
+        },
+        {
+          "label": "E",
+          "text": "Submental nodes"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The central lower lip, chin, and tip of the tongue drain to the submental nodes.",
+        "whyCorrect": "Facial lymph drains in a predictable pattern. The central lower lip, chin, and tip of the tongue drain to the submental nodes, whereas the lateral lower lip drains to the submandibular nodes. All of this lymph ultimately reaches the deep cervical nodes along the internal jugular vein.",
+        "whyWrongByChoice": {
+          "A": "Mastoid nodes, with occipital nodes, drain the posterior scalp.",
+          "B": "Occipital nodes drain the posterior scalp.",
+          "C": "Preauricular and parotid nodes drain the forehead, lateral eyelids, temple, and lateral anterior scalp.",
+          "D": "Submandibular nodes drain the lateral lower lip, upper lip, cheek, nose, and medial eyelids, not the central lower lip."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Lymphatic drainage"
+      ],
+      "topicId": "anatomy-of-the-face-and-scalp",
+      "topicName": "Anatomy of the Face and Scalp",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mk45-011",
+      "stem": "A 29-year-old woman who grinds her teeth at night has clicking and pain in front of her right ear when chewing. She also describes a deep right earache, although otoscopic examination is normal. The sensory supply of the joint by which nerve best explains her ear pain?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Auriculotemporal nerve (V3)"
+        },
+        {
+          "label": "B",
+          "text": "Chorda tympani (CN VII)"
+        },
+        {
+          "label": "C",
+          "text": "Glossopharyngeal nerve (CN IX)"
+        },
+        {
+          "label": "D",
+          "text": "Great auricular nerve (C2-C3)"
+        },
+        {
+          "label": "E",
+          "text": "Zygomaticotemporal nerve (V2)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The TMJ is supplied by the auriculotemporal and masseteric branches of V3, so TMJ disorders often present as earache.",
+        "whyCorrect": "The TMJ is supplied by the auriculotemporal and masseteric nerves, both branches of V3. The auriculotemporal nerve also supplies the temple and front of the ear, which is why TMJ disorders often present as earache.",
+        "whyWrongByChoice": {
+          "B": "The chorda tympani carries taste from the anterior two-thirds of the tongue, not sensation from the joint.",
+          "C": "CN IX gives secretomotor fibers to the parotid via the otic ganglion; it is not named as a supply to the TMJ.",
+          "D": "The great auricular nerve supplies the skin over the angle of the mandible and much of the ear, but not the TMJ.",
+          "E": "This V2 branch supplies the skin of the face; the TMJ is supplied by V3 branches."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "TMJ",
+        "Trigeminal nerve"
+      ],
+      "topicId": "anatomy-of-the-face-and-scalp",
+      "topicName": "Anatomy of the Face and Scalp",
+      "tier": "core"
+    },
+    {
+      "id": "mk45-012",
+      "stem": "A 52-year-old woman has a skull-base tumor compressing the nerve that passes through the foramen ovale. Which combination of findings on the side of the tumor is most expected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inability to close the eye and dull taste on the tongue"
+        },
+        {
+          "label": "B",
+          "text": "Numbness of the cheek, side of the nose, and upper lip"
+        },
+        {
+          "label": "C",
+          "text": "Numbness of the forehead, upper eyelid, and tip of the nose"
+        },
+        {
+          "label": "D",
+          "text": "Numbness over the angle of the jaw and much of the ear"
+        },
+        {
+          "label": "E",
+          "text": "Weak jaw closure and numbness of the chin and lower lip"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "V3 exits the foramen ovale and is the only trigeminal division with motor fibers (mastication) plus sensation to the lower lip and chin.",
+        "whyCorrect": "The mandibular division (V3) leaves the skull through the foramen ovale. It is the only trigeminal division with motor fibers, supplying the muscles of mastication (e.g., masseter, which elevates the mandible), and its mental, buccal, and auriculotemporal branches supply the lower lip, chin, skin over the mandible, temple, and front of the ear.",
+        "whyWrongByChoice": {
+          "A": "Inability to close the eye and loss of taste reflect the facial nerve, which leaves the skull through the stylomastoid foramen.",
+          "B": "These are V2 (maxillary) territories; V2 exits through the foramen rotundum and has no motor fibers.",
+          "C": "These are V1 (ophthalmic) territories; V1 exits through the superior orbital fissure.",
+          "D": "The skin over the angle of the mandible is supplied by the great auricular nerve (C2-C3), not the trigeminal nerve."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Trigeminal nerve",
+        "Muscles of mastication"
+      ],
+      "topicId": "anatomy-of-the-face-and-scalp",
+      "topicName": "Anatomy of the Face and Scalp",
+      "tier": "core",
+      "hy": true
+    }
+  ]
+}
