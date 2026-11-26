@@ -15,6 +15,7 @@ import { restoreSkin } from './utils/skin';
 import { ExtrasGate } from './components/ExtrasGate';
 import { ensureExtras, requestExtrasPrompt } from './utils/extras';
 
+import { SiteHeader } from './components/SiteHeader';
 // Extra questions need an Active Transport sign-in. Ask once on load, and route
 // every "+ extras" control through gated() so a locked visitor gets the
 // sign-in dialog instead of a toggle that would load nothing.
@@ -190,6 +191,7 @@ export default function App() {
     <>
       <BrandBadge />
       <ExtrasGate />
+      <SiteHeader />
       <AppShell />
     </>
   );
