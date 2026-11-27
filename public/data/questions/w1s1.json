@@ -1709,6 +1709,100 @@
       "hy": true
     },
     {
+      "id": "mskpic-03-02",
+      "topicId": "histology-of-bone-and-cartilage",
+      "topicName": "Histology of Bone and Cartilage",
+      "stem": "A cartilage specimen stained with H&E is shown. In which location is this type of cartilage found?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Annulus fibrosus"
+        },
+        {
+          "label": "B",
+          "text": "Auricle of the ear"
+        },
+        {
+          "label": "C",
+          "text": "Epiglottis"
+        },
+        {
+          "label": "D",
+          "text": "Knee meniscus"
+        },
+        {
+          "label": "E",
+          "text": "Tracheal rings"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "This is hyaline cartilage: chondrocytes sit in lacunae, often in small isogenous groups, within a smooth, glassy, homogeneous matrix of type II collagen and chondroitin sulfate with no visible fibers. It forms the tracheal and bronchial rings, articular surfaces and the ribs.",
+        "whyCorrect": "The matrix is homogeneous and glassy with no visible elastic or collagen fiber bundles, the hallmark of hyaline cartilage.",
+        "whyWrongByChoice": {
+          "A": "The annulus fibrosus is fibrocartilage, with rows of chondrocytes between dense type I collagen bundles.",
+          "B": "The auricle is elastic cartilage, whose matrix contains elastic fibers that keep its shape after bending.",
+          "C": "The epiglottis is elastic cartilage, with elastic fibers in the matrix.",
+          "D": "The meniscus is fibrocartilage, built to resist tension and compression with abundant type I collagen."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-03-02.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_03.json"
+    },
+    {
+      "id": "mskpic-03-03",
+      "topicId": "histology-of-bone-and-cartilage",
+      "topicName": "Histology of Bone and Cartilage",
+      "stem": "A cartilage specimen stained with H&E is shown. Which collagen type is abundant in this matrix but not in the other cartilage types?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Type I"
+        },
+        {
+          "label": "B",
+          "text": "Type II"
+        },
+        {
+          "label": "C",
+          "text": "Type III"
+        },
+        {
+          "label": "D",
+          "text": "Type IV"
+        },
+        {
+          "label": "E",
+          "text": "Type X"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "This is fibrocartilage: chondrocytes in lacunae line up in rows between dense, wavy collagen bundles. Its abundant type I collagen resists tension and compression in the menisci, annulus fibrosus and pubic symphysis.",
+        "whyCorrect": "Chondrocytes in rows separated by dense collagen bundles mark fibrocartilage, the only cartilage rich in type I collagen.",
+        "whyWrongByChoice": {
+          "B": "Type II collagen is found in all three cartilage types, so it does not set this one apart.",
+          "C": "Type III (reticular) collagen is found in reticular fibers, vessels and granulation tissue, not cartilage matrix.",
+          "D": "Type IV collagen forms basement membranes, not cartilage matrix.",
+          "E": "Type X collagen is made by hypertrophic chondrocytes in the growth plate, not by mature fibrocartilage."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-03-03.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_03.json"
+    },
+    {
       "id": "mk04-001",
       "stem": "A 44-year-old warehouse worker develops shooting pain from his buttock down the back of his leg after lifting a heavy crate. MRI shows a posterolateral herniation of the L4-L5 intervertebral disc. Which nerve root is most likely compressed?",
       "choices": [
@@ -2279,6 +2373,53 @@
       "topicId": "spine-disorders",
       "topicName": "Spine Disorders",
       "tier": "core"
+    },
+    {
+      "id": "mskpic-04-01",
+      "topicId": "spine-disorders",
+      "topicName": "Spine Disorders",
+      "stem": "An adolescent has low back pain. An oblique lumbar radiograph is shown with the posterior elements traced. Which part of the L5 vertebra is affected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lamina"
+        },
+        {
+          "label": "B",
+          "text": "Pars interarticularis"
+        },
+        {
+          "label": "C",
+          "text": "Pedicle"
+        },
+        {
+          "label": "D",
+          "text": "Superior articular process"
+        },
+        {
+          "label": "E",
+          "text": "Transverse process"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "On an oblique lumbar view the posterior elements form a 'Scotty dog'. At L5 the dog's neck, the pars interarticularis, has a break (a 'collar'). This is spondylolysis, a stress defect from repeated extension in young athletes.",
+        "whyCorrect": "The defect crosses the dog's neck, the part of the arch between the superior and inferior articular processes, which is the pars interarticularis.",
+        "whyWrongByChoice": {
+          "A": "The lamina forms the dog's body; it is intact here.",
+          "C": "The pedicle is the dog's eye; it is intact at every level.",
+          "D": "The superior articular process is the dog's ear; it is intact.",
+          "E": "The transverse process is the dog's nose; it is intact."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-04-01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_04.json"
     }
   ]
 }

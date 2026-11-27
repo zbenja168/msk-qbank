@@ -1153,6 +1153,194 @@
       "hy": true
     },
     {
+      "id": "mskpic-20-01",
+      "topicId": "upper-extremity-injuries",
+      "topicName": "Upper Extremity Injuries",
+      "stem": "A 45-year-old woman has trouble raising her right arm overhead after an axillary lymph node dissection. Her back is shown as she pushes against a wall. Injury to which nerve explains this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Axillary nerve"
+        },
+        {
+          "label": "B",
+          "text": "Long thoracic nerve"
+        },
+        {
+          "label": "C",
+          "text": "Musculocutaneous nerve"
+        },
+        {
+          "label": "D",
+          "text": "Suprascapular nerve"
+        },
+        {
+          "label": "E",
+          "text": "Thoracodorsal nerve"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The medial border of the scapula protrudes posteriorly (scapular winging), the sign of serratus anterior paralysis from long thoracic nerve (C5-C7) injury.",
+        "whyCorrect": "The long thoracic nerve runs superficially on the serratus anterior along the lateral chest wall, where it is at risk during axillary surgery. Without the serratus anterior, the medial scapular border wings out when the patient pushes against a wall, and raising the arm above shoulder level is difficult.",
+        "whyWrongByChoice": {
+          "A": "Axillary nerve injury weakens the deltoid and teres minor (abduction past ~15°, external rotation); it does not lift the medial scapular border off the chest wall.",
+          "C": "The musculocutaneous nerve supplies the arm flexors (biceps, brachialis, coracobrachialis); injury weakens elbow flexion, not scapular stability.",
+          "D": "Suprascapular nerve injury weakens supraspinatus and infraspinatus (initiation of abduction, external rotation) without scapular winging.",
+          "E": "The thoracodorsal nerve supplies latissimus dorsi; injury weakens extension, adduction and medial rotation of the arm, not scapular protraction."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-20-01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_20.json"
+    },
+    {
+      "id": "mskpic-20-02",
+      "topicId": "upper-extremity-injuries",
+      "topicName": "Upper Extremity Injuries",
+      "stem": "A 24-year-old man is brought to the emergency department after a motor vehicle collision. His radiograph is shown. Which nerve is most at risk from this injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Axillary nerve"
+        },
+        {
+          "label": "B",
+          "text": "Median nerve"
+        },
+        {
+          "label": "C",
+          "text": "Musculocutaneous nerve"
+        },
+        {
+          "label": "D",
+          "text": "Radial nerve"
+        },
+        {
+          "label": "E",
+          "text": "Ulnar nerve"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The radiograph shows a displaced fracture of the humeral shaft. The radial nerve lies in the radial (spiral) groove of the mid-shaft and is the nerve most often injured with these fractures.",
+        "whyCorrect": "A mid-shaft humeral fracture can stretch or trap the radial nerve in the radial groove, causing wrist drop and sensory loss over the dorsal first web space. Elbow extension is usually spared because the triceps branches leave proximal to the groove.",
+        "whyWrongByChoice": {
+          "A": "The axillary nerve wraps the surgical neck of the humerus and is injured by proximal humerus fractures or shoulder dislocation, not mid-shaft fractures.",
+          "B": "The median nerve is at risk with supracondylar humerus fractures and at the carpal tunnel, not in the mid-shaft of the humerus.",
+          "C": "The musculocutaneous nerve runs within the anterior arm muscles, away from the shaft, and is rarely injured by humeral fractures.",
+          "E": "The ulnar nerve is vulnerable behind the medial epicondyle, not along the mid-shaft."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-20-02.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_20.json"
+    },
+    {
+      "id": "mskpic-20-03",
+      "topicId": "upper-extremity-injuries",
+      "topicName": "Upper Extremity Injuries",
+      "stem": "A 22-year-old man has severe left shoulder pain after a fall while playing rugby. His radiograph is shown. Which nerve should be examined most carefully before and after treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Axillary nerve"
+        },
+        {
+          "label": "B",
+          "text": "Long thoracic nerve"
+        },
+        {
+          "label": "C",
+          "text": "Radial nerve"
+        },
+        {
+          "label": "D",
+          "text": "Suprascapular nerve"
+        },
+        {
+          "label": "E",
+          "text": "Ulnar nerve"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The humeral head sits out of the glenoid, below and medial to the coracoid: an anterior shoulder dislocation, the most common major joint dislocation.",
+        "whyCorrect": "The axillary nerve passes through the quadrangular space and wraps the surgical neck of the humerus, so anterior dislocation stretches it. Test deltoid strength and sensation over the lateral shoulder before and after reduction.",
+        "whyWrongByChoice": {
+          "B": "The long thoracic nerve is injured by axillary surgery or lateral chest wall trauma and causes scapular winging; glenohumeral dislocation does not typically injure it.",
+          "C": "The radial nerve is classically injured by mid-shaft humeral fractures in the radial groove; this humeral shaft is intact.",
+          "D": "The suprascapular nerve is injured at the suprascapular or spinoglenoid notch, not by the humeral head displacing below the coracoid.",
+          "E": "The ulnar nerve is at risk at the elbow (medial epicondyle) and at Guyon canal, not at the shoulder."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-20-03.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_20.json"
+    },
+    {
+      "id": "mskpic-20-04",
+      "topicId": "upper-extremity-injuries",
+      "topicName": "Upper Extremity Injuries",
+      "stem": "A patient falls onto an outstretched hand. The forearm is shown. Which injury is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Distal radius fracture with dorsal displacement"
+        },
+        {
+          "label": "B",
+          "text": "Distal radius fracture with volar displacement"
+        },
+        {
+          "label": "C",
+          "text": "Radial head subluxation"
+        },
+        {
+          "label": "D",
+          "text": "Scaphoid waist fracture"
+        },
+        {
+          "label": "E",
+          "text": "Supracondylar humerus fracture"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The wrist shows a dinner-fork deformity: the distal fragment and hand are displaced dorsally relative to the forearm. This is a Colles fracture, the most common distal radius fracture.",
+        "whyCorrect": "A fall onto an outstretched hand loads the distal radius in extension and breaks it with dorsal displacement of the distal fragment. Viewed from the side, the dorsal hump and the drop of the hand resemble a dinner fork.",
+        "whyWrongByChoice": {
+          "B": "A volar-displaced (Smith) fracture tilts the distal fragment toward the palm, the opposite of the dorsal 'dinner-fork' hump shown.",
+          "C": "Nursemaid's elbow is a toddler injury from a pull on the hand; the forearm and wrist look normal.",
+          "D": "A scaphoid fracture causes snuffbox tenderness, often with a normal-looking wrist; it does not angulate the distal forearm.",
+          "E": "A supracondylar fracture deforms the elbow, not the wrist."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-20-04.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_20.json"
+    },
+    {
       "id": "mk21-001",
       "stem": "A 31-year-old woman in her third trimester of pregnancy has 6 weeks of tingling and burning in her right thumb, index finger, middle finger and the thumb-side half of her ring finger. The symptoms wake her at night, and she shakes her hand to relieve them. Sensation of the small finger is normal. Which of the following is the most likely diagnosis?",
       "choices": [

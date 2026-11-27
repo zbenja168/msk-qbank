@@ -577,6 +577,53 @@
       "tier": "core"
     },
     {
+      "id": "mskpic-27-01",
+      "topicId": "msk-osteomyelitis",
+      "topicName": "MSK: Osteomyelitis",
+      "stem": "A 9-year-old boy has fever and severe pain in his leg. A bone biopsy is shown. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute pyogenic osteomyelitis"
+        },
+        {
+          "label": "B",
+          "text": "Ewing sarcoma"
+        },
+        {
+          "label": "C",
+          "text": "Osteoid osteoma"
+        },
+        {
+          "label": "D",
+          "text": "Paget disease of bone"
+        },
+        {
+          "label": "E",
+          "text": "Tuberculous vertebral osteomyelitis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A fragment of nonviable bone with empty lacunae is surrounded by a dense infiltrate of neutrophils and necrosis: acute osteomyelitis.",
+        "whyCorrect": "In acute osteomyelitis, enzymes released by neutrophils destroy bone and compromise its blood supply, so the bone dies and its lacunae lose their osteocytes. Bone biopsy with culture is the gold-standard test; in children, hematogenous Staphylococcus aureus is the most common cause.",
+        "whyWrongByChoice": {
+          "B": "Ewing sarcoma is a sheet of uniform small round blue tumor cells, not multilobed neutrophils around dead bone.",
+          "C": "Osteoid osteoma is a small nidus of woven bone trabeculae rimmed by osteoblasts, without an acute inflammatory infiltrate.",
+          "D": "Paget disease shows thick, disorganized bone with a mosaic of cement lines and large osteoclasts, in older adults.",
+          "E": "Tuberculous osteomyelitis (Pott disease) is a chronic granulomatous process with caseous necrosis, usually in the spine, not a sheet of neutrophils."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-27-01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_27.json"
+    },
+    {
       "id": "mk28-001",
       "stem": "A 15-year-old girl has had 3 months of worsening pain and swelling just below her right knee. Examination shows a warm, tender mass over the proximal tibia. Radiographs show a destructive metaphyseal lesion with spiculated, radiating new bone and a triangular lifting of the periosteum at its edge. A biopsy is obtained. Which histologic finding is the hallmark of this tumor?",
       "choices": [
@@ -1141,6 +1188,147 @@
       "topicId": "msk-bone-tumors",
       "topicName": "MSK: Bone Tumors",
       "tier": "core"
+    },
+    {
+      "id": "mskpic-28-01",
+      "topicId": "msk-bone-tumors",
+      "topicName": "MSK: Bone Tumors",
+      "stem": "A 19-year-old man has months of pain in his thigh. A radiograph of the resected lesion is shown. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enchondroma"
+        },
+        {
+          "label": "B",
+          "text": "Ewing sarcoma"
+        },
+        {
+          "label": "C",
+          "text": "Giant cell tumor of bone"
+        },
+        {
+          "label": "D",
+          "text": "Osteoid osteoma"
+        },
+        {
+          "label": "E",
+          "text": "Osteosarcoma"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A small, round lucent nidus sits in the center of dense reactive sclerotic bone: the classic picture of osteoid osteoma.",
+        "whyCorrect": "Osteoid osteoma affects teens and young adults, usually in long bone shafts such as the femur. Its nidus makes prostaglandins, so it causes dull pain that is worse at night and dramatically relieved by NSAIDs.",
+        "whyWrongByChoice": {
+          "A": "Enchondroma is a lucent cartilage nodule, often with central calcification, typically in the small bones of the hand, without a dense sclerotic reaction.",
+          "B": "Ewing sarcoma is a permeative, poorly defined lytic lesion of the diaphysis with layered 'onion-skin' periosteal reaction.",
+          "C": "Giant cell tumor is an expansile, lytic 'soap bubble' lesion of the epiphysis in adults, without a small nidus.",
+          "E": "Osteosarcoma is a large destructive metaphyseal lesion with cortical breakthrough and periosteal reaction (Codman triangle, sunburst)."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-28-01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_28.json"
+    },
+    {
+      "id": "mskpic-28-02",
+      "topicId": "msk-bone-tumors",
+      "topicName": "MSK: Bone Tumors",
+      "stem": "A biopsy of a bone lesion from a 32-year-old woman is shown. A drug that targets which molecule can treat this tumor when surgery is not feasible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "BCR-ABL tyrosine kinase"
+        },
+        {
+          "label": "B",
+          "text": "BRAF V600E kinase"
+        },
+        {
+          "label": "C",
+          "text": "CD20"
+        },
+        {
+          "label": "D",
+          "text": "Dihydrofolate reductase"
+        },
+        {
+          "label": "E",
+          "text": "RANKL"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Numerous osteoclast-type giant cells with many nuclei are scattered among uniform oval mononuclear stromal cells: giant cell tumor of bone.",
+        "whyCorrect": "The neoplastic stromal cells of giant cell tumor overexpress RANKL, which recruits and activates the osteoclast-like giant cells that destroy bone. The RANKL inhibitor denosumab is an option when resection would be disabling.",
+        "whyWrongByChoice": {
+          "A": "BCR-ABL is targeted by imatinib in chronic myeloid leukemia; it does not drive this tumor.",
+          "B": "BRAF V600E inhibitors are used for Langerhans cell histiocytosis and melanoma, not this tumor.",
+          "C": "CD20 is targeted by rituximab in B-cell lymphomas; this tumor does not express it.",
+          "D": "Dihydrofolate reductase is inhibited by methotrexate, part of osteosarcoma chemotherapy, not therapy for this tumor."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-28-02.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_28.json"
+    },
+    {
+      "id": "mskpic-28-04",
+      "topicId": "msk-bone-tumors",
+      "topicName": "MSK: Bone Tumors",
+      "stem": "An electron micrograph of cells from a child's lytic bone lesion is shown. These cells are most likely positive for which marker?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CD117"
+        },
+        {
+          "label": "B",
+          "text": "CD1a"
+        },
+        {
+          "label": "C",
+          "text": "CD20"
+        },
+        {
+          "label": "D",
+          "text": "CD99"
+        },
+        {
+          "label": "E",
+          "text": "Myeloperoxidase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The rod-shaped cytoplasmic structures with a striated core and a dilated terminal end ('tennis racket') are Birbeck granules, the hallmark of Langerhans cell histiocytosis.",
+        "whyCorrect": "Langerhans cell histiocytosis is a clonal proliferation of Langerhans cells (often with BRAF V600E) that forms lytic bone lesions, commonly in the skull of young children. The cells are positive for CD1a and S-100, and Birbeck granules are seen on electron microscopy.",
+        "whyWrongByChoice": {
+          "A": "CD117 (c-KIT) marks mast cells and gastrointestinal stromal tumors.",
+          "C": "CD20 marks B lymphocytes and B-cell lymphomas.",
+          "D": "CD99 is the classic membrane marker of Ewing sarcoma.",
+          "E": "Myeloperoxidase marks myeloid cells such as neutrophil precursors and myeloblasts."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-28-04.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_28.json"
     }
   ]
 }

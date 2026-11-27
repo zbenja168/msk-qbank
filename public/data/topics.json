@@ -28,21 +28,21 @@
           "id": "histology-of-bone-and-cartilage",
           "name": "Histology of Bone and Cartilage",
           "sourceFile": "MSK Brick 3",
-          "coreCount": 12,
+          "coreCount": 14,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 9
+          "questionCount": 38,
+          "hyCount": 14,
+          "hyCoreCount": 11
         },
         {
           "id": "spine-disorders",
           "name": "Spine Disorders",
           "sourceFile": "MSK Brick 4",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 9
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 10
         }
       ],
       "week": 1,
@@ -57,41 +57,41 @@
           "id": "development-of-the-musculoskeletal-system",
           "name": "Development of the Musculoskeletal System",
           "sourceFile": "MSK Brick 5",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 11
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 12
         },
         {
           "id": "congenital-disorders-of-the-musculoskeletal-system",
           "name": "Congenital Disorders of the Musculoskeletal System",
           "sourceFile": "MSK Brick 6",
-          "coreCount": 12,
+          "coreCount": 15,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 7
+          "questionCount": 39,
+          "hyCount": 15,
+          "hyCoreCount": 10
         },
         {
           "id": "ehlers-danlos-syndrome-and-marfan-syndrome",
           "name": "Ehlers-Danlos Syndrome and Marfan Syndrome",
           "sourceFile": "MSK Brick 7",
-          "coreCount": 12,
+          "coreCount": 14,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 11
+          "questionCount": 38,
+          "hyCount": 14,
+          "hyCoreCount": 13
         },
         {
           "id": "acquired-bone-disorders",
           "name": "Acquired Bone Disorders",
           "sourceFile": "MSK Brick 8",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 10
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 11
         }
       ],
       "week": 1,
@@ -155,11 +155,11 @@
           "id": "functional-anatomy-of-the-shoulder-arm",
           "name": "Functional Anatomy of the Shoulder & Arm",
           "sourceFile": "MSK Brick 13",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 10
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 11
         },
         {
           "id": "vasculature-and-lymphatics-of-the-upper-extremities",
@@ -184,41 +184,41 @@
           "id": "inflammatory-myopathies",
           "name": "Inflammatory Myopathies",
           "sourceFile": "MSK Brick 15",
-          "coreCount": 12,
+          "coreCount": 14,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 11
+          "questionCount": 38,
+          "hyCount": 14,
+          "hyCoreCount": 13
         },
         {
           "id": "muscular-dystrophy",
           "name": "Muscular Dystrophy",
           "sourceFile": "MSK Brick 16",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 9
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 10
         },
         {
           "id": "traumatic-muscle-injury",
           "name": "Traumatic Muscle Injury",
           "sourceFile": "MSK Brick 17",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 11
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 12
         },
         {
           "id": "common-tendon-bursa-and-joint-capsule-disorders",
           "name": "Common Tendon, Bursa, and Joint Capsule Disorders",
           "sourceFile": "MSK Brick 18",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 10
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 11
         }
       ],
       "week": 2,
@@ -243,11 +243,11 @@
           "id": "upper-extremity-injuries",
           "name": "Upper Extremity Injuries",
           "sourceFile": "MSK Brick 20",
-          "coreCount": 12,
+          "coreCount": 16,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 10
+          "questionCount": 40,
+          "hyCount": 16,
+          "hyCoreCount": 14
         },
         {
           "id": "upper-extremity-nerve-entrapment-syndromes",
@@ -282,11 +282,11 @@
           "id": "functional-anatomy-of-the-gluteal-region-hip-thigh-knee",
           "name": "Functional Anatomy of the Gluteal Region, Hip, Thigh & Knee",
           "sourceFile": "MSK Brick 23",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 10
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 11
         },
         {
           "id": "vasculature-and-lymphatics-of-the-lower-extremities",
@@ -302,21 +302,21 @@
           "id": "histology-of-adipose-tissue",
           "name": "Histology of Adipose Tissue",
           "sourceFile": "MSK Brick 25",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 11,
-          "hyCoreCount": 8
+          "questionCount": 37,
+          "hyCount": 12,
+          "hyCoreCount": 9
         },
         {
           "id": "msk-soft-tissue-tumors",
           "name": "MSK: Soft Tissue Tumors",
           "sourceFile": "MSK Brick 26",
-          "coreCount": 12,
+          "coreCount": 14,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 8
+          "questionCount": 38,
+          "hyCount": 14,
+          "hyCoreCount": 10
         }
       ],
       "week": 3,
@@ -331,21 +331,21 @@
           "id": "msk-osteomyelitis",
           "name": "MSK: Osteomyelitis",
           "sourceFile": "MSK Brick 27",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 10
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 11
         },
         {
           "id": "msk-bone-tumors",
           "name": "MSK: Bone Tumors",
           "sourceFile": "MSK Brick 28",
-          "coreCount": 12,
+          "coreCount": 15,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 10
+          "questionCount": 39,
+          "hyCount": 15,
+          "hyCoreCount": 13
         }
       ],
       "week": 3,
@@ -370,21 +370,21 @@
           "id": "lower-extremity-injury-part-1-of-2",
           "name": "Lower Extremity Injury- Part 1 of 2",
           "sourceFile": "MSK Brick 30",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 10
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 11
         },
         {
           "id": "lower-extremity-injury-part-2-of-2",
           "name": "Lower Extremity Injury - Part 2 of 2",
           "sourceFile": "MSK Brick 31",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 10
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 11
         }
       ],
       "week": 3,
@@ -399,41 +399,41 @@
           "id": "msk-osteoarthritis-and-rheumatoid-arthritis",
           "name": "MSK: Osteoarthritis and Rheumatoid Arthritis",
           "sourceFile": "MSK Brick 32",
-          "coreCount": 12,
+          "coreCount": 14,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 10
+          "questionCount": 38,
+          "hyCount": 14,
+          "hyCoreCount": 12
         },
         {
           "id": "msk-crystal-induced-arthritis",
           "name": "MSK: Crystal-Induced Arthritis",
           "sourceFile": "MSK Brick 33",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 10
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 11
         },
         {
           "id": "msk-spondyloarthropathies",
           "name": "MSK: Spondyloarthropathies",
           "sourceFile": "MSK Brick 34",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 10
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 11
         },
         {
           "id": "msk-septic-arthritis",
           "name": "MSK: Septic Arthritis",
           "sourceFile": "MSK Brick 35",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 6
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 7
         }
       ],
       "week": 4,
@@ -676,5 +676,5 @@
       "weekSubtitle": "Inflammatory, Autoimmune & Adnexal Skin Disease"
     }
   ],
-  "totalQuestions": 2014
+  "totalQuestions": 2049
 }

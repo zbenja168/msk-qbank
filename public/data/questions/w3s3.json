@@ -1132,6 +1132,53 @@
       "hy": true
     },
     {
+      "id": "mskpic-30-01",
+      "topicId": "lower-extremity-injury-part-1-of-2",
+      "topicName": "Lower Extremity Injury- Part 1 of 2",
+      "stem": "After a deep laceration behind the knee, a patient's foot rests in the position shown and cannot be moved out of it. Injury to which nerve is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Common fibular nerve"
+        },
+        {
+          "label": "B",
+          "text": "Deep fibular nerve"
+        },
+        {
+          "label": "C",
+          "text": "Femoral nerve"
+        },
+        {
+          "label": "D",
+          "text": "Superficial fibular nerve"
+        },
+        {
+          "label": "E",
+          "text": "Tibial nerve"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The ankle rests dorsiflexed and everted, with the heel bearing weight: loss of plantarflexion, toe flexion and inversion from tibial nerve injury.",
+        "whyCorrect": "The tibial nerve supplies the posterior compartment of the leg (gastrocnemius, soleus, tibialis posterior, long toe flexors). When it is cut, the unopposed anterior and lateral compartments hold the ankle dorsiflexed and everted, and the sole loses sensation.",
+        "whyWrongByChoice": {
+          "A": "Common fibular injury causes foot drop: the foot hangs plantarflexed and inverted, the opposite of what is shown.",
+          "B": "Deep fibular injury weakens dorsiflexion and toe extension, leaving the foot plantarflexed.",
+          "C": "Femoral injury weakens knee extension and hip flexion; it does not change the resting position of the ankle.",
+          "D": "Superficial fibular injury weakens eversion, so the foot would tend to rest inverted, not everted."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-30-01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_30.json"
+    },
+    {
       "id": "mk31-001",
       "stem": "A 28-year-old man is brought to the emergency department after a head-on car crash in which his flexed knee struck the dashboard. His right lower extremity is shortened, flexed, adducted, and internally rotated at the hip. Which injury is most likely?",
       "choices": [
@@ -1695,6 +1742,53 @@
       "topicName": "Lower Extremity Injury - Part 2 of 2",
       "tier": "core",
       "hy": true
+    },
+    {
+      "id": "mskpic-31-02",
+      "topicId": "lower-extremity-injury-part-2-of-2",
+      "topicName": "Lower Extremity Injury - Part 2 of 2",
+      "stem": "A patient is brought in after a motor vehicle collision. The right leg rests as shown, and moving it is very painful. What is the most likely injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anterior hip dislocation"
+        },
+        {
+          "label": "B",
+          "text": "Femoral neck fracture"
+        },
+        {
+          "label": "C",
+          "text": "Femoral shaft fracture"
+        },
+        {
+          "label": "D",
+          "text": "Intertrochanteric fracture"
+        },
+        {
+          "label": "E",
+          "text": "Posterior hip dislocation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The right hip is flexed, adducted and internally rotated: the classic posture of posterior hip dislocation.",
+        "whyCorrect": "Over 85% of hip dislocations are posterior, usually from a force driven back along the femur when the flexed knee strikes the dashboard. Prompt reduction lowers the risk of avascular necrosis, and sciatic nerve function must be checked.",
+        "whyWrongByChoice": {
+          "A": "Anterior dislocation leaves the limb abducted and externally rotated.",
+          "B": "A femoral neck fracture leaves the limb shortened and externally rotated.",
+          "C": "A femoral shaft fracture causes deformity and swelling in the mid-thigh, not a flexed, adducted, internally rotated hip.",
+          "D": "An intertrochanteric fracture, like other hip fractures, leaves the limb shortened and externally rotated."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-31-02.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_31.json"
     }
   ]
 }

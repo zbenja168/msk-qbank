@@ -578,6 +578,53 @@
       "tier": "core"
     },
     {
+      "id": "mskpic-13-01",
+      "topicId": "functional-anatomy-of-the-shoulder-arm",
+      "topicName": "Functional Anatomy of the Shoulder & Arm",
+      "stem": "A woman pushes against a wall as shown. Which nerve is most likely injured?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accessory nerve"
+        },
+        {
+          "label": "B",
+          "text": "Axillary nerve"
+        },
+        {
+          "label": "C",
+          "text": "Dorsal scapular nerve"
+        },
+        {
+          "label": "D",
+          "text": "Long thoracic nerve"
+        },
+        {
+          "label": "E",
+          "text": "Thoracodorsal nerve"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The medial border of the scapula lifts off the chest wall when the patient pushes against resistance: a winged scapula. This comes from serratus anterior paralysis after long thoracic nerve injury, a known risk of axillary surgery.",
+        "whyCorrect": "Medial winging on a wall push means the serratus anterior cannot hold the scapula to the thorax, so the long thoracic nerve (C5-C7) is injured.",
+        "whyWrongByChoice": {
+          "A": "Accessory nerve injury weakens the trapezius, causing shoulder droop and milder winging that is worst on abduction, not on a wall push.",
+          "B": "Axillary nerve injury weakens the deltoid and teres minor (abduction, lateral rotation), without winging.",
+          "C": "Dorsal scapular nerve injury weakens the rhomboids and levator scapulae, giving only subtle winging.",
+          "E": "Thoracodorsal nerve injury weakens the latissimus dorsi (extension, adduction), without winging."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-13-01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_13.json"
+    },
+    {
       "id": "mk14-001",
       "stem": "A 67-year-old man has angiographically confirmed narrowing of the proximal left subclavian artery. His left radial pulse is present though weaker than the right, and his left hand is warm and well perfused. Blood from subclavian branches reaches the axillary artery distal to the narrowing chiefly by flowing retrograde through which vessel?",
       "choices": [

@@ -575,6 +575,100 @@
       "hy": true
     },
     {
+      "id": "mskpic-15-01",
+      "topicId": "inflammatory-myopathies",
+      "topicName": "Inflammatory Myopathies",
+      "stem": "A 52-year-old woman has symmetric proximal muscle weakness. An H&E-stained muscle biopsy is shown. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dermatomyositis"
+        },
+        {
+          "label": "B",
+          "text": "Inclusion body myositis"
+        },
+        {
+          "label": "C",
+          "text": "Mitochondrial myopathy"
+        },
+        {
+          "label": "D",
+          "text": "Polymyalgia rheumatica"
+        },
+        {
+          "label": "E",
+          "text": "Polymyositis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The small, atrophic fibers sit at the edges of the fascicles, next to the perimysial connective tissue: perifascicular atrophy. This finding is characteristic of dermatomyositis, where complement-mediated injury to perimysial vessels makes the edge fibers ischemic.",
+        "whyCorrect": "Atrophy concentrated at the periphery of fascicles is the finding that sets dermatomyositis apart from the other inflammatory myopathies.",
+        "whyWrongByChoice": {
+          "B": "Inclusion body myositis shows rimmed vacuoles and endomysial inflammation, typically in older men with finger-flexor and quadriceps weakness.",
+          "C": "Mitochondrial myopathy shows ragged-red fibers on trichrome stain, not perifascicular atrophy.",
+          "D": "In polymyalgia rheumatica the muscle biopsy is normal; it causes pain and stiffness, not true weakness.",
+          "E": "Polymyositis shows endomysial CD8+ T cells invading individual fibers, without perifascicular atrophy."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-15-01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_15.json"
+    },
+    {
+      "id": "mskpic-15-02",
+      "topicId": "inflammatory-myopathies",
+      "topicName": "Inflammatory Myopathies",
+      "stem": "A 22-year-old woman has exercise intolerance. A muscle biopsy section (modified Gomori trichrome stain) is shown. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dermatomyositis"
+        },
+        {
+          "label": "B",
+          "text": "Inclusion body myositis"
+        },
+        {
+          "label": "C",
+          "text": "McArdle disease"
+        },
+        {
+          "label": "D",
+          "text": "Mitochondrial myopathy"
+        },
+        {
+          "label": "E",
+          "text": "Polymyositis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "One fiber has bright red, irregular deposits under the sarcolemma on trichrome stain: a ragged-red fiber. These are collections of abnormal mitochondria and point to a mitochondrial myopathy, which comes from defective oxidative phosphorylation.",
+        "whyCorrect": "Ragged-red fibers are subsarcolemmal aggregates of abnormal mitochondria, the biopsy hallmark of mitochondrial myopathy.",
+        "whyWrongByChoice": {
+          "A": "Dermatomyositis shows perifascicular atrophy, not subsarcolemmal mitochondrial aggregates.",
+          "B": "Inclusion body myositis shows rimmed vacuoles in older adults.",
+          "C": "McArdle disease shows glycogen accumulation under the sarcolemma (PAS-positive) and absent myophosphorylase, not red-staining mitochondria.",
+          "E": "Polymyositis shows endomysial CD8+ T-cell inflammation."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-15-02.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_15.json"
+    },
+    {
       "id": "mk16-001",
       "stem": "A 4-year-old boy is brought to clinic because he falls frequently and has trouble climbing stairs. To stand up from the floor he pushes on his knees and thighs with his hands. His calves appear large and firm, and his serum creatine kinase is markedly elevated. Which of the following genetic abnormalities most likely underlies his condition?",
       "choices": [
@@ -1141,6 +1235,53 @@
       "tier": "core"
     },
     {
+      "id": "mskpic-16-02",
+      "topicId": "muscular-dystrophy",
+      "topicName": "Muscular Dystrophy",
+      "stem": "A 38-year-old man has slowly progressive muscle weakness. His face is shown. Expansion of which repeat is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CAG"
+        },
+        {
+          "label": "B",
+          "text": "CGG"
+        },
+        {
+          "label": "C",
+          "text": "CTG"
+        },
+        {
+          "label": "D",
+          "text": "GAA"
+        },
+        {
+          "label": "E",
+          "text": "GCG"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A long, thin face with hollow temples, drooping eyelids and frontal balding is the classic look of myotonic dystrophy type 1. DM1 is caused by CTG repeat expansion in the 3' UTR of DMPK, and gives distal weakness.",
+        "whyCorrect": "A long, thin face with hollow temples, ptosis and frontal balding points to DM1, a CTG expansion in DMPK.",
+        "whyWrongByChoice": {
+          "A": "CAG expansions cause Huntington disease and spinocerebellar ataxias.",
+          "B": "CGG expansions cause fragile X syndrome.",
+          "D": "GAA expansions cause Friedreich ataxia.",
+          "E": "GCG (alanine) expansions in PABPN1 cause oculopharyngeal dystrophy, with ptosis and dysphagia but no frontal balding or distal hand weakness."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-16-02.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_16.json"
+    },
+    {
       "id": "mk17-001",
       "stem": "A 24-year-old sprinter feels a sudden sharp pain in the back of his thigh while running at top speed. There was no contact with another player. He has focal tenderness over the posterior thigh and pain with resisted knee flexion. Which of the following best describes the mechanism of his injury?",
       "choices": [
@@ -1705,6 +1846,53 @@
       "topicName": "Traumatic Muscle Injury",
       "tier": "core",
       "hy": true
+    },
+    {
+      "id": "mskpic-17-01",
+      "topicId": "traumatic-muscle-injury",
+      "topicName": "Traumatic Muscle Injury",
+      "stem": "A 20-year-old man has a firm, painful thigh mass. A radiograph is shown. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Compartment syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Myositis ossificans"
+        },
+        {
+          "label": "C",
+          "text": "Osteochondroma"
+        },
+        {
+          "label": "D",
+          "text": "Osteomyelitis"
+        },
+        {
+          "label": "E",
+          "text": "Osteosarcoma"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A well-circumscribed, mineralized mass lies in the thigh muscle, separate from the intact femur. This is myositis ossificans: heterotopic bone forms in muscle, typically after a deep contusion, and matures at the edges first (the zone phenomenon).",
+        "whyCorrect": "A mineralized soft-tissue mass within muscle, separate from an intact femur, is myositis ossificans.",
+        "whyWrongByChoice": {
+          "A": "Compartment syndrome is an acute pressure emergency and does not produce a calcified mass.",
+          "C": "An osteochondroma is a cartilage-capped bony outgrowth that is continuous with the cortex and medulla of the bone.",
+          "D": "Osteomyelitis shows periosteal reaction and bone destruction within the bone, not a separate mass in muscle.",
+          "E": "Osteosarcoma arises from bone, with central-predominant mineralization and cortical destruction or a sunburst periosteal reaction."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-17-01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_17.json"
     },
     {
       "id": "mk18-001",
@@ -2279,6 +2467,53 @@
       "topicName": "Common Tendon, Bursa, and Joint Capsule Disorders",
       "tier": "core",
       "hy": true
+    },
+    {
+      "id": "mskpic-18-01",
+      "topicId": "common-tendon-bursa-and-joint-capsule-disorders",
+      "topicName": "Common Tendon, Bursa, and Joint Capsule Disorders",
+      "stem": "A 45-year-old man has knee discomfort. His knees are shown. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Baker cyst"
+        },
+        {
+          "label": "B",
+          "text": "Infrapatellar bursitis"
+        },
+        {
+          "label": "C",
+          "text": "Knee joint effusion"
+        },
+        {
+          "label": "D",
+          "text": "Pes anserine bursitis"
+        },
+        {
+          "label": "E",
+          "text": "Prepatellar bursitis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A rounded, fluctuant swelling sits directly over the patella. This is prepatellar bursitis ('housemaid's knee'), caused by repeated pressure from kneeling.",
+        "whyCorrect": "The swelling is centered over the front of the patella itself, where the prepatellar bursa lies.",
+        "whyWrongByChoice": {
+          "A": "A Baker cyst is a swelling in the popliteal fossa at the back of the knee.",
+          "B": "Infrapatellar bursitis causes swelling below the patella, around the patellar tendon.",
+          "C": "A joint effusion fills the suprapatellar pouch and makes the patella ballotable; it is not a discrete swelling on the front of the patella.",
+          "D": "Pes anserine bursitis causes swelling and tenderness on the medial proximal tibia."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-18-01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_18.json"
     }
   ]
 }

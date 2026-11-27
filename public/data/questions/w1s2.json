@@ -576,6 +576,53 @@
       "hy": true
     },
     {
+      "id": "mskpic-05-01",
+      "topicId": "development-of-the-musculoskeletal-system",
+      "topicName": "Development of the Musculoskeletal System",
+      "stem": "A newborn boy is examined shortly after birth. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bladder exstrophy"
+        },
+        {
+          "label": "B",
+          "text": "Congenital umbilical hernia"
+        },
+        {
+          "label": "C",
+          "text": "Gastroschisis"
+        },
+        {
+          "label": "D",
+          "text": "Omphalocele"
+        },
+        {
+          "label": "E",
+          "text": "Prune belly syndrome"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The lax, wrinkled abdominal wall marks prune belly syndrome, an extensive failure of abdominal wall muscle development (a form of muscle agenesis), classically with urinary tract anomalies and undescended testes.",
+        "whyCorrect": "The abdomen is wrinkled and prune-like from deficient abdominal musculature, with no viscera outside the wall.",
+        "whyWrongByChoice": {
+          "A": "Bladder exstrophy shows an exposed bladder mucosa on the lower abdomen.",
+          "B": "An umbilical hernia is a soft, skin-covered bulge at the umbilicus, not a wrinkled, lax abdominal wall.",
+          "C": "Gastroschisis shows bowel outside the body beside the umbilicus, with no covering sac.",
+          "D": "Omphalocele shows viscera herniated into a peritoneum-covered sac at the umbilicus."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-05-01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_05.json"
+    },
+    {
       "id": "mk06-001",
       "stem": "A newborn has an extra, incompletely formed toe on the lateral side of the left foot. Upregulated or ectopic expression of which signal, in which region of the limb bud, most likely contributed to this finding?",
       "choices": [
@@ -1139,6 +1186,147 @@
       "topicId": "congenital-disorders-of-the-musculoskeletal-system",
       "topicName": "Congenital Disorders of the Musculoskeletal System",
       "tier": "core"
+    },
+    {
+      "id": "mskpic-06-01",
+      "topicId": "congenital-disorders-of-the-musculoskeletal-system",
+      "topicName": "Congenital Disorders of the Musculoskeletal System",
+      "stem": "A newborn boy's feet are shown. What is the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calcaneovalgus foot"
+        },
+        {
+          "label": "B",
+          "text": "Congenital vertical talus"
+        },
+        {
+          "label": "C",
+          "text": "Metatarsus adductus"
+        },
+        {
+          "label": "D",
+          "text": "Pes cavus"
+        },
+        {
+          "label": "E",
+          "text": "Talipes equinovarus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Both feet are plantarflexed, inverted and turned medially: bilateral clubfoot (talipes equinovarus). It is the most common congenital musculoskeletal deformity, bilateral in about half of cases, and treated first with Ponseti serial casting.",
+        "whyCorrect": "Each foot is in equinus with the sole turned medially and inverted, the classic clubfoot position.",
+        "whyWrongByChoice": {
+          "A": "A calcaneovalgus foot is dorsiflexed and everted, the opposite position.",
+          "B": "Congenital vertical talus gives a rigid rocker-bottom foot with a convex sole.",
+          "C": "Metatarsus adductus deviates only the forefoot medially; the hindfoot is not in equinus or varus.",
+          "D": "Pes cavus is a high arch, usually neuromuscular and seen in older children, not this neonatal deformity."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-06-01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_06.json"
+    },
+    {
+      "id": "mskpic-06-02",
+      "topicId": "congenital-disorders-of-the-musculoskeletal-system",
+      "topicName": "Congenital Disorders of the Musculoskeletal System",
+      "stem": "A child's foot and its radiograph are shown. Upregulation or ectopic expression of which signaling molecule in the limb bud most often causes this anomaly?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "BMP-4"
+        },
+        {
+          "label": "B",
+          "text": "EN-1"
+        },
+        {
+          "label": "C",
+          "text": "FGF-8"
+        },
+        {
+          "label": "D",
+          "text": "SHH"
+        },
+        {
+          "label": "E",
+          "text": "WNT-7a"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "There is an extra lateral (postaxial) toe: polydactyly. It is often caused by upregulation or ectopic expression of Sonic hedgehog (SHH) from the zone of polarizing activity, which sets digit identity and number along the anterior-posterior axis.",
+        "whyCorrect": "A supernumerary digit reflects too much or misplaced ZPA signaling, and SHH is the ZPA morphogen.",
+        "whyWrongByChoice": {
+          "A": "BMP-4 drives interdigital apoptosis; reduced BMP signaling leads to syndactyly, not extra digits.",
+          "B": "Engrailed-1 sets ventral identity (palm, flexor surfaces) on the dorsal-ventral axis.",
+          "C": "FGF-8 from the apical ectodermal ridge drives proximal-distal outgrowth; losing it truncates the limb.",
+          "E": "WNT-7a sets dorsal structures such as nails and extensor surfaces, not digit number."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-06-02.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_06.json"
+    },
+    {
+      "id": "mskpic-06-03",
+      "topicId": "congenital-disorders-of-the-musculoskeletal-system",
+      "topicName": "Congenital Disorders of the Musculoskeletal System",
+      "stem": "A newborn's hand is shown. What is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Absent AER signaling"
+        },
+        {
+          "label": "B",
+          "text": "Amniotic bands"
+        },
+        {
+          "label": "C",
+          "text": "Ectopic SHH signaling"
+        },
+        {
+          "label": "D",
+          "text": "Thalidomide exposure"
+        },
+        {
+          "label": "E",
+          "text": "Trisomy 21"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The digits show constrictions, uneven distal truncation and fused tips (acrosyndactyly). This is amniotic band syndrome: torn strands of amnion wrap structures that had formed normally and cause constrictions or amputations.",
+        "whyCorrect": "Asymmetric distal amputations and constriction-type fusion of digits that had formed normally point to an extrinsic disruption by amniotic bands.",
+        "whyWrongByChoice": {
+          "A": "Loss of AER signaling truncates the whole limb early in development, not individual constricted digit tips.",
+          "C": "Ectopic SHH signaling adds digits (polydactyly); it does not amputate or constrict them.",
+          "D": "Thalidomide causes phocomelia, with hands or feet attached close to the trunk.",
+          "E": "Trisomy 21 may cause simple syndactyly, but not ring constrictions or amputated digit tips."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-06-03.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_06.json"
     },
     {
       "id": "mk07-001",
@@ -1717,6 +1905,100 @@
       "hy": true
     },
     {
+      "id": "mskpic-07-01",
+      "topicId": "ehlers-danlos-syndrome-and-marfan-syndrome",
+      "topicName": "Ehlers-Danlos Syndrome and Marfan Syndrome",
+      "stem": "A 19-year-old woman with easy bruising and recurrent joint dislocations is examined as shown. A mutation affecting which molecule is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dystrophin"
+        },
+        {
+          "label": "B",
+          "text": "Elastin"
+        },
+        {
+          "label": "C",
+          "text": "Fibrillin-1"
+        },
+        {
+          "label": "D",
+          "text": "Type III collagen"
+        },
+        {
+          "label": "E",
+          "text": "Type V collagen"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The skin stretches far from the body and the thumb bends back past its normal range: skin hyperextensibility and joint hypermobility. This is classical Ehlers-Danlos syndrome, caused by type V collagen mutations that disrupt fibrils formed with type I collagen.",
+        "whyCorrect": "Hyperextensible skin plus hypermobile joints is classical EDS, which is caused by type V collagen defects.",
+        "whyWrongByChoice": {
+          "A": "Dystrophin defects cause muscular dystrophy, not stretchy skin or hypermobile joints.",
+          "B": "Elastin defects cause cutis laxa (loose, sagging skin that does not recoil) or supravalvular aortic stenosis.",
+          "C": "Fibrillin-1 defects cause Marfan syndrome, with tall stature and arachnodactyly, not markedly stretchy skin.",
+          "D": "Type III collagen defects cause vascular EDS, with thin translucent skin and arterial, bowel or uterine rupture rather than marked skin stretch."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-07-01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_07.json"
+    },
+    {
+      "id": "mskpic-07-02",
+      "topicId": "ehlers-danlos-syndrome-and-marfan-syndrome",
+      "topicName": "Ehlers-Danlos Syndrome and Marfan Syndrome",
+      "stem": "A 17-year-old boy is asked to grip his opposite wrist, as shown. Which gene is most likely mutated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "COL1A1"
+        },
+        {
+          "label": "B",
+          "text": "COL3A1"
+        },
+        {
+          "label": "C",
+          "text": "COL5A1"
+        },
+        {
+          "label": "D",
+          "text": "DMD"
+        },
+        {
+          "label": "E",
+          "text": "FBN1"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The thumb and fifth finger overlap easily around the wrist (a positive wrist sign), from arachnodactyly. In a tall adolescent this points to Marfan syndrome, caused by FBN1 (fibrillin-1) mutations.",
+        "whyCorrect": "Long slender fingers that wrap well past each other around the wrist reflect arachnodactyly, a skeletal hallmark of Marfan syndrome.",
+        "whyWrongByChoice": {
+          "A": "COL1A1 mutations cause osteogenesis imperfecta.",
+          "B": "COL3A1 mutations cause vascular EDS, with thin skin and arterial or bowel rupture, not arachnodactyly.",
+          "C": "COL5A1 mutations cause classical EDS, with hyperextensible skin and hypermobile joints.",
+          "D": "DMD mutations cause Duchenne or Becker muscular dystrophy."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-07-02.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_07.json"
+    },
+    {
       "id": "mk08-001",
       "stem": "A 70-year-old woman breaks her distal radius after falling from standing height. She has no bone pain otherwise and takes no medications. Serum calcium, phosphate, alkaline phosphatase, PTH and 25-hydroxyvitamin D are all within normal limits. Which of the following is the most likely underlying diagnosis?",
       "choices": [
@@ -2289,6 +2571,53 @@
       "topicName": "Acquired Bone Disorders",
       "tier": "core",
       "hy": true
+    },
+    {
+      "id": "mskpic-08-01",
+      "topicId": "acquired-bone-disorders",
+      "topicName": "Acquired Bone Disorders",
+      "stem": "A 64-year-old man has aching pain in his forearms and shins. His hands are shown. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypertrophic osteoarthropathy"
+        },
+        {
+          "label": "B",
+          "text": "Osteitis deformans (Paget disease)"
+        },
+        {
+          "label": "C",
+          "text": "Osteomalacia"
+        },
+        {
+          "label": "D",
+          "text": "Osteoporosis"
+        },
+        {
+          "label": "E",
+          "text": "Secondary hyperparathyroidism"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The fingertips are bulbous with raised nails: digital clubbing. With long-bone pain (periostitis), this is hypertrophic osteoarthropathy, a paraneoplastic syndrome most often linked to lung cancer.",
+        "whyCorrect": "Clubbing plus long-bone pain from periostitis is the pattern of hypertrophic osteoarthropathy.",
+        "whyWrongByChoice": {
+          "B": "Paget disease enlarges and deforms bones (skull, pelvis, tibia), with high ALP, but no clubbing.",
+          "C": "Osteomalacia gives diffuse bone pain and weakness from poor mineralization, not clubbing.",
+          "D": "Osteoporosis is painless until a fracture and does not cause clubbing.",
+          "E": "Secondary hyperparathyroidism causes bone resorption, such as subperiosteal erosions, not clubbing."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-08-01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_08.json"
     }
   ]
 }

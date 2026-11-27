@@ -577,6 +577,100 @@
       "hy": true
     },
     {
+      "id": "mskpic-32-01",
+      "topicId": "msk-osteoarthritis-and-rheumatoid-arthritis",
+      "topicName": "MSK: Osteoarthritis and Rheumatoid Arthritis",
+      "stem": "A 68-year-old woman has had stiffness and aching in her fingers for years. Her hands are shown. What is the main cause of the swellings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Marginal osteophytes"
+        },
+        {
+          "label": "B",
+          "text": "Monosodium urate tophi"
+        },
+        {
+          "label": "C",
+          "text": "Rheumatoid nodules"
+        },
+        {
+          "label": "D",
+          "text": "Synovial pannus"
+        },
+        {
+          "label": "E",
+          "text": "Tendon sheath giant cell tumors"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Firm, bony enlargements of the distal interphalangeal (DIP) joints are Heberden nodes, a hallmark of osteoarthritis of the hand.",
+        "whyCorrect": "In osteoarthritis, cartilage breakdown is followed by disordered repair, with osteophytes (bone spurs) at the joint margins. At the DIP joints these produce Heberden nodes (Bouchard nodes at the PIP joints).",
+        "whyWrongByChoice": {
+          "B": "Tophi are chalky urate deposits, often over the first MTP, ears or extensor surfaces, in patients with recurrent gout attacks.",
+          "C": "Rheumatoid nodules form over pressure points such as the extensor forearm and usually accompany MCP and PIP synovitis that spares the DIP joints.",
+          "D": "Pannus is the inflamed, proliferating synovium of rheumatoid arthritis, which spares the DIP joints.",
+          "E": "These tumors form a single, discrete nodule along a tendon sheath, not symmetric enlargement of several DIP joints."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-32-01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_32.json"
+    },
+    {
+      "id": "mskpic-32-02",
+      "topicId": "msk-osteoarthritis-and-rheumatoid-arthritis",
+      "topicName": "MSK: Osteoarthritis and Rheumatoid Arthritis",
+      "stem": "A 55-year-old woman has painful, swollen hands with prolonged morning stiffness. Her hands are shown. Which antibody is most specific for her disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-CCP"
+        },
+        {
+          "label": "B",
+          "text": "Anti-centromere"
+        },
+        {
+          "label": "C",
+          "text": "Anti-histone"
+        },
+        {
+          "label": "D",
+          "text": "Anti-Jo-1"
+        },
+        {
+          "label": "E",
+          "text": "Anti-topoisomerase I"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Swollen MCP joints with ulnar deviation of the fingers are classic deformities of long-standing rheumatoid arthritis.",
+        "whyCorrect": "Anti-CCP antibodies are highly specific for rheumatoid arthritis, while rheumatoid factor is more sensitive but less specific; both may be negative in seronegative disease.",
+        "whyWrongByChoice": {
+          "B": "Anti-centromere antibodies mark limited systemic sclerosis (CREST).",
+          "C": "Anti-histone antibodies mark drug-induced lupus.",
+          "D": "Anti-Jo-1 antibodies mark polymyositis/dermatomyositis with interstitial lung disease.",
+          "E": "Anti-topoisomerase I (anti-Scl-70) antibodies mark diffuse systemic sclerosis."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-32-02.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_32.json"
+    },
+    {
       "id": "mk33-001",
       "stem": "A 52-year-old man with hypertension is awakened at night by excruciating pain in his right great toe. He felt completely well the evening before. The base of the toe is red, swollen, and too tender to touch. Aspiration of the joint shows needle-shaped crystals that are negatively birefringent under polarized light. Which substance makes up these crystals?",
       "choices": [
@@ -1151,6 +1245,53 @@
       "hy": true
     },
     {
+      "id": "mskpic-33-01",
+      "topicId": "msk-crystal-induced-arthritis",
+      "topicName": "MSK: Crystal-Induced Arthritis",
+      "stem": "A 57-year-old man has a hot, swollen knee. Synovial fluid viewed under compensated polarized light is shown. What are these crystals made of?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calcium oxalate"
+        },
+        {
+          "label": "B",
+          "text": "Calcium pyrophosphate"
+        },
+        {
+          "label": "C",
+          "text": "Cholesterol"
+        },
+        {
+          "label": "D",
+          "text": "Hydroxyapatite"
+        },
+        {
+          "label": "E",
+          "text": "Monosodium urate"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "These are long needle-shaped crystals that are yellow or blue depending on their orientation: negatively birefringent monosodium urate crystals of gout.",
+        "whyCorrect": "Under compensated polarized light, urate needles appear yellow when parallel and blue when perpendicular to the compensator axis (negative birefringence). Arthrocentesis is the definitive test and also excludes a septic joint.",
+        "whyWrongByChoice": {
+          "A": "Calcium oxalate crystals are envelope- or bipyramid-shaped and appear mainly in urine or in patients on dialysis.",
+          "B": "CPPD crystals are small, rhomboid and weakly positively birefringent (blue when parallel to the axis).",
+          "C": "Cholesterol crystals are flat, rectangular plates with notched corners, seen in chronic effusions.",
+          "D": "Basic calcium phosphate crystals are too small to resolve as single crystals by light microscopy and do not form birefringent needles."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-33-01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_33.json"
+    },
+    {
       "id": "mk34-001",
       "stem": "A 23-year-old man has had low back and buttock pain for 5 months. The pain is worst on waking, with stiffness lasting more than an hour, and it eases after he walks to work; it worsens when he sits through long lectures. Pressing over the sacroiliac joints reproduces his pain. Rheumatoid factor is negative. Which of the following is the most likely diagnosis?",
       "choices": [
@@ -1715,6 +1856,53 @@
       "topicId": "msk-spondyloarthropathies",
       "topicName": "MSK: Spondyloarthropathies",
       "tier": "core"
+    },
+    {
+      "id": "mskpic-34-01",
+      "topicId": "msk-spondyloarthropathies",
+      "topicName": "MSK: Spondyloarthropathies",
+      "stem": "A 25-year-old man has painful swelling of his left knee and ankle. His soles are shown. Infection with which organism most likely preceded this illness?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Borrelia burgdorferi"
+        },
+        {
+          "label": "B",
+          "text": "Chlamydia trachomatis"
+        },
+        {
+          "label": "C",
+          "text": "Parvovirus B19"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "E",
+          "text": "Streptococcus pyogenes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hyperkeratotic, crusted papules and plaques on the soles are keratoderma blennorrhagicum, a skin finding of reactive arthritis.",
+        "whyCorrect": "Reactive arthritis typically follows a genitourinary or gastrointestinal infection by 1-3 weeks; in the United States, Chlamydia trachomatis is the most common trigger. Remember 'can't see, can't pee, can't climb a tree'.",
+        "whyWrongByChoice": {
+          "A": "Lyme arthritis causes large-joint swelling weeks to months after a tick bite with erythema migrans, not hyperkeratotic sole lesions.",
+          "C": "Parvovirus B19 causes a symmetric small-joint polyarthritis in adults, without urethritis or keratoderma.",
+          "D": "S aureus causes septic arthritis by direct infection of the joint, not a post-infectious reactive arthritis.",
+          "E": "Group A strep can trigger rheumatic fever with migratory arthritis and carditis; it does not cause these skin lesions."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-34-01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_34.json"
     },
     {
       "id": "mk35-001",
@@ -2284,6 +2472,53 @@
       "topicName": "MSK: Septic Arthritis",
       "tier": "core",
       "hy": true
+    },
+    {
+      "id": "mskpic-35-01",
+      "topicId": "msk-septic-arthritis",
+      "topicName": "MSK: Septic Arthritis",
+      "stem": "A 24-year-old man has had a painful, swollen hand for 3 days. His hand is shown. Besides oral anaerobes, which organism is most characteristic of this infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Eikenella corrodens"
+        },
+        {
+          "label": "B",
+          "text": "Neisseria gonorrhoeae"
+        },
+        {
+          "label": "C",
+          "text": "Pasteurella multocida"
+        },
+        {
+          "label": "D",
+          "text": "Pseudomonas aeruginosa"
+        },
+        {
+          "label": "E",
+          "text": "Sporothrix schenckii"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A wound over the dorsum of the MCP joint with surrounding swelling is a clenched-fist ('fight bite') injury, which can seed the joint and cause septic arthritis.",
+        "whyCorrect": "Punching someone in the mouth drives oral flora into the thinly covered MCP joint. Human bite infections are mixed, characteristically with Eikenella corrodens plus oral anaerobes; ampicillin-sulbactam covers them.",
+        "whyWrongByChoice": {
+          "B": "Gonococcal arthritis spreads hematogenously in sexually active young adults, often with tenosynovitis and pustules, not from a wound over a knuckle.",
+          "C": "Pasteurella is characteristic of dog and cat bites.",
+          "D": "Pseudomonas is classic for a nail puncture through a sneaker or for injection drug use.",
+          "E": "Sporothrix causes a nodular lymphangitic infection after a thorn or plant scratch."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-35-01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_35.json"
     }
   ]
 }

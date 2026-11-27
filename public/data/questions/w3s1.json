@@ -577,6 +577,53 @@
       "tier": "core"
     },
     {
+      "id": "mskpic-23-01",
+      "topicId": "functional-anatomy-of-the-gluteal-region-hip-thigh-knee",
+      "topicName": "Functional Anatomy of the Gluteal Region, Hip, Thigh & Knee",
+      "stem": "A patient is seen from behind while walking, with the left foot off the ground. Several weeks ago the patient received an intramuscular injection in the buttock. Injury to which nerve explains the gait shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Femoral nerve"
+        },
+        {
+          "label": "B",
+          "text": "Inferior gluteal nerve"
+        },
+        {
+          "label": "C",
+          "text": "Obturator nerve"
+        },
+        {
+          "label": "D",
+          "text": "Sciatic nerve"
+        },
+        {
+          "label": "E",
+          "text": "Superior gluteal nerve"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "During single-leg stance on the right, the pelvis drops toward the lifted left leg: a positive Trendelenburg sign from weak right gluteus medius and minimus.",
+        "whyCorrect": "The superior gluteal nerve supplies gluteus medius, gluteus minimus and tensor fasciae latae, which keep the pelvis level during single-leg stance. When they are weak on the stance side, the pelvis sags toward the opposite, lifted leg.",
+        "whyWrongByChoice": {
+          "A": "Femoral nerve injury weakens hip flexion and knee extension (quadriceps), causing the knee to buckle rather than the pelvis to drop.",
+          "B": "Inferior gluteal nerve injury weakens gluteus maximus, impairing hip extension (rising from a chair, climbing stairs), not pelvic stabilization.",
+          "C": "Obturator nerve injury weakens thigh adduction, not abduction or pelvic stabilization.",
+          "D": "Sciatic nerve injury weakens the hamstrings and all muscles below the knee; it does not supply gluteus medius or minimus."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-23-01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_23.json"
+    },
+    {
       "id": "mk24-001",
       "stem": "A 79-year-old woman has an intracapsular fracture through the neck of her thigh bone. Six months later, imaging shows collapse of the bone's head from osteonecrosis. The vessel whose disruption most likely caused this is a branch of which artery?",
       "choices": [
@@ -1715,6 +1762,53 @@
       "hy": true
     },
     {
+      "id": "mskpic-25-01",
+      "topicId": "histology-of-adipose-tissue",
+      "topicName": "Histology of Adipose Tissue",
+      "stem": "A section of adipose tissue is shown. The main function of this tissue depends on which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "GLUT4"
+        },
+        {
+          "label": "B",
+          "text": "Hormone-sensitive lipase"
+        },
+        {
+          "label": "C",
+          "text": "Leptin"
+        },
+        {
+          "label": "D",
+          "text": "Lipoprotein lipase"
+        },
+        {
+          "label": "E",
+          "text": "Uncoupling protein 1"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "These small adipocytes hold many small lipid droplets (multilocular) in abundant cytoplasm: brown adipose tissue, whose job is to generate heat.",
+        "whyCorrect": "Brown adipocytes are packed with mitochondria whose inner membrane carries UCP1 (thermogenin). UCP1 lets protons leak back into the matrix without making ATP, so the energy of the proton gradient is released as heat (non-shivering thermogenesis, important in newborns).",
+        "whyWrongByChoice": {
+          "A": "GLUT4 is the insulin-responsive glucose transporter of white adipocytes and muscle; it is not what makes this tissue functionally distinct.",
+          "B": "Hormone-sensitive lipase mobilizes stored triglyceride from white fat for energy use elsewhere, the storage-and-release role of white adipose tissue.",
+          "C": "Leptin is a satiety hormone secreted mainly by white adipocytes in proportion to fat mass.",
+          "D": "Lipoprotein lipase on capillary endothelium frees fatty acids for uptake and storage, a role central to white fat."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-25-01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_25.json"
+    },
+    {
       "id": "mk26-001",
       "stem": "A 46-year-old woman has had a soft, painless, 3-cm lump on her upper back for several years. It is freely mobile, nontender and lies just beneath the dermis, and it has not changed in size. Which diagnosis is most likely?",
       "choices": [
@@ -2279,6 +2373,100 @@
       "topicName": "MSK: Soft Tissue Tumors",
       "tier": "core",
       "hy": true
+    },
+    {
+      "id": "mskpic-26-01",
+      "topicId": "msk-soft-tissue-tumors",
+      "topicName": "MSK: Soft Tissue Tumors",
+      "stem": "A 58-year-old man has a large, painless mass deep in his thigh that has slowly enlarged. A biopsy is shown. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Leiomyosarcoma"
+        },
+        {
+          "label": "B",
+          "text": "Lipoma"
+        },
+        {
+          "label": "C",
+          "text": "Liposarcoma"
+        },
+        {
+          "label": "D",
+          "text": "Rhabdomyosarcoma"
+        },
+        {
+          "label": "E",
+          "text": "Tenosynovial giant cell tumor"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Adipocytes of varying size sit in a fibrous stroma containing atypical cells with enlarged, hyperchromatic nuclei: a liposarcoma.",
+        "whyCorrect": "Liposarcoma is the most common soft tissue sarcoma of adults (50s-60s) and arises in deep soft tissue such as the thigh, retroperitoneum and inguinal region. Atypical hyperchromatic stromal cells among the fat separate it from a benign lipoma.",
+        "whyWrongByChoice": {
+          "A": "Leiomyosarcoma is made of fascicles of atypical eosinophilic spindle cells, not adipocytes.",
+          "B": "A lipoma is made only of uniform mature adipocytes without atypical hyperchromatic stromal cells, and it is usually superficial.",
+          "D": "Rhabdomyosarcoma is a tumor of children and young adults made of primitive round or spindle cells with skeletal muscle differentiation.",
+          "E": "This tumor of synovium and tendon sheath contains mononuclear cells, multinucleated giant cells, and foamy and hemosiderin-laden macrophages."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-26-01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_26.json"
+    },
+    {
+      "id": "mskpic-26-02",
+      "topicId": "msk-soft-tissue-tumors",
+      "topicName": "MSK: Soft Tissue Tumors",
+      "stem": "A 16-year-old boy has a rapidly growing mass in his forearm. A biopsy is shown. Which genetic abnormality is most likely present in the tumor cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "EWSR1::FLI1 fusion, t(11;22)"
+        },
+        {
+          "label": "B",
+          "text": "Germline RB1 loss"
+        },
+        {
+          "label": "C",
+          "text": "FUS::DDIT3 fusion, t(12;16)"
+        },
+        {
+          "label": "D",
+          "text": "PAX3::FOXO1 fusion, t(2;13)"
+        },
+        {
+          "label": "E",
+          "text": "BRAF V600E mutation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Fibrous septa outline spaces lined by dyscohesive, uniform round tumor cells, resembling pulmonary alveoli: alveolar rhabdomyosarcoma.",
+        "whyCorrect": "Alveolar rhabdomyosarcoma, seen most often in teens and young adults in the extremities and trunk, frequently carries t(2;13) PAX3::FOXO1 (or t(1;13) PAX7::FOXO1).",
+        "whyWrongByChoice": {
+          "A": "EWSR1::FLI1 defines Ewing sarcoma, a sheet of uniform small round blue cells without alveolar spaces.",
+          "B": "Loss of RB1 predisposes to retinoblastoma and osteosarcoma, not this tumor.",
+          "C": "FUS::DDIT3 defines myxoid liposarcoma, which has a delicate capillary network and lipoblasts in a myxoid stroma.",
+          "E": "BRAF V600E is associated with Langerhans cell histiocytosis (and melanoma), not this tumor."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-26-02.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_26.json"
     }
   ]
 }
