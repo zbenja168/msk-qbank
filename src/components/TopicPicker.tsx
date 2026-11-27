@@ -98,7 +98,9 @@ interface Week<C extends PickerCategory = PickerCategory> {
   key: string;
   label: string;
   categories: C[];
-  isPictures: boolean;
+  /** Not a teaching week ("Picture questions", micro's "More"): never the
+   *  default-open "newest" week. */
+  isAside: boolean;
   week?: number;
 }
 
@@ -113,7 +115,7 @@ function groupWeeks<C extends PickerCategory>(categories: C[]): Week<C>[] {
         key,
         label: [name, c.weekSubtitle].filter(Boolean).join(' · '),
         categories: [],
-        isPictures: /picture/i.test(name),
+        isAside: /picture|^more$/i.test(name.trim()),
         week: c.week,
       };
       out.push(w);
@@ -158,7 +160,7 @@ export function TopicPicker<C extends PickerCategory>({
   const weeks = useMemo(() => groupWeeks(categories), [categories]);
 
   // The current week: where the latest answer was, else the latest session,
-  // else the newest teaching week (picture groups don't count as newest).
+  // else the newest teaching week (picture / "More" groups don't count as newest).
   const currentKey = useMemo(() => {
     const weekOfTopic = new Map<string, string>();
     for (const w of weeks) for (const c of w.categories) for (const t of c.topics) weekOfTopic.set(t.id, w.key);
@@ -173,7 +175,7 @@ export function TopicPicker<C extends PickerCategory>({
       best = last.topicIds.map(id => weekOfTopic.get(id)).find(Boolean);
     }
     if (best) return best;
-    const teaching = weeks.filter(w => !w.isPictures);
+    const teaching = weeks.filter(w => !w.isAside);
     return (teaching[teaching.length - 1] ?? weeks[weeks.length - 1])?.key;
   }, [weeks, topicStats, sessions]);
 
