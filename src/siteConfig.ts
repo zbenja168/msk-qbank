@@ -6,6 +6,7 @@ export interface SiteConfig {
   repo: string;
   family: 'qbank' | 'picqbank' | 'picdnd' | 'anatomy';
   course: string;
+  courseKey: string;
   type: string;
   title: string;
   accent: string;
@@ -19,6 +20,7 @@ export const SITE: SiteConfig = {
   "repo": "msk-qbank",
   "family": "qbank",
   "course": "Skin & MSK",
+  "courseKey": "msk",
   "type": "QBank",
   "title": "Skin & MSK QBank",
   "accent": "#84cc16",
