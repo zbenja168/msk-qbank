@@ -149,12 +149,12 @@
   /* ---- Clean QBank home (TopicPicker / QBankToolbar / StartBar) --------- */
   /* Course art: big, borderless, and fading into the page on every edge. */
   .at-art {
-    display: block; width: calc(100% + 48px); max-width: none; height: 230px; object-fit: contain;
-    margin: -8px -24px 8px; opacity: .92; pointer-events: none;
+    display: block; width: calc(100% + 48px); max-width: none; height: 310px; object-fit: contain;
+    margin: -28px -24px -12px; opacity: .55; pointer-events: none;
     -webkit-mask-image: radial-gradient(ellipse 62% 78% at 50% 50%, #000 50%, transparent 100%);
             mask-image: radial-gradient(ellipse 62% 78% at 50% 50%, #000 50%, transparent 100%);
   }
-  @media (max-width: 639px) { .at-art { height: 130px; width: calc(100% + 32px); margin: -6px -16px 4px; } }
+  @media (max-width: 639px) { .at-art { height: 170px; width: calc(100% + 32px); margin: -14px -16px -6px; } }
 
   .at-tb, .at-pk, .at-sb { font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif; }
   /* Zero-specificity resets, so each component class below still wins. */
