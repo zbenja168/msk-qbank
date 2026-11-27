@@ -67,7 +67,8 @@
   fetch('skin-msk.json', { cache: 'no-cache' }).then(function (r) { return r.json(); }).then(function (d) {
     var h = '<div class="whole"><div><div class="t">Whole course</div><div class="meta">' + meta(d.whole) + '</div></div>' + dl(d.whole) + '</div>';
     d.weeks.forEach(function (w) {
-      h += '<details><summary><span class="t">Week ' + w.week + '</span><span class="meta">' + meta(w) + '</span></summary>';
+      var wl = w.sessions.every(function (s) { return s.session === 0; }) ? 'More topics' : 'Week ' + w.week;
+      h += '<details><summary><span class="t">' + wl + '</span><span class="meta">' + meta(w) + '</span></summary>';
       h += '<div class="sess"><div class="row"><span class="n">All of Week ' + w.week + '</span>' + dl(w, 'Download', 'sm') + '</div></div>';
       w.sessions.forEach(function (s) {
         h += '<div class="sess"><div class="row"><span class="n">Session ' + s.session + ' <span class="meta">· ' + meta(s) + '</span></span>' + dl(s, 'Download', 'sm') + '</div><div class="lec">';
