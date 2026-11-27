@@ -1,0 +1,502 @@
+{
+ "course": "Skin & MSK",
+ "whole": {
+  "file": "skin-msk.apkg",
+  "cards": 1901,
+  "mb": 89.6
+ },
+ "weeks": [
+  {
+   "file": "skin-msk/week-1.apkg",
+   "cards": 418,
+   "mb": 13.5,
+   "week": 1,
+   "sessions": [
+    {
+     "file": "skin-msk/week-1-session-1.apkg",
+     "cards": 170,
+     "mb": 8.5,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "skin-msk/lecture-01.apkg",
+       "cards": 42,
+       "mb": 3.1,
+       "title": "Regional Anatomy of the Posterior Abdominal Wall, Back, and Posterior Neck"
+      },
+      {
+       "file": "skin-msk/lecture-02.apkg",
+       "cards": 48,
+       "mb": 1.9,
+       "title": "Anatomy of the Spinal Cord"
+      },
+      {
+       "file": "skin-msk/lecture-03.apkg",
+       "cards": 36,
+       "mb": 1.5,
+       "title": "Histology of Bone and Cartilage"
+      },
+      {
+       "file": "skin-msk/lecture-04.apkg",
+       "cards": 44,
+       "mb": 2.1,
+       "title": "Spine Disorders"
+      }
+     ]
+    },
+    {
+     "file": "skin-msk/week-1-session-2.apkg",
+     "cards": 120,
+     "mb": 1.8,
+     "session": 2,
+     "lectures": [
+      {
+       "file": "skin-msk/lecture-05.apkg",
+       "cards": 32,
+       "mb": 0.9,
+       "title": "Development of the Musculoskeletal System"
+      },
+      {
+       "file": "skin-msk/lecture-06.apkg",
+       "cards": 30,
+       "mb": 0.3,
+       "title": "Congenital Disorders of the Musculoskeletal System"
+      },
+      {
+       "file": "skin-msk/lecture-07.apkg",
+       "cards": 28,
+       "mb": 0.2,
+       "title": "Ehlers-Danlos Syndrome and Marfan Syndrome"
+      },
+      {
+       "file": "skin-msk/lecture-08.apkg",
+       "cards": 30,
+       "mb": 0.6,
+       "title": "Acquired Bone Disorders"
+      }
+     ]
+    },
+    {
+     "file": "skin-msk/week-1-session-3.apkg",
+     "cards": 128,
+     "mb": 3.6,
+     "session": 3,
+     "lectures": [
+      {
+       "file": "skin-msk/lecture-09.apkg",
+       "cards": 33,
+       "mb": 1.2,
+       "title": "Mechanics of Muscle Force Production"
+      },
+      {
+       "file": "skin-msk/lecture-10.apkg",
+       "cards": 32,
+       "mb": 0.9,
+       "title": "Neuromuscular Junction Disorders"
+      },
+      {
+       "file": "skin-msk/lecture-11.apkg",
+       "cards": 31,
+       "mb": 0.7,
+       "title": "Muscle Metabolism"
+      },
+      {
+       "file": "skin-msk/lecture-12.apkg",
+       "cards": 32,
+       "mb": 1.1,
+       "title": "Skeletal Muscle Adaptations"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "file": "skin-msk/week-2.apkg",
+   "cards": 361,
+   "mb": 18.2,
+   "week": 2,
+   "sessions": [
+    {
+     "file": "skin-msk/week-2-session-1.apkg",
+     "cards": 82,
+     "mb": 5.7,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "skin-msk/lecture-13.apkg",
+       "cards": 43,
+       "mb": 2.3,
+       "title": "Functional Anatomy of the Shoulder & Arm"
+      },
+      {
+       "file": "skin-msk/lecture-14.apkg",
+       "cards": 39,
+       "mb": 3.4,
+       "title": "Vasculature and Lymphatics of the Upper Extremities"
+      }
+     ]
+    },
+    {
+     "file": "skin-msk/week-2-session-2.apkg",
+     "cards": 127,
+     "mb": 4.0,
+     "session": 2,
+     "lectures": [
+      {
+       "file": "skin-msk/lecture-15.apkg",
+       "cards": 30,
+       "mb": 0.5,
+       "title": "Inflammatory Myopathies"
+      },
+      {
+       "file": "skin-msk/lecture-16.apkg",
+       "cards": 34,
+       "mb": 1.7,
+       "title": "Muscular Dystrophy"
+      },
+      {
+       "file": "skin-msk/lecture-17.apkg",
+       "cards": 30,
+       "mb": 0.4,
+       "title": "Traumatic Muscle Injury"
+      },
+      {
+       "file": "skin-msk/lecture-18.apkg",
+       "cards": 33,
+       "mb": 1.6,
+       "title": "Common Tendon, Bursa, and Joint Capsule Disorders"
+      }
+     ]
+    },
+    {
+     "file": "skin-msk/week-2-session-3.apkg",
+     "cards": 152,
+     "mb": 8.5,
+     "session": 3,
+     "lectures": [
+      {
+       "file": "skin-msk/lecture-19.apkg",
+       "cards": 49,
+       "mb": 3.6,
+       "title": "Functional Anatomy of the Forearm & Hand"
+      },
+      {
+       "file": "skin-msk/lecture-20.apkg",
+       "cards": 39,
+       "mb": 2.5,
+       "title": "Upper Extremity Injuries"
+      },
+      {
+       "file": "skin-msk/lecture-21.apkg",
+       "cards": 30,
+       "mb": 2.0,
+       "title": "Upper Extremity Nerve Entrapment Syndromes"
+      },
+      {
+       "file": "skin-msk/lecture-22.apkg",
+       "cards": 34,
+       "mb": 0.7,
+       "title": "Pharmacologic Treatment of Musculoskeletal Pain"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "file": "skin-msk/week-3.apkg",
+   "cards": 342,
+   "mb": 19.0,
+   "week": 3,
+   "sessions": [
+    {
+     "file": "skin-msk/week-3-session-1.apkg",
+     "cards": 151,
+     "mb": 8.4,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "skin-msk/lecture-23.apkg",
+       "cards": 46,
+       "mb": 4.0,
+       "title": "Functional Anatomy of the Gluteal Region, Hip, Thigh & Knee"
+      },
+      {
+       "file": "skin-msk/lecture-24.apkg",
+       "cards": 44,
+       "mb": 2.6,
+       "title": "Vasculature and Lymphatics of the Lower Extremities"
+      },
+      {
+       "file": "skin-msk/lecture-25.apkg",
+       "cards": 30,
+       "mb": 0.4,
+       "title": "Histology of Adipose Tissue"
+      },
+      {
+       "file": "skin-msk/lecture-26.apkg",
+       "cards": 31,
+       "mb": 1.5,
+       "title": "MSK: Soft Tissue Tumors"
+      }
+     ]
+    },
+    {
+     "file": "skin-msk/week-3-session-2.apkg",
+     "cards": 73,
+     "mb": 2.9,
+     "session": 2,
+     "lectures": [
+      {
+       "file": "skin-msk/lecture-27.apkg",
+       "cards": 34,
+       "mb": 0.7,
+       "title": "MSK: Osteomyelitis"
+      },
+      {
+       "file": "skin-msk/lecture-28.apkg",
+       "cards": 39,
+       "mb": 2.2,
+       "title": "MSK: Bone Tumors"
+      }
+     ]
+    },
+    {
+     "file": "skin-msk/week-3-session-3.apkg",
+     "cards": 118,
+     "mb": 7.9,
+     "session": 3,
+     "lectures": [
+      {
+       "file": "skin-msk/lecture-29.apkg",
+       "cards": 43,
+       "mb": 3.1,
+       "title": "Functional Anatomy of the Leg, Ankle and Foot"
+      },
+      {
+       "file": "skin-msk/lecture-30.apkg",
+       "cards": 40,
+       "mb": 3.5,
+       "title": "Lower Extremity Injury- Part 1 of 2"
+      },
+      {
+       "file": "skin-msk/lecture-31.apkg",
+       "cards": 35,
+       "mb": 1.4,
+       "title": "Lower Extremity Injury - Part 2 of 2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "file": "skin-msk/week-4.apkg",
+   "cards": 117,
+   "mb": 2.6,
+   "week": 4,
+   "sessions": [
+    {
+     "file": "skin-msk/week-4-session-1.apkg",
+     "cards": 117,
+     "mb": 2.6,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "skin-msk/lecture-32.apkg",
+       "cards": 36,
+       "mb": 1.7,
+       "title": "MSK: Osteoarthritis and Rheumatoid Arthritis"
+      },
+      {
+       "file": "skin-msk/lecture-33.apkg",
+       "cards": 29,
+       "mb": 0.3,
+       "title": "MSK: Crystal-Induced Arthritis"
+      },
+      {
+       "file": "skin-msk/lecture-34.apkg",
+       "cards": 28,
+       "mb": 0.3,
+       "title": "MSK: Spondyloarthropathies"
+      },
+      {
+       "file": "skin-msk/lecture-35.apkg",
+       "cards": 24,
+       "mb": 0.4,
+       "title": "MSK: Septic Arthritis"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "file": "skin-msk/week-5.apkg",
+   "cards": 320,
+   "mb": 16.8,
+   "week": 5,
+   "sessions": [
+    {
+     "file": "skin-msk/week-5-session-1.apkg",
+     "cards": 172,
+     "mb": 8.9,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "skin-msk/lecture-36.apkg",
+       "cards": 45,
+       "mb": 3.2,
+       "title": "Histology of the Skin"
+      },
+      {
+       "file": "skin-msk/lecture-37.apkg",
+       "cards": 30,
+       "mb": 1.5,
+       "title": "Description of Skin Lesions"
+      },
+      {
+       "file": "skin-msk/lecture-38.apkg",
+       "cards": 35,
+       "mb": 1.4,
+       "title": "Sunlight and the Skin"
+      },
+      {
+       "file": "skin-msk/lecture-39.apkg",
+       "cards": 29,
+       "mb": 0.7,
+       "title": "Disorders of Pigmentation"
+      },
+      {
+       "file": "skin-msk/lecture-40.apkg",
+       "cards": 33,
+       "mb": 2.3,
+       "title": "Cutaneous Fungal Infections"
+      }
+     ]
+    },
+    {
+     "file": "skin-msk/week-5-session-2.apkg",
+     "cards": 148,
+     "mb": 8.0,
+     "session": 2,
+     "lectures": [
+      {
+       "file": "skin-msk/lecture-42.apkg",
+       "cards": 35,
+       "mb": 1.7,
+       "title": "Skin Cancer: Basal Cell Carcinoma & Squamous Cell Carcinoma"
+      },
+      {
+       "file": "skin-msk/lecture-43.apkg",
+       "cards": 35,
+       "mb": 1.7,
+       "title": "Skin Cancer: Malignant Melanoma"
+      },
+      {
+       "file": "skin-msk/lecture-44.apkg",
+       "cards": 33,
+       "mb": 1.9,
+       "title": "Benign Skin Lesions"
+      },
+      {
+       "file": "skin-msk/lecture-45.apkg",
+       "cards": 45,
+       "mb": 2.9,
+       "title": "Anatomy of the Face and Scalp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "file": "skin-msk/week-6.apkg",
+   "cards": 343,
+   "mb": 20.4,
+   "week": 6,
+   "sessions": [
+    {
+     "file": "skin-msk/week-6-session-1.apkg",
+     "cards": 137,
+     "mb": 7.2,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "skin-msk/lecture-46.apkg",
+       "cards": 31,
+       "mb": 1.6,
+       "title": "Inflammatory Skin Diseases"
+      },
+      {
+       "file": "skin-msk/lecture-47.apkg",
+       "cards": 40,
+       "mb": 2.4,
+       "title": "Vesiculobullous Skin Disorders"
+      },
+      {
+       "file": "skin-msk/lecture-48.apkg",
+       "cards": 36,
+       "mb": 2.1,
+       "title": "Dermatitis"
+      },
+      {
+       "file": "skin-msk/lecture-49.apkg",
+       "cards": 30,
+       "mb": 1.3,
+       "title": "Urticaria and Pruritus"
+      }
+     ]
+    },
+    {
+     "file": "skin-msk/week-6-session-2.apkg",
+     "cards": 94,
+     "mb": 5.5,
+     "session": 2,
+     "lectures": [
+      {
+       "file": "skin-msk/lecture-50.apkg",
+       "cards": 32,
+       "mb": 1.9,
+       "title": "Psoriasis and Psoriatic Arthritis"
+      },
+      {
+       "file": "skin-msk/lecture-51.apkg",
+       "cards": 32,
+       "mb": 2.4,
+       "title": "The Skin in Autoimmune Diseases"
+      },
+      {
+       "file": "skin-msk/lecture-52.apkg",
+       "cards": 30,
+       "mb": 1.4,
+       "title": "Cutaneous T cell Lymphoma"
+      }
+     ]
+    },
+    {
+     "file": "skin-msk/week-6-session-3.apkg",
+     "cards": 112,
+     "mb": 8.0,
+     "session": 3,
+     "lectures": [
+      {
+       "file": "skin-msk/lecture-53.apkg",
+       "cards": 44,
+       "mb": 4.1,
+       "title": "Diseases of the Hair and Nails"
+      },
+      {
+       "file": "skin-msk/lecture-54.apkg",
+       "cards": 37,
+       "mb": 1.9,
+       "title": "Acne, Rosacea, and Other Follicular Disorders"
+      },
+      {
+       "file": "skin-msk/lecture-55.apkg",
+       "cards": 31,
+       "mb": 2.1,
+       "title": "Infestations, Bites, & Stings"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
