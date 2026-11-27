@@ -573,6 +573,194 @@
       "hy": true
     },
     {
+      "id": "mskpic-53-01",
+      "topicId": "diseases-of-the-hair-and-nails",
+      "topicName": "Diseases of the Hair and Nails",
+      "stem": "A 15-year-old boy notices this area of hair loss, which appeared over 2 weeks. It does not itch or hurt, and no one in his household is affected. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alopecia areata"
+        },
+        {
+          "label": "B",
+          "text": "Discoid lupus erythematosus"
+        },
+        {
+          "label": "C",
+          "text": "Tinea capitis"
+        },
+        {
+          "label": "D",
+          "text": "Traction alopecia"
+        },
+        {
+          "label": "E",
+          "text": "Trichotillomania"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A sudden, smooth, coin-shaped patch of complete hair loss with normal-looking skin, no scale, no inflammation and preserved follicular openings is classic alopecia areata.",
+        "whyCorrect": "Alopecia areata is an autoimmune, non-scarring alopecia that presents with sudden-onset round or oval smooth patches. Exclamation point hairs may be seen at the edge, and it is distinguished from tinea capitis by the absence of scale.",
+        "whyWrongByChoice": {
+          "B": "Discoid lupus causes scarring with erythema, scale, dyspigmentation and loss of follicular openings.",
+          "C": "Tinea capitis produces scaly, often itchy patches with broken hairs and may spread to contacts; this patch is smooth.",
+          "D": "Traction alopecia follows the hairline from braids or ponytails, not a round patch on the side of the scalp.",
+          "E": "Trichotillomania gives irregular, geometric patches with hairs of varying length and signs of trauma such as excoriation."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-53-01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_53.json"
+    },
+    {
+      "id": "mskpic-53-02",
+      "topicId": "diseases-of-the-hair-and-nails",
+      "topicName": "Diseases of the Hair and Nails",
+      "stem": "A 12-year-old girl is brought in for a patch of hair loss on her crown that has slowly enlarged over several months. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alopecia areata"
+        },
+        {
+          "label": "B",
+          "text": "Telogen effluvium"
+        },
+        {
+          "label": "C",
+          "text": "Tinea capitis"
+        },
+        {
+          "label": "D",
+          "text": "Traction alopecia"
+        },
+        {
+          "label": "E",
+          "text": "Trichotillomania"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "An irregular, geometric patch on the crown, with remaining hairs broken at different lengths and small hemorrhagic puncta, indicates hair pulling: trichotillomania.",
+        "whyCorrect": "Trichotillomania is repeated hair pulling that causes geometric (often triangular) patches of usually non-scarring loss with hairs of variable length and signs of trauma such as excoriation or hemorrhage. It is treated with cognitive behavioral therapy, SSRIs or N-acetylcysteine.",
+        "whyWrongByChoice": {
+          "A": "Alopecia areata gives smooth, round patches of complete loss without broken hairs of different lengths or traumatic puncta.",
+          "B": "Telogen effluvium is diffuse shedding over the whole scalp with no focal patch.",
+          "C": "Tinea capitis is scaly, often with black dots and lymphadenopathy, and does not have this angular shape.",
+          "D": "Traction alopecia affects the frontal and temporal hairline where styling pulls, not a crown patch."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-53-02.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_53.json"
+    },
+    {
+      "id": "mskpic-53-03",
+      "topicId": "diseases-of-the-hair-and-nails",
+      "topicName": "Diseases of the Hair and Nails",
+      "stem": "Several fingernails of a febrile 45-year-old man show the finding pictured. Which condition is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic kidney disease"
+        },
+        {
+          "label": "B",
+          "text": "Hepatic cirrhosis"
+        },
+        {
+          "label": "C",
+          "text": "Infective endocarditis"
+        },
+        {
+          "label": "D",
+          "text": "Iron deficiency anemia"
+        },
+        {
+          "label": "E",
+          "text": "Lung adenocarcinoma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Multiple thin, dark-red to black longitudinal streaks in the distal nail bed are splinter hemorrhages. In several digits of a febrile patient, they point to infective endocarditis.",
+        "whyCorrect": "Splinter hemorrhages are linear dark streaks in the nail bed. One nail with a few streaks is usually trauma, but involvement of multiple digits raises concern for a systemic process, most commonly endocarditis (septic microemboli).",
+        "whyWrongByChoice": {
+          "A": "Kidney disease causes half and half (Lindsay's) nails, a pale proximal half with a normal distal half.",
+          "B": "Liver disease causes Terry's nails, with the proximal three-quarters of the nail pale.",
+          "D": "Iron deficiency causes koilonychia (spoon nails), a concave nail plate, not linear bed hemorrhages.",
+          "E": "Lung cancer is associated with clubbing, an increased hyponychial angle, not nail-bed streaks."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-53-03.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_53.json"
+    },
+    {
+      "id": "mskpic-53-04",
+      "topicId": "diseases-of-the-hair-and-nails",
+      "topicName": "Diseases of the Hair and Nails",
+      "stem": "A 63-year-old man has fingertips that look like this on both hands. Which condition is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic kidney disease"
+        },
+        {
+          "label": "B",
+          "text": "Iron deficiency anemia"
+        },
+        {
+          "label": "C",
+          "text": "Lung adenocarcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Plaque psoriasis"
+        },
+        {
+          "label": "E",
+          "text": "Primary hypothyroidism"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The distal phalanx is bulbous and the nail curves down so that the angle between nail plate and proximal fold exceeds 180 degrees: digital clubbing, most strongly associated with lung cancer.",
+        "whyCorrect": "Clubbing is defined by a hyponychial (Lovibond's) angle greater than 180 degrees, giving a widened fingertip like an upside-down spoon. Pulmonary disease is the main association, especially lung cancer, and also cystic fibrosis, bronchiectasis and interstitial lung disease.",
+        "whyWrongByChoice": {
+          "A": "Chronic kidney disease causes half and half nails, a color change rather than a change in digit shape.",
+          "B": "Iron deficiency causes koilonychia, a concave spoon-shaped nail, the opposite contour.",
+          "D": "Psoriasis causes random nail pitting, oil spots and onycholysis, not a widened bulbous fingertip.",
+          "E": "Hypothyroidism causes brittle, slow-growing nails, not clubbing."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-53-04.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_53.json"
+    },
+    {
       "id": "mk54-001",
       "stem": "A 15-year-old boy has many small, flat-topped follicular plugs across his forehead and nose. Most have a dark center where the debris-filled pore is exposed to air; a few are skin-colored bumps with skin covering the pore. There are no red or tender lesions. Which of the following best describes the dark-centered lesions?",
       "choices": [
@@ -1151,6 +1339,194 @@
       "tier": "core"
     },
     {
+      "id": "mskpic-54-01",
+      "topicId": "acne-rosacea-and-other-follicular-disorders",
+      "topicName": "Acne, Rosacea, and Other Follicular Disorders",
+      "stem": "A 15-year-old boy is bothered by these lesions on his forehead. Which term best describes the predominant lesions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Comedones"
+        },
+        {
+          "label": "B",
+          "text": "Flat warts"
+        },
+        {
+          "label": "C",
+          "text": "Inflammatory papules"
+        },
+        {
+          "label": "D",
+          "text": "Milia"
+        },
+        {
+          "label": "E",
+          "text": "Pustules"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The forehead shows many dark follicular puncta (open comedones, blackheads) with scattered skin-colored bumps (closed comedones, whiteheads) and almost no redness: noninflammatory comedonal acne, the predominant lesion of teenage T-zone acne.",
+        "whyCorrect": "A comedo is a follicle clogged with keratin debris and sebum from follicular hyperkeratosis; open to the air it is a blackhead, covered by skin it is a whitehead. These are the noninflammatory lesions of acne vulgaris and the first step in its pathogenesis.",
+        "whyWrongByChoice": {
+          "B": "Flat warts (verruca plana) are flat-topped skin-colored papules without the dark follicular plugs of open comedones.",
+          "C": "Inflammatory papules are red, raised lesions; this eruption has almost no erythema.",
+          "D": "Milia are tiny firm white keratin cysts without the dark follicular openings seen here.",
+          "E": "Pustules are inflamed lesions with visible yellow pus, which are absent here."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-54-01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_54.json"
+    },
+    {
+      "id": "mskpic-54-02",
+      "topicId": "acne-rosacea-and-other-follicular-disorders",
+      "topicName": "Acne, Rosacea, and Other Follicular Disorders",
+      "stem": "A 54-year-old woman of northern European descent has had this facial eruption for 2 years. Which diagnosis is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acne vulgaris"
+        },
+        {
+          "label": "B",
+          "text": "Cutaneous lupus erythematosus"
+        },
+        {
+          "label": "C",
+          "text": "Papulopustular rosacea"
+        },
+        {
+          "label": "D",
+          "text": "Perioral dermatitis"
+        },
+        {
+          "label": "E",
+          "text": "Seborrheic dermatitis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Central facial (nose and cheeks) erythema with telangiectases and inflamed papules and pustules, but no comedones, in a fair-skinned middle-aged adult is papulopustular rosacea, the classic subtype.",
+        "whyCorrect": "Pustules distinguish the papulopustular subtype from erythematotelangiectatic rosacea. The absence of comedones separates rosacea from acne. Treatment is topical metronidazole, azelaic acid or ivermectin, with oral tetracyclines for moderate to severe disease.",
+        "whyWrongByChoice": {
+          "A": "Acne vulgaris has comedones and usually starts in adolescence; none are seen here.",
+          "B": "The lupus malar rash spares the nasolabial folds and lacks pustules.",
+          "D": "Perioral dermatitis clusters small papules around the mouth with a spared rim, not on the nose and cheeks.",
+          "E": "Seborrheic dermatitis gives greasy yellow scale in the nasolabial folds and brows, not pustules."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-54-02.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_54.json"
+    },
+    {
+      "id": "mskpic-54-03",
+      "topicId": "acne-rosacea-and-other-follicular-disorders",
+      "topicName": "Acne, Rosacea, and Other Follicular Disorders",
+      "stem": "A 70-year-old man is distressed by the progressive change in his appearance shown here. Which management is most appropriate for this lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Laser or scalpel recontouring"
+        },
+        {
+          "label": "B",
+          "text": "Lid hygiene and artificial tears"
+        },
+        {
+          "label": "C",
+          "text": "Topical benzoyl peroxide wash"
+        },
+        {
+          "label": "D",
+          "text": "Topical brimonidine gel"
+        },
+        {
+          "label": "E",
+          "text": "Topical metronidazole gel"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The nose is enlarged, bulbous and thickened, with irregular nodules and patulous follicles: rhinophyma, the phymatous subtype of rosacea. Fixed tissue overgrowth does not respond to topical anti-inflammatories and is treated surgically.",
+        "whyCorrect": "Per the lecture, phymatous rosacea is treated surgically with electrosurgery, laser, cryotherapy or hot scalpel to debulk and recontour the thickened skin.",
+        "whyWrongByChoice": {
+          "B": "Lid hygiene and artificial tears treat ocular rosacea.",
+          "C": "Benzoyl peroxide is an acne therapy and does not reverse phymatous change.",
+          "D": "Brimonidine, an alpha agonist, reduces erythema by vasoconstriction and does nothing for phymatous tissue.",
+          "E": "Metronidazole treats inflammatory and Demodex-driven papulopustular rosacea, not fixed tissue overgrowth."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-54-03.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_54.json"
+    },
+    {
+      "id": "mskpic-54-04",
+      "topicId": "acne-rosacea-and-other-follicular-disorders",
+      "topicName": "Acne, Rosacea, and Other Follicular Disorders",
+      "stem": "A 27-year-old woman has had this problem in her axilla for 6 years. Wound cultures have been repeatedly negative. Which diagnosis is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acanthosis nigricans"
+        },
+        {
+          "label": "B",
+          "text": "Bacterial folliculitis"
+        },
+        {
+          "label": "C",
+          "text": "Hidradenitis suppurativa"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcal furunculosis"
+        },
+        {
+          "label": "E",
+          "text": "Tuberculous scrofuloderma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The axilla shows multiple inflamed nodules, interconnected draining tunnels (sinus tracts) and rope-like scarring in a skin-fold site: chronic hidradenitis suppurativa (Hurley stage 3 change).",
+        "whyCorrect": "Hidradenitis suppurativa is a chronic, noninfectious follicular-occlusion disease of the axilla, groin, perineum and inframammary folds. It is commoner in women and linked to obesity, smoking and IBD. Sinus tracts and scarring with sterile cultures separate it from infection.",
+        "whyWrongByChoice": {
+          "A": "Acanthosis nigricans is velvety hyperpigmented plaque without nodules, sinus tracts or scarring.",
+          "B": "Folliculitis gives superficial follicular pustules, not deep nodules with tunnels.",
+          "D": "Furuncles are discrete S. aureus abscesses that culture positive and do not form tunnels and bridged scars.",
+          "E": "Scrofuloderma overlies tuberculous lymph nodes, usually in the neck, and is far rarer."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-54-04.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_54.json"
+    },
+    {
       "id": "mk55-001",
       "stem": "A 34-year-old woman who works at a nursing home has 3 weeks of intense pruritus that is worst at night. Examination shows red papules and short linear tracks in the web spaces of her fingers, papules on the volar wrists and periumbilical skin, and itchy nodules on the vulva. Her face and scalp are clear. Which organism is most likely responsible?",
       "choices": [
@@ -1720,6 +2096,241 @@
       "topicId": "infestations-bites-stings",
       "topicName": "Infestations, Bites, & Stings",
       "tier": "core"
+    },
+    {
+      "id": "mskpic-55-01",
+      "topicId": "infestations-bites-stings",
+      "topicName": "Infestations, Bites, & Stings",
+      "stem": "A mineral oil preparation of a skin scraping from a patient with pruritus shows this organism. Which organism is it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Demodex folliculorum"
+        },
+        {
+          "label": "B",
+          "text": "Pediculus humanus capitis"
+        },
+        {
+          "label": "C",
+          "text": "Pthirus pubis"
+        },
+        {
+          "label": "D",
+          "text": "Sarcoptes scabiei"
+        },
+        {
+          "label": "E",
+          "text": "Trombiculid larva (chigger)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A round-oval, translucent mite with short stubby legs bearing long bristles and an egg visible inside the body is the female Sarcoptes scabiei, the scabies mite seen on scraping of a burrow.",
+        "whyCorrect": "The female mite burrows into the stratum corneum (finger webs, wrists, periumbilical area, genitals) to lay eggs, causing intense itch that is worse at night. Treatment is permethrin applied to the whole body and repeated in 1 week, or oral ivermectin.",
+        "whyWrongByChoice": {
+          "A": "Demodex is elongated and worm-like with a striated tail, not round.",
+          "B": "The head louse is an elongated six-legged insect found on scalp hair.",
+          "C": "The pubic (crab) louse is a crab-shaped insect with large claws, not a round mite.",
+          "E": "Chiggers are tiny red mites that feed and drop off without burrowing; they are not found in scrapings."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-55-01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_55.json"
+    },
+    {
+      "id": "mskpic-55-02",
+      "topicId": "infestations-bites-stings",
+      "topicName": "Infestations, Bites, & Stings",
+      "stem": "A 34-year-old woman has this intensely itchy lesion on her foot 1 week after returning from a Caribbean vacation. Which organism is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ancylostoma braziliense"
+        },
+        {
+          "label": "B",
+          "text": "Dermatobia hominis"
+        },
+        {
+          "label": "C",
+          "text": "Leishmania mexicana"
+        },
+        {
+          "label": "D",
+          "text": "Sarcoptes scabiei"
+        },
+        {
+          "label": "E",
+          "text": "Strongyloides stercoralis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A raised, red, serpiginous track on the sole is cutaneous larva migrans, caused by dog and cat hookworm (Ancylostoma) larvae penetrating bare skin in sand contaminated by animal feces.",
+        "whyCorrect": "Humans are dead-end hosts, so the larvae wander slowly in the epidermis and make a migrating track. The eruption is self-limited or treated with albendazole, ivermectin, thiabendazole or cryotherapy.",
+        "whyWrongByChoice": {
+          "B": "Dermatobia (human botfly) causes furuncular myiasis: a boil-like nodule with a central breathing pore.",
+          "C": "Cutaneous leishmaniasis gives a crusted ulcer or plaque at a sandfly bite, not a migrating line.",
+          "D": "Scabies gives short burrows and papules in finger webs and other folds, not a long serpiginous track.",
+          "E": "Strongyloides causes larva currens, which moves much faster, has an urticarial border and favors the perianal area and buttocks."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-55-02.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_55.json"
+    },
+    {
+      "id": "mskpic-55-03",
+      "topicId": "infestations-bites-stings",
+      "topicName": "Infestations, Bites, & Stings",
+      "stem": "A 9-year-old boy who recently moved from rural South America is brought in with this finding, which began 4 days ago. He has no pain or fever. Which organism is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dermatobia hominis"
+        },
+        {
+          "label": "B",
+          "text": "Leishmania braziliensis"
+        },
+        {
+          "label": "C",
+          "text": "Onchocerca volvulus"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "E",
+          "text": "Trypanosoma cruzi"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Unilateral, painless swelling of the eyelids around one eye is the Romaña sign: a chagoma at the portal of entry of Trypanosoma cruzi (Chagas disease).",
+        "whyCorrect": "The reduviid (kissing) bug bites near the eye and defecates trypomastigotes that are rubbed into the wound or conjunctiva. Chronic infection causes dilated cardiomyopathy, megaesophagus and megacolon. Treatment is benznidazole or nifurtimox.",
+        "whyWrongByChoice": {
+          "A": "Botfly myiasis gives a furuncle-like nodule with a central pore, not diffuse lid swelling.",
+          "B": "Leishmania braziliensis causes cutaneous and mucocutaneous ulcers, not acute painless lid edema.",
+          "C": "Onchocerca causes river blindness and pruritic dermatitis in Africa, not acute unilateral lid edema.",
+          "D": "Staphylococcal periorbital cellulitis is usually painful, warm and febrile."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-55-03.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_55.json"
+    },
+    {
+      "id": "mskpic-55-04",
+      "topicId": "infestations-bites-stings",
+      "topicName": "Infestations, Bites, & Stings",
+      "stem": "A 40-year-old man from Connecticut notices this rash on his flank 10 days after a camping trip. He has mild fatigue and headache. Which is the most appropriate treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oral cephalexin"
+        },
+        {
+          "label": "B",
+          "text": "Oral doxycycline"
+        },
+        {
+          "label": "C",
+          "text": "Oral prednisone"
+        },
+        {
+          "label": "D",
+          "text": "Topical clotrimazole"
+        },
+        {
+          "label": "E",
+          "text": "Topical permethrin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A large, expanding, annular erythematous patch without scale, days after likely tick exposure in the Northeast, is erythema migrans of early Lyme disease (Borrelia burgdorferi, Ixodes tick).",
+        "whyCorrect": "Erythema migrans is a clinical diagnosis and warrants treatment without serology. Doxycycline treats most tick-borne diseases, including Lyme disease and Rocky Mountain spotted fever.",
+        "whyWrongByChoice": {
+          "A": "Cephalexin covers cellulitis organisms and is not used for Lyme disease; this lesion is not cellulitis.",
+          "C": "Steroids would not treat the infection and could worsen it.",
+          "D": "Clotrimazole treats tinea corporis, which has a scaly advancing border that this patch lacks.",
+          "E": "Permethrin treats scabies and lice, not a spirochetal infection."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-55-04.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_55.json"
+    },
+    {
+      "id": "mskpic-55-05",
+      "topicId": "infestations-bites-stings",
+      "topicName": "Infestations, Bites, & Stings",
+      "stem": "A 35-year-old man felt a sting on his arm. Over the next week the painful lesion evolved as shown. Which diagnosis is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Black widow spider bite"
+        },
+        {
+          "label": "B",
+          "text": "Brown recluse spider bite"
+        },
+        {
+          "label": "C",
+          "text": "Community-acquired MRSA abscess"
+        },
+        {
+          "label": "D",
+          "text": "Cutaneous anthrax infection"
+        },
+        {
+          "label": "E",
+          "text": "Pyoderma gangrenosum"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A painful bite that becomes a violaceous center and then a dark necrotic eschar with surrounding erythema is necrotic arachnidism from the brown recluse (Loxosceles reclusa), common in the south-central US.",
+        "whyCorrect": "Brown recluse venom contains sphingomyelinase D, which causes dermal necrosis and scarring. Skin necrosis sets this bite apart from other arthropod reactions and from staphylococcal abscesses.",
+        "whyWrongByChoice": {
+          "A": "Black widow bites cause systemic neurotoxic symptoms but no cutaneous signs beyond the bite mark and sweating.",
+          "C": "An MRSA abscess is a fluctuant, pus-filled nodule, not a dry necrotic eschar.",
+          "D": "The anthrax eschar is classically painless, with marked edema, after animal-hide or wool exposure.",
+          "E": "Pyoderma gangrenosum is an ulcer with an undermined violaceous border, often with IBD, not a bite-related eschar."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-55-05.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_55.json"
     }
   ]
 }

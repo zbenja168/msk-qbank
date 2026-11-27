@@ -572,6 +572,194 @@
       "hy": true
     },
     {
+      "id": "mskpic-46-01",
+      "topicId": "inflammatory-skin-diseases",
+      "topicName": "Inflammatory Skin Diseases",
+      "stem": "A 55-year-old man has had an itchy rash on the inner wrist for 3 months. New lesions have appeared along a recent scratch on his forearm. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Granuloma annulare"
+        },
+        {
+          "label": "B",
+          "text": "Lichen planus"
+        },
+        {
+          "label": "C",
+          "text": "Lichen striatus"
+        },
+        {
+          "label": "D",
+          "text": "Pityriasis rosea"
+        },
+        {
+          "label": "E",
+          "text": "Psoriasis vulgaris"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Purple, polygonal, flat-topped papules on the flexor wrist of a middle-aged adult, with new lesions along a scratch (Koebner phenomenon), are classic lichen planus.",
+        "whyCorrect": "The image shows clustered violaceous, shiny, flat-topped polygonal papules on the wrist: the 'purple pruritic polygonal papules' of lichen planus. Fine white surface lines are Wickham's striae. Check the mouth for reticulated white plaques and screen for hepatitis C.",
+        "whyWrongByChoice": {
+          "A": "Granuloma annulare forms non-scaly annular plaques with an indurated border and central clearing, usually on the dorsal hands and feet.",
+          "C": "Lichen striatus is a pediatric eruption arranged in a single linear band down a limb.",
+          "D": "Pityriasis rosea is a truncal eruption of oval scaly patches after a herald patch, sparing the hands and wrists.",
+          "E": "Psoriasis also koebnerizes, but forms salmon-pink plaques with thick silvery scale on extensor surfaces, not violaceous flat-topped papules."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-46-01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_46.json"
+    },
+    {
+      "id": "mskpic-46-02",
+      "topicId": "inflammatory-skin-diseases",
+      "topicName": "Inflammatory Skin Diseases",
+      "stem": "A 17-year-old boy has had this mildly itchy eruption for 10 days. What is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibiotic hypersensitivity reaction"
+        },
+        {
+          "label": "B",
+          "text": "Dermatophyte infection of the skin"
+        },
+        {
+          "label": "C",
+          "text": "Parvovirus B19 infection"
+        },
+        {
+          "label": "D",
+          "text": "Reactivation of HHV-6 or HHV-7"
+        },
+        {
+          "label": "E",
+          "text": "Treponema pallidum infection"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "One larger oval scaly patch (the herald patch, here on the arm) followed by many smaller oval patches on the trunk is pityriasis rosea, thought to be caused by reactivation of HHV-6 or HHV-7.",
+        "whyCorrect": "The image shows one larger annular patch with collarette scale on the upper arm and numerous small oval pink patches over the trunk: the herald patch plus the secondary eruption of pityriasis rosea. It spares the face and hands and resolves without treatment in 6-8 weeks.",
+        "whyWrongByChoice": {
+          "A": "A simple drug eruption is morbilliform (measles-like) on the trunk, without a herald patch or collarette-scaled ovals.",
+          "B": "Tinea corporis can mimic the herald patch alone, but does not produce a sudden widespread eruption of small oval truncal patches.",
+          "C": "Parvovirus B19 causes slapped-cheek erythema and a lacy reticular rash on the limbs, not oval scaly truncal patches.",
+          "E": "Secondary syphilis is the main mimic, but it involves the palms, soles and face and comes with lymphadenopathy; there is no herald patch."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-46-02.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_46.json"
+    },
+    {
+      "id": "mskpic-46-03",
+      "topicId": "inflammatory-skin-diseases",
+      "topicName": "Inflammatory Skin Diseases",
+      "stem": "A 9-month-old boy, weaned from breast milk last month, has diarrhea, thinning hair, and these lesions. Impaired intestinal absorption of which nutrient is the cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Biotin"
+        },
+        {
+          "label": "B",
+          "text": "Copper"
+        },
+        {
+          "label": "C",
+          "text": "Niacin"
+        },
+        {
+          "label": "D",
+          "text": "Selenium"
+        },
+        {
+          "label": "E",
+          "text": "Zinc"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Scaly, erosive, crusted lesions around the mouth, in the diaper area and on the hands and feet of a newly weaned infant, with diarrhea and alopecia, are acrodermatitis enteropathica: impaired zinc absorption from an SLC39A4 mutation.",
+        "whyCorrect": "The image shows sharply demarcated erosive, crusted dermatitis in a periorificial (perioral, perianal) and acral distribution, the pattern of acrodermatitis enteropathica. It appears at weaning, when breast-milk zinc is lost. Treat with lifelong zinc; secondary candidiasis is common.",
+        "whyWrongByChoice": {
+          "A": "Biotin deficiency can cause periorificial dermatitis and alopecia, but it is not the SLC39A4 absorption defect that presents at weaning.",
+          "B": "Copper deficiency (Menkes disease) causes kinky, brittle hair and neurodegeneration, not erosive acral and periorificial plaques.",
+          "C": "Niacin deficiency (pellagra) causes a photodistributed dermatitis on sun-exposed skin, with diarrhea and dementia.",
+          "D": "Selenium deficiency causes cardiomyopathy and nail whitening, not this periorificial and acral dermatitis."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-46-03.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_46.json"
+    },
+    {
+      "id": "mskpic-46-04",
+      "topicId": "inflammatory-skin-diseases",
+      "topicName": "Inflammatory Skin Diseases",
+      "stem": "A 44-year-old woman started lamotrigine 2 weeks ago. She now has fever and severe skin pain. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "DRESS syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Fixed drug eruption"
+        },
+        {
+          "label": "C",
+          "text": "Simple morbilliform drug eruption"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcal scalded skin syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Toxic epidermal necrolysis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Sheets of necrotic epidermis peeling away to leave raw red dermis over a large area of the body, after starting a high-risk drug, is toxic epidermal necrolysis (30% or more of the skin detached).",
+        "whyCorrect": "The image shows dusky skin with large areas of full-thickness epidermal sloughing exposing red, weeping dermis on the trunk, face and hand. Detachment of 30% or more of the body surface defines TEN (less than 10% is SJS). Mortality is 30-50%, mostly from sepsis; manage in a burn unit with cyclosporine or IVIG, and avoid systemic steroids.",
+        "whyWrongByChoice": {
+          "A": "DRESS gives an edematous morbilliform eruption with facial swelling and organ involvement (often liver), not sheet-like epidermal sloughing.",
+          "B": "A fixed drug eruption is one or a few round dusky patches that recur in the same spot, not widespread detachment.",
+          "C": "A simple morbilliform eruption is a measles-like red rash of the trunk that spares the face and does not slough.",
+          "D": "Staphylococcal scalded skin syndrome causes superficial toxin-mediated peeling, mostly in young children, and follows infection rather than a new drug."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-46-04.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_46.json"
+    },
+    {
       "id": "mk47-001",
       "stem": "A 52-year-old man has had painful oral erosions for 2 months, followed by flaccid blisters on an erythematous base over his scalp and trunk. Light rubbing of normal-appearing skin makes the epidermis slide off. His autoantibodies are most likely directed against which of the following?",
       "choices": [
@@ -1138,6 +1326,194 @@
       "topicName": "Vesiculobullous Skin Disorders",
       "tier": "core",
       "hy": true
+    },
+    {
+      "id": "mskpic-47-01",
+      "topicId": "vesiculobullous-skin-disorders",
+      "topicName": "Vesiculobullous Skin Disorders",
+      "stem": "Direct immunofluorescence of perilesional skin, stained for IgG, is shown from a 50-year-old with a blistering disease. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bullous pemphigoid"
+        },
+        {
+          "label": "B",
+          "text": "Dermatitis herpetiformis"
+        },
+        {
+          "label": "C",
+          "text": "Epidermolysis bullosa acquisita"
+        },
+        {
+          "label": "D",
+          "text": "Linear IgA bullous dermatosis"
+        },
+        {
+          "label": "E",
+          "text": "Pemphigus vulgaris"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "IgG outlining every keratinocyte throughout the epidermis in a net-like (chicken-wire) intercellular pattern is the direct immunofluorescence pattern of pemphigus vulgaris.",
+        "whyCorrect": "The image shows bright fluorescence between epidermal cells in a net-like pattern, with no linear band at the basement membrane. This reflects IgG against desmoglein 3 (and 1) in desmosomes, causing acantholysis, flaccid intraepidermal blisters and a positive Nikolsky sign.",
+        "whyWrongByChoice": {
+          "A": "Bullous pemphigoid shows a linear band of IgG along the dermal-epidermal junction, not intercellular staining.",
+          "B": "Dermatitis herpetiformis shows granular IgA at the tips of the dermal papillae.",
+          "C": "Epidermolysis bullosa acquisita shows linear IgG at the basement membrane, against type VII collagen.",
+          "D": "Linear IgA bullous dermatosis shows a continuous linear IgA band at the dermal-epidermal junction."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-47-01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_47.json"
+    },
+    {
+      "id": "mskpic-47-02",
+      "topicId": "vesiculobullous-skin-disorders",
+      "topicName": "Vesiculobullous Skin Disorders",
+      "stem": "An 82-year-old man has had intense itching for 2 months and now has these lesions on his thigh. His mouth is spared. His autoantibodies most likely target which structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "BP180 in hemidesmosomes"
+        },
+        {
+          "label": "B",
+          "text": "Desmoglein 1 in desmosomes"
+        },
+        {
+          "label": "C",
+          "text": "Desmoglein 3 in desmosomes"
+        },
+        {
+          "label": "D",
+          "text": "Epidermal transglutaminase"
+        },
+        {
+          "label": "E",
+          "text": "Type VII collagen in anchoring fibrils"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Many tense, intact bullae on an erythematous base in a very old, itchy patient are bullous pemphigoid, caused by IgG against the hemidesmosomal protein BP180 (NC16A domain), and less often BP230.",
+        "whyCorrect": "The image shows numerous tense, dome-shaped, intact bullae of varying size on red skin. Because the split is subepidermal, the roof is full-thickness epidermis, so the blisters stay tense and the Nikolsky sign is negative. Direct immunofluorescence shows linear IgG at the dermal-epidermal junction.",
+        "whyWrongByChoice": {
+          "B": "Desmoglein 1 alone is the target in pemphigus foliaceus, which gives superficial crusted erosions, not tense bullae.",
+          "C": "Desmoglein 3 is the pemphigus vulgaris target: flaccid intraepidermal blisters, painful oral erosions and a positive Nikolsky sign.",
+          "D": "Epidermal transglutaminase (TG3) is targeted by IgA in dermatitis herpetiformis, which gives small grouped excoriated vesicles on extensor surfaces.",
+          "E": "Type VII collagen is the target in epidermolysis bullosa acquisita, with trauma-induced blisters, scarring and milia."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-47-02.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_47.json"
+    },
+    {
+      "id": "mskpic-47-03",
+      "topicId": "vesiculobullous-skin-disorders",
+      "topicName": "Vesiculobullous Skin Disorders",
+      "stem": "Direct immunofluorescence of perilesional skin, stained for IgA, is shown from a 35-year-old man with an itchy blistering eruption. Which other condition is he most likely to have?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Celiac disease"
+        },
+        {
+          "label": "B",
+          "text": "Crohn disease"
+        },
+        {
+          "label": "C",
+          "text": "Hashimoto thyroiditis"
+        },
+        {
+          "label": "D",
+          "text": "Hepatitis C infection"
+        },
+        {
+          "label": "E",
+          "text": "Ulcerative colitis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Granular IgA deposits at the tips of the dermal papillae are diagnostic of dermatitis herpetiformis, and more than 90% of patients have celiac disease.",
+        "whyCorrect": "The image shows clumped, granular IgA fluorescence concentrated in the tips of the dermal papillae, not a continuous linear band. In dermatitis herpetiformis, IgA against tissue transglutaminase cross-reacts with epidermal transglutaminase (TG3) and deposits there, recruiting neutrophils. Treat with a gluten-free diet with or without dapsone.",
+        "whyWrongByChoice": {
+          "B": "Crohn disease is linked to acquired zinc deficiency and epidermolysis bullosa acquisita, not to papillary IgA deposits.",
+          "C": "Hashimoto thyroiditis is not the defining association of this immunofluorescence pattern.",
+          "D": "Hepatitis C is associated with lichen planus, especially the oral erosive type.",
+          "E": "Ulcerative colitis is associated with pyoderma gangrenosum, not with papillary IgA deposits."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-47-03.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_47.json"
+    },
+    {
+      "id": "mskpic-47-04",
+      "topicId": "vesiculobullous-skin-disorders",
+      "topicName": "Vesiculobullous Skin Disorders",
+      "stem": "A 4-year-old girl has had recurrent, intensely itchy eruptions like this for 4 months despite two courses of oral antibiotics. Which treatment is most likely to clear her lesions within days?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gluten-free diet"
+        },
+        {
+          "label": "B",
+          "text": "Oral acyclovir"
+        },
+        {
+          "label": "C",
+          "text": "Oral cephalexin"
+        },
+        {
+          "label": "D",
+          "text": "Oral dapsone"
+        },
+        {
+          "label": "E",
+          "text": "Topical mupirocin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Tense bullae clustered in rings around a central crust (the 'string of pearls' or 'crown of jewels' pattern) in a young child with a chronic course is linear IgA bullous dermatosis (chronic bullous disease of childhood), which responds to dapsone within 2-3 days.",
+        "whyCorrect": "The image shows tense, clear-to-yellow bullae arranged in annular rosettes on the leg, the 'string of pearls' sign. The split is subepidermal, so the bullae are tense; direct immunofluorescence shows continuous linear IgA at the dermal-epidermal junction (target BP180). Dapsone is first line.",
+        "whyWrongByChoice": {
+          "A": "A gluten-free diet treats dermatitis herpetiformis (granular IgA, celiac-associated); it does not clear this disease.",
+          "B": "Acyclovir treats herpes simplex, which gives small grouped vesicles on an erythematous base, not tense bullae in rosettes.",
+          "C": "Cephalexin treats bullous impetigo, the main mimic, but impetigo bullae are flaccid, crust quickly and would have responded to antibiotics.",
+          "E": "Mupirocin treats localized impetigo; failure of prior antibiotics and the tense, ringed bullae point away from infection."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-47-04.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_47.json"
     },
     {
       "id": "mk48-001",
@@ -1714,6 +2090,194 @@
       "hy": true
     },
     {
+      "id": "mskpic-48-01",
+      "topicId": "dermatitis",
+      "topicName": "Dermatitis",
+      "stem": "A 9-year-old girl has had a recurring, intensely itchy rash at the sites shown since she was a toddler. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Allergic contact dermatitis"
+        },
+        {
+          "label": "B",
+          "text": "Atopic dermatitis"
+        },
+        {
+          "label": "C",
+          "text": "Psoriasis vulgaris"
+        },
+        {
+          "label": "D",
+          "text": "Seborrheic dermatitis"
+        },
+        {
+          "label": "E",
+          "text": "Tinea corporis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Ill-defined, scaly, excoriated plaques in both antecubital fossae of a child are the classic flexural pattern of atopic dermatitis.",
+        "whyCorrect": "After infancy, atopic dermatitis shifts to the flexor surfaces (antecubital and popliteal fossae, neck), and chronic scratching produces the excoriations and early lichenification (accentuated skin lines) seen here.",
+        "whyWrongByChoice": {
+          "A": "Allergic contact dermatitis follows the contact site (often linear or geometric) and would not symmetrically target both elbow flexures for years.",
+          "C": "Psoriasis favors the extensor surfaces (elbows, knees) with sharply demarcated plaques and silvery scale, the opposite of this flexural pattern.",
+          "D": "Seborrheic dermatitis affects sebaceous-rich sites (scalp, face, ears, chest) and spares school-age children.",
+          "E": "Tinea corporis forms an annular plaque with an advancing scaly border and central clearing, not symmetric flexural eczema."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-48-01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_48.json"
+    },
+    {
+      "id": "mskpic-48-02",
+      "topicId": "dermatitis",
+      "topicName": "Dermatitis",
+      "stem": "A 32-year-old man has had this recurring facial rash for several years; it flares in winter. Which organism is thought to contribute to its pathogenesis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "B",
+          "text": "Cutibacterium acnes"
+        },
+        {
+          "label": "C",
+          "text": "Malassezia furfur"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "E",
+          "text": "Trichophyton rubrum"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Greasy erythema with fine flaky scale in the nasolabial folds and beard area is seborrheic dermatitis, which is linked to the skin-colonizing yeast Malassezia furfur.",
+        "whyCorrect": "Malassezia thrives in sebum; its lipases break down triglycerides into oleic acid, arachidonic acid and reactive oxygen species that inflame sebaceous-rich skin such as the nasolabial folds, beard, brows and scalp. Ketoconazole and selenium sulfide target it.",
+        "whyWrongByChoice": {
+          "A": "Candida causes intertrigo and thrush, with satellite pustules, not greasy scale in the nasolabial folds.",
+          "B": "Cutibacterium acnes drives acne vulgaris (comedones, papules, pustules), not scaly erythema.",
+          "D": "Staphylococcus aureus colonizes atopic skin and causes impetigo, but it is not the driver of seborrheic dermatitis.",
+          "E": "Trichophyton rubrum is a dermatophyte that causes tinea, with annular plaques and an active scaly border."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-48-02.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_48.json"
+    },
+    {
+      "id": "mskpic-48-03",
+      "topicId": "dermatitis",
+      "topicName": "Dermatitis",
+      "stem": "A 40-year-old man has had this intensely itchy rash on his forearm for 3 days. It began 2 days after a weekend of yard work. Which mechanism underlies it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct irritant barrier damage"
+        },
+        {
+          "label": "B",
+          "text": "Type I, IgE-mediated"
+        },
+        {
+          "label": "C",
+          "text": "Type II, antibody cytotoxicity"
+        },
+        {
+          "label": "D",
+          "text": "Type III, immune complex"
+        },
+        {
+          "label": "E",
+          "text": "Type IV, T cell-mediated"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Linear, streaky, vesicular erythema at sites brushed by a plant is poison ivy allergic contact dermatitis, a type IV (delayed, T cell-mediated) hypersensitivity.",
+        "whyCorrect": "The urushiol hapten binds skin proteins and is presented to T cells (sensitization); on re-exposure, memory CD8+ T cells infiltrate the skin (elicitation) 24 to 72 hours later. The linear or geometric configuration matching the contact is the clinical clue.",
+        "whyWrongByChoice": {
+          "A": "Irritant contact dermatitis is cumulative chemical or water damage, typically on the hands, without a sensitization step or a delayed linear eruption.",
+          "B": "Type I IgE-mediated reactions produce wheals within minutes, not delayed vesicular streaks after 2 days.",
+          "C": "Type II antibody-mediated cytotoxicity underlies diseases such as pemphigus, not plant-contact eczema.",
+          "D": "Type III immune-complex reactions cause vasculitis or serum sickness, not dermatitis confined to contact sites."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-48-03.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_48.json"
+    },
+    {
+      "id": "mskpic-48-04",
+      "topicId": "dermatitis",
+      "topicName": "Dermatitis",
+      "stem": "A 74-year-old woman with heart failure and chronic leg edema has had this rash on her lower leg for 3 weeks. It itches more than it hurts, she is afebrile, and 10 days of oral cephalexin did not help. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cellulitis"
+        },
+        {
+          "label": "B",
+          "text": "Erysipelas"
+        },
+        {
+          "label": "C",
+          "text": "Necrobiosis lipoidica"
+        },
+        {
+          "label": "D",
+          "text": "Stasis dermatitis"
+        },
+        {
+          "label": "E",
+          "text": "Tinea corporis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A brightly erythematous, weepy, eczematous rash on an edematous lower leg that itches and fails antibiotics is stasis dermatitis.",
+        "whyCorrect": "Stasis dermatitis results from underlying edema of the extremity and is frequently misdiagnosed as cellulitis. It is more itchy than painful and is treated with mid- to high-potency topical corticosteroids, compression and edema management, not antibiotics.",
+        "whyWrongByChoice": {
+          "A": "Cellulitis is painful, warm and often febrile, and it should respond to cephalexin; it is rarely itchy.",
+          "B": "Erysipelas is a sharply raised, painful, febrile streptococcal infection that would respond to antibiotics.",
+          "C": "Necrobiosis lipoidica forms yellow-brown atrophic plaques on the shins in diabetes, not a weeping itchy eruption.",
+          "E": "Tinea corporis forms annular scaly plaques with central clearing, not diffuse weepy erythema over an edematous leg."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-48-04.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_48.json"
+    },
+    {
       "id": "mk49-001",
       "stem": "A 26-year-old woman has had 2 days of intensely itchy, raised, red, well-circumscribed plaques on her trunk and arms. She notes that each individual plaque fades completely within several hours while new ones appear elsewhere. The lesions have no scale and leave no bruising or marks behind. Which of the following is the most likely diagnosis?",
       "choices": [
@@ -2284,6 +2848,147 @@
       "topicName": "Urticaria and Pruritus",
       "tier": "core",
       "hy": true
+    },
+    {
+      "id": "mskpic-49-01",
+      "topicId": "urticaria-and-pruritus",
+      "topicName": "Urticaria and Pruritus",
+      "stem": "A 26-year-old woman has had these itchy lesions on her trunk and thighs for 2 days. How long does an individual lesion of this type typically persist?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 to 2 weeks"
+        },
+        {
+          "label": "B",
+          "text": "2 to 4 days"
+        },
+        {
+          "label": "C",
+          "text": "About 2 to 3 months"
+        },
+        {
+          "label": "D",
+          "text": "3 to 6 weeks"
+        },
+        {
+          "label": "E",
+          "text": "Under 24 hours"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Edematous, well-circumscribed, annular and polycyclic pink plaques with no scale are urticarial wheals (hives); each lesion lasts under 24 hours, typically under 12.",
+        "whyCorrect": "Wheals are transient, well-circumscribed, raised erythematous plaques lacking any scale. Mast-cell histamine causes dermal edema that resolves within hours, so individual lesions come and go even as new ones appear.",
+        "whyWrongByChoice": {
+          "A": "Lesions lasting 1 to 2 weeks would suggest a fixed eruption, not hives; a lesion over 24 hours raises concern for urticarial vasculitis.",
+          "B": "Individual wheals persisting 2 to 4 days are atypical and should prompt consideration of urticarial vasculitis or the urticarial phase of bullous pemphigoid.",
+          "C": "Months describes the duration of chronic urticaria as an episode, not how long one lesion lasts.",
+          "D": "Six weeks is the cutoff separating acute from chronic urticaria as a disease, not the lifespan of a single wheal."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-49-01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_49.json"
+    },
+    {
+      "id": "mskpic-49-02",
+      "topicId": "urticaria-and-pruritus",
+      "topicName": "Urticaria and Pruritus",
+      "stem": "A 58-year-old man presents with the change shown, which developed over several hours. He has no rash elsewhere. In which tissue layer has fluid accumulated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deep muscle fascia"
+        },
+        {
+          "label": "B",
+          "text": "Epidermis (spongiosis)"
+        },
+        {
+          "label": "C",
+          "text": "Papillary dermis"
+        },
+        {
+          "label": "D",
+          "text": "Stratum corneum"
+        },
+        {
+          "label": "E",
+          "text": "Subcutaneous tissue"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Marked, asymmetric swelling of the upper lip is angioedema, in which fluid accumulates in the subcutaneous tissue rather than the dermis.",
+        "whyCorrect": "Histamine and leukotrienes increase vascular permeability. When the leak is in the dermis it produces a wheal; when it is deeper, in the subcutaneous tissue, it produces angioedema, most commonly of the lips, eyelids, tongue, hands or feet. It can accompany urticaria or anaphylaxis.",
+        "whyWrongByChoice": {
+          "A": "Fluid within muscle fascia would suggest compartment syndrome or fasciitis, not rapid painless lip swelling.",
+          "B": "Spongiosis (intraepidermal edema) is the histologic hallmark of dermatitis, not angioedema.",
+          "C": "Dermal edema produces a wheal (hive), a superficial raised plaque, not deep diffuse swelling of the lip.",
+          "D": "The stratum corneum is a dead keratin layer and does not accumulate edema fluid."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-49-02.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_49.json"
+    },
+    {
+      "id": "mskpic-49-04",
+      "topicId": "urticaria-and-pruritus",
+      "topicName": "Urticaria and Pruritus",
+      "stem": "A 45-year-old Black man has had severe itch for more than a year. The lesions shown are firm. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dermatofibroma"
+        },
+        {
+          "label": "B",
+          "text": "Lichen planus"
+        },
+        {
+          "label": "C",
+          "text": "Molluscum contagiosum"
+        },
+        {
+          "label": "D",
+          "text": "Prurigo nodularis"
+        },
+        {
+          "label": "E",
+          "text": "Seborrheic keratosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Multiple firm, hyperpigmented, excoriated papules and nodules on an extremity in a patient with chronic itch are prurigo nodularis.",
+        "whyCorrect": "Prurigo nodularis is a chronic inflammatory disorder of intensely pruritic, firm, scaly flesh-colored to hyperpigmented nodules on the arms, legs and trunk wherever the patient can scratch. It is over three times more common in Black patients. Treatment includes potent or intralesional corticosteroids, narrowband phototherapy, dupilumab and nemolizumab.",
+        "whyWrongByChoice": {
+          "A": "Dermatofibroma is usually a single firm papule with a dimple sign on pinching, not many itchy excoriated nodules.",
+          "B": "Lichen planus forms flat-topped purple polygonal papules with Wickham striae, not dome-shaped excoriated nodules.",
+          "C": "Molluscum contagiosum forms smooth, pearly, umbilicated papules, typically in children or immunocompromised hosts.",
+          "E": "Seborrheic keratoses are waxy, stuck-on plaques of older adults that are not driven by scratching."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-49-04.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_49.json"
     }
   ]
 }

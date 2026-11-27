@@ -578,6 +578,100 @@
       "hy": true
     },
     {
+      "id": "mskpic-36-01",
+      "topicId": "histology-of-the-skin",
+      "topicName": "Histology of the Skin",
+      "stem": "A section of epidermis is examined at high power. Which epidermal layer is shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stratum basale"
+        },
+        {
+          "label": "B",
+          "text": "Stratum corneum"
+        },
+        {
+          "label": "C",
+          "text": "Stratum granulosum"
+        },
+        {
+          "label": "D",
+          "text": "Stratum lucidum"
+        },
+        {
+          "label": "E",
+          "text": "Stratum spinosum"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "This is the stratum spinosum: several layers of keratinocytes with large nuclei linked by short spiny projections around tonofibrils that terminate at desmosomes.",
+        "whyCorrect": "Polygonal keratinocytes with large nuclei are joined by short cytoplasmic projections (arrow), the 'spines' that end at desmosomes.",
+        "whyWrongByChoice": {
+          "A": "The basal layer is a single row of cuboidal-to-columnar cells on the basement membrane, not several layers of spiny polygonal cells.",
+          "B": "The corneum is made of flat, anucleate corneocytes; these cells have large nuclei.",
+          "C": "Granulosum cells are flattened and packed with dark keratohyalin granules, which are absent here.",
+          "D": "The lucidum is a thin, pale, anucleate band seen only in thick skin, not a layer of nucleated cells."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-36-01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_36.json"
+    },
+    {
+      "id": "mskpic-36-02",
+      "topicId": "histology-of-the-skin",
+      "topicName": "Histology of the Skin",
+      "stem": "The arrow marks the apical surface of the cells lining this skin gland. Which gland and mode of secretion are shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Apocrine sweat gland, decapitation secretion"
+        },
+        {
+          "label": "B",
+          "text": "Eccrine sweat gland, decapitation secretion"
+        },
+        {
+          "label": "C",
+          "text": "Eccrine sweat gland, merocrine secretion"
+        },
+        {
+          "label": "D",
+          "text": "Sebaceous gland, holocrine secretion"
+        },
+        {
+          "label": "E",
+          "text": "Sebaceous gland, merocrine secretion"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Apocrine sweat glands have wide lumens lined by eosinophilic cells whose apical cytoplasm buds off into the lumen (decapitation secretion). They make an oily, pheromone-containing sweat.",
+        "whyCorrect": "Apical cytoplasm is pinched off into the wide lumen (arrow), the decapitation secretion of an apocrine sweat gland.",
+        "whyWrongByChoice": {
+          "B": "Eccrine glands do not use decapitation secretion; that mode defines apocrine glands.",
+          "C": "Eccrine glands have small lumens and release watery sweat by exocytosis, with no apical blebs.",
+          "D": "Sebaceous glands are solid lobules of pale, lipid-filled cells that disintegrate whole; there is no open lumen lined by budding cells.",
+          "E": "Sebaceous glands secrete by holocrine disintegration, and their lobules lack a lined lumen."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-36-02.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_36.json"
+    },
+    {
       "id": "mk37-001",
       "stem": "A medical student documents a new rash in a 34-year-old woman as: \"4 mm, erythematous, scaly papules on the extensor elbows.\" Her attending says the note is missing one of the six standard categories of descriptive terms. Which category was omitted?",
       "choices": [
@@ -1146,6 +1240,194 @@
       "topicName": "Description of Skin Lesions",
       "tier": "core",
       "hy": true
+    },
+    {
+      "id": "mskpic-37-01",
+      "topicId": "description-of-skin-lesions",
+      "topicName": "Description of Skin Lesions",
+      "stem": "A 30-year-old woman has itchy lesions on her trunk. Which primary lesion is shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nodule"
+        },
+        {
+          "label": "B",
+          "text": "Papule"
+        },
+        {
+          "label": "C",
+          "text": "Patch"
+        },
+        {
+          "label": "D",
+          "text": "Plaque"
+        },
+        {
+          "label": "E",
+          "text": "Wheal"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A wheal is an elevated, plateau-shaped, edematous, erythematous, non-scaly lesion of any size: the lesion of urticaria (hives). The lack of scale is a key clue.",
+        "whyCorrect": "The lesions are raised, plateau-shaped, edematous and erythematous, with no scale.",
+        "whyWrongByChoice": {
+          "A": "A nodule is a solid, dome-shaped lesion over 1 cm, not a flat-topped edematous swelling.",
+          "B": "A papule is a dome-shaped lesion under 1 cm; these lesions are flat-topped plateaus, some larger than 1 cm.",
+          "C": "A patch is flat and non-palpable; these lesions are raised.",
+          "D": "A plaque is a thickened (indurated) elevated lesion over 1 cm, usually scaly; these lesions are soft, edematous and non-scaly."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-37-01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_37.json"
+    },
+    {
+      "id": "mskpic-37-02",
+      "topicId": "description-of-skin-lesions",
+      "topicName": "Description of Skin Lesions",
+      "stem": "An 80-year-old man has a new itchy eruption on his leg. What are the largest primary lesions shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bullae"
+        },
+        {
+          "label": "B",
+          "text": "Cysts"
+        },
+        {
+          "label": "C",
+          "text": "Nodules"
+        },
+        {
+          "label": "D",
+          "text": "Pustules"
+        },
+        {
+          "label": "E",
+          "text": "Vesicles"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Bullae are elevated, dome-shaped, fluid-filled lesions larger than 1 cm. These tense bullae are from bullous pemphigoid.",
+        "whyCorrect": "The large lesions are elevated, dome-shaped, tense and fluid-filled, and clearly larger than 1 cm.",
+        "whyWrongByChoice": {
+          "B": "A cyst is a dermal lesion with a soft or fluid-filled center inside a wall, not a superficial tense blister.",
+          "C": "Nodules are solid throughout; these lesions are fluid-filled.",
+          "D": "Pustules contain pus (yellow-white, opaque); these lesions hold clear to amber fluid.",
+          "E": "Vesicles are also fluid-filled but under 1 cm; the largest lesions here exceed 1 cm."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-37-02.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_37.json"
+    },
+    {
+      "id": "mskpic-37-03",
+      "topicId": "description-of-skin-lesions",
+      "topicName": "Description of Skin Lesions",
+      "stem": "A 45-year-old man has this area of skin on his ankle. Which secondary change is shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atrophic scarring"
+        },
+        {
+          "label": "B",
+          "text": "Atrophy"
+        },
+        {
+          "label": "C",
+          "text": "Erosion"
+        },
+        {
+          "label": "D",
+          "text": "Excoriation"
+        },
+        {
+          "label": "E",
+          "text": "Lichenification"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Lichenification is thickening, scaling and hardening of the skin with accentuated skin lines, caused by chronic rubbing or scratching (as in lichen simplex chronicus).",
+        "whyCorrect": "The skin is thickened and leathery with exaggerated skin markings.",
+        "whyWrongByChoice": {
+          "A": "Atrophic scars are thin, depressed areas left after tissue loss; this skin is thickened, not depressed.",
+          "B": "Atrophy is thinning of the skin; this skin is thickened.",
+          "C": "An erosion is a partial loss of epidermis; the epidermis here is intact and thickened.",
+          "D": "Excoriations are linear erosions gouged by scratching; here the epidermis is intact and thickened."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-37-03.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_37.json"
+    },
+    {
+      "id": "mskpic-37-04",
+      "topicId": "description-of-skin-lesions",
+      "topicName": "Description of Skin Lesions",
+      "stem": "A 17-year-old has a painful eruption on his face and neck. Which term best describes the arrangement of the lesions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Annular"
+        },
+        {
+          "label": "B",
+          "text": "Discrete"
+        },
+        {
+          "label": "C",
+          "text": "Grouped"
+        },
+        {
+          "label": "D",
+          "text": "Reticular"
+        },
+        {
+          "label": "E",
+          "text": "Serpiginous"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Grouped lesions cluster together. Grouped vesicles are the key to diagnosing herpes (here herpes gladiatorum); if the lesions were discrete and separated, it would argue against herpes.",
+        "whyCorrect": "Small vesicles and crusts sit in tight clusters.",
+        "whyWrongByChoice": {
+          "A": "Annular lesions form a ring with central clearing; these are clusters, not rings.",
+          "B": "Discrete lesions are each separate from one another; these lie in tight clusters.",
+          "D": "Reticular means a net-like pattern, which is not present.",
+          "E": "Serpiginous means a snake-like line, not clustered vesicles."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-37-04.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_37.json"
     },
     {
       "id": "mk38-001",
@@ -1732,6 +2014,147 @@
       "hy": true
     },
     {
+      "id": "mskpic-38-01",
+      "topicId": "sunlight-and-the-skin",
+      "topicName": "Sunlight and the Skin",
+      "stem": "A skin biopsy is taken from a 25-year-old a day after a long afternoon at the beach. What are the cells at the arrows?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Langerhans cells"
+        },
+        {
+          "label": "B",
+          "text": "Melanocytes"
+        },
+        {
+          "label": "C",
+          "text": "Merkel cells"
+        },
+        {
+          "label": "D",
+          "text": "Mitotic keratinocytes"
+        },
+        {
+          "label": "E",
+          "text": "Necrotic keratinocytes"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The hallmark histology of sunburn is necrotic keratinocytes: pink-red cells without nuclei, killed by UVB (280-315 nm) radiation.",
+        "whyCorrect": "The cells at the arrows are bright pink, shrunken and anucleate within the epidermis.",
+        "whyWrongByChoice": {
+          "A": "Langerhans cells are pale dendritic cells with nuclei in the spinous layer, not pink anucleate cells.",
+          "B": "Melanocytes sit in the basal layer and have clear cytoplasm and nuclei.",
+          "C": "Merkel cells are inconspicuous basal mechanoreceptor cells, not visible as pink anucleate cells.",
+          "D": "Mitotic keratinocytes show dark condensed chromosomes near the basal layer; these cells have no nuclear material at all."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-38-01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_38.json"
+    },
+    {
+      "id": "mskpic-38-02",
+      "topicId": "sunlight-and-the-skin",
+      "topicName": "Sunlight and the Skin",
+      "stem": "A 75-year-old retired farmer has this appearance of the back of his neck. What is it called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acanthosis nigricans"
+        },
+        {
+          "label": "B",
+          "text": "Cutis rhomboidalis nuchae"
+        },
+        {
+          "label": "C",
+          "text": "Erythema ab igne"
+        },
+        {
+          "label": "D",
+          "text": "Lichenification"
+        },
+        {
+          "label": "E",
+          "text": "Poikiloderma of Civatte"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cutis rhomboidalis nuchae is solar elastosis of the neck: degeneration of dermal elastic tissue after chronic cumulative sun exposure produces geometric wrinkles.",
+        "whyCorrect": "The posterior neck has thick, yellowish skin crossed by deep geometric wrinkles.",
+        "whyWrongByChoice": {
+          "A": "Acanthosis nigricans is velvety brown thickening in skin folds linked to insulin resistance, not criss-crossed deep furrows.",
+          "C": "Erythema ab igne is a net-like hyperpigmentation from chronic heat exposure, not wrinkling.",
+          "D": "Lichenification follows chronic rubbing and is an itchy, thickened plaque; this pattern is from chronic sun damage.",
+          "E": "Poikiloderma of Civatte is red-brown mottling with telangiectasia on the sides of the neck and upper chest, not deep geometric wrinkles."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-38-02.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_38.json"
+    },
+    {
+      "id": "mskpic-38-03",
+      "topicId": "sunlight-and-the-skin",
+      "topicName": "Sunlight and the Skin",
+      "stem": "A 55-year-old man has had these lesions on the backs of both hands for several months. Urine porphyrins are elevated. Deficiency of which enzyme is responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aminolevulinic acid dehydratase"
+        },
+        {
+          "label": "B",
+          "text": "Aminolevulinic acid synthase"
+        },
+        {
+          "label": "C",
+          "text": "Ferrochelatase"
+        },
+        {
+          "label": "D",
+          "text": "Porphobilinogen deaminase"
+        },
+        {
+          "label": "E",
+          "text": "Uroporphyrinogen decarboxylase"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Porphyria cutanea tarda (PCT) is due to uroporphyrinogen decarboxylase deficiency, acquired in about 80% of cases (hepatitis C, HIV, alcohol, estrogen, iron overload). It causes fragile blisters, erosions and scars on the dorsal hands.",
+        "whyCorrect": "Fragile blisters, erosions and scars on the sun-exposed backs of the hands, with high urine porphyrins, indicate porphyria cutanea tarda.",
+        "whyWrongByChoice": {
+          "A": "ALA dehydratase is inhibited by lead and its rare deficiency causes neurovisceral attacks, not photosensitive blisters.",
+          "B": "ALAS2 deficiency causes sideroblastic anemia, not a blistering photosensitive eruption.",
+          "C": "Ferrochelatase deficiency causes erythropoietic protoporphyria: burning pain on sun exposure in childhood, without fragile blisters and scars.",
+          "D": "PBG deaminase deficiency causes acute intermittent porphyria, with abdominal pain and neuropsychiatric attacks but no blistering skin lesions."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-38-03.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_38.json"
+    },
+    {
       "id": "mk39-001",
       "stem": "A 34-year-old man has had enlarging, chalk-white, sharply demarcated patches around his mouth and on the backs of both hands for 6 months. The patches do not itch or scale, and his skin color was normal through childhood. His mother has pernicious anemia. Which of the following is the most likely mechanism of his skin findings?",
       "choices": [
@@ -2304,6 +2727,241 @@
       "topicId": "disorders-of-pigmentation",
       "topicName": "Disorders of Pigmentation",
       "tier": "core"
+    },
+    {
+      "id": "mskpic-39-01",
+      "topicId": "disorders-of-pigmentation",
+      "topicName": "Disorders of Pigmentation",
+      "stem": "A 6-year-old boy has had this finding since birth. His hearing and irises are normal. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oculocutaneous albinism"
+        },
+        {
+          "label": "B",
+          "text": "Piebaldism"
+        },
+        {
+          "label": "C",
+          "text": "Pityriasis alba"
+        },
+        {
+          "label": "D",
+          "text": "Vitiligo"
+        },
+        {
+          "label": "E",
+          "text": "Waardenburg syndrome"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Piebaldism is an autosomal dominant congenital absence of melanocytes in localized areas, classically a white forelock and frontal patch. Normal hearing and irises make Waardenburg syndrome unlikely.",
+        "whyCorrect": "A white forelock with a depigmented patch on the frontal scalp, present since birth and inherited.",
+        "whyWrongByChoice": {
+          "A": "Albinism causes generalized loss of pigment, not a localized forelock patch.",
+          "C": "Pityriasis alba is faint hypopigmented scaly patches, usually on the face, not a congenital white forelock.",
+          "D": "Vitiligo is acquired, with autoimmune loss of melanocytes; this finding was present from birth.",
+          "E": "Waardenburg adds hearing loss and heterochromia iridis to piebaldism; both are normal here."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-39-01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_39.json"
+    },
+    {
+      "id": "mskpic-39-02",
+      "topicId": "disorders-of-pigmentation",
+      "topicName": "Disorders of Pigmentation",
+      "stem": "A 28-year-old man has had these patches spreading over two years. What is the mechanism of this condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Absent tyrosinase activity"
+        },
+        {
+          "label": "B",
+          "text": "Autoimmune destruction of melanocytes"
+        },
+        {
+          "label": "C",
+          "text": "Congenital absence of melanocytes"
+        },
+        {
+          "label": "D",
+          "text": "Malassezia overgrowth in the stratum corneum"
+        },
+        {
+          "label": "E",
+          "text": "Reduced melanin transfer after inflammation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "This is vitiligo: acquired autoimmune destruction of epidermal melanocytes causes depigmented macules and patches, often around body openings. It is associated with autoimmune thyroid disease and other autoimmune endocrine disorders.",
+        "whyCorrect": "Acquired, sharply demarcated, chalk-white (depigmented) patches around the eyes and mouth.",
+        "whyWrongByChoice": {
+          "A": "Tyrosinase defects cause albinism, with generalized loss of pigment from birth.",
+          "C": "Congenital absence of melanocytes is piebaldism, present from birth and fixed, not spreading in adulthood.",
+          "D": "Pityriasis versicolor gives finely scaled hypo- or hyperpigmented patches on the trunk, not chalk-white periorificial patches.",
+          "E": "Postinflammatory hypopigmentation follows a prior rash and is partial, not a spreading chalk-white depigmentation."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-39-02.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_39.json"
+    },
+    {
+      "id": "mskpic-39-03",
+      "topicId": "disorders-of-pigmentation",
+      "topicName": "Disorders of Pigmentation",
+      "stem": "A 7-year-old has several lesions like these on the trunk. Finding six or more of them raises concern for which disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Neurofibromatosis type 1"
+        },
+        {
+          "label": "B",
+          "text": "Peutz-Jeghers syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Sturge-Weber syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Tuberous sclerosis"
+        },
+        {
+          "label": "E",
+          "text": "Waardenburg syndrome"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Café-au-lait macules are congenital, fixed, uniform tan-brown macules. One to three are common, but six or more (> 5 mm before puberty, > 15 mm after) is a diagnostic criterion for neurofibromatosis type 1.",
+        "whyCorrect": "Uniform, well-demarcated, light-brown macules and patches: café-au-lait macules.",
+        "whyWrongByChoice": {
+          "B": "Peutz-Jeghers causes small dark lentigines on the lips and mouth, not large tan patches on the trunk.",
+          "C": "Sturge-Weber is marked by a facial port-wine stain (capillary malformation), not brown macules.",
+          "D": "Tuberous sclerosis gives hypopigmented ash-leaf macules, not tan-brown macules.",
+          "E": "Waardenburg causes a white forelock and depigmentation with hearing loss, not hyperpigmented macules."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-39-03.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_39.json"
+    },
+    {
+      "id": "mskpic-39-04",
+      "topicId": "disorders-of-pigmentation",
+      "topicName": "Disorders of Pigmentation",
+      "stem": "A 40-year-old woman notices that these areas have darkened over the past six months. Which hormonal change most directly causes this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Raised ACTH and MSH from low cortisol"
+        },
+        {
+          "label": "B",
+          "text": "Raised cortisol from an adrenal adenoma"
+        },
+        {
+          "label": "C",
+          "text": "Raised estrogen during pregnancy"
+        },
+        {
+          "label": "D",
+          "text": "Raised insulin from insulin resistance"
+        },
+        {
+          "label": "E",
+          "text": "Raised thyroxine from Graves disease"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In primary adrenal insufficiency (Addison disease), low cortisol drives the pituitary to overproduce ACTH and MSH, which stimulate melanin production and darken the palmar creases, gums and scars.",
+        "whyCorrect": "Darkening accentuates the palmar creases.",
+        "whyWrongByChoice": {
+          "B": "Cortisol excess suppresses ACTH, so it does not cause hyperpigmentation.",
+          "C": "Pregnancy estrogen causes melasma of the face, not darkened palmar creases.",
+          "D": "Hyperinsulinemia causes acanthosis nigricans, velvety plaques in the neck and axillae, not palmar crease darkening.",
+          "E": "Thyroid hormone excess does not stimulate melanocytes to darken the palmar creases."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-39-04.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_39.json"
+    },
+    {
+      "id": "mskpic-39-05",
+      "topicId": "disorders-of-pigmentation",
+      "topicName": "Disorders of Pigmentation",
+      "stem": "A 70-year-old man has gradually developed this facial discoloration. Which long-term medication is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amiodarone"
+        },
+        {
+          "label": "B",
+          "text": "Digoxin"
+        },
+        {
+          "label": "C",
+          "text": "Lisinopril"
+        },
+        {
+          "label": "D",
+          "text": "Metoprolol"
+        },
+        {
+          "label": "E",
+          "text": "Warfarin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Amiodarone causes a blue-gray (slate) pigmentation of sun-exposed skin, especially the face and nose. Other pigmenting drugs include hydroxychloroquine, minocycline, silver and alkylating agents.",
+        "whyCorrect": "Diffuse blue-gray pigmentation of the sun-exposed face.",
+        "whyWrongByChoice": {
+          "B": "Digoxin causes yellow vision and arrhythmias, not skin pigmentation.",
+          "C": "ACE inhibitors cause cough and angioedema, not slate-gray pigmentation.",
+          "D": "Beta blockers do not cause blue-gray skin pigmentation.",
+          "E": "Warfarin can cause skin necrosis or bruising, not diffuse blue-gray facial pigment."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-39-05.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_39.json"
     },
     {
       "id": "mk40-001",
@@ -2883,6 +3541,147 @@
       "topicId": "cutaneous-fungal-infections",
       "topicName": "Cutaneous Fungal Infections",
       "tier": "core"
+    },
+    {
+      "id": "mskpic-40-01",
+      "topicId": "cutaneous-fungal-infections",
+      "topicName": "Cutaneous Fungal Infections",
+      "stem": "A KOH preparation of skin scale is shown. Which organism is responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "B",
+          "text": "Hortaea werneckii"
+        },
+        {
+          "label": "C",
+          "text": "Malassezia furfur"
+        },
+        {
+          "label": "D",
+          "text": "Microsporum canis"
+        },
+        {
+          "label": "E",
+          "text": "Trichophyton rubrum"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Short hyphae plus clustered round yeasts ('spaghetti and meatballs') on KOH is diagnostic of pityriasis (tinea) versicolor, caused by Malassezia furfur.",
+        "whyCorrect": "Short hyphal segments mixed with clusters of round yeast: the 'spaghetti and meatballs' pattern.",
+        "whyWrongByChoice": {
+          "A": "Candida shows pseudohyphae with budding blastospores, not short hyphae beside tight round yeast clusters.",
+          "B": "Hortaea (tinea nigra) is a pigmented mold with brown hyphae, not clear yeast clusters.",
+          "D": "Microsporum is a dermatophyte of the scalp; KOH shows hyphae and hair-shaft spores, not this pattern.",
+          "E": "Dermatophytes show long, branching septate hyphae without yeast clusters."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-40-01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_40.json"
+    },
+    {
+      "id": "mskpic-40-03",
+      "topicId": "cutaneous-fungal-infections",
+      "topicName": "Cutaneous Fungal Infections",
+      "stem": "A 30-year-old man has had an itchy rash for two months. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Candida intertrigo"
+        },
+        {
+          "label": "B",
+          "text": "Inverse psoriasis"
+        },
+        {
+          "label": "C",
+          "text": "Lichen simplex chronicus"
+        },
+        {
+          "label": "D",
+          "text": "Pityriasis versicolor"
+        },
+        {
+          "label": "E",
+          "text": "Tinea cruris"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Tinea cruris shows an active, advancing border of erythema and scale expanding away from the groin. Dermatophytes cannot thrive on scrotal, penile or vulvar skin, so these are spared.",
+        "whyCorrect": "An advancing, scaly, red border spreads from the groin onto the thighs and abdomen, while the scrotum and penis are spared.",
+        "whyWrongByChoice": {
+          "A": "Candida involves the scrotum and shows bright red skin with satellite papules and pustules, not scrotal sparing.",
+          "B": "Inverse psoriasis gives smooth, shiny, sharply defined red plaques in folds without an advancing scaly border.",
+          "C": "Lichen simplex chronicus is a thickened, lichenified plaque from chronic scratching, not a spreading scaly border.",
+          "D": "Pityriasis versicolor gives hypo- or hyperpigmented scaly macules on the trunk, not an inflamed groin border."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-40-03.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_40.json"
+    },
+    {
+      "id": "mskpic-40-04",
+      "topicId": "cutaneous-fungal-infections",
+      "topicName": "Cutaneous Fungal Infections",
+      "stem": "A 65-year-old woman has this itchy eruption beneath her breasts. Which organism is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "B",
+          "text": "Hortaea werneckii"
+        },
+        {
+          "label": "C",
+          "text": "Malassezia furfur"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "E",
+          "text": "Trichophyton rubrum"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Candida intertrigo gives bright red patches and plaques in skin folds with satellite papules and pustules at the edge of the main area.",
+        "whyCorrect": "Bright red, moist plaques in the inframammary folds with satellite papules and pustules beyond the main border.",
+        "whyWrongByChoice": {
+          "B": "Hortaea causes tinea nigra, a painless brown-black macule on the palm.",
+          "C": "Malassezia gives finely scaled hypo- or hyperpigmented macules, not bright red fold plaques.",
+          "D": "S. aureus causes impetigo or folliculitis with honey-colored crusts, not satellite lesions around fold plaques.",
+          "E": "Dermatophytes give an advancing scaly border with central clearing, not satellite pustules."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-40-04.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_40.json"
     }
   ]
 }

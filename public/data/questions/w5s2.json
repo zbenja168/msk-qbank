@@ -579,6 +579,194 @@
       "hy": true
     },
     {
+      "id": "mskpic-42-01",
+      "topicId": "skin-cancer-basal-cell-carcinoma-squamous-cell-carcinoma",
+      "topicName": "Skin Cancer: Basal Cell Carcinoma & Squamous Cell Carcinoma",
+      "stem": "A 70-year-old man has a slowly enlarging lesion on his temple. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Actinic keratosis"
+        },
+        {
+          "label": "B",
+          "text": "Amelanotic melanoma"
+        },
+        {
+          "label": "C",
+          "text": "Nodular basal cell carcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Seborrheic keratosis"
+        },
+        {
+          "label": "E",
+          "text": "Squamous cell carcinoma in situ"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Nodular BCC is the most common BCC type: a pearly, translucent pink papule with arborizing telangiectasias on sun-exposed skin.",
+        "whyCorrect": "A pink, pearly, translucent papule with fine arborizing telangiectasias.",
+        "whyWrongByChoice": {
+          "A": "An actinic keratosis is a flat red scaly papule with yellow scale-crust, not a pearly translucent papule.",
+          "B": "Amelanotic melanoma is a pink-red nodule that may have flecks of pigment but lacks the pearly border with arborizing vessels.",
+          "D": "A seborrheic keratosis is a waxy, rough, stuck-on papule, usually tan-brown, without a pearly surface.",
+          "E": "SCC in situ (Bowen disease) is a well-demarcated red scaly plaque with crust, not a pearly translucent papule."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-42-01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_42.json"
+    },
+    {
+      "id": "mskpic-42-02",
+      "topicId": "skin-cancer-basal-cell-carcinoma-squamous-cell-carcinoma",
+      "topicName": "Skin Cancer: Basal Cell Carcinoma & Squamous Cell Carcinoma",
+      "stem": "A biopsy of a lesion on the nose of a 68-year-old woman is shown. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Actinic keratosis"
+        },
+        {
+          "label": "B",
+          "text": "Basal cell carcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Melanoma"
+        },
+        {
+          "label": "D",
+          "text": "Seborrheic keratosis"
+        },
+        {
+          "label": "E",
+          "text": "Squamous cell carcinoma"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "BCC histology: basaloid tumor islands with peripheral palisading of nuclei, clefting (retraction) from the stroma, and mucin at the edge of the nests.",
+        "whyCorrect": "A nest of dark basaloid cells with peripheral palisading of nuclei and a retraction cleft from the stroma.",
+        "whyWrongByChoice": {
+          "A": "Actinic keratosis shows atypia of the lower epidermis only, with no dermal tumor islands.",
+          "C": "Melanoma shows atypical melanocytes, often pigmented, not palisaded basaloid islands with clefts.",
+          "D": "Seborrheic keratosis is an exophytic proliferation with keratin horn cysts and no peripheral palisading or clefts.",
+          "E": "SCC shows atypical eosinophilic keratinocytes with keratin pearls, not basaloid nests with palisading."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-42-02.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_42.json"
+    },
+    {
+      "id": "mskpic-42-03",
+      "topicId": "skin-cancer-basal-cell-carcinoma-squamous-cell-carcinoma",
+      "topicName": "Skin Cancer: Basal Cell Carcinoma & Squamous Cell Carcinoma",
+      "stem": "A biopsy of an enlarging lesion on the scalp of a 75-year-old man is shown. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Actinic keratosis"
+        },
+        {
+          "label": "B",
+          "text": "Basal cell carcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Melanoma"
+        },
+        {
+          "label": "D",
+          "text": "Seborrheic keratosis"
+        },
+        {
+          "label": "E",
+          "text": "Squamous cell carcinoma"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Invasive SCC shows islands of atypical squamous keratinocytes in the dermis that form keratin pearls (whorled keratin within the nests).",
+        "whyCorrect": "Nests of atypical eosinophilic keratinocytes contain whorled keratin pearls.",
+        "whyWrongByChoice": {
+          "A": "Actinic keratosis has partial-thickness atypia confined to the lower epidermis, with no invasive nests.",
+          "B": "BCC shows dark basaloid islands with peripheral palisading, not eosinophilic squamous nests with keratin pearls.",
+          "C": "Melanoma shows atypical melanocytes, not keratinizing squamous nests.",
+          "D": "Seborrheic keratosis has bland basaloid cells with horn cysts, not atypical squamous nests with pearls."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-42-03.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_42.json"
+    },
+    {
+      "id": "mskpic-42-04",
+      "topicId": "skin-cancer-basal-cell-carcinoma-squamous-cell-carcinoma",
+      "topicName": "Skin Cancer: Basal Cell Carcinoma & Squamous Cell Carcinoma",
+      "stem": "A 72-year-old farmer has this rough lesion on the back of his hand. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Actinic keratosis"
+        },
+        {
+          "label": "B",
+          "text": "Keratoacanthoma"
+        },
+        {
+          "label": "C",
+          "text": "Nodular basal cell carcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Seborrheic keratosis"
+        },
+        {
+          "label": "E",
+          "text": "Verruca vulgaris"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "An actinic keratosis is a precancerous red scaly papule or plaque with yellow scale-crust on sun-exposed skin. The lack of nodularity or thickness at its base separates it from SCC.",
+        "whyCorrect": "A small red papule with an adherent yellow scale-crust on chronically sun-damaged skin, with no nodular base.",
+        "whyWrongByChoice": {
+          "B": "A keratoacanthoma is a rapidly growing cup-shaped nodule with a central keratin plug.",
+          "C": "Nodular BCC is a pearly, translucent papule with telangiectasias, not scale-crust on a flat base.",
+          "D": "A seborrheic keratosis is a tan-brown, waxy, stuck-on papule, not a red papule with yellow crust.",
+          "E": "A common wart is a papillomatous papule with thrombosed capillary dots, not a flat red scaly papule."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-42-04.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_42.json"
+    },
+    {
       "id": "mk43-001",
       "stem": "A 47-year-old man undergoes excisional biopsy of an irregular pigmented lesion on his back. The pathology report confirms invasive melanoma and lists several histologic measurements. Which of the following findings on the report is the single most important determinant of his prognosis?",
       "choices": [
@@ -1148,6 +1336,100 @@
       "topicName": "Skin Cancer: Malignant Melanoma",
       "tier": "core",
       "hy": true
+    },
+    {
+      "id": "mskpic-43-01",
+      "topicId": "skin-cancer-malignant-melanoma",
+      "topicName": "Skin Cancer: Malignant Melanoma",
+      "stem": "A 45-year-old woman has this lesion on her back. Biopsy confirms melanoma. Which subtype is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acral lentiginous melanoma"
+        },
+        {
+          "label": "B",
+          "text": "Amelanotic melanoma"
+        },
+        {
+          "label": "C",
+          "text": "Lentigo maligna melanoma"
+        },
+        {
+          "label": "D",
+          "text": "Nodular melanoma"
+        },
+        {
+          "label": "E",
+          "text": "Superficial spreading melanoma"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Superficial spreading melanoma is the most common subtype (about 70%). It is flat with irregular borders and colors and has a long radial growth phase, so its prognosis is better than nodular or acral lentiginous melanoma.",
+        "whyCorrect": "A large, flat, asymmetric lesion with irregular borders and several colors, including a pale area of regression.",
+        "whyWrongByChoice": {
+          "A": "Acral lentiginous melanoma occurs on the palms, soles and nails.",
+          "B": "Amelanotic melanoma lacks pigment and appears as a pink-red papule or nodule.",
+          "C": "Lentigo maligna melanoma is a slow-growing, freckle-like patch on heavily sun-damaged skin of the face in older adults.",
+          "D": "Nodular melanoma is a rapidly growing, dark, raised nodule with vertical growth from the start."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-43-01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_43.json"
+    },
+    {
+      "id": "mskpic-43-02",
+      "topicId": "skin-cancer-malignant-melanoma",
+      "topicName": "Skin Cancer: Malignant Melanoma",
+      "stem": "A 70-year-old man has this lesion on his forearm. Biopsy confirms melanoma. Which subtype is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acral lentiginous melanoma"
+        },
+        {
+          "label": "B",
+          "text": "Amelanotic melanoma"
+        },
+        {
+          "label": "C",
+          "text": "Lentigo maligna melanoma"
+        },
+        {
+          "label": "D",
+          "text": "Nodular melanoma"
+        },
+        {
+          "label": "E",
+          "text": "Superficial spreading melanoma"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Nodular melanoma (15-30%) presents as a rapidly growing dark nodule. It grows vertically from the start, so it has the worst prognosis of the subtypes.",
+        "whyCorrect": "A dome-shaped, dark blue-black nodule with no flat pigmented rim around it.",
+        "whyWrongByChoice": {
+          "A": "Acral lentiginous melanoma occurs on the palms, soles and nails.",
+          "B": "Amelanotic melanoma lacks pigment and appears as a pink-red papule or nodule.",
+          "C": "Lentigo maligna melanoma is a slow-growing, freckle-like patch on heavily sun-damaged skin of the face in older adults.",
+          "E": "Superficial spreading melanoma is a flat, irregular, multicolored lesion with a long radial growth phase, usually on the trunk or legs."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-43-02.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_43.json"
     },
     {
       "id": "mk44-001",
@@ -1722,6 +2004,194 @@
       "tier": "core"
     },
     {
+      "id": "mskpic-44-01",
+      "topicId": "benign-skin-lesions",
+      "topicName": "Benign Skin Lesions",
+      "stem": "A 68-year-old man has several lesions like these on his back. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dysplastic nevus"
+        },
+        {
+          "label": "B",
+          "text": "Melanoma"
+        },
+        {
+          "label": "C",
+          "text": "Pigmented basal cell carcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Seborrheic keratosis"
+        },
+        {
+          "label": "E",
+          "text": "Solar lentigo"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Seborrheic keratoses are common benign lesions of aging: waxy, rough, stuck-on, sharply demarcated papules and plaques. Their keratotic, rough surface separates them from smooth-surfaced melanoma.",
+        "whyCorrect": "Sharply demarcated, rough, waxy, tan-to-brown papules that look stuck on to the skin.",
+        "whyWrongByChoice": {
+          "A": "A dysplastic nevus is a flat-to-slightly raised mole with fuzzy borders, not a rough, waxy, stuck-on papule.",
+          "B": "Melanoma is usually smooth-surfaced, with irregular borders and colors, not a waxy stuck-on keratotic surface.",
+          "C": "Pigmented BCC is a pearly papule with pigment flecks and telangiectasias, not a rough stuck-on plaque.",
+          "E": "A solar lentigo is a flat, uniform tan macule with no raised keratotic surface."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-44-01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_44.json"
+    },
+    {
+      "id": "mskpic-44-02",
+      "topicId": "benign-skin-lesions",
+      "topicName": "Benign Skin Lesions",
+      "stem": "A 35-year-old woman has a small, firm nodule on her leg. Squeezing it gives the result shown. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dermatofibroma"
+        },
+        {
+          "label": "B",
+          "text": "Epidermal inclusion cyst"
+        },
+        {
+          "label": "C",
+          "text": "Intradermal nevus"
+        },
+        {
+          "label": "D",
+          "text": "Keloid"
+        },
+        {
+          "label": "E",
+          "text": "Lipoma"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A dermatofibroma is a small (< 1 cm), firm proliferation of dermal fibroblasts and histiocytes. Pinching it makes it turn inward, creating a dimple, which separates it from a nevus.",
+        "whyCorrect": "Pinching the firm lesion makes it dimple inward (the dimple sign).",
+        "whyWrongByChoice": {
+          "B": "An epidermal inclusion cyst is a mobile nodule with a central punctum, and it bulges rather than dimples when squeezed.",
+          "C": "An intradermal nevus is soft and dome-shaped and does not dimple when pinched.",
+          "D": "A keloid is a firm, raised scar that grows beyond the original wound, not a small dimpling papule.",
+          "E": "A lipoma is a soft, rubbery, mobile subcutaneous mass, not a firm dermal papule that dimples."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-44-02.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_44.json"
+    },
+    {
+      "id": "mskpic-44-03",
+      "topicId": "benign-skin-lesions",
+      "topicName": "Benign Skin Lesions",
+      "stem": "A 4-month-old infant has this lesion. If treatment is needed, what is the first-line therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cryotherapy"
+        },
+        {
+          "label": "B",
+          "text": "Oral propranolol"
+        },
+        {
+          "label": "C",
+          "text": "Pulsed-dye laser"
+        },
+        {
+          "label": "D",
+          "text": "Surgical excision"
+        },
+        {
+          "label": "E",
+          "text": "Topical tacrolimus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Infantile hemangiomas are the most common benign tumor of infancy: absent or faint at birth, they proliferate for months and then involute. Small uncomplicated ones are observed; when treatment is needed, the beta blocker propranolol is first-line.",
+        "whyCorrect": "A raised, lobulated, bright red-purple vascular tumor: an infantile hemangioma.",
+        "whyWrongByChoice": {
+          "A": "Cryotherapy is used for warts and actinic keratoses, not infantile hemangiomas.",
+          "C": "Pulsed-dye laser is the treatment for capillary malformations (port-wine stains), not first-line for a proliferating hemangioma.",
+          "D": "Excision is not first-line because most hemangiomas involute, and surgery leaves a scar.",
+          "E": "Topical calcineurin inhibitors treat eczema and vitiligo, not vascular tumors."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-44-03.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_44.json"
+    },
+    {
+      "id": "mskpic-44-04",
+      "topicId": "benign-skin-lesions",
+      "topicName": "Benign Skin Lesions",
+      "stem": "A newborn has this lesion on the face. What is its expected course?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fades completely within the first year"
+        },
+        {
+          "label": "B",
+          "text": "Grows over months, then slowly involutes"
+        },
+        {
+          "label": "C",
+          "text": "Persists for life, often darkening and thickening"
+        },
+        {
+          "label": "D",
+          "text": "Transforms into angiosarcoma in childhood"
+        },
+        {
+          "label": "E",
+          "text": "Ulcerates and heals with a scar within weeks"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Capillary malformations (port-wine stains) are congenital and do not resolve; over time they darken and can thicken. Involvement of the V1 territory raises concern for Sturge-Weber syndrome.",
+        "whyCorrect": "A flat, sharply bordered, red-pink vascular patch present from birth: a capillary malformation (port-wine stain).",
+        "whyWrongByChoice": {
+          "A": "A capillary malformation does not fade; it persists for life.",
+          "B": "Growth then involution is the course of an infantile hemangioma, which is not present at birth but arises in the first weeks of life.",
+          "D": "Capillary malformations are benign and do not undergo malignant change.",
+          "E": "Capillary malformations do not ulcerate and scar in infancy."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-44-04.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_44.json"
+    },
+    {
       "id": "mk45-001",
       "stem": "A 58-year-old woman reports 3 months of brief, electric, shooting pains in her right cheek and upper lip, each lasting seconds. Episodes are set off by chewing, brushing her teeth, or a cold breeze. Neurologic examination, including facial and jaw strength, is normal. Which of the following is the most appropriate first-line pharmacotherapy?",
       "choices": [
@@ -2281,6 +2751,53 @@
       "topicName": "Anatomy of the Face and Scalp",
       "tier": "core",
       "hy": true
+    },
+    {
+      "id": "mskpic-45-01",
+      "topicId": "anatomy-of-the-face-and-scalp",
+      "topicName": "Anatomy of the Face and Scalp",
+      "stem": "Infection in the outlined region of the face can spread through valveless veins to which structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cavernous sinus"
+        },
+        {
+          "label": "B",
+          "text": "Sigmoid sinus"
+        },
+        {
+          "label": "C",
+          "text": "Straight sinus"
+        },
+        {
+          "label": "D",
+          "text": "Superior sagittal sinus"
+        },
+        {
+          "label": "E",
+          "text": "Transverse sinus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The danger triangle drains through the valveless angular and superior ophthalmic veins (and deep facial veins) to the cavernous sinus. Infection here can cause cavernous sinus thrombosis, with fever, headache, periorbital swelling and ophthalmoplegia.",
+        "whyCorrect": "The outlined triangle runs from the nasal bridge to the corners of the mouth: the danger triangle of the face.",
+        "whyWrongByChoice": {
+          "B": "The sigmoid sinus receives the transverse sinus and is threatened by mastoid infection, not facial infection.",
+          "C": "The straight sinus drains deep cerebral veins and has no connection to facial veins.",
+          "D": "The superior sagittal sinus drains the cerebral convexity and scalp emissary veins, not the central face.",
+          "E": "The transverse sinus drains the posterior cranial fossa, not the central face."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-45-01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_45.json"
     }
   ]
 }

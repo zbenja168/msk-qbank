@@ -572,6 +572,241 @@
       "hy": true
     },
     {
+      "id": "mskpic-50-01",
+      "topicId": "psoriasis-and-psoriatic-arthritis",
+      "topicName": "Psoriasis and Psoriatic Arthritis",
+      "stem": "A 34-year-old man has had the lesion shown on his elbow for 3 years. It is only mildly itchy. Which diagnosis is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lichen simplex chronicus"
+        },
+        {
+          "label": "B",
+          "text": "Nummular eczema"
+        },
+        {
+          "label": "C",
+          "text": "Plaque psoriasis"
+        },
+        {
+          "label": "D",
+          "text": "Seborrheic dermatitis"
+        },
+        {
+          "label": "E",
+          "text": "Tinea corporis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A sharply demarcated, salmon-pink plaque covered by silvery-white scale on an extensor surface (the elbow) is classic plaque psoriasis, the most common subtype.",
+        "whyCorrect": "Plaque psoriasis favors extensor surfaces (elbows, knees), scalp and low back, with a well-defined border and thick silvery scale over an erythematous base.",
+        "whyWrongByChoice": {
+          "A": "Lichen simplex chronicus is lichenified, intensely itchy skin from chronic rubbing, without a sharp border or silvery scale.",
+          "B": "Nummular eczema forms coin-shaped, oozing or crusted itchy patches, not a large plaque with thick silvery scale.",
+          "D": "Seborrheic dermatitis has greasy yellow scale on the scalp, face and skin folds rather than the extensor elbow.",
+          "E": "Tinea corporis is an annular plaque with an active scaly border and central clearing, not uniform scale across the plaque."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-50-01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_50.json"
+    },
+    {
+      "id": "mskpic-50-02",
+      "topicId": "psoriasis-and-psoriatic-arthritis",
+      "topicName": "Psoriasis and Psoriatic Arthritis",
+      "stem": "While examining a patient with a chronic scaly plaque, a clinician gently picks off the scale, producing the appearance shown. Which sign has been elicited?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Auspitz sign"
+        },
+        {
+          "label": "B",
+          "text": "Darier sign"
+        },
+        {
+          "label": "C",
+          "text": "Dermatographism"
+        },
+        {
+          "label": "D",
+          "text": "Koebner phenomenon"
+        },
+        {
+          "label": "E",
+          "text": "Nikolsky sign"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Pinpoint bleeding points where psoriatic scale has been removed is the Auspitz sign, which helps separate psoriasis from other scaly diseases that do not bleed when picked.",
+        "whyCorrect": "Removing the scale exposes the dilated capillaries in the dermal papillae under a thinned suprapapillary epidermis, which bleed as multiple small points.",
+        "whyWrongByChoice": {
+          "B": "Darier sign is urtication and flare after stroking a mastocytosis lesion, not bleeding after scale removal.",
+          "C": "Dermatographism is a raised wheal along a line of stroked skin; there is no bleeding.",
+          "D": "Koebner phenomenon is new psoriatic lesions appearing at sites of trauma such as scars, not bleeding within an existing plaque.",
+          "E": "Nikolsky sign is shearing of the epidermis with lateral pressure in blistering diseases such as pemphigus vulgaris."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-50-02.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_50.json"
+    },
+    {
+      "id": "mskpic-50-03",
+      "topicId": "psoriasis-and-psoriatic-arthritis",
+      "topicName": "Psoriasis and Psoriatic Arthritis",
+      "stem": "A 40-year-old man has the nail changes shown on several fingers. Because of this nail finding, which condition is he at greatest added risk of developing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ankylosing spondylitis"
+        },
+        {
+          "label": "B",
+          "text": "Gouty arthritis"
+        },
+        {
+          "label": "C",
+          "text": "Osteoarthritis"
+        },
+        {
+          "label": "D",
+          "text": "Psoriatic arthritis"
+        },
+        {
+          "label": "E",
+          "text": "Rheumatoid arthritis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Nail pitting (with distal onycholysis) is nail psoriasis. Psoriasis of the nails, scalp and gluteal cleft raises the risk of psoriatic arthritis, and nail dystrophy is a CASPAR criterion.",
+        "whyCorrect": "Up to 30% of psoriasis patients develop psoriatic arthritis; patients with nail changes are more likely to have it than those without.",
+        "whyWrongByChoice": {
+          "A": "Ankylosing spondylitis is a seronegative spondyloarthropathy tied to HLA-B27, not specifically predicted by nail pitting.",
+          "B": "Gouty arthritis is crystal arthritis from hyperuricemia; nail pitting does not raise its risk.",
+          "C": "Osteoarthritis is degenerative joint disease unrelated to psoriatic nail changes.",
+          "E": "Rheumatoid arthritis is seropositive and has no link to nail pitting; PsA is characteristically RF-negative."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-50-03.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_50.json"
+    },
+    {
+      "id": "mskpic-50-04",
+      "topicId": "psoriasis-and-psoriatic-arthritis",
+      "topicName": "Psoriasis and Psoriatic Arthritis",
+      "stem": "A 17-year-old with no history of skin disease develops the eruption shown over 1 week, mostly on the trunk and limbs. Which preceding event is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epstein-Barr virus infection"
+        },
+        {
+          "label": "B",
+          "text": "Herpes simplex infection"
+        },
+        {
+          "label": "C",
+          "text": "Mycoplasma pneumonia"
+        },
+        {
+          "label": "D",
+          "text": "Parvovirus B19 infection"
+        },
+        {
+          "label": "E",
+          "text": "Streptococcal pharyngitis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A sudden shower of many small (<1 cm) scaly, drop-like papules and plaques in a young person is guttate psoriasis, which typically follows streptococcal pharyngitis.",
+        "whyCorrect": "Guttate psoriasis is linked to prior group A streptococcal throat infection; amoxicillin is often given, and tonsillectomy can stop recurrent strep-triggered flares.",
+        "whyWrongByChoice": {
+          "A": "EBV infection is linked to a morbilliform rash after amoxicillin, not a guttate scaly papular eruption.",
+          "B": "Herpes simplex infection triggers erythema multiforme (targetoid lesions), not scaly droplet papules.",
+          "C": "Mycoplasma pneumonia triggers mucositis and erythema multiforme-like eruptions, not guttate psoriasis.",
+          "D": "Parvovirus B19 causes slapped-cheek erythema and a lacy reticular rash, not scaly papules."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-50-04.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_50.json"
+    },
+    {
+      "id": "mskpic-50-05",
+      "topicId": "psoriasis-and-psoriatic-arthritis",
+      "topicName": "Psoriasis and Psoriatic Arthritis",
+      "stem": "A punch biopsy is taken from a chronic plaque on the knee of a 45-year-old man. The H&E section is shown. Which diagnosis is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atopic dermatitis"
+        },
+        {
+          "label": "B",
+          "text": "Lichen planus"
+        },
+        {
+          "label": "C",
+          "text": "Psoriasis vulgaris"
+        },
+        {
+          "label": "D",
+          "text": "Seborrheic keratosis"
+        },
+        {
+          "label": "E",
+          "text": "Squamous cell carcinoma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Regular acanthosis with evenly elongated rete ridges, confluent parakeratosis, and dilated capillaries in thinned dermal papillae is the classic histology of psoriasis.",
+        "whyCorrect": "Keratinocyte hyperproliferation driven by the IL-23/Th17 axis gives acanthosis, parakeratosis, loss of the granular layer, elongated rete pegs and dilated papillary vessels (Munro microabscesses may be present).",
+        "whyWrongByChoice": {
+          "A": "Atopic dermatitis is a spongiotic dermatitis (intercellular edema), without the regular psoriasiform rete elongation.",
+          "B": "Lichen planus shows a band-like lymphocytic infiltrate at the junction, a thickened granular layer and saw-tooth rete ridges.",
+          "D": "Seborrheic keratosis is an exophytic basaloid proliferation with horn cysts, not elongated rete with parakeratosis.",
+          "E": "Squamous cell carcinoma shows atypical keratinocytes invading the dermis, not orderly, regular rete ridges."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-50-05.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_50.json"
+    },
+    {
       "id": "mk51-001",
       "stem": "A 24-year-old woman has 3 months of fatigue, joint pain, and a red, sunburn-like eruption across both cheeks and the bridge of the nose that spares the nasolabial folds and eyelids. It worsens after time outdoors. ANA and anti-dsDNA tests are positive. Which of the following best describes this eruption?",
       "choices": [
@@ -1144,6 +1379,241 @@
       "hy": true
     },
     {
+      "id": "mskpic-51-01",
+      "topicId": "the-skin-in-autoimmune-diseases",
+      "topicName": "The Skin in Autoimmune Diseases",
+      "stem": "A 24-year-old woman has fatigue, joint pain, and the rash shown, which worsened after a beach vacation. Which antibody is most likely present in her serum?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-centromere antibody"
+        },
+        {
+          "label": "B",
+          "text": "Anti-dsDNA antibody"
+        },
+        {
+          "label": "C",
+          "text": "Anti-Jo-1 antibody"
+        },
+        {
+          "label": "D",
+          "text": "Anti-Scl-70 antibody"
+        },
+        {
+          "label": "E",
+          "text": "Anti-TIF1-gamma antibody"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Butterfly erythema of the cheeks and nasal bridge sparing the nasolabial folds is the malar rash of acute cutaneous lupus; nearly all such patients have SLE, with positive ANA and anti-dsDNA.",
+        "whyCorrect": "Acute cutaneous LE is a photosensitive, sunburn-like rash; ANA is uniformly positive and anti-dsDNA is also positive.",
+        "whyWrongByChoice": {
+          "A": "Anti-centromere antibody marks limited scleroderma (CREST), which shows telangiectasias and sclerodactyly, not a malar rash.",
+          "C": "Anti-Jo-1 is a myositis antibody (antisynthetase syndrome), not the marker of acute cutaneous lupus.",
+          "D": "Anti-Scl-70 marks diffuse systemic sclerosis, with skin thickening rather than photosensitive malar erythema.",
+          "E": "Anti-TIF1-gamma is the dermatomyositis antibody most associated with malignancy; DM affects the eyelids (heliotrope), not a fold-sparing malar pattern."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-51-01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_51.json"
+    },
+    {
+      "id": "mskpic-51-02",
+      "topicId": "the-skin-in-autoimmune-diseases",
+      "topicName": "The Skin in Autoimmune Diseases",
+      "stem": "A 38-year-old woman who smokes has had several lesions like the one shown for years; the first appeared on her ears and scalp. Which diagnosis is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic plaque psoriasis"
+        },
+        {
+          "label": "B",
+          "text": "Discoid lupus erythematosus"
+        },
+        {
+          "label": "C",
+          "text": "Hypertrophic lichen planus"
+        },
+        {
+          "label": "D",
+          "text": "Subacute cutaneous lupus erythematosus"
+        },
+        {
+          "label": "E",
+          "text": "Tinea corporis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A chronic scarred, atrophic plaque with central depigmentation and a hyperpigmented rim is discoid lupus erythematosus, the scarring form of chronic cutaneous LE that favors the face, scalp and ears.",
+        "whyCorrect": "Unlike acute and subacute LE, discoid LE scars; long-standing lesions become hypopigmented, scalp lesions cause scarring alopecia, and smoking is a unique risk factor.",
+        "whyWrongByChoice": {
+          "A": "Chronic plaque psoriasis gives salmon plaques with silvery scale on extensor surfaces and does not leave atrophic, depigmented scars.",
+          "C": "Hypertrophic lichen planus forms thick violaceous plaques on the shins, not scarred depigmented plaques on the ears and scalp.",
+          "D": "Subacute cutaneous lupus gives annular or psoriasiform patches on the sun-exposed trunk and arms and does not scar.",
+          "E": "Tinea corporis is an annular scaly plaque with central clearing, without scarring or dyspigmentation."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-51-02.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_51.json"
+    },
+    {
+      "id": "mskpic-51-03",
+      "topicId": "the-skin-in-autoimmune-diseases",
+      "topicName": "The Skin in Autoimmune Diseases",
+      "stem": "A 58-year-old woman has had the finding shown on her fingers for 2 months. Which associated condition should she be screened for?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Celiac disease"
+        },
+        {
+          "label": "B",
+          "text": "Hepatitis C infection"
+        },
+        {
+          "label": "C",
+          "text": "Hypothyroidism"
+        },
+        {
+          "label": "D",
+          "text": "Latent tuberculosis"
+        },
+        {
+          "label": "E",
+          "text": "Occult malignancy"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Violaceous scaly papules over the MCP and interphalangeal joints with ragged cuticles are Gottron papules, pathognomonic for dermatomyositis, which is associated with an underlying cancer.",
+        "whyCorrect": "About 20-30% of dermatomyositis patients develop cancer (anti-TIF1-gamma has the strongest link), so every patient needs a cancer-directed history and exam plus mammography, colonoscopy and chest imaging.",
+        "whyWrongByChoice": {
+          "A": "Celiac disease is linked to dermatitis herpetiformis (itchy extensor vesicles), not Gottron papules.",
+          "B": "Hepatitis C is linked to cryoglobulinemic vasculitis and lichen planus, not dermatomyositis.",
+          "C": "Hypothyroidism is not the key association of dermatomyositis; malignancy is.",
+          "D": "Latent tuberculosis screening precedes biologic therapy but is not the condition dermatomyositis is classically associated with."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-51-03.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_51.json"
+    },
+    {
+      "id": "mskpic-51-04",
+      "topicId": "the-skin-in-autoimmune-diseases",
+      "topicName": "The Skin in Autoimmune Diseases",
+      "stem": "A 50-year-old man develops the eruption shown 10 days after starting a new antibiotic. In which vessels are immune complexes most likely deposited?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deep dermal arterioles"
+        },
+        {
+          "label": "B",
+          "text": "Large elastic arteries"
+        },
+        {
+          "label": "C",
+          "text": "Lymphatic capillaries"
+        },
+        {
+          "label": "D",
+          "text": "Medium-sized muscular arteries"
+        },
+        {
+          "label": "E",
+          "text": "Post-capillary venules"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Small, round, non-blanching palpable purpura concentrated on dependent areas (legs, feet) is cutaneous small vessel vasculitis, whose histologic correlate is leukocytoclastic vasculitis.",
+        "whyCorrect": "In LCV, immune complexes (IgG, IgM or IgA) deposit in post-capillary venule walls in slow-flow dependent skin, giving fibrinoid necrosis, neutrophils and nuclear dust.",
+        "whyWrongByChoice": {
+          "A": "Deep dermal arterioles are not the target of LCV; the lesion centers on superficial post-capillary venules.",
+          "B": "Large elastic arteries are affected in giant cell and Takayasu arteritis, which do not cause palpable purpura.",
+          "C": "Lymphatic capillaries are not involved in immune complex vasculitis.",
+          "D": "Medium-sized arteries (PAN, ANCA vasculitis) give nodules, livedo, ulcers and necrosis rather than purely round palpable purpura."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-51-04.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_51.json"
+    },
+    {
+      "id": "mskpic-51-05",
+      "topicId": "the-skin-in-autoimmune-diseases",
+      "topicName": "The Skin in Autoimmune Diseases",
+      "stem": "A 6-week-old infant has had the rash shown since 2 weeks of age. The mother is healthy. Which maternal antibody most likely caused this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-centromere"
+        },
+        {
+          "label": "B",
+          "text": "Anti-dsDNA"
+        },
+        {
+          "label": "C",
+          "text": "Anti-histone"
+        },
+        {
+          "label": "D",
+          "text": "Anti-Ro (SS-A)"
+        },
+        {
+          "label": "E",
+          "text": "Anti-Smith"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Erythematous annular macules with raised margins on the scalp and periorbital skin of an infant are neonatal lupus, caused by transplacental maternal anti-Ro/SSA (and anti-La/SSB) antibodies.",
+        "whyCorrect": "The mother need not have SLE, only the antibodies; the same antibodies can injure the fetal AV node, so the infant needs an ECG to look for congenital heart block.",
+        "whyWrongByChoice": {
+          "A": "Anti-centromere antibodies mark limited scleroderma and do not cause neonatal lupus.",
+          "B": "Anti-dsDNA is specific for SLE but is not the antibody that crosses the placenta to cause neonatal lupus.",
+          "C": "Anti-histone antibodies mark drug-induced lupus, not neonatal lupus.",
+          "E": "Anti-Smith is highly specific for SLE but is not responsible for neonatal lupus."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-51-05.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_51.json"
+    },
+    {
       "id": "mk52-001",
       "stem": "A 64-year-old man has had slowly enlarging, erythematous, scaly plaques on his buttocks and thighs for 6 years. Biopsy shows atypical lymphocytes in the upper dermis and epidermis, and the diagnosis is mycosis fungoides. From which cell are the neoplastic cells most likely derived?",
       "choices": [
@@ -1705,6 +2175,194 @@
       "topicId": "cutaneous-t-cell-lymphoma",
       "topicName": "Cutaneous T cell Lymphoma",
       "tier": "core"
+    },
+    {
+      "id": "mskpic-52-01",
+      "topicId": "cutaneous-t-cell-lymphoma",
+      "topicName": "Cutaneous T cell Lymphoma",
+      "stem": "A 61-year-old man has had this lesion on his buttock and upper thigh for 6 years. Topical antifungals and emollients have not helped. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mycosis fungoides"
+        },
+        {
+          "label": "B",
+          "text": "Nummular dermatitis"
+        },
+        {
+          "label": "C",
+          "text": "Pityriasis rosea"
+        },
+        {
+          "label": "D",
+          "text": "Plaque psoriasis"
+        },
+        {
+          "label": "E",
+          "text": "Tinea corporis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A large, well-demarcated, reniform (kidney-shaped) erythematous patch in a covered, bathing-suit area that has persisted for years is classic patch-stage mycosis fungoides.",
+        "whyCorrect": "Mycosis fungoides is the most common cutaneous T-cell lymphoma. It begins as slow-growing, circumscribed, scaly patches in covered areas, often annular or reniform, and mimics eczema, tinea and psoriasis for 5-10 years before a biopsy makes the diagnosis.",
+        "whyWrongByChoice": {
+          "B": "Nummular dermatitis (eczema) forms small coin-shaped, often crusted plaques, not a large reniform patch, and responds to emollients and steroids.",
+          "C": "Pityriasis rosea is self-limited over weeks with a herald patch and Christmas-tree pattern, not a 6-year course.",
+          "D": "Plaque psoriasis favors extensor elbows, knees and scalp with thick silvery scale, not a thin flat patch in a covered site.",
+          "E": "Tinea corporis has an active scaly advancing border and would have improved with antifungals."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-52-01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_52.json"
+    },
+    {
+      "id": "mskpic-52-02",
+      "topicId": "cutaneous-t-cell-lymphoma",
+      "topicName": "Cutaneous T cell Lymphoma",
+      "stem": "A 72-year-old man with a biopsy-proven cutaneous T-cell lymphoma first diagnosed 9 years ago returns for follow-up. His chest is shown. Which clinical stage of mycosis fungoides is present?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erythrodermic stage"
+        },
+        {
+          "label": "B",
+          "text": "Hypopigmented variant"
+        },
+        {
+          "label": "C",
+          "text": "Patch stage"
+        },
+        {
+          "label": "D",
+          "text": "Plaque stage"
+        },
+        {
+          "label": "E",
+          "text": "Tumor stage"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Exophytic, dome-shaped and partly ulcerated nodules arise on a background of flat erythematous patches: this is tumor-stage mycosis fungoides.",
+        "whyCorrect": "Mycosis fungoides progresses from patches (flat) to plaques (raised) to tumors (nodules of lymphoma cells), and some patients become erythrodermic. The large nodules here mark the tumor stage, which reflects a heavier, diffuse dermal infiltrate and a worse prognosis.",
+        "whyWrongByChoice": {
+          "A": "Erythroderma is confluent erythema and scale over nearly the entire skin surface, not discrete nodules.",
+          "B": "The hypopigmented variant shows pale patches, usually in darker skin, without nodules.",
+          "C": "Patch-stage lesions are flat; background patches are present, but the nodules indicate more advanced disease.",
+          "D": "Plaques are raised and thickened but not exophytic or ulcerated nodules."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-52-02.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_52.json"
+    },
+    {
+      "id": "mskpic-52-03",
+      "topicId": "cutaneous-t-cell-lymphoma",
+      "topicName": "Cutaneous T cell Lymphoma",
+      "stem": "A peripheral blood smear is obtained from a 70-year-old man with intense chills and red, peeling skin over his whole body. Flow cytometry shows loss of CD7. The cell in the center of the image is best described as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clonal plasma cell"
+        },
+        {
+          "label": "B",
+          "text": "Malignant CD4+ T cell"
+        },
+        {
+          "label": "C",
+          "text": "Myeloid blast cell"
+        },
+        {
+          "label": "D",
+          "text": "Neoplastic hairy B cell"
+        },
+        {
+          "label": "E",
+          "text": "Reactive CD8+ T lymphocyte"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The cell is a lymphocyte with a large, deeply grooved, convoluted cerebriform nucleus: a Sezary cell, the circulating malignant CD4+ helper T cell of Sezary syndrome.",
+        "whyCorrect": "Cutaneous T-cell lymphoma cells derive from CD4+ T cells and have extremely convoluted, brain-like (cerebriform) nuclei. When they circulate they are called Sezary cells; Sezary syndrome is the leukemic form with erythroderma and chills, and flow cytometry shows abnormal T cells lacking markers such as CD7.",
+        "whyWrongByChoice": {
+          "A": "Plasma cells have an eccentric round nucleus with clock-face chromatin and a perinuclear hof, not a folded nucleus.",
+          "C": "Myeloblasts have fine open chromatin, nucleoli and sometimes Auer rods, not a grooved cerebriform nucleus.",
+          "D": "Hairy cells are B cells with abundant cytoplasm and fine hair-like projections; the nucleus is oval, not cerebriform.",
+          "E": "Reactive (viral) lymphocytes have abundant blue cytoplasm that scallops around red cells, with a smooth nucleus."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-52-03.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_52.json"
+    },
+    {
+      "id": "mskpic-52-04",
+      "topicId": "cutaneous-t-cell-lymphoma",
+      "topicName": "Cutaneous T cell Lymphoma",
+      "stem": "A skin biopsy is taken from a persistent scaly plaque on the trunk of a 64-year-old man. The circled intraepidermal collection is composed mainly of which cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acantholytic keratinocytes"
+        },
+        {
+          "label": "B",
+          "text": "Clonal CD4+ T cells"
+        },
+        {
+          "label": "C",
+          "text": "Eosinophils and mast cells"
+        },
+        {
+          "label": "D",
+          "text": "Melanocytes in nests"
+        },
+        {
+          "label": "E",
+          "text": "Neutrophils with debris"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The circled cluster of dark, irregular lymphoid nuclei inside the epidermis is a Pautrier microabscess, a cluster of malignant T cells unique to mycosis fungoides.",
+        "whyCorrect": "In mycosis fungoides the malignant CD4+ T cells home to the epidermis (epidermotropism) and can gather in small intraepidermal clusters called Pautrier microabscesses. The name is misleading: an abscess is made of neutrophils, but these clusters are lymphoma cells.",
+        "whyWrongByChoice": {
+          "A": "Acantholytic keratinocytes, which have lost their attachments, appear in pemphigus vulgaris, not as a nest of small dark lymphoid nuclei.",
+          "C": "Eosinophils and mast cells are not the cells of this cluster; eosinophilic spongiosis is seen in bullous pemphigoid and allergic reactions.",
+          "D": "Junctional nests of melanocytes are pigmented cells at the dermal-epidermal junction in nevi or melanoma, not a lymphoid cluster.",
+          "E": "Neutrophil collections in the epidermis are Munro microabscesses of psoriasis; despite the name, Pautrier microabscesses contain no neutrophils."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mskpic-52-04.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "authored/msk-qbank/brick_52.json"
     }
   ]
 }
